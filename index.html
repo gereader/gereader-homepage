@@ -4,23 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Feed</title>
-    <!--
-        HTML/CSS/JS structure created with assistance from Claude AI (Anthropic) to accelerate development.
-        Architecture, requirements, and maintenance by Gene Reader.
-    -->
     <style>
+        :root {
+            --bg-color: white;
+            --text-color: #333;
+            --border-color: #333;
+            --light-border: #eee;
+            --link-color: #0066cc;
+            --link-hover: #0052a3;
+            --meta-color: #666;
+            --button-bg: #0066cc;
+            --button-hover: #0052a3;
+            --button-disabled: #ccc;
+        }
+        
+        [data-theme="dark"] {
+            --bg-color: #1a1a1a;
+            --text-color: #e0e0e0;
+            --border-color: #e0e0e0;
+            --light-border: #333;
+            --link-color: #6ab0f3;
+            --link-hover: #8fc5f7;
+            --meta-color: #aaa;
+            --button-bg: #6ab0f3;
+            --button-hover: #8fc5f7;
+            --button-disabled: #444;
+        }
+        
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
             line-height: 1.6;
+            background: var(--bg-color);
+            color: var(--text-color);
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
         
         header {
-            border-bottom: 2px solid #333;
+            border-bottom: 2px solid var(--border-color);
             margin-bottom: 30px;
             padding-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        
+        .header-content {
+            flex: 1;
         }
         
         h1 {
@@ -28,14 +60,29 @@
         }
         
         .last-updated {
-            color: #666;
+            color: var(--meta-color);
             font-size: 0.9em;
+        }
+        
+        .theme-toggle {
+            background: none;
+            border: 2px solid var(--border-color);
+            color: var(--text-color);
+            cursor: pointer;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 1.2em;
+            transition: all 0.3s ease;
+        }
+        
+        .theme-toggle:hover {
+            background: var(--light-border);
         }
         
         .article {
             margin-bottom: 20px;
             padding-bottom: 20px;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid var(--light-border);
         }
         
         .article:last-child {
@@ -48,22 +95,23 @@
         }
         
         .article a {
-            color: #0066cc;
+            color: var(--link-color);
             text-decoration: none;
         }
         
         .article a:hover {
             text-decoration: underline;
+            color: var(--link-hover);
         }
         
         .article-meta {
-            color: #666;
+            color: var(--meta-color);
             font-size: 0.9em;
         }
         
         .loading {
             text-align: center;
-            color: #666;
+            color: var(--meta-color);
         }
         
         .pagination {
@@ -73,37 +121,43 @@
             gap: 15px;
             margin-top: 30px;
             padding-top: 20px;
-            border-top: 2px solid #333;
+            border-top: 2px solid var(--border-color);
         }
         
         .pagination button {
             padding: 8px 16px;
-            background: #0066cc;
+            background: var(--button-bg);
             color: white;
             border: none;
             border-radius: 4px;
             cursor: pointer;
             font-size: 1em;
+            transition: background 0.3s ease;
         }
         
         .pagination button:hover:not(:disabled) {
-            background: #0052a3;
+            background: var(--button-hover);
         }
         
         .pagination button:disabled {
-            background: #ccc;
+            background: var(--button-disabled);
             cursor: not-allowed;
         }
         
         .pagination-info {
-            color: #666;
+            color: var(--meta-color);
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>My News Feed</h1>
-        <p class="last-updated" id="lastUpdated">Loading...</p>
+        <div class="header-content">
+            <h1>News Feed</h1>
+            <p class="last-updated" id="lastUpdated">Loading...</p>
+        </div>
+        <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
+            <span id="themeIcon">🌙</span>
+        </button>
     </header>
     
     <main id="articles">
@@ -119,7 +173,33 @@
     <script>
         let allArticles = [];
         let currentPage = 1;
-        const articlesPerPage = 10; // Number of articles per page
+        const articlesPerPage = 20;
+        
+        // Dark mode functionality
+        function initTheme() {
+            // Check localStorage first, then system preference
+            const savedTheme = localStorage.getItem('theme');
+            const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            
+            const theme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+            setTheme(theme);
+        }
+        
+        function setTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            const icon = document.getElementById('themeIcon');
+            icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+            localStorage.setItem('theme', theme);
+        }
+        
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            setTheme(newTheme);
+        }
+        
+        // Initialize theme before anything else
+        initTheme();
         
         async function loadFeeds() {
             try {
