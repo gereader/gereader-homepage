@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Feed</title>
+    <!--
+        HTML/CSS/JS structure created with assistance from Claude AI (Anthropic) to accelerate development.
+        Architecture, requirements, and maintenance by Gene Reader.
+    -->
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        header {
+            border-bottom: 2px solid #333;
+            margin-bottom: 30px;
+            padding-bottom: 10px;
+        }
+        
+        h1 {
+            margin: 0;
+        }
+        
+        .last-updated {
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .article {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+        }
+        
+        .article h2 {
+            margin: 0 0 5px 0;
+            font-size: 1.2em;
+        }
+        
+        .article a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        
+        .article a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-meta {
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #666;
+        }
+        
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #333;
+        }
+        
+        .pagination button {
+            padding: 8px 16px;
+            background: #0066cc;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        
+        .pagination button:hover:not(:disabled) {
+            background: #0052a3;
+        }
+        
+        .pagination button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .pagination-info {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My News Feed</h1>
+        <p class="last-updated" id="lastUpdated">Loading...</p>
+    </header>
+    
+    <main id="articles">
+        <p class="loading">Loading articles...</p>
+    </main>
+    
+    <div class="pagination" id="pagination" style="display: none;">
+        <button id="prevBtn" onclick="changePage(-1)">← Previous</button>
+        <span class="pagination-info" id="pageInfo"></span>
+        <button id="nextBtn" onclick="changePage(1)">Next →</button>
+    </div>
+    
+    <script>
+        let allArticles = [];
+        let currentPage = 1;
+        const articlesPerPage = 10; // Number of articles per page
+        
+        async function loadFeeds() {
+            try {
+                const response = await fetch('feeds.json');
+                const data = await response.json();
+                
+                // Update last updated time
+                const lastUpdated = new Date(data.last_updated);
+                document.getElementById('lastUpdated').textContent = 
+                    `Last updated: ${lastUpdated.toLocaleString()}`;
+                
+                // Store all articles
+                allArticles = data.articles;
+                
+                // Display first page
+                displayPage(1);
+                
+            } catch (error) {
+                console.error('Error loading feeds:', error);
+                document.getElementById('articles').innerHTML = 
+                    '<p>Error loading articles. Please try again later.</p>';
+            }
+        }
+        
+        function displayPage(pageNum) {
+            const totalPages = Math.ceil(allArticles.length / articlesPerPage);
+            
+            // Bounds checking
+            if (pageNum < 1) pageNum = 1;
+            if (pageNum > totalPages) pageNum = totalPages;
+            
+            currentPage = pageNum;
+            
+            // Calculate article range for this page
+            const startIdx = (pageNum - 1) * articlesPerPage;
+            const endIdx = startIdx + articlesPerPage;
+            const pageArticles = allArticles.slice(startIdx, endIdx);
+            
+            // Display articles
+            const articlesContainer = document.getElementById('articles');
+            articlesContainer.innerHTML = '';
+            
+            pageArticles.forEach(article => {
+                const articleDiv = document.createElement('div');
+                articleDiv.className = 'article';
+                
+                const pubDate = new Date(article.published);
+                const dateStr = pubDate.toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric'
+                });
+                
+                articleDiv.innerHTML = `
+                    <h2><a href="${article.link}" target="_blank">${article.title}</a></h2>
+                    <div class="article-meta">
+                        ${article.source} • ${dateStr}
+                    </div>
+                `;
+                
+                articlesContainer.appendChild(articleDiv);
+            });
+            
+            // Update pagination controls
+            updatePagination(totalPages);
+            
+            // Scroll to top
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        function updatePagination(totalPages) {
+            const pagination = document.getElementById('pagination');
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const pageInfo = document.getElementById('pageInfo');
+            
+            if (totalPages <= 1) {
+                pagination.style.display = 'none';
+                return;
+            }
+            
+            pagination.style.display = 'flex';
+            
+            // Update button states
+            prevBtn.disabled = currentPage === 1;
+            nextBtn.disabled = currentPage === totalPages;
+            
+            // Update page info
+            pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+        }
+        
+        function changePage(delta) {
+            displayPage(currentPage + delta);
+        }
+        
+        // Load feeds when page loads
+        loadFeeds();
+    </script>
+</body>
+</html>
