@@ -370,15 +370,23 @@
                 </div>
                 <div class="active-filters" id="activeSourceFilters"></div>
             </div>
+
             <div class="filter-section" id="tagFilterSection" style="display: none;">
                 <div class="filter-controls">
-                    <label class="filter-label" for="tagSelect">Add Tag:</label>
-                    <select id="tagSelect" class="filter-select" onchange="addTagFilter(this.value); this.value='';">
-                        <option value="">Select...</option>
-                    </select>
+                    <label class="filter-label" for="tagInput">Add Tag:</label>
+                    <input 
+                        type="text" 
+                        id="tagInput" 
+                        list="tagList" 
+                        class="filter-select" 
+                        placeholder="Search tags..."
+                        onchange="addTagFilter(this.value); this.value='';"
+                        autocomplete="off">
+                    <datalist id="tagList"></datalist>
                 </div>
                 <div class="active-filters" id="activeTagFilters"></div>
             </div>
+
             <div class="filter-section">
                 <button class="clear-filters-btn" id="clearFiltersBtn" onclick="clearAllFilters()" disabled>
                     Clear All Filters
@@ -501,24 +509,22 @@
                 sourceSelect.appendChild(option);
             });
             
-            // Populate tag dropdown (only show if tags exist)
+            // Populate tag datalist (only show if tags exist)
             const tagFilterSection = document.getElementById('tagFilterSection');
             if (allTags.length > 0) {
                 tagFilterSection.style.display = 'flex';
                 
-                const tagSelect = document.getElementById('tagSelect');
-                tagSelect.innerHTML = '<option value="">Select...</option>';
+                const tagList = document.getElementById('tagList');
+                tagList.innerHTML = '';
                 
                 allTags.forEach(tag => {
                     const option = document.createElement('option');
                     option.value = tag;
-                    option.textContent = tag;
-                    tagSelect.appendChild(option);
+                    tagList.appendChild(option);
                 });
             }
             
             document.getElementById('filters').style.display = 'flex';
-            
             // Render active filters
             renderActiveFilters();
         }
