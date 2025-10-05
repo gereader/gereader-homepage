@@ -20,6 +20,8 @@
             --button-bg: #0066cc;
             --button-hover: #0052a3;
             --button-disabled: #ccc;
+            --tag-bg: #f0f0f0;
+            --tag-active: #0066cc;
         }
         
         [data-theme="dark"] {
@@ -33,6 +35,8 @@
             --button-bg: #6ab0f3;
             --button-hover: #8fc5f7;
             --button-disabled: #444;
+            --tag-bg: #2a2a2a;
+            --tag-active: #6ab0f3;
         }
         
         body {
@@ -48,11 +52,15 @@
         
         header {
             border-bottom: 2px solid var(--border-color);
-            margin-bottom: 30px;
+            margin-bottom: 20px;
             padding-bottom: 10px;
+        }
+        
+        .header-top {
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
+            margin-bottom: 15px;
         }
         
         .header-content {
@@ -66,6 +74,11 @@
         .last-updated {
             color: var(--meta-color);
             font-size: 0.9em;
+        }
+        
+        .header-controls {
+            display: flex;
+            gap: 10px;
         }
         
         .theme-toggle {
@@ -83,14 +96,135 @@
             background: var(--light-border);
         }
         
+        .filters {
+            display: flex;
+            gap: 15px;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        
+        .filter-section {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        
+        .filter-controls {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+        
+        .filter-label {
+            font-weight: 600;
+            color: var(--meta-color);
+            font-size: 0.9em;
+        }
+        
+        .filter-select {
+            background: var(--bg-color);
+            border: 2px solid var(--light-border);
+            color: var(--text-color);
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.2s ease;
+            min-width: 150px;
+        }
+        
+        .filter-select:hover {
+            border-color: var(--link-color);
+        }
+        
+        .filter-select:focus {
+            outline: none;
+            border-color: var(--link-color);
+        }
+        
+        .active-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            min-height: 24px;
+        }
+        
+        .filter-chip {
+            background: var(--tag-active);
+            color: white;
+            padding: 4px 8px 4px 12px;
+            border-radius: 16px;
+            font-size: 0.85em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .filter-chip-remove {
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            padding: 0;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1em;
+            line-height: 1;
+            transition: background 0.2s ease;
+        }
+        
+        .filter-chip-remove:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        
+        .clear-filters-btn {
+            background: none;
+            border: 2px solid var(--border-color);
+            color: var(--text-color);
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.85em;
+            transition: all 0.2s ease;
+        }
+        
+        .clear-filters-btn:hover {
+            background: var(--light-border);
+            border-color: var(--link-color);
+        }
+        
+        .clear-filters-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+        
         .article {
             margin-bottom: 20px;
             padding-bottom: 20px;
             border-bottom: 1px solid var(--light-border);
+            display: flex;
+            gap: 15px;
         }
         
         .article:last-child {
             border-bottom: none;
+        }
+        
+        .article-thumbnail {
+            flex-shrink: 0;
+            width: 120px;
+            height: 80px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+        
+        .article-content {
+            flex: 1;
+            min-width: 0;
         }
         
         .article h2 {
@@ -111,6 +245,22 @@
         .article-meta {
             color: var(--meta-color);
             font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+        
+        .article-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 5px;
+        }
+        
+        .article-tag {
+            background: var(--tag-bg);
+            color: var(--meta-color);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
         }
         
         .article.read {
@@ -160,21 +310,60 @@
         .pagination-info {
             color: var(--meta-color);
         }
+        
+        @media (max-width: 600px) {
+            .article {
+                flex-direction: column;
+            }
+            
+            .article-thumbnail {
+                width: 100%;
+                height: 150px;
+            }
+        }
     </style>
 </head>
 <body>
     <header>
-        <div class="header-content">
-            <h1>News Feed</h1>
-            <p class="last-updated" id="lastUpdated">Loading...</p>
+        <div class="header-top">
+            <div class="header-content">
+                <h1>News Feed</h1>
+                <p class="last-updated" id="lastUpdated">Loading...</p>
+            </div>
+            <div class="header-controls">
+                <button class="theme-toggle" id="hideReadToggle" onclick="toggleHideRead()" title="Toggle read articles">
+                    <span id="hideReadIcon">👁️</span>
+                </button>
+                <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
+                    <span id="themeIcon">🌙</span>
+                </button>
+            </div>
         </div>
-        <div style="display: flex; gap: 10px;">
-            <button class="theme-toggle" id="hideReadToggle" onclick="toggleHideRead()" title="Toggle read articles">
-                <span id="hideReadIcon">📖</span>
-            </button>
-            <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
-                <span id="themeIcon">🌙</span>
-            </button>
+        
+        <div class="filters" id="filters" style="display: none;">
+            <div class="filter-section">
+                <div class="filter-controls">
+                    <label class="filter-label" for="sourceSelect">Add Source:</label>
+                    <select id="sourceSelect" class="filter-select" onchange="addSourceFilter(this.value); this.value='';">
+                        <option value="">Select...</option>
+                    </select>
+                </div>
+                <div class="active-filters" id="activeSourceFilters"></div>
+            </div>
+            <div class="filter-section" id="tagFilterSection" style="display: none;">
+                <div class="filter-controls">
+                    <label class="filter-label" for="tagSelect">Add Tag:</label>
+                    <select id="tagSelect" class="filter-select" onchange="addTagFilter(this.value); this.value='';">
+                        <option value="">Select...</option>
+                    </select>
+                </div>
+                <div class="active-filters" id="activeTagFilters"></div>
+            </div>
+            <div class="filter-section">
+                <button class="clear-filters-btn" id="clearFiltersBtn" onclick="clearAllFilters()" disabled>
+                    Clear All Filters
+                </button>
+            </div>
         </div>
     </header>
     
@@ -190,16 +379,18 @@
     
     <script>
         let allArticles = [];
+        let allSources = [];
+        let allTags = [];
         let currentPage = 1;
-        const articlesPerPage = 20;
+        const articlesPerPage = 10; // Number of articles displayed per page
         let hideRead = false;
+        let selectedSources = [];
+        let selectedTags = [];
         
         // Dark mode functionality
         function initTheme() {
-            // Check localStorage first, then system preference
             const savedTheme = localStorage.getItem('theme');
             const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-            
             const theme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
             setTheme(theme);
         }
@@ -246,19 +437,172 @@
             hideRead = !hideRead;
             localStorage.setItem('hideRead', hideRead);
             updateHideReadIcon();
-            displayPage(1); // Reset to first page when toggling
+            displayPage(1);
         }
         
         function updateHideReadIcon() {
             const icon = document.getElementById('hideReadIcon');
-            icon.textContent = hideRead ? '📘' : '📖';
+            icon.textContent = hideRead ? '📖' : '📘';
             document.getElementById('hideReadToggle').title = 
                 hideRead ? 'Show read articles' : 'Hide read articles';
         }
         
-        // Initialize theme before anything else
+        // Filter functionality
+        function initFilters() {
+            const savedSources = localStorage.getItem('selectedSources');
+            const savedTags = localStorage.getItem('selectedTags');
+            
+            if (savedSources) {
+                try {
+                    selectedSources = JSON.parse(savedSources);
+                } catch (e) {
+                    selectedSources = [];
+                }
+            }
+            
+            if (savedTags) {
+                try {
+                    selectedTags = JSON.parse(savedTags);
+                } catch (e) {
+                    selectedTags = [];
+                }
+            }
+        }
+        
+        function createFilterButtons() {
+            // Populate source dropdown
+            const sourceSelect = document.getElementById('sourceSelect');
+            sourceSelect.innerHTML = '<option value="">Select...</option>';
+            
+            allSources.forEach(source => {
+                const option = document.createElement('option');
+                option.value = source;
+                option.textContent = source;
+                sourceSelect.appendChild(option);
+            });
+            
+            // Populate tag dropdown (only show if tags exist)
+            const tagFilterSection = document.getElementById('tagFilterSection');
+            if (allTags.length > 0) {
+                tagFilterSection.style.display = 'flex';
+                
+                const tagSelect = document.getElementById('tagSelect');
+                tagSelect.innerHTML = '<option value="">Select...</option>';
+                
+                allTags.forEach(tag => {
+                    const option = document.createElement('option');
+                    option.value = tag;
+                    option.textContent = tag;
+                    tagSelect.appendChild(option);
+                });
+            }
+            
+            document.getElementById('filters').style.display = 'flex';
+            
+            // Render active filters
+            renderActiveFilters();
+        }
+        
+        function addSourceFilter(source) {
+            if (source && !selectedSources.includes(source)) {
+                selectedSources.push(source);
+                localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
+                renderActiveFilters();
+                displayPage(1);
+            }
+        }
+        
+        function removeSourceFilter(source) {
+            selectedSources = selectedSources.filter(s => s !== source);
+            localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
+            renderActiveFilters();
+            displayPage(1);
+        }
+        
+        function addTagFilter(tag) {
+            if (tag && !selectedTags.includes(tag)) {
+                selectedTags.push(tag);
+                localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
+                renderActiveFilters();
+                displayPage(1);
+            }
+        }
+        
+        function removeTagFilter(tag) {
+            selectedTags = selectedTags.filter(t => t !== tag);
+            localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
+            renderActiveFilters();
+            displayPage(1);
+        }
+        
+        function clearAllFilters() {
+            selectedSources = [];
+            selectedTags = [];
+            localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
+            localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
+            renderActiveFilters();
+            displayPage(1);
+        }
+        
+        function renderActiveFilters() {
+            // Render source filter chips
+            const sourceContainer = document.getElementById('activeSourceFilters');
+            sourceContainer.innerHTML = '';
+            selectedSources.forEach(source => {
+                const chip = document.createElement('div');
+                chip.className = 'filter-chip';
+                chip.innerHTML = `
+                    ${source}
+                    <button class="filter-chip-remove" onclick="removeSourceFilter('${source}')" title="Remove filter">×</button>
+                `;
+                sourceContainer.appendChild(chip);
+            });
+            
+            // Render tag filter chips
+            const tagContainer = document.getElementById('activeTagFilters');
+            tagContainer.innerHTML = '';
+            selectedTags.forEach(tag => {
+                const chip = document.createElement('div');
+                chip.className = 'filter-chip';
+                chip.innerHTML = `
+                    ${tag}
+                    <button class="filter-chip-remove" onclick="removeTagFilter('${tag}')" title="Remove filter">×</button>
+                `;
+                tagContainer.appendChild(chip);
+            });
+            
+            // Update clear button state
+            const clearBtn = document.getElementById('clearFiltersBtn');
+            clearBtn.disabled = selectedSources.length === 0 && selectedTags.length === 0;
+        }
+        
+        function getFilteredArticles() {
+            let filtered = allArticles;
+            
+            // Apply source filter (if any sources selected)
+            if (selectedSources.length > 0) {
+                filtered = filtered.filter(article => selectedSources.includes(article.source));
+            }
+            
+            // Apply tag filter (if any tags selected)
+            if (selectedTags.length > 0) {
+                filtered = filtered.filter(article => 
+                    article.tags && article.tags.some(tag => selectedTags.includes(tag))
+                );
+            }
+            
+            // Apply hide read filter
+            if (hideRead) {
+                filtered = filtered.filter(article => !isRead(article.link));
+            }
+            
+            return filtered;
+        }
+        
+        // Initialize
         initTheme();
         initHideRead();
+        initFilters();
         
         async function loadFeeds() {
             try {
@@ -270,8 +614,15 @@
                 document.getElementById('lastUpdated').textContent = 
                     `Last updated: ${lastUpdated.toLocaleString()}`;
                 
-                // Store all articles
+                // Store data
                 allArticles = data.articles;
+                allSources = data.sources || [];
+                allTags = data.tags || [];
+                
+                // Create filter buttons
+                if (allSources.length > 1 || allTags.length > 0) {
+                    createFilterButtons();
+                }
                 
                 // Display first page
                 displayPage(1);
@@ -284,17 +635,13 @@
         }
         
         function displayPage(pageNum) {
-            // Filter articles based on hideRead setting
-            const filteredArticles = hideRead 
-                ? allArticles.filter(article => !isRead(article.link))
-                : allArticles;
-            
+            const filteredArticles = getFilteredArticles();
             const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
             
             // Bounds checking
             if (pageNum < 1) pageNum = 1;
             if (pageNum > totalPages) pageNum = totalPages;
-            if (totalPages === 0) pageNum = 1; // Handle empty list
+            if (totalPages === 0) pageNum = 1;
             
             currentPage = pageNum;
             
@@ -315,7 +662,6 @@
                 const articleDiv = document.createElement('div');
                 articleDiv.className = 'article';
                 
-                // Check if article has been read
                 if (isRead(article.link)) {
                     articleDiv.classList.add('read');
                 }
@@ -327,24 +673,43 @@
                     day: 'numeric'
                 });
                 
-                articleDiv.innerHTML = `
-                    <h2><a href="${article.link}" target="_blank" onclick="markAsRead('${article.link}')">${article.title}</a></h2>
-                    <div class="article-meta">
-                        ${article.source} • ${dateStr}
-                    </div>
+                let articleHTML = '';
+                
+                if (article.image) {
+                    articleHTML += `<img src="${article.image}" alt="" class="article-thumbnail" onerror="this.style.display='none'">`;
+                }
+                
+                articleHTML += `
+                    <div class="article-content">
+                        <h2><a href="${article.link}" target="_blank" onclick="markAsRead('${article.link}')">${article.title}</a></h2>
+                        <div class="article-meta">
+                            ${article.source} • ${dateStr}
+                        </div>
                 `;
                 
+                // Add tags if present
+                if (article.tags && article.tags.length > 0) {
+                    articleHTML += '<div class="article-tags">';
+                    article.tags.forEach(tag => {
+                        articleHTML += `<span class="article-tag">${tag}</span>`;
+                    });
+                    articleHTML += '</div>';
+                }
+                
+                articleHTML += '</div>';
+                
+                articleDiv.innerHTML = articleHTML;
                 articlesContainer.appendChild(articleDiv);
             });
             
             // Update pagination controls
-            updatePagination(totalPages);
+            updatePagination(totalPages, filteredArticles.length);
             
             // Scroll to top
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
-        function updatePagination(totalPages) {
+        function updatePagination(totalPages, totalArticles) {
             const pagination = document.getElementById('pagination');
             const prevBtn = document.getElementById('prevBtn');
             const nextBtn = document.getElementById('nextBtn');
@@ -356,13 +721,10 @@
             }
             
             pagination.style.display = 'flex';
-            
-            // Update button states
             prevBtn.disabled = currentPage === 1;
             nextBtn.disabled = currentPage === totalPages;
             
-            // Update page info
-            pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+            pageInfo.textContent = `Page ${currentPage} of ${totalPages} (${totalArticles} articles)`;
         }
         
         function changePage(delta) {
