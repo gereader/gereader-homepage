@@ -168,9 +168,14 @@
             <h1>News Feed</h1>
             <p class="last-updated" id="lastUpdated">Loading...</p>
         </div>
-        <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
-            <span id="themeIcon">🌙</span>
-        </button>
+        <div style="display: flex; gap: 10px;">
+            <button class="theme-toggle" id="hideReadToggle" onclick="toggleHideRead()" title="Toggle read articles">
+                <span id="hideReadIcon">📖</span>
+            </button>
+            <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
+                <span id="themeIcon">🌙</span>
+            </button>
+        </div>
     </header>
     
     <main id="articles">
@@ -187,6 +192,7 @@
         let allArticles = [];
         let currentPage = 1;
         const articlesPerPage = 20;
+        let hideRead = false;
         
         // Dark mode functionality
         function initTheme() {
@@ -229,8 +235,30 @@
             return getReadArticles().includes(url);
         }
         
+        // Hide read functionality
+        function initHideRead() {
+            const saved = localStorage.getItem('hideRead');
+            hideRead = saved === 'true';
+            updateHideReadIcon();
+        }
+        
+        function toggleHideRead() {
+            hideRead = !hideRead;
+            localStorage.setItem('hideRead', hideRead);
+            updateHideReadIcon();
+            displayPage(1); // Reset to first page when toggling
+        }
+        
+        function updateHideReadIcon() {
+            const icon = document.getElementById('hideReadIcon');
+            icon.textContent = hideRead ? '📘' : '📖';
+            document.getElementById('hideReadToggle').title = 
+                hideRead ? 'Show read articles' : 'Hide read articles';
+        }
+        
         // Initialize theme before anything else
         initTheme();
+        initHideRead();
         
         async function loadFeeds() {
             try {
@@ -256,22 +284,32 @@
         }
         
         function displayPage(pageNum) {
-            const totalPages = Math.ceil(allArticles.length / articlesPerPage);
+            // Filter articles based on hideRead setting
+            const filteredArticles = hideRead 
+                ? allArticles.filter(article => !isRead(article.link))
+                : allArticles;
+            
+            const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
             
             // Bounds checking
             if (pageNum < 1) pageNum = 1;
             if (pageNum > totalPages) pageNum = totalPages;
+            if (totalPages === 0) pageNum = 1; // Handle empty list
             
             currentPage = pageNum;
             
             // Calculate article range for this page
             const startIdx = (pageNum - 1) * articlesPerPage;
             const endIdx = startIdx + articlesPerPage;
-            const pageArticles = allArticles.slice(startIdx, endIdx);
+            const pageArticles = filteredArticles.slice(startIdx, endIdx);
             
             // Display articles
             const articlesContainer = document.getElementById('articles');
             articlesContainer.innerHTML = '';
+            
+            if (pageArticles.length === 0) {
+                articlesContainer.innerHTML = '<p class="loading">No articles to display.</p>';
+            }
             
             pageArticles.forEach(article => {
                 const articleDiv = document.createElement('div');
