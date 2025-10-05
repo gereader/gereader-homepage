@@ -1,6 +1,6 @@
 import feedparser
 import json
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from dateutil import parser as date_parser
 from html.parser import HTMLParser
 from urllib.parse import urljoin
@@ -9,27 +9,27 @@ FEEDS = [
     {
         "url": "https://blog.ipspace.net/atom.xml",
         "title": "ipSpace Blog",
-        "manual_tags": []
+        "manual_tags": ["networking"]
     },
     {
         "url": "https://www.packetcoders.io/rss",
         "title": "Packet Coders",
-        "manual_tags": []
+        "manual_tags": ["networking"]
     },
     {
         "url": "https://www.packetswitch.co.uk/blog/rss",
         "title": "Packet Switch",
-        "manual_tags": []
+        "manual_tags": ["networking"]
     },
     {
         "url": "https://www.netbraintech.com/blog/feed/atom/",
         "title": "NetBrain Blog",
-        "manual_tags": []
+        "manual_tags": ["networking"]
     },
     {
         "url": "https://networkautomation.forum/blog?format=rss",
         "title": "Network Automation Forum",
-        "manual_tags": []
+        "manual_tags": ["networking"]
     },
     {
         "url": "https://hackaday.com/feed/",
@@ -49,6 +49,8 @@ FEEDS = [
 ]
 
 OUTPUT_FILE = "feeds.json"
+ARCHIVE_FILE = "archive.json"
+DAYS_IN_CURRENT = 90  # Articles older than this go to archive
 
 class ImageExtractor(HTMLParser):
     """Extract first image from HTML content"""
@@ -87,8 +89,11 @@ def extract_tags(entry, feed_config):
         tags = list(entry.categories)
     
     # If no tags found in RSS and manual tags are defined, use those
-    if not tags and feed_config.get("manual_tags"):
-        tags = feed_config["manual_tags"]
+    if feed_config.get("manual_tags"):
+        if not tags:
+            tags = feed_config["manual_tags"]
+        else:
+            tags.extend(feed_config["manual_tags"])
     
     # Normalize: strip whitespace, convert to lowercase, deduplicate, sort
     normalized_tags = set()
@@ -152,26 +157,93 @@ def fetch_all_feeds():
     
     return articles, sorted(list(all_sources)), sorted(list(all_tags))
 
-def main():
-    articles, sources, tags = fetch_all_feeds()
+def load_archive():
+    """Load existing archive or return empty dict"""
+    try:
+        with open(ARCHIVE_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return {article['link']: article for article in data.get('articles', [])}
+    except FileNotFoundError:
+        return {}
+
+def save_archive(archive_dict):
+    """Save archive with all articles sorted by date"""
+    articles = list(archive_dict.values())
+    articles.sort(key=lambda x: x['published_parsed'], reverse=True)
     
     output = {
         'last_updated': datetime.now(timezone.utc).isoformat(),
         'article_count': len(articles),
+        'articles': articles
+    }
+    
+    with open(ARCHIVE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+
+def main():
+    # Load existing archive
+    archive = load_archive()
+    
+    # Fetch current articles from feeds
+    all_fetched_articles, sources, tags = fetch_all_feeds()
+    
+    # Calculate cutoff date (90 days ago)
+    cutoff_date = datetime.now(timezone.utc) - timedelta(days=DAYS_IN_CURRENT)
+    
+    current_articles = []
+    current_urls = set()
+    
+    for article in all_fetched_articles:
+        current_urls.add(article['link'])
+        
+        try:
+            article_date = date_parser.parse(article['published_parsed'])
+            # Make timezone-aware if naive
+            if article_date.tzinfo is None:
+                article_date = article_date.replace(tzinfo=timezone.utc)
+        except:
+            article_date = datetime.now(timezone.utc)
+        
+        if article_date >= cutoff_date:
+            # Recent article - goes to feeds.json
+            current_articles.append(article)
+        else:
+            # Old article - goes to archive
+            if article['link'] not in archive:
+                archive[article['link']] = article
+    
+    # Move articles that disappeared from feeds to archive
+    # (This preserves articles from feeds with limited history)
+    for url, article in list(archive.items()):
+        if url not in current_urls:
+            # Article not in current fetch - keep in archive
+            continue
+    
+    # Add any current articles to archive that aren't there yet
+    for article in current_articles:
+        if article['link'] not in archive:
+            archive[article['link']] = article
+    
+    # Save archive
+    save_archive(archive)
+    
+    # Save current feeds.json
+    output = {
+        'last_updated': datetime.now(timezone.utc).isoformat(),
+        'article_count': len(current_articles),
         'sources': sources,
         'tags': tags,
-        'articles': articles
+        'articles': current_articles
     }
     
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     
-    print(f"Fetched {len(articles)} articles")
-    print(f"Sources: {', '.join(sources)}")
-    print(f"Unique tags: {len(tags)}")
-    if tags:
-        print(f"Tags: {', '.join(tags[:10])}{'...' if len(tags) > 10 else ''}")
-    print(f"Written to {OUTPUT_FILE}")
+    print(f"Current articles (last {DAYS_IN_CURRENT} days): {len(current_articles)}")
+    print(f"Archive total: {len(archive)}")
+    print(f"Sources:")
+    print("\n".join(f"    - {source_item}" for source_item in sources))
+
 
 if __name__ == "__main__":
     main()

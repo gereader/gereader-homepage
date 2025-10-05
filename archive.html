@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Feed</title>
+    <title>Archive - News Feed</title>
     <!--
         HTML/CSS/JS structure created with assistance from Claude AI (Anthropic) to accelerate development.
         Architecture, requirements, and maintenance by Gene Reader.
@@ -70,7 +70,7 @@
         h1 {
             margin: 0;
         }
-
+        
         .nav-button {
             display: inline-block;
             padding: 8px 16px;
@@ -89,15 +89,10 @@
             color: white;
             text-decoration: none;
         }
-
+        
         .last-updated {
             color: var(--meta-color);
             font-size: 0.9em;
-        }
-        
-        .header-controls {
-            display: flex;
-            gap: 10px;
         }
         
         .theme-toggle {
@@ -282,15 +277,6 @@
             font-size: 0.8em;
         }
         
-        .article.read {
-            opacity: 0.5;
-        }
-        
-        .article.read h2 a {
-            text-decoration: line-through;
-            color: var(--meta-color);
-        }
-        
         .loading {
             text-align: center;
             color: var(--meta-color);
@@ -346,18 +332,13 @@
     <header>
         <div class="header-top">
             <div class="header-content">
-                <h1>News Feed</h1>
-                <a href="archive.html" class="nav-button">View Archive →</a>
+                <h1>Archive</h1>
+                <a href="index.html" class="nav-button">← Back to News Feed</a>
                 <p class="last-updated" id="lastUpdated">Loading...</p>
             </div>
-            <div class="header-controls">
-                <button class="theme-toggle" id="hideReadToggle" onclick="toggleHideRead()" title="Toggle read articles">
-                    <span id="hideReadIcon">📘</span>
-                </button>
-                <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
-                    <span id="themeIcon">🌙</span>
-                </button>
-            </div>
+            <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" title="Toggle dark mode">
+                <span id="themeIcon">🌙</span>
+            </button>
         </div>
         
         <div class="filters" id="filters" style="display: none;">
@@ -402,8 +383,7 @@
         let allSources = [];
         let allTags = [];
         let currentPage = 1;
-        const articlesPerPage = 10; // Number of articles displayed per page
-        let hideRead = false;
+        const articlesPerPage = 20;
         let selectedSources = [];
         let selectedTags = [];
         
@@ -428,49 +408,10 @@
             setTheme(newTheme);
         }
         
-        // Read tracking functionality
-        function getReadArticles() {
-            const read = localStorage.getItem('readArticles');
-            return read ? JSON.parse(read) : [];
-        }
-        
-        function markAsRead(url) {
-            const readArticles = getReadArticles();
-            if (!readArticles.includes(url)) {
-                readArticles.push(url);
-                localStorage.setItem('readArticles', JSON.stringify(readArticles));
-            }
-        }
-        
-        function isRead(url) {
-            return getReadArticles().includes(url);
-        }
-        
-        // Hide read functionality
-        function initHideRead() {
-            const saved = localStorage.getItem('hideRead');
-            hideRead = saved === 'true';
-            updateHideReadIcon();
-        }
-        
-        function toggleHideRead() {
-            hideRead = !hideRead;
-            localStorage.setItem('hideRead', hideRead);
-            updateHideReadIcon();
-            displayPage(1);
-        }
-        
-        function updateHideReadIcon() {
-            const icon = document.getElementById('hideReadIcon');
-            icon.textContent = hideRead ? '📖' : '📘';
-            document.getElementById('hideReadToggle').title = 
-                hideRead ? 'Show read articles' : 'Hide read articles';
-        }
-        
         // Filter functionality
         function initFilters() {
-            const savedSources = localStorage.getItem('selectedSources');
-            const savedTags = localStorage.getItem('selectedTags');
+            const savedSources = localStorage.getItem('archiveSelectedSources');
+            const savedTags = localStorage.getItem('archiveSelectedTags');
             
             if (savedSources) {
                 try {
@@ -490,18 +431,27 @@
         }
         
         function createFilterButtons() {
-            // Populate source dropdown
             const sourceSelect = document.getElementById('sourceSelect');
             sourceSelect.innerHTML = '<option value="">Select...</option>';
             
-            allSources.forEach(source => {
+            // Get unique sources from articles
+            const uniqueSources = [...new Set(allArticles.map(a => a.source))].sort();
+            uniqueSources.forEach(source => {
                 const option = document.createElement('option');
                 option.value = source;
                 option.textContent = source;
                 sourceSelect.appendChild(option);
             });
             
-            // Populate tag dropdown (only show if tags exist)
+            // Get unique tags from articles
+            const uniqueTags = new Set();
+            allArticles.forEach(article => {
+                if (article.tags) {
+                    article.tags.forEach(tag => uniqueTags.add(tag));
+                }
+            });
+            allTags = [...uniqueTags].sort();
+            
             const tagFilterSection = document.getElementById('tagFilterSection');
             if (allTags.length > 0) {
                 tagFilterSection.style.display = 'flex';
@@ -518,15 +468,13 @@
             }
             
             document.getElementById('filters').style.display = 'flex';
-            
-            // Render active filters
             renderActiveFilters();
         }
         
         function addSourceFilter(source) {
             if (source && !selectedSources.includes(source)) {
                 selectedSources.push(source);
-                localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
+                localStorage.setItem('archiveSelectedSources', JSON.stringify(selectedSources));
                 renderActiveFilters();
                 displayPage(1);
             }
@@ -534,7 +482,7 @@
         
         function removeSourceFilter(source) {
             selectedSources = selectedSources.filter(s => s !== source);
-            localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
+            localStorage.setItem('archiveSelectedSources', JSON.stringify(selectedSources));
             renderActiveFilters();
             displayPage(1);
         }
@@ -542,7 +490,7 @@
         function addTagFilter(tag) {
             if (tag && !selectedTags.includes(tag)) {
                 selectedTags.push(tag);
-                localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
+                localStorage.setItem('archiveSelectedTags', JSON.stringify(selectedTags));
                 renderActiveFilters();
                 displayPage(1);
             }
@@ -550,7 +498,7 @@
         
         function removeTagFilter(tag) {
             selectedTags = selectedTags.filter(t => t !== tag);
-            localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
+            localStorage.setItem('archiveSelectedTags', JSON.stringify(selectedTags));
             renderActiveFilters();
             displayPage(1);
         }
@@ -558,14 +506,13 @@
         function clearAllFilters() {
             selectedSources = [];
             selectedTags = [];
-            localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
-            localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
+            localStorage.setItem('archiveSelectedSources', JSON.stringify(selectedSources));
+            localStorage.setItem('archiveSelectedTags', JSON.stringify(selectedTags));
             renderActiveFilters();
             displayPage(1);
         }
         
         function renderActiveFilters() {
-            // Render source filter chips
             const sourceContainer = document.getElementById('activeSourceFilters');
             sourceContainer.innerHTML = '';
             selectedSources.forEach(source => {
@@ -578,7 +525,6 @@
                 sourceContainer.appendChild(chip);
             });
             
-            // Render tag filter chips
             const tagContainer = document.getElementById('activeTagFilters');
             tagContainer.innerHTML = '';
             selectedTags.forEach(tag => {
@@ -591,7 +537,6 @@
                 tagContainer.appendChild(chip);
             });
             
-            // Update clear button state
             const clearBtn = document.getElementById('clearFiltersBtn');
             clearBtn.disabled = selectedSources.length === 0 && selectedTags.length === 0;
         }
@@ -599,21 +544,14 @@
         function getFilteredArticles() {
             let filtered = allArticles;
             
-            // Apply source filter (if any sources selected)
             if (selectedSources.length > 0) {
                 filtered = filtered.filter(article => selectedSources.includes(article.source));
             }
             
-            // Apply tag filter (if any tags selected)
             if (selectedTags.length > 0) {
                 filtered = filtered.filter(article => 
                     article.tags && article.tags.some(tag => selectedTags.includes(tag))
                 );
-            }
-            
-            // Apply hide read filter
-            if (hideRead) {
-                filtered = filtered.filter(article => !isRead(article.link));
             }
             
             return filtered;
@@ -621,36 +559,29 @@
         
         // Initialize
         initTheme();
-        initHideRead();
         initFilters();
         
         async function loadFeeds() {
             try {
-                const response = await fetch('feeds.json');
+                const response = await fetch('archive.json');
                 const data = await response.json();
                 
-                // Update last updated time
                 const lastUpdated = new Date(data.last_updated);
                 document.getElementById('lastUpdated').textContent = 
-                    `Last updated: ${lastUpdated.toLocaleString()}`;
+                    `Archive: ${data.article_count} articles • Last updated: ${lastUpdated.toLocaleString()}`;
                 
-                // Store data
                 allArticles = data.articles;
-                allSources = data.sources || [];
-                allTags = data.tags || [];
                 
-                // Create filter buttons
-                if (allSources.length > 1 || allTags.length > 0) {
+                if (allArticles.length > 0) {
                     createFilterButtons();
                 }
                 
-                // Display first page
                 displayPage(1);
                 
             } catch (error) {
-                console.error('Error loading feeds:', error);
+                console.error('Error loading archive:', error);
                 document.getElementById('articles').innerHTML = 
-                    '<p>Error loading articles. Please try again later.</p>';
+                    '<p>Error loading archive. Please try again later.</p>';
             }
         }
         
@@ -658,33 +589,26 @@
             const filteredArticles = getFilteredArticles();
             const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
             
-            // Bounds checking
             if (pageNum < 1) pageNum = 1;
             if (pageNum > totalPages) pageNum = totalPages;
             if (totalPages === 0) pageNum = 1;
             
             currentPage = pageNum;
             
-            // Calculate article range for this page
             const startIdx = (pageNum - 1) * articlesPerPage;
             const endIdx = startIdx + articlesPerPage;
             const pageArticles = filteredArticles.slice(startIdx, endIdx);
             
-            // Display articles
             const articlesContainer = document.getElementById('articles');
             articlesContainer.innerHTML = '';
             
             if (pageArticles.length === 0) {
-                articlesContainer.innerHTML = '<p class="loading">No articles to display.</p>';
+                articlesContainer.innerHTML = '<p class="loading">No archived articles yet.</p>';
             }
             
             pageArticles.forEach(article => {
                 const articleDiv = document.createElement('div');
                 articleDiv.className = 'article';
-                
-                if (isRead(article.link)) {
-                    articleDiv.classList.add('read');
-                }
                 
                 const pubDate = new Date(article.published);
                 const dateStr = pubDate.toLocaleDateString('en-US', {
@@ -701,13 +625,12 @@
                 
                 articleHTML += `
                     <div class="article-content">
-                        <h2><a href="${article.link}" target="_blank" onclick="markAsRead('${article.link}')">${article.title}</a></h2>
+                        <h2><a href="${article.link}" target="_blank">${article.title}</a></h2>
                         <div class="article-meta">
                             ${article.source} • ${dateStr}
                         </div>
                 `;
                 
-                // Add tags if present
                 if (article.tags && article.tags.length > 0) {
                     articleHTML += '<div class="article-tags">';
                     article.tags.forEach(tag => {
@@ -722,10 +645,7 @@
                 articlesContainer.appendChild(articleDiv);
             });
             
-            // Update pagination controls
             updatePagination(totalPages, filteredArticles.length);
-            
-            // Scroll to top
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
@@ -743,7 +663,6 @@
             pagination.style.display = 'flex';
             prevBtn.disabled = currentPage === 1;
             nextBtn.disabled = currentPage === totalPages;
-            
             pageInfo.textContent = `Page ${currentPage} of ${totalPages} (${totalArticles} articles)`;
         }
         
@@ -751,7 +670,6 @@
             displayPage(currentPage + delta);
         }
         
-        // Load feeds when page loads
         loadFeeds();
     </script>
 </body>
