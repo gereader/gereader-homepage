@@ -705,9 +705,18 @@
                     articleHTML += `<img src="${article.image}" alt="" class="article-thumbnail" onerror="this.style.display='none'">`;
                 }
                 
+                // Display article with a Display red button
                 articleHTML += `
                     <div class="article-content">
-                        <h2><a href="${article.link}" target="_blank" onclick="markAsRead('${article.link}')">${article.title}</a></h2>
+                        <div style="display: flex; justify-content: space-between; align-items: start;">
+                            <h2><a href="${article.link}" target="_blank" onclick="markAsRead('${article.link}')">${article.title}</a></h2>
+                            <button onclick="event.preventDefault(); toggleRead('${article.link}'); displayPage(currentPage);" 
+                                    style="background: none; border: 1px solid var(--border-color); color: var(--text-color); 
+                                        padding: 4px 8px; border-radius: 4px; cursor: pointer; font-size: 0.85em; flex-shrink: 0; margin-left: 10px;"
+                                    title="${isRead(article.link) ? 'Mark as unread' : 'Mark as read'}">
+                                ${isRead(article.link) ? '↶' : '✓'}
+                            </button>
+                        </div>
                         <div class="article-meta">
                             ${article.source} • ${dateStr}
                         </div>
@@ -733,6 +742,21 @@
             
             // Scroll to top
             window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function toggleRead(url) {
+            const readArticles = getReadArticles();
+            const index = readArticles.indexOf(url);
+            
+            if (index > -1) {
+                // Already read - mark as unread
+                readArticles.splice(index, 1);
+            } else {
+                // Not read - mark as read
+                readArticles.push(url);
+            }
+            
+            localStorage.setItem('readArticles', JSON.stringify(readArticles));
         }
         
         function updatePagination(totalPages, totalArticles) {
