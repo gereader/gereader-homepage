@@ -1,0 +1,76 @@
+{
+  "last_updated": "2025-10-05T18:03:08.481286+00:00",
+  "article_count": 10,
+  "articles": [
+    {
+      "title": "BalticNOG 2025",
+      "link": "https://networktocode.com/balticnog-2025/",
+      "published": "Wed, 24 Sep 2025 01:00:00 +0000",
+      "published_parsed": "2025-09-24T01:00:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Scaling Intel’s Data Centers with Network Automation (Sponsored)",
+      "link": "https://networktocode.com/scaling-intels-data-centers-with-network-automation-sponsored/",
+      "published": "Wed, 24 Sep 2025 01:00:00 +0000",
+      "published_parsed": "2025-09-24T01:00:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Nautobot Next: Pre-Built Apps",
+      "link": "https://networktocode.com/nautobot-next-pre-built-apps/",
+      "published": "Thu, 28 Aug 2025 16:53:00 +0000",
+      "published_parsed": "2025-08-28T16:53:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "TechNet Augusta",
+      "link": "https://networktocode.com/technet-augusta/",
+      "published": "Tue, 19 Aug 2025 16:15:00 +0000",
+      "published_parsed": "2025-08-19T16:15:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Nautobot Next: Nautobot Jobs",
+      "link": "https://networktocode.com/nautobot-next-custom-jobs/",
+      "published": "Thu, 24 Jul 2025 01:00:00 +0000",
+      "published_parsed": "2025-07-24T01:00:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Network Automation Nerds",
+      "link": "https://networktocode.com/network-automation-nerds-6/",
+      "published": "Wed, 23 Jul 2025 01:00:00 +0000",
+      "published_parsed": "2025-07-23T01:00:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "(FL)NUG",
+      "link": "https://networktocode.com/flnug/",
+      "published": "Thu, 10 Jul 2025 16:10:00 +0000",
+      "published_parsed": "2025-07-10T16:10:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Introducing NautobotGPT",
+      "link": "https://networktocode.com/introducing-nautobotgpt-2/",
+      "published": "Thu, 26 Jun 2025 16:41:34 +0000",
+      "published_parsed": "2025-06-26T16:41:34+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Cisco Live US",
+      "link": "https://networktocode.com/cisco-live-us-2/",
+      "published": "Sun, 08 Jun 2025 07:13:00 +0000",
+      "published_parsed": "2025-06-08T07:13:00+00:00",
+      "source": "Network to Code"
+    },
+    {
+      "title": "Network to Code Launches NautobotGPT: AI-Powered Co-Pilot for Network Engineers to Accelerate Automation",
+      "link": "https://networktocode.com/network-to-code-launches-nautobotgpt-ai-powered-co-pilot-for-network-engineers-to-accelerate-automation/",
+      "published": "Wed, 28 May 2025 20:50:00 +0000",
+      "published_parsed": "2025-05-28T20:50:00+00:00",
+      "source": "Network to Code"
+    }
+  ]
+}

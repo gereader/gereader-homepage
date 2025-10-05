@@ -1,0 +1,35 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    # Runs at Midnight, 7am, 11am, 1pm, 4pm, 6pm Pacific (UTC-7)
+    - cron: '0 1,7,14,18,23 * * *'
+  workflow_dispatch:  # Allows manual triggering from GitHub UI
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python3 -m pip install -r scripts/requirements.txt
+    
+    - name: Fetch RSS feeds
+      run: |
+        python3 scripts/fetch_rss.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add feeds.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update feeds - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
