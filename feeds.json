@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-06T02:24:24.736149+00:00",
-  "article_count": 135,
+  "last_updated": "2025-10-06T07:21:39.353364+00:00",
+  "article_count": 136,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -58,6 +58,7 @@
     "apple ii",
     "apple m5",
     "apple quicktake",
+    "apple repair",
     "apps",
     "apt",
     "arp",
@@ -102,7 +103,6 @@
     "computer-using agent",
     "containerlab",
     "containers",
-    "copd",
     "copilot",
     "coreweave",
     "cpus",
@@ -177,6 +177,7 @@
     "humanoid robots",
     "hybrid cloud",
     "hybrid networks",
+    "ifixit",
     "image synthesis",
     "immigration",
     "immigration and customs enforcement",
@@ -220,7 +221,6 @@
     "malvertising",
     "manipulation",
     "masayoshi son",
-    "mechanical counter",
     "meta",
     "microsoft",
     "microsoft 365",
@@ -279,10 +279,10 @@
     "raspberry pi 500",
     "release",
     "remote sensing",
+    "repair hacks",
     "restoration",
     "retail investors",
     "rethink robotics",
-    "reverse engineering",
     "reviews",
     "robo-advisory",
     "robot ai",
@@ -365,6 +365,32 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Spaghetti Pasta Networking",
+      "link": "https://blog.ipspace.net/2025/10/spaghetti-pasta-networking/?utm_source=atom_feed",
+      "published": "2025-10-06T08:15:00+02:00",
+      "published_parsed": "2025-10-06T08:15:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "tags": [
+        "networking",
+        "virtualization"
+      ]
+    },
+    {
+      "title": "Apple’s Continuing Failing Repair Score With the AirPods Pro 3",
+      "link": "https://hackaday.com/2025/10/05/apples-continuing-failing-repair-score-with-the-airpods-pro-3/",
+      "published": "Mon, 06 Oct 2025 05:00:06 +0000",
+      "published_parsed": "2025-10-06T05:00:06+00:00",
+      "source": "Hackaday",
+      "image": "https://hackaday.com/wp-content/uploads/2025/10/ifixit_apple_airpods_pro_3_teardown.jpg?w=800",
+      "tags": [
+        "apple repair",
+        "ifixit",
+        "repair hacks",
+        "teardown"
+      ]
+    },
     {
       "title": "Splashflag: Raising the Flag on a Pool Party",
       "link": "https://hackaday.com/2025/10/05/splashflag-raising-the-flag-on-a-pool-party/",
@@ -480,20 +506,6 @@
         "3d printer hacks",
         "one wheel",
         "skateboard"
-      ]
-    },
-    {
-      "title": "Simple Counter Mechanism in an Asthma Inhaler",
-      "link": "https://hackaday.com/2025/10/05/simple-counter-mechanism-in-an-asthma-inhaler/",
-      "published": "Sun, 05 Oct 2025 08:00:12 +0000",
-      "published_parsed": "2025-10-05T08:00:12+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/09/inhaler_counter_mechanism_anthony_francis-jones_youtube.jpg?w=800",
-      "tags": [
-        "copd",
-        "mechanical counter",
-        "reverse engineering",
-        "teardown"
       ]
     },
     {
