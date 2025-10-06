@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06T07:21:39.353364+00:00",
+  "last_updated": "2025-10-06T14:21:25.612902+00:00",
   "article_count": 136,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,10 +13,6 @@
   ],
   "tags": [
     "240z",
-    "3d printer",
-    "3d printer hacks",
-    "6502",
-    "6502 microprocessor",
     "aci",
     "advanced persistent threat",
     "agentic ai",
@@ -45,6 +41,8 @@
     "ai safety",
     "ai video generator",
     "air quality",
+    "airbag",
+    "airbags",
     "alexa",
     "amazon",
     "amazon alexa",
@@ -55,9 +53,7 @@
     "ansible",
     "anthropic",
     "apple",
-    "apple ii",
     "apple m5",
-    "apple quicktake",
     "apple repair",
     "apps",
     "apt",
@@ -66,6 +62,7 @@
     "ars live conversations",
     "artificial intelligence",
     "atomic",
+    "audio",
     "automated diagnosis",
     "automation",
     "aws",
@@ -84,6 +81,8 @@
     "cable",
     "california",
     "cambridge",
+    "car crash",
+    "car hacks",
     "certifications",
     "change management",
     "chatbots",
@@ -95,6 +94,7 @@
     "clnp",
     "cloud",
     "code agents",
+    "collision",
     "company news",
     "compliance",
     "computational efficiency",
@@ -119,6 +119,8 @@
     "design",
     "dexterity",
     "dhcp",
+    "digital audio",
+    "digital audio hacks",
     "digital surveillance",
     "disney",
     "disney plus",
@@ -130,8 +132,10 @@
     "ecology",
     "ed zitron",
     "eigrp",
+    "electric guitar",
     "elon musk",
     "emea",
+    "engineering",
     "environmental monitoring",
     "esp32",
     "esp32-s3",
@@ -141,6 +145,7 @@
     "exploit",
     "exploits",
     "fabric",
+    "featured",
     "features",
     "federal surveillance",
     "fei-fei li",
@@ -156,7 +161,6 @@
     "gcp",
     "gemini",
     "generative ai",
-    "glass",
     "gmail",
     "google",
     "google calendar",
@@ -173,6 +177,7 @@
     "history",
     "homelab",
     "human distress",
+    "human interface",
     "humanoid",
     "humanoid robots",
     "hybrid cloud",
@@ -184,6 +189,7 @@
     "inaturalist",
     "infrahub",
     "intel",
+    "interest",
     "internet",
     "internet of things",
     "investment",
@@ -214,7 +220,6 @@
     "llm",
     "load balancing",
     "long-context processing",
-    "mac hacks",
     "machine learning",
     "macos",
     "macos 26",
@@ -225,7 +230,6 @@
     "microsoft",
     "microsoft 365",
     "microsoft copilot",
-    "misc hacks",
     "mit",
     "mobile",
     "modems",
@@ -235,10 +239,9 @@
     "mqtt",
     "mtu",
     "multimodal ai",
+    "musical hacks",
     "nat",
     "navigation blog",
-    "neon",
-    "neon tube",
     "netconf",
     "netlab",
     "network assessment",
@@ -251,18 +254,20 @@
     "nfv",
     "nsx",
     "nvidia",
-    "one wheel",
     "open source",
     "openai",
     "openflow",
     "optimus",
     "oracle",
+    "original art",
     "ospf",
     "overlay networks",
     "palo alto",
     "performance",
     "personalization",
     "phishing",
+    "pie menu",
+    "pink noise",
     "piracy",
     "play store",
     "podcast",
@@ -291,6 +296,7 @@
     "robots",
     "rodney brooks",
     "russia",
+    "s/pdif",
     "safety",
     "sam altman",
     "san",
@@ -308,7 +314,6 @@
     "sev-snp",
     "sgx",
     "simon willison",
-    "skateboard",
     "slider",
     "smart home",
     "smart speakers",
@@ -320,8 +325,10 @@
     "software",
     "software gone wild",
     "sora",
+    "sound",
     "sparse attention",
     "sports",
+    "stapedius reflex",
     "stock market",
     "streaming",
     "supermicro",
@@ -339,6 +346,7 @@
     "turla",
     "tvs",
     "ubs",
+    "ui",
     "unitree",
     "update",
     "vibe coding",
@@ -366,6 +374,43 @@
   ],
   "articles": [
     {
+      "title": "Airbags, and How Mercedes-Benz Hacked Your Hearing",
+      "link": "https://hackaday.com/2025/10/06/how-mercedes-benz-hacked-your-hearing/",
+      "published": "Mon, 06 Oct 2025 14:00:42 +0000",
+      "published_parsed": "2025-10-06T14:00:42+00:00",
+      "source": "Hackaday",
+      "image": "https://hackaday.com/wp-content/uploads/2025/09/BenzHearing.jpg?w=800",
+      "tags": [
+        "airbag",
+        "airbags",
+        "car crash",
+        "car hacks",
+        "collision",
+        "engineering",
+        "featured",
+        "interest",
+        "original art",
+        "pink noise",
+        "sound",
+        "stapedius reflex"
+      ]
+    },
+    {
+      "title": "GuitarPie Uses Guitar as Interface, No Raspberries Needed",
+      "link": "https://hackaday.com/2025/10/06/guitarpie-uses-guitar-as-interface-no-raspberries-needed/",
+      "published": "Mon, 06 Oct 2025 11:00:44 +0000",
+      "published_parsed": "2025-10-06T11:00:44+00:00",
+      "source": "Hackaday",
+      "image": "https://hackaday.com/wp-content/uploads/2025/10/GuitarPie-YouTube-e1759325254805.png?w=625",
+      "tags": [
+        "electric guitar",
+        "human interface",
+        "musical hacks",
+        "pie menu",
+        "ui"
+      ]
+    },
+    {
       "title": "Spaghetti Pasta Networking",
       "link": "https://blog.ipspace.net/2025/10/spaghetti-pasta-networking/?utm_source=atom_feed",
       "published": "2025-10-06T08:15:00+02:00",
@@ -375,6 +420,20 @@
       "tags": [
         "networking",
         "virtualization"
+      ]
+    },
+    {
+      "title": "ESP32 Decodes S/PDIF Like A Boss (Or Any Regular Piece of Hi-Fi Equipment)",
+      "link": "https://hackaday.com/2025/10/06/esp32-decodes-s-pdif-like-a-boss-or-any-regular-piece-of-hi-fi-equipment/",
+      "published": "Mon, 06 Oct 2025 08:00:41 +0000",
+      "published_parsed": "2025-10-06T08:00:41+00:00",
+      "source": "Hackaday",
+      "image": "https://hackaday.com/wp-content/uploads/2021/07/esp32-linux-featured.jpg?w=800",
+      "tags": [
+        "audio",
+        "digital audio",
+        "digital audio hacks",
+        "s/pdif"
       ]
     },
     {
@@ -454,35 +513,6 @@
       ]
     },
     {
-      "title": "Optimizing a QuickTake Image Decoder for the Apple II’s 6502",
-      "link": "https://hackaday.com/2025/10/05/optimizing-a-quicktake-image-decoder-for-the-apple-iis-6502/",
-      "published": "Sun, 05 Oct 2025 17:00:54 +0000",
-      "published_parsed": "2025-10-05T17:00:54+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/09/apple_ii_quicktake_image_decoder_Colin_Leroy-Mira.jpg?w=800",
-      "tags": [
-        "6502",
-        "6502 microprocessor",
-        "apple ii",
-        "apple quicktake",
-        "mac hacks"
-      ]
-    },
-    {
-      "title": "Wearable Neon Necklaces Run On Battery Power",
-      "link": "https://hackaday.com/2025/10/05/wearable-neon-necklaces-run-on-battery-power/",
-      "published": "Sun, 05 Oct 2025 14:00:25 +0000",
-      "published_parsed": "2025-10-05T14:00:25+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/09/27755d711e9072ff-e1759150884566.jpg?w=800",
-      "tags": [
-        "glass",
-        "misc hacks",
-        "neon",
-        "neon tube"
-      ]
-    },
-    {
       "title": "How to Take Packet Captures in ContainerLab/Netlab?",
       "link": "https://www.packetswitch.co.uk/how-to-take-packet-captures-in-containerlab-netlab/",
       "published": "Sun, 05 Oct 2025 11:31:04 GMT",
@@ -492,20 +522,6 @@
       "tags": [
         "containerlab",
         "networking"
-      ]
-    },
-    {
-      "title": "3D Printing A New Kind Of Skateboard That Is Ultimately Unsafe",
-      "link": "https://hackaday.com/2025/10/05/3d-printing-a-new-kind-of-skateboard-that-is-ultimately-unsafe/",
-      "published": "Sun, 05 Oct 2025 11:00:35 +0000",
-      "published_parsed": "2025-10-05T11:00:35+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/09/I-Invented-A-New-Type-of-Skateboard-11-46-screenshot-1.png?w=800",
-      "tags": [
-        "3d printer",
-        "3d printer hacks",
-        "one wheel",
-        "skateboard"
       ]
     },
     {
