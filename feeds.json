@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06T18:31:21.006264+00:00",
+  "last_updated": "2025-10-06T23:18:40.373660+00:00",
   "article_count": 136,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,6 +12,8 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "2g",
+    "2g network",
     "aci",
     "advanced persistent threat",
     "agentic ai",
@@ -52,7 +54,6 @@
     "anthropic",
     "apple",
     "apple m5",
-    "apple repair",
     "apps",
     "apt",
     "arp",
@@ -113,7 +114,6 @@
     "design",
     "dexterity",
     "dhcp",
-    "digital audio",
     "digital audio hacks",
     "digital surveillance",
     "disney",
@@ -164,6 +164,7 @@
     "google home",
     "government surveillance",
     "gpus",
+    "gsm base station",
     "habitat mapping",
     "hackaday columns",
     "hacking",
@@ -177,7 +178,6 @@
     "humanoid robots",
     "hybrid cloud",
     "hybrid networks",
-    "ifixit",
     "image synthesis",
     "immigration",
     "immigration and customs enforcement",
@@ -251,6 +251,7 @@
     "open source",
     "openai",
     "openflow",
+    "optics",
     "optimus",
     "oracle",
     "original art",
@@ -260,6 +261,7 @@
     "performance",
     "personalization",
     "phishing",
+    "phone hacks",
     "pie menu",
     "pink noise",
     "piracy",
@@ -272,12 +274,12 @@
     "programming",
     "python",
     "qos",
+    "radio hacks",
     "raspberry pi 400",
     "raspberry pi 5",
     "raspberry pi 500",
     "release",
     "remote sensing",
-    "repair hacks",
     "retail investors",
     "rethink robotics",
     "reviews",
@@ -287,21 +289,25 @@
     "robots",
     "rodney brooks",
     "russia",
-    "s/pdif",
     "safety",
     "sam altman",
     "san",
     "satellite imagery",
     "sb energy",
+    "schlieren",
+    "schlieren photography",
+    "science",
     "scott wiener",
     "sd-wan",
     "sdn",
+    "sdr",
     "security",
     "segment routing",
     "sentinel satellites",
     "service providers",
     "sev-snp",
     "sgx",
+    "shadowgraph",
     "simon willison",
     "smart home",
     "smart speakers",
@@ -325,7 +331,6 @@
     "switching",
     "syndication",
     "tcp",
-    "teardown",
     "tech",
     "tesla",
     "tessera",
@@ -345,6 +350,7 @@
     "vibe writing",
     "video",
     "video synthesis",
+    "vintage phone",
     "virtualization",
     "vmware",
     "vpn",
@@ -364,6 +370,38 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Finding Simpler Schlieren Imaging Systems",
+      "link": "https://hackaday.com/2025/10/06/finding-simpler-schlieren-imaging-systems/",
+      "published": "Mon, 06 Oct 2025 23:00:50 +0000",
+      "published_parsed": "2025-10-06T23:00:50+00:00",
+      "source": "Hackaday",
+      "image": "https://hackaday.com/wp-content/uploads/2025/10/background_pattern_schlieren_imaging.png?w=800",
+      "tags": [
+        "optics",
+        "schlieren",
+        "schlieren photography",
+        "science",
+        "shadowgraph"
+      ]
+    },
+    {
+      "title": "2G Gone? Bring It Back Yourself!",
+      "link": "https://hackaday.com/2025/10/06/2g-gone-bring-it-back-yourself/",
+      "published": "Mon, 06 Oct 2025 20:00:13 +0000",
+      "published_parsed": "2025-10-06T20:00:13+00:00",
+      "source": "Hackaday",
+      "image": "https://hackaday.com/wp-content/uploads/2025/10/dosdude-GSM-e1759504763515.jpg?w=625",
+      "tags": [
+        "2g",
+        "2g network",
+        "gsm base station",
+        "phone hacks",
+        "radio hacks",
+        "sdr",
+        "vintage phone"
+      ]
+    },
     {
       "title": "Logitech POP Buttons are About to go Pop",
       "link": "https://hackaday.com/2025/10/06/logitech-pop-buttons-are-about-to-go-pop/",
@@ -487,34 +525,6 @@
       "tags": [
         "networking",
         "virtualization"
-      ]
-    },
-    {
-      "title": "ESP32 Decodes S/PDIF Like A Boss (Or Any Regular Piece of Hi-Fi Equipment)",
-      "link": "https://hackaday.com/2025/10/06/esp32-decodes-s-pdif-like-a-boss-or-any-regular-piece-of-hi-fi-equipment/",
-      "published": "Mon, 06 Oct 2025 08:00:41 +0000",
-      "published_parsed": "2025-10-06T08:00:41+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2021/07/esp32-linux-featured.jpg?w=800",
-      "tags": [
-        "audio",
-        "digital audio",
-        "digital audio hacks",
-        "s/pdif"
-      ]
-    },
-    {
-      "title": "Apple’s Continuing Failing Repair Score With the AirPods Pro 3",
-      "link": "https://hackaday.com/2025/10/05/apples-continuing-failing-repair-score-with-the-airpods-pro-3/",
-      "published": "Mon, 06 Oct 2025 05:00:06 +0000",
-      "published_parsed": "2025-10-06T05:00:06+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/10/ifixit_apple_airpods_pro_3_teardown.jpg?w=800",
-      "tags": [
-        "apple repair",
-        "ifixit",
-        "repair hacks",
-        "teardown"
       ]
     },
     {
