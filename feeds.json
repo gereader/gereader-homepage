@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-07T07:20:29.698048+00:00",
-  "article_count": 128,
+  "last_updated": "2025-10-07T14:22:40.423598+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -318,6 +318,21 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Working for a Vendor with David Gee",
+      "link": "https://blog.ipspace.net/2025/10/working-for-vendor-david-gee/?utm_source=atom_feed",
+      "published": "2025-10-07T08:23:00+02:00",
+      "published_parsed": "2025-10-07T08:23:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I first met David Gee, he worked for a large system integrator. A few years later, he moved to a networking vendor, worked for a few of them, then for a software vendor, and finally decided to start his own system integration business. Obviously, I wanted to know what drove him to make those...",
+      "tags": [
+        "netlab",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "AMD wins massive AI chip deal from OpenAI with stock sweetener",
       "link": "https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/",
