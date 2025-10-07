@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-07T03:34:15.305296+00:00",
-  "article_count": 129,
+  "last_updated": "2025-10-07T07:20:29.698048+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2270,19 +2270,6 @@
       "tags": [
         "aws",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: The Secret Rules of the Terminal",
-      "link": "https://blog.ipspace.net/2025/07/worth-reading-secret-rules-terminal/?utm_source=atom_feed",
-      "published": "2025-07-09T08:36:00+02:00",
-      "published_parsed": "2025-07-09T08:36:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Did you ever wonder why pressing an up-arrow in a (Linux) terminal window sometimes recalls the previous command but other times creates ^[[A ? Julia Evans did, and spent months exploring the quirks of the Linux terminal (and writing blog posts describing what she found), finally resulting in The...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
