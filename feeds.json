@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-07T14:22:40.423598+00:00",
-  "article_count": 129,
+  "last_updated": "2025-10-07T18:31:53.632499+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -47,10 +47,12 @@
     "announcement",
     "ansible",
     "anthropic",
+    "antitrust",
     "apple",
     "apple m5",
     "apps",
     "apt",
+    "arduino",
     "arp",
     "ars live",
     "ars live conversations",
@@ -80,7 +82,6 @@
     "chinese ai",
     "cisco",
     "clay magouyrk",
-    "clnp",
     "cloud",
     "code agents",
     "company news",
@@ -105,8 +106,6 @@
     "dexterity",
     "dhcp",
     "digital surveillance",
-    "disney",
-    "disney plus",
     "dmvpn",
     "dns",
     "docker",
@@ -161,17 +160,16 @@
     "intel",
     "internet",
     "investment",
-    "ios",
     "ios 26",
     "ip routing",
     "ipad",
     "ipad pro",
+    "ipados",
     "ipados 26",
     "iphone",
     "iphone 17",
     "iphone 17 air",
     "iphone 17 pro",
-    "iphone air",
     "ipv6",
     "irobot",
     "is-is",
@@ -239,6 +237,7 @@
     "programming",
     "python",
     "qos",
+    "qualcomm",
     "raspberry pi 400",
     "raspberry pi 5",
     "raspberry pi 500",
@@ -246,7 +245,6 @@
     "remote sensing",
     "retail investors",
     "rethink robotics",
-    "reviews",
     "robo-advisory",
     "robot ai",
     "robotics",
@@ -318,6 +316,51 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Qualcomm buys Arduino, releases new Raspberry Pi-esque Arduino board",
+      "link": "https://arstechnica.com/gadgets/2025/10/arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm/",
+      "published": "Tue, 07 Oct 2025 16:30:16 +0000",
+      "published_parsed": "2025-10-07T16:30:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Qualcomm claims Arduino will keep its own branding and \"open source ethos.\"",
+      "tags": [
+        "arduino",
+        "qualcomm",
+        "tech"
+      ]
+    },
+    {
+      "title": "Play Store changes coming this month as SCOTUS declines to freeze antitrust remedies",
+      "link": "https://arstechnica.com/gadgets/2025/10/supreme-court-refuses-to-pause-play-store-changes-while-google-appeals-antitrust-case/",
+      "published": "Tue, 07 Oct 2025 15:56:43 +0000",
+      "published_parsed": "2025-10-07T15:56:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The first app store changes are due in a few weeks, with the major changes coming next summer.",
+      "tags": [
+        "antitrust",
+        "apps",
+        "google",
+        "play store",
+        "tech"
+      ]
+    },
+    {
+      "title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision",
+      "link": "https://arstechnica.com/gadgets/2025/10/newest-developer-beta-backtracks-on-one-ipados-26-multitasking-decision/",
+      "published": "Tue, 07 Oct 2025 15:42:23 +0000",
+      "published_parsed": "2025-10-07T15:42:23+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple had removed many of the iPad's old multitasking modes in the new update.",
+      "tags": [
+        "apple",
+        "ipados",
+        "ipados 26",
+        "tech"
+      ]
+    },
     {
       "title": "Working for a Vendor with David Gee",
       "link": "https://blog.ipspace.net/2025/10/working-for-vendor-david-gee/?utm_source=atom_feed",
@@ -1039,40 +1082,6 @@
       ]
     },
     {
-      "title": "Apple iPhone 17 review: Sometimes boring is best",
-      "link": "https://arstechnica.com/gadgets/2025/09/review-apples-injects-just-the-right-amount-of-pro-into-the-regular-iphone-17/",
-      "published": "Thu, 25 Sep 2025 16:10:46 +0000",
-      "published_parsed": "2025-09-25T16:10:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The least exciting iPhone this year is also the best value for the money.",
-      "tags": [
-        "apple",
-        "features",
-        "iphone 17",
-        "iphone 17 pro",
-        "iphone air",
-        "tech"
-      ]
-    },
-    {
-      "title": "Reviewing iOS 26 for power users: Reminders, Preview, and more",
-      "link": "https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/",
-      "published": "Thu, 25 Sep 2025 14:17:18 +0000",
-      "published_parsed": "2025-09-25T14:17:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "These features try to turn iPhones into more powerful work and organization tools.",
-      "tags": [
-        "ai",
-        "apple",
-        "generative ai",
-        "ios",
-        "reviews",
-        "tech"
-      ]
-    },
-    {
       "title": "As many as 2 million Cisco devices affected by actively exploited 0-day",
       "link": "https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/",
       "published": "Thu, 25 Sep 2025 12:43:42 +0000",
@@ -1198,21 +1207,6 @@
         "machine learning",
         "microsoft",
         "openai"
-      ]
-    },
-    {
-      "title": "Disney decides it hasn’t angered people enough, announces Disney+ price hikes",
-      "link": "https://arstechnica.com/gadgets/2025/09/disney-decides-it-hasnt-angered-people-enough-announces-disney-price-hikes/",
-      "published": "Tue, 23 Sep 2025 21:22:04 +0000",
-      "published_parsed": "2025-09-23T21:22:04+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "In case you needed another reason to get rid of Disney+.",
-      "tags": [
-        "disney",
-        "disney plus",
-        "streaming",
-        "tech"
       ]
     },
     {
@@ -2271,19 +2265,6 @@
         "emea",
         "network assessment",
         "network automation",
-        "networking"
-      ]
-    },
-    {
-      "title": "AWS Transit Gateway VPN Attachment and Resource Access Manager (VII)",
-      "link": "https://www.packetswitch.co.uk/aws-transit-gateway-vpn-attachment-and-resource-access-manager/",
-      "published": "Wed, 09 Jul 2025 17:59:05 GMT",
-      "published_parsed": "2025-07-09T17:59:05+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/07/aws-series-8-.png",
-      "summary": "In this post, we will build on that knowledge and look at creating and attaching a Site-to-Site VPN to the Transit Gateway. We will also cover",
-      "tags": [
-        "aws",
         "networking"
       ]
     }
