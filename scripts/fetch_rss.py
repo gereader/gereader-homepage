@@ -4,6 +4,7 @@ from datetime import datetime, timezone, timedelta
 from dateutil import parser as date_parser
 from html.parser import HTMLParser
 from urllib.parse import urljoin
+import re
 
 FEEDS = [
     {
@@ -30,11 +31,6 @@ FEEDS = [
         "url": "https://networkautomation.forum/blog?format=rss",
         "title": "Network Automation Forum",
         "manual_tags": ["networking"]
-    },
-    {
-        "url": "https://hackaday.com/feed/",
-        "title": "Hackaday",
-        "manual_tags": []
     },
     {
         "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
@@ -64,6 +60,18 @@ class ImageExtractor(HTMLParser):
             if 'src' in attrs_dict:
                 self.image_url = attrs_dict['src']
 
+class TextExtractor(HTMLParser):
+    """Extract plain text from HTML content"""
+    def __init__(self):
+        super().__init__()
+        self.text = []
+    
+    def handle_data(self, data):
+        self.text.append(data)
+    
+    def get_text(self):
+        return ' '.join(self.text)
+
 def extract_first_image(html_content, base_url):
     """Extract first image from HTML and convert to absolute URL"""
     if not html_content:
@@ -77,6 +85,40 @@ def extract_first_image(html_content, base_url):
         return urljoin(base_url, parser.image_url)
     
     return None
+
+def clean_html_to_text(html_content):
+    """Convert HTML to plain text and clean it up"""
+    if not html_content:
+        return ""
+    
+    parser = TextExtractor()
+    parser.feed(html_content)
+    text = parser.get_text()
+    
+    # Clean up whitespace
+    text = re.sub(r'\s+', ' ', text)
+    text = text.strip()
+    
+    return text
+
+def extract_summary(entry, max_length=300):
+    """Extract and clean summary from RSS entry"""
+    summary_text = ""
+    
+    # Try to get summary from various fields
+    if 'summary' in entry:
+        summary_text = clean_html_to_text(entry.summary)
+    elif 'description' in entry:
+        summary_text = clean_html_to_text(entry.description)
+    elif 'content' in entry and entry.content:
+        # Use first content block
+        summary_text = clean_html_to_text(entry.content[0]['value'])
+    
+    # Truncate if too long
+    if len(summary_text) > max_length:
+        summary_text = summary_text[:max_length].rsplit(' ', 1)[0] + '...'
+    
+    return summary_text
 
 def extract_tags(entry, feed_config):
     """Extract tags/categories from RSS entry, with manual override option"""
@@ -138,6 +180,9 @@ def fetch_all_feeds():
             elif 'summary' in entry:
                 image_url = extract_first_image(entry.summary, entry.link)
             
+            # Extract summary
+            summary = extract_summary(entry)
+            
             # Extract tags/categories
             tags = extract_tags(entry, feed_config)
             all_tags.update(tags)
@@ -149,6 +194,7 @@ def fetch_all_feeds():
                 'published_parsed': date_iso,
                 'source': custom_title,
                 'image': image_url,
+                'summary': summary,
                 'tags': tags,
             })
     

@@ -22,6 +22,7 @@
             --button-disabled: #ccc;
             --tag-bg: #f0f0f0;
             --tag-active: #0066cc;
+            --summary-color: #555;
         }
         
         [data-theme="dark"] {
@@ -37,6 +38,7 @@
             --button-disabled: #444;
             --tag-bg: #2a2a2a;
             --tag-active: #6ab0f3;
+            --summary-color: #bbb;
         }
         
         body {
@@ -290,10 +292,34 @@
             text-decoration: line-through;
             color: var(--meta-color);
         }
+
+        .article-summary {
+            color: var(--summary-color);
+            font-size: 0.95em;
+            line-height: 1.5;
+            margin-top: 8px;
+        }
         
         .loading {
             text-align: center;
             color: var(--meta-color);
+        }
+
+        .show-more-tags {
+            background: none;
+            border: 1px solid var(--light-border);
+            color: var(--meta-color);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .show-more-tags:hover {
+            background: var(--tag-bg);
+            border-color: var(--link-color);
+            color: var(--link-color);
         }
         
         .pagination {
@@ -386,6 +412,19 @@
                 </div>
                 <div class="active-filters" id="activeTagFilters"></div>
             </div>
+            
+            <div class="filter-section">
+                <div class="filter-controls">
+                    <label class="filter-label" for="searchBox">Search:</label>
+                    <input 
+                        type="text" 
+                        id="searchBox" 
+                        class="filter-select" 
+                        placeholder="Search articles..."
+                        oninput="handleSearch(this.value)"
+                        autocomplete="off">
+                </div>
+            </div>
 
             <div class="filter-section">
                 <button class="clear-filters-btn" id="clearFiltersBtn" onclick="clearAllFilters()" disabled>
@@ -414,6 +453,7 @@
         let hideRead = false;
         let selectedSources = [];
         let selectedTags = [];
+        let searchQuery = '';
         
         // Dark mode functionality
         function initTheme() {
@@ -434,6 +474,44 @@
             const currentTheme = document.documentElement.getAttribute('data-theme');
             const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
             setTheme(newTheme);
+        }
+
+        function handleSearch(query) {
+            searchQuery = query.toLowerCase().trim();
+            renderActiveFilters();
+            displayPage(1);
+        }
+
+        // Update getFilteredArticles() to include search:
+        function getFilteredArticles() {
+            let filtered = allArticles;
+            
+            // Apply source filter
+            if (selectedSources.length > 0) {
+                filtered = filtered.filter(article => selectedSources.includes(article.source));
+            }
+            
+            // Apply tag filter
+            if (selectedTags.length > 0) {
+                filtered = filtered.filter(article => 
+                    article.tags && article.tags.some(tag => selectedTags.includes(tag))
+                );
+            }
+            
+            // Apply search filter
+            if (searchQuery) {
+                filtered = filtered.filter(article => 
+                    article.title.toLowerCase().includes(searchQuery) ||
+                    (article.summary && article.summary.toLowerCase().includes(searchQuery))
+                );
+            }
+            
+            // Apply hide read filter
+            if (hideRead) {
+                filtered = filtered.filter(article => !isRead(article.link));
+            }
+            
+            return filtered;
         }
         
         // Read tracking functionality
@@ -564,10 +642,13 @@
         function clearAllFilters() {
             selectedSources = [];
             selectedTags = [];
+            searchQuery = '';
             localStorage.setItem('selectedSources', JSON.stringify(selectedSources));
             localStorage.setItem('selectedTags', JSON.stringify(selectedTags));
-            renderActiveFilters();
             displayPage(1);
+            document.getElementById('searchBox').value = '';
+            renderActiveFilters();
+
         }
         
         function renderActiveFilters() {
@@ -597,32 +678,16 @@
                 tagContainer.appendChild(chip);
             });
             
-            // Update clear button state
+            // Show/hide clear button based on active filters OR search
             const clearBtn = document.getElementById('clearFiltersBtn');
-            clearBtn.disabled = selectedSources.length === 0 && selectedTags.length === 0;
-        }
-        
-        function getFilteredArticles() {
-            let filtered = allArticles;
+            const hasActiveFilters = selectedSources.length > 0 || selectedTags.length > 0 || searchQuery !== '';
             
-            // Apply source filter (if any sources selected)
-            if (selectedSources.length > 0) {
-                filtered = filtered.filter(article => selectedSources.includes(article.source));
+            if (hasActiveFilters) {
+                clearBtn.style.display = 'block';
+                clearBtn.disabled = false;
+            } else {
+                clearBtn.style.display = 'none';
             }
-            
-            // Apply tag filter (if any tags selected)
-            if (selectedTags.length > 0) {
-                filtered = filtered.filter(article => 
-                    article.tags && article.tags.some(tag => selectedTags.includes(tag))
-                );
-            }
-            
-            // Apply hide read filter
-            if (hideRead) {
-                filtered = filtered.filter(article => !isRead(article.link));
-            }
-            
-            return filtered;
         }
         
         // Initialize
@@ -705,7 +770,7 @@
                     articleHTML += `<img src="${article.image}" alt="" class="article-thumbnail" onerror="this.style.display='none'">`;
                 }
                 
-                // Display article with a Display red button
+                // Display article with a Display read button
                 articleHTML += `
                     <div class="article-content">
                         <div style="display: flex; justify-content: space-between; align-items: start;">
@@ -721,13 +786,42 @@
                             ${article.source} • ${dateStr}
                         </div>
                 `;
+
+                // Add summary if available
+                if (article.summary) {
+                    articleHTML += `<div class="article-summary">${article.summary}</div>`;
+                }
                 
                 // Add tags if present
                 if (article.tags && article.tags.length > 0) {
                     articleHTML += '<div class="article-tags">';
-                    article.tags.forEach(tag => {
+                    
+                    const maxVisibleTags = 5;
+                    const hasMoreTags = article.tags.length > maxVisibleTags;
+                    
+                    // Show first 5 tags
+                    article.tags.slice(0, maxVisibleTags).forEach(tag => {
                         articleHTML += `<span class="article-tag">${tag}</span>`;
                     });
+                    
+                    // If there are more than 5, add hidden tags and a toggle button
+                    if (hasMoreTags) {
+                        const articleId = article.link.replace(/[^a-zA-Z0-9]/g, '_'); // Create unique ID
+                        
+                        // Hidden tags
+                        article.tags.slice(maxVisibleTags).forEach(tag => {
+                            articleHTML += `<span class="article-tag article-tag-hidden" id="tag-${articleId}" style="display: none;">${tag}</span>`;
+                        });
+                        
+                        // Show more button
+                        const remainingCount = article.tags.length - maxVisibleTags;
+                        articleHTML += `
+                            <button class="show-more-tags" onclick="toggleTags('${articleId}')" id="btn-${articleId}">
+                                +${remainingCount} more
+                            </button>
+                        `;
+                    }
+                    
                     articleHTML += '</div>';
                 }
                 
@@ -779,6 +873,23 @@
         
         function changePage(delta) {
             displayPage(currentPage + delta);
+        }
+
+        function toggleTags(articleId) {
+            const hiddenTags = document.querySelectorAll(`#tag-${articleId}`);
+            const button = document.getElementById(`btn-${articleId}`);
+            const isHidden = hiddenTags[0].style.display === 'none';
+            
+            hiddenTags.forEach(tag => {
+                tag.style.display = isHidden ? 'inline-block' : 'none';
+            });
+            
+            if (isHidden) {
+                button.textContent = 'show less';
+            } else {
+                const hiddenCount = hiddenTags.length;
+                button.textContent = `+${hiddenCount} more`;
+            }
         }
         
         // Load feeds when page loads

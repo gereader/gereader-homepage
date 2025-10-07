@@ -1,10 +1,9 @@
 {
-  "last_updated": "2025-10-07T02:21:49.517631+00:00",
-  "article_count": 136,
+  "last_updated": "2025-10-07T03:34:15.305296+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
-    "Hackaday",
     "NetBrain Blog",
     "Network Automation Forum",
     "Packet Coders",
@@ -12,8 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "2g",
-    "2g network",
     "aci",
     "advanced persistent threat",
     "agentic ai",
@@ -42,15 +39,11 @@
     "ai risks",
     "ai safety",
     "ai video generator",
-    "airbag",
-    "airbags",
     "amazon",
     "amazon alexa",
     "amd",
     "amos",
     "andreessen horowitz",
-    "android",
-    "android hacks",
     "announcement",
     "ansible",
     "anthropic",
@@ -63,8 +56,6 @@
     "ars live conversations",
     "artificial intelligence",
     "atomic",
-    "audio",
-    "audio analyser",
     "automated diagnosis",
     "automation",
     "aws",
@@ -81,8 +72,6 @@
     "cable",
     "california",
     "cambridge",
-    "car crash",
-    "car hacks",
     "certifications",
     "change management",
     "chatbots",
@@ -94,7 +83,6 @@
     "clnp",
     "cloud",
     "code agents",
-    "collision",
     "company news",
     "compliance",
     "computational efficiency",
@@ -116,25 +104,19 @@
     "design",
     "dexterity",
     "dhcp",
-    "digital audio hacks",
     "digital surveillance",
     "disney",
     "disney plus",
-    "distortion",
     "dmvpn",
     "dns",
     "docker",
     "dora",
-    "drm",
     "dynamic maps",
-    "e-textile",
-    "e-textiles",
     "ecology",
     "ed zitron",
     "eigrp",
     "elon musk",
     "emea",
-    "engineering",
     "environmental monitoring",
     "etoro",
     "evpn",
@@ -142,19 +124,15 @@
     "exploit",
     "exploits",
     "fabric",
-    "featured",
     "features",
     "federal surveillance",
     "fei-fei li",
-    "fiber",
     "field validation",
     "figure",
     "financial advice",
     "fire tv",
     "firewall",
     "firewalls",
-    "flexible circuit board",
-    "flexible circuits",
     "gamaredon",
     "gavin newsom",
     "gcp",
@@ -166,15 +144,11 @@
     "google home",
     "government surveillance",
     "gpus",
-    "gsm base station",
     "habitat mapping",
-    "hackaday columns",
     "hacking",
     "hbo max",
     "high availability",
     "history",
-    "home entertainment hacks",
-    "home hacks",
     "homelab",
     "humanoid robots",
     "hybrid cloud",
@@ -185,7 +159,6 @@
     "inaturalist",
     "infrahub",
     "intel",
-    "interest",
     "internet",
     "investment",
     "ios",
@@ -204,8 +177,6 @@
     "is-is",
     "jack clark",
     "jinja",
-    "knitting",
-    "know audio",
     "lan",
     "language models",
     "large language models",
@@ -214,7 +185,6 @@
     "lisp",
     "llm",
     "load balancing",
-    "logitech",
     "long-context processing",
     "machine learning",
     "macos",
@@ -245,25 +215,20 @@
     "network visibility",
     "networking",
     "networking fundamentals",
-    "news",
     "nfv",
     "nsx",
     "nvidia",
     "open source",
     "openai",
     "openflow",
-    "optics",
     "optimus",
     "oracle",
-    "original art",
     "ospf",
     "overlay networks",
     "palo alto",
     "performance",
     "personalization",
     "phishing",
-    "phone hacks",
-    "pink noise",
     "piracy",
     "play store",
     "podcast",
@@ -274,7 +239,6 @@
     "programming",
     "python",
     "qos",
-    "radio hacks",
     "raspberry pi 400",
     "raspberry pi 5",
     "raspberry pi 500",
@@ -294,20 +258,15 @@
     "san",
     "satellite imagery",
     "sb energy",
-    "schlieren",
-    "schlieren photography",
-    "science",
     "scott wiener",
     "sd-wan",
     "sdn",
-    "sdr",
     "security",
     "segment routing",
     "sentinel satellites",
     "service providers",
     "sev-snp",
     "sgx",
-    "shadowgraph",
     "simon willison",
     "smart home",
     "smart speakers",
@@ -319,12 +278,8 @@
     "software",
     "software gone wild",
     "sora",
-    "sound",
     "sparse attention",
     "sports",
-    "stapedius reflex",
-    "stm32",
-    "stm32duino",
     "stock market",
     "streaming",
     "supermicro",
@@ -334,8 +289,6 @@
     "tech",
     "tesla",
     "tessera",
-    "thd",
-    "thread",
     "tips",
     "traffic engineering",
     "training",
@@ -349,7 +302,6 @@
     "vibe writing",
     "video",
     "video synthesis",
-    "vintage phone",
     "virtualization",
     "vmware",
     "vpn",
@@ -357,9 +309,6 @@
     "walking robots",
     "wan",
     "warner bros. discovery",
-    "wearable",
-    "wearable hacks",
-    "weaving",
     "wildlife conservation",
     "word",
     "worth reading",
@@ -370,111 +319,13 @@
   ],
   "articles": [
     {
-      "title": "Google Confirms Non-ADB APK Installs Will Require Developer Registration",
-      "link": "https://hackaday.com/2025/10/06/google-confirms-non-adb-apk-installs-will-require-developer-registration/",
-      "published": "Tue, 07 Oct 2025 02:00:53 +0000",
-      "published_parsed": "2025-10-07T02:00:53+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2017/04/security.jpg?w=800",
-      "tags": [
-        "android",
-        "android hacks",
-        "drm",
-        "news"
-      ]
-    },
-    {
-      "title": "Finding Simpler Schlieren Imaging Systems",
-      "link": "https://hackaday.com/2025/10/06/finding-simpler-schlieren-imaging-systems/",
-      "published": "Mon, 06 Oct 2025 23:00:50 +0000",
-      "published_parsed": "2025-10-06T23:00:50+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/10/background_pattern_schlieren_imaging.png?w=800",
-      "tags": [
-        "optics",
-        "schlieren",
-        "schlieren photography",
-        "science",
-        "shadowgraph"
-      ]
-    },
-    {
-      "title": "2G Gone? Bring It Back Yourself!",
-      "link": "https://hackaday.com/2025/10/06/2g-gone-bring-it-back-yourself/",
-      "published": "Mon, 06 Oct 2025 20:00:13 +0000",
-      "published_parsed": "2025-10-06T20:00:13+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/10/dosdude-GSM-e1759504763515.jpg?w=625",
-      "tags": [
-        "2g",
-        "2g network",
-        "gsm base station",
-        "phone hacks",
-        "radio hacks",
-        "sdr",
-        "vintage phone"
-      ]
-    },
-    {
-      "title": "Logitech POP Buttons are About to go Pop",
-      "link": "https://hackaday.com/2025/10/06/logitech-pop-buttons-are-about-to-go-pop/",
-      "published": "Mon, 06 Oct 2025 18:00:59 +0000",
-      "published_parsed": "2025-10-06T18:00:59+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/10/logitech_pop_smart_button_packaging.jpg?w=800",
-      "tags": [
-        "home hacks",
-        "logitech",
-        "smart home"
-      ]
-    },
-    {
-      "title": "Know Audio: Distortion Part Two",
-      "link": "https://hackaday.com/2025/10/06/know-audio-distortion-part-two/",
-      "published": "Mon, 06 Oct 2025 17:00:36 +0000",
-      "published_parsed": "2025-10-06T17:00:36+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2021/06/Audio.jpg?w=800",
-      "tags": [
-        "audio",
-        "audio analyser",
-        "digital audio hacks",
-        "distortion",
-        "hackaday columns",
-        "home entertainment hacks",
-        "know audio",
-        "thd"
-      ]
-    },
-    {
-      "title": "Weaving Circuits from Electronic Threads",
-      "link": "https://hackaday.com/2025/10/06/weaving-circuits-from-electronic-threads/",
-      "published": "Mon, 06 Oct 2025 15:30:44 +0000",
-      "published_parsed": "2025-10-06T15:30:44+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/10/fibercircuits_glove_demonstration.gif?w=800",
-      "tags": [
-        "e-textile",
-        "e-textiles",
-        "fiber",
-        "flexible circuit board",
-        "flexible circuits",
-        "knitting",
-        "stm32",
-        "stm32duino",
-        "thread",
-        "wearable",
-        "wearable hacks",
-        "weaving"
-      ]
-    },
-    {
       "title": "AMD wins massive AI chip deal from OpenAI with stock sweetener",
       "link": "https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/",
       "published": "Mon, 06 Oct 2025 14:45:28 +0000",
       "published_parsed": "2025-10-06T14:45:28+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "ChatGPT maker will be allowed to buy 10% of AMD for a penny per share.",
       "tags": [
         "ai",
         "ai chips",
@@ -492,34 +343,13 @@
       ]
     },
     {
-      "title": "Airbags, and How Mercedes-Benz Hacked Your Hearing",
-      "link": "https://hackaday.com/2025/10/06/how-mercedes-benz-hacked-your-hearing/",
-      "published": "Mon, 06 Oct 2025 14:00:42 +0000",
-      "published_parsed": "2025-10-06T14:00:42+00:00",
-      "source": "Hackaday",
-      "image": "https://hackaday.com/wp-content/uploads/2025/09/BenzHearing.jpg?w=800",
-      "tags": [
-        "airbag",
-        "airbags",
-        "car crash",
-        "car hacks",
-        "collision",
-        "engineering",
-        "featured",
-        "interest",
-        "original art",
-        "pink noise",
-        "sound",
-        "stapedius reflex"
-      ]
-    },
-    {
       "title": "Spaghetti Pasta Networking",
       "link": "https://blog.ipspace.net/2025/10/spaghetti-pasta-networking/?utm_source=atom_feed",
       "published": "2025-10-06T08:15:00+02:00",
       "published_parsed": "2025-10-06T08:15:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Here’s an interesting data point in case you ever wondered why things are getting slower, even though the CPU performance is supposedly increasing. Albert Siersema sent me a link to a confusing implementation of spaghetti networking . It looks like they’re trying to solve the how do I connect two...",
       "tags": [
         "networking",
         "virtualization"
@@ -532,6 +362,7 @@
       "published_parsed": "2025-10-05T11:31:04+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/09/containerlab-wireshark.png",
+      "summary": "In this post, we’ll look at how to take Wireshark Packet Captures in Containerlab labs. We will look at both Edgeshark and VS Code Extension.",
       "tags": [
         "containerlab",
         "networking"
@@ -544,6 +375,7 @@
       "published_parsed": "2025-10-04T13:21:55+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "ICE plans to hire contractors to scan platforms to target people for deportation.",
       "tags": [
         "biz & it",
         "digital surveillance",
@@ -563,6 +395,7 @@
       "published_parsed": "2025-10-03T18:31:23+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Google promises verification will make Android safer, but at what cost?",
       "tags": [
         "apps",
         "google",
@@ -579,6 +412,7 @@
       "published_parsed": "2025-10-03T17:49:26+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Join a live discussion on October 7 about the AI gold rush.",
       "tags": [
         "ai",
         "ai bubble",
@@ -601,6 +435,7 @@
       "published_parsed": "2025-10-03T17:30:39+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "WBD is banking on people paying for a dedicated CNN streaming service.",
       "tags": [
         "hbo max",
         "streaming",
@@ -615,6 +450,7 @@
       "published_parsed": "2025-10-03T15:04:37+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "If your iPhone is your main or only camera, the iPhone 17 Pro is for you.",
       "tags": [
         "apple",
         "features",
@@ -632,6 +468,7 @@
       "published_parsed": "2025-10-03T07:51:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://bgplabs.net/challenge/topology-bird-rr.png",
+      "summary": "In this challenge lab, you’ll configure a BIRD daemon running in a container as a BGP route reflector in a transit autonomous system. You should be familiar with the configuration concepts if you completed the IBGP lab exercises , but will probably struggle with BIRD configuration if you’re not...",
       "tags": [
         "bgp",
         "netlab",
@@ -645,6 +482,7 @@
       "published_parsed": "2025-10-02T21:10:23+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Rodney Brooks says humanoid robots pose hidden safety challenges and won't learn dexterity from video alone.",
       "tags": [
         "agility robotics",
         "ai",
@@ -680,6 +518,7 @@
       "published_parsed": "2025-10-02T08:19:00+00:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "For years, netlab has had custom configuration templates that can be used to deploy custom configurations onto lab devices. The custom configuration templates can be Jinja2 templates, and you can create different templates (for the same functionality) for different platforms . However, using that...",
       "tags": [
         "netlab",
         "networking"
@@ -692,6 +531,7 @@
       "published_parsed": "2025-10-01T22:16:07+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Smishers looking for new infrastructure are getting creative.",
       "tags": [
         "biz & it",
         "hacking",
@@ -709,6 +549,7 @@
       "published_parsed": "2025-10-01T19:30:59+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Cord reviving isn't common but points to discontent with today's streaming options.",
       "tags": [
         "cable",
         "streaming",
@@ -722,6 +563,7 @@
       "published_parsed": "2025-10-01T18:37:00+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Sora social app launches with deepfake-style \"cameos\" and feed controls.",
       "tags": [
         "ai",
         "ai assistants",
@@ -746,6 +588,7 @@
       "published_parsed": "2025-10-01T13:00:54+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Google promises a better smart home experience thanks to Gemini.",
       "tags": [
         "ai",
         "artificial intelligence",
@@ -763,6 +606,7 @@
       "published_parsed": "2025-10-01T07:59:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "In the EVPN Designs: Layer-3 Inter-AS Option A , I described the simplest multi-site design in which the WAN edge routers exchange IP routes in individual VRFs, resulting in two isolated layer-2 fabrics connected with a layer-3 link. Today, let’s explore a design that will excite the True Believers...",
       "tags": [
         "design",
         "evpn",
@@ -778,6 +622,7 @@
       "published_parsed": "2025-09-30T22:15:57+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Echo speakers and displays for Alexa+ require more expensive components.",
       "tags": [
         "ai",
         "amazon",
@@ -797,6 +642,7 @@
       "published_parsed": "2025-09-30T20:25:08+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "The chipmakers say physical attacks aren't in the threat model. Many users didn't get the memo.",
       "tags": [
         "amd",
         "biz & it",
@@ -814,6 +660,7 @@
       "published_parsed": "2025-09-30T20:18:39+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Chinese lab's v3.2 release explores a technique that could make running AI far less costly.",
       "tags": [
         "ai",
         "ai development tools",
@@ -838,6 +685,7 @@
       "published_parsed": "2025-09-30T19:34:38+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Agent Mode in Word, Excel works like vibe coding tools but for knowledge work.",
       "tags": [
         "ai",
         "anthropic",
@@ -863,6 +711,7 @@
       "published_parsed": "2025-09-30T19:12:15+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Signs point to a relatively mild upgrade from the 16-month-old Apple M4.",
       "tags": [
         "apple",
         "apple m5",
@@ -878,6 +727,7 @@
       "published_parsed": "2025-09-30T16:01:53+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "First patches fix bugs and clear up problems for the iPhone 17 family.",
       "tags": [
         "apple",
         "ios 26",
@@ -893,6 +743,7 @@
       "published_parsed": "2025-09-30T15:12:10+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "After the failure of S.B. 1047, new AI disclosure law drops kill switch for disclosure mandate.",
       "tags": [
         "ai",
         "ai development tools",
@@ -922,6 +773,7 @@
       "published_parsed": "2025-09-30T07:26:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://blog.ipspace.net/2025/09/bl-topology.png",
+      "summary": "After I published the updated netlab topology graphs article, Samuel K. Lam quickly made a comment along the lines of now we know how the graph representing the following topology was made , adding a nice ASCII art that illustrated the point I was trying to make much better than my graphs: ASCII...",
       "tags": [
         "netlab",
         "networking"
@@ -934,6 +786,7 @@
       "published_parsed": "2025-09-29T22:10:27+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "New Claude Sonnet 4.5 beats OpenAI and Google on coding tests.",
       "tags": [
         "ai",
         "ai agents",
@@ -962,6 +815,7 @@
       "published_parsed": "2025-09-29T21:43:32+00:00",
       "source": "Ars Technica - Gadgets",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Seized-640x480.jpg",
+      "summary": "ICE's HSI branch shut down Streameast in 2024.",
       "tags": [
         "piracy",
         "sports",
@@ -976,6 +830,7 @@
       "published_parsed": "2025-09-29T19:09:24+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "F-Droid sees Google's plans as a threat to FOSS apps.",
       "tags": [
         "apps",
         "google",
@@ -991,6 +846,7 @@
       "published_parsed": "2025-09-29T07:43:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "I’m too old to be fighting with windmills, but sometimes I have to get a rant off my chest. This one was triggered by the latest episode of the hilarious 1 “DHCPv6 on Android” soap opera In a 720-degree turnaround, Android 11 supports DHCPv6, but only for prefix delegation purposes . Yes, you got...",
       "tags": [
         "dhcp",
         "ipv6",
@@ -1004,6 +860,7 @@
       "published_parsed": "2025-09-26T22:22:13+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Cambridge researchers use satellite-based bramble detection as a proxy for mapping hedgehog habitats.",
       "tags": [
         "ai",
         "biz & it",
@@ -1029,6 +886,7 @@
       "published_parsed": "2025-09-26T21:46:38+00:00",
       "source": "Ars Technica - Gadgets",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2509-lg-easytv-5-640x427.jpg",
+      "summary": "Op-ed: A dumb TV would be better.",
       "tags": [
         "lg",
         "tech",
@@ -1042,6 +900,7 @@
       "published_parsed": "2025-09-26T21:05:30+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "YouTube Labs will be a place to preview all the app's upcoming AI features.",
       "tags": [
         "ai",
         "artificial intelligence",
@@ -1058,6 +917,7 @@
       "published_parsed": "2025-09-26T20:19:59+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Don't know what a keyboard stabilizer is? You're about to find out.",
       "tags": [
         "features",
         "tech"
@@ -1070,6 +930,7 @@
       "published_parsed": "2025-09-26T12:16:04+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Keyboard uses low-profile Gateron Blue switches and an RP2040 controller.",
       "tags": [
         "raspberry pi 400",
         "raspberry pi 5",
@@ -1084,6 +945,7 @@
       "published_parsed": "2025-09-26T07:40:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://isis.bgplabs.net/feature/topology-md5.png",
+      "summary": "Like OSPF and BGP, IS-IS contains a simple mechanism to authenticate routing traffic – IS-IS packets can include a cleartext password or an MD5 - or SHA hash . Unlike OSPF, IS-IS can also authenticate: The hello packets exchanged between routers The contents of Link State PDUs flooded across an...",
       "tags": [
         "is-is",
         "netlab",
@@ -1097,6 +959,7 @@
       "published_parsed": "2025-09-25T21:27:55+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "Ditching Google could help Amazon better monetize its streaming gadgets.",
       "tags": [
         "amazon",
         "fire tv",
@@ -1112,6 +975,7 @@
       "published_parsed": "2025-09-25T20:30:52+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "New mobile chatbot feature analyzes conversations overnight.",
       "tags": [
         "agentic ai",
         "ai",
@@ -1137,6 +1001,7 @@
       "published_parsed": "2025-09-25T18:10:50+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "AI-selected portfolios might perform well in a growing market, but experts warn of downturn risks.",
       "tags": [
         "ai",
         "ai assistants",
@@ -1165,6 +1030,7 @@
       "published_parsed": "2025-09-25T16:10:46+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "The least exciting iPhone this year is also the best value for the money.",
       "tags": [
         "apple",
         "features",
@@ -1181,6 +1047,7 @@
       "published_parsed": "2025-09-25T14:17:18+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "These features try to turn iPhones into more powerful work and organization tools.",
       "tags": [
         "ai",
         "apple",
@@ -1197,6 +1064,7 @@
       "published_parsed": "2025-09-25T12:43:42+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Search shows 2 million vulnerable Cisco SNMP interfaces exposed to the Internet.",
       "tags": [
         "biz & it",
         "cisco",
@@ -1213,6 +1081,7 @@
       "published_parsed": "2025-09-25T08:36:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://blog.ipspace.net/2025/09/ansible.png",
+      "summary": "I made most of the Ansible for Networking Engineers webinar public; you can watch those videos without an ipSpace.net account. Watch the videos Want to spend more time watching free ipSpace.net videos? The complete list is here .",
       "tags": [
         "networking"
       ]
@@ -1224,6 +1093,7 @@
       "published_parsed": "2025-09-24T16:06:03+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "OpenAI's new $400 billion announcement reveals both growing AI demand and circular investments.",
       "tags": [
         "ai",
         "ai chips",
@@ -1251,6 +1121,7 @@
       "published_parsed": "2025-09-24T11:15:06+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Baseboard management controller vulnerabilities make remote attacks possible.",
       "tags": [
         "baseboard management controllers",
         "biz & it",
@@ -1267,6 +1138,7 @@
       "published_parsed": "2025-09-24T08:33:15+00:00",
       "source": "Packet Coders",
       "image": "https://www.packetcoders.io/content/images/2025/09/Untitled-design--93--1.webp",
+      "summary": "Jinja Tip: Validate and check your Jinja templates for syntax errors with j2lint. Ideal for integrating into a CI pipeline. ➜ https://github.com/aristanetworks/j2lint Here is an example below 👇 $ uv tool install j2lint $ cat config.j2 hostname {%for int in interfaces%} interface ip address...",
       "tags": [
         "networking",
         "tips"
@@ -1279,6 +1151,7 @@
       "published_parsed": "2025-09-24T07:37:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Someone approached me after my NOG.HR netlab presentation and said: “ wouldn’t it be great if we could just start the lab from an example topology published on GitHub? ” It took me almost a year to get it done, but the functionality finally made it into the 25.09 release : Read more …",
       "tags": [
         "netlab",
         "networking"
@@ -1291,6 +1164,7 @@
       "published_parsed": "2025-09-23T22:23:22+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "New study examines how a helpful AI response could become a cultural disaster in Iran.",
       "tags": [
         "ai",
         "ai behavior",
@@ -1318,6 +1192,7 @@
       "published_parsed": "2025-09-23T21:22:04+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
+      "summary": "In case you needed another reason to get rid of Disney+.",
       "tags": [
         "disney",
         "disney plus",
@@ -1332,6 +1207,7 @@
       "published_parsed": "2025-09-23T18:34:07+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/09/bgp-multi-home-7-.png",
+      "summary": "This is where route reflectors come in. A route reflector reduces the need for full mesh by allowing certain routers to reflect routes to others.",
       "tags": [
         "bgp",
         "cisco",
@@ -1345,6 +1221,7 @@
       "published_parsed": "2025-09-23T15:52:45+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Public schools ran to VMware during the pandemic. Now they're running away.",
       "tags": [
         "biz & it",
         "broadcom",
@@ -1358,6 +1235,7 @@
       "published_parsed": "2025-09-23T07:33:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Is it possible to deploy Precision Time Protocol across a country-wide WAN network and reach nanosecond-level synchronization between cities? It’s definitely not trivial and only works over dedicated infrastructure; for more details, watch the PTP in WANs ( video ) presentation Oliver Ettlin had at...",
       "tags": [
         "networking",
         "worth reading"
@@ -1370,6 +1248,7 @@
       "published_parsed": "2025-09-22T17:54:33+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "LastPass warns it's one of the latest to see its well-known brand impersonated.",
       "tags": [
         "amos",
         "apple",
@@ -1388,6 +1267,7 @@
       "published_parsed": "2025-09-22T07:38:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Last week, I explained how to generate network topology graphs (using GraphViz or D2 graphing engines) from a netlab lab topology . Let’s see how we can make them look nicer (or at least more informative). We’ll work with a simple leaf-and-spine topology with four nodes 1 : Baseline leaf-and-spine...",
       "tags": [
         "netlab",
         "networking"
@@ -1400,6 +1280,7 @@
       "published_parsed": "2025-09-21T09:59:53+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/09/schema-library-10-.png",
+      "summary": "In this post, we’ll be looking at how to use the Infrahub MCP server. But, before we get there, we’ll go through some background on Model Context Protocol (MCP) itself",
       "tags": [
         "infrahub",
         "networking"
@@ -1412,6 +1293,7 @@
       "published_parsed": "2025-09-20T07:21:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "When I was writing a blog post, I needed a link to the netlab lab topology documentation, so I searched for “netlab lab topology” (I know I’m lazy, but it felt quicker than navigating the sidebar menu). The AI overview I got was way too verbose, but it nailed the Key Concepts and How It Works well...",
       "tags": [
         "networking"
       ]
@@ -1423,6 +1305,7 @@
       "published_parsed": "2025-09-19T19:35:38+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
+      "summary": "Turla is getting a helping hand from Gamaredon. Both are units of Russia's FSB.",
       "tags": [
         "advanced persistent threat",
         "apt",
@@ -1440,6 +1323,7 @@
       "published_parsed": "2025-09-19T08:01:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://bgplabs.net/lb/topology-ibgp-add-path.png",
+      "summary": "I wrote about the optimal BGP path selection with BGP additional paths in 2021, and I probably mentioned (in one of the 360 BGP-related blog posts ) that you need it to implement IBGP load balancing in networks using BGP route reflectors. If you want to try that out, check out the IBGP Load...",
       "tags": [
         "bgp",
         "netlab",
@@ -1453,6 +1337,7 @@
       "published_parsed": "2025-09-18T07:20:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "I always ask engineers reporting a netlab bug to provide a minimal lab topology that would reproduce the error, sometimes resulting in “interesting” side effects. For example, I was trying to debug a BGP-related Arista EOS issue using a netlab topology similar to this one: defaults.device: eos...",
       "tags": [
         "netlab",
         "networking"
@@ -1465,6 +1350,7 @@
       "published_parsed": "2025-09-17T07:33:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "During integration testing, I find unexpected quirks in network devices way too often. However, that’s infinitely better than experiencing them in production (even after thoroughly testing stuff) while discovering that your peers don’t care about routing security, RPKI, and similar useless stuff....",
       "tags": [
         "bgp",
         "networking"
@@ -1477,6 +1363,7 @@
       "published_parsed": "2025-09-16T07:39:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "netlab release 25.09 introduced numerous graphing enhancements and a new graph type (IS-IS graphs), so I decided to write a series of blog posts explaining how you can generate graphs from netlab lab topologies. I wrote an intro to netlab topology graphs years ago, and as expected, it was...",
       "tags": [
         "networking"
       ]
@@ -1488,6 +1375,7 @@
       "published_parsed": "2025-09-14T19:25:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "On September 9th, the ansible release 12.0 appeared on PyPi. It requires ansible-core release 2.19 , which includes breaking changes to Jinja2 templating. netlab Jinja2 templates rely on a few Ansible Jinja2 filters; netlab thus imports and uses those filters, and it looks like those imports pulled...",
       "tags": [
         "netlab",
         "networking"
@@ -1500,6 +1388,7 @@
       "published_parsed": "2025-09-13T11:54:44+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/09/bgp-multi-home-3-.png",
+      "summary": "In this post, we will look at a scenario where you already have your own IP address space and an AS number, and you connect to two different ISPs",
       "tags": [
         "bgp",
         "cisco",
@@ -1513,6 +1402,7 @@
       "published_parsed": "2025-09-12T16:35:39+00:00",
       "source": "NetBrain Blog",
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/09/The-cost-of-network-downtime.webp",
+      "summary": "From Reactive to Proactive: How we believe NetBrain Turns Gartner’s Outage Prevention Strategies into Reality If you’re a head of IT operations, few things keep you up at night like...",
       "tags": [
         "navigation blog",
         "networking",
@@ -1526,6 +1416,7 @@
       "published_parsed": "2025-09-12T10:40:30+00:00",
       "source": "Packet Coders",
       "image": "https://www.packetcoders.io/content/images/2025/09/Heading--13-.png",
+      "summary": "Introduction When you're working with structured data in Python, there are two common options: TypedDict (from the typing module) and Pydantic (a popular validation library). Both are useful, but they serve different needs depending on whether you prioritize static type checking , runtime...",
       "tags": [
         "blog",
         "networking",
@@ -1539,6 +1430,7 @@
       "published_parsed": "2025-09-12T07:41:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://isis.bgplabs.net/basic/topology-unnumbered.png",
+      "summary": "IS-IS does not use IPv4 or IPv6, so it should be a no-brainer to run it over IPv4 unnumbered or IPv6 LLA interfaces. The latter is true; the former is smack in the middle of the It Depends™ territory. Want to know more or test the devices you’re usually working with? The Running IS-IS Over...",
       "tags": [
         "is-is",
         "netlab",
@@ -1552,6 +1444,7 @@
       "published_parsed": "2025-09-11T09:51:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Since time immemorial, I have used the ip host router configuration command to get host-to-IP mappings in networking labs without going through the hassle of setting up a DNS server. Some devices even accepted multiple IP addresses in the ip host command, allowing you to list all router interfaces...",
       "tags": [
         "netlab",
         "networking"
@@ -1564,6 +1457,7 @@
       "published_parsed": "2025-09-10T09:47:19+00:00",
       "source": "Packet Coders",
       "image": "https://www.packetcoders.io/content/images/2025/09/Untitled-design--93-.png",
+      "summary": "PySentry - Scan your Python dependencies for known vulnerabilities. Built in Rust for performance, PySentry is fast, easy to use, and supports flexible output formats (Markdown, JSON, etc.). Here are some examples 👇 # Install pysentry-rs using uv (or use pip install pysentry-rs) $ uv add...",
       "tags": [
         "networking",
         "tips"
@@ -1576,6 +1470,7 @@
       "published_parsed": "2025-09-10T08:08:00+00:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "It’s been over four years since I published the last Software Gone Wild episode . In the meantime, I spent most of my time developing an open-source labbing tool , so it should be no surprise that the first post-hiatus episode focused on a netlab use case: how Ethan Banks (of the PacketPushers...",
       "tags": [
         "netlab",
         "networking",
@@ -1590,6 +1485,7 @@
       "published_parsed": "2025-09-09T14:33:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Whenever you see Gerhard Stein and Thomas Weible from Flexoptix in a list of presenters, three things immediately become obvious: It will be about transceivers It will be fun It will include some crazy stuff Their SwiNOG 40 presentation ( video ) met all three expectation. We learned how well...",
       "tags": [
         "networking",
         "worth reading"
@@ -1602,6 +1498,7 @@
       "published_parsed": "2025-09-08T12:06:00+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "SONiC represents a legitimate alternative for specific use cases and organizations, but it's not the universal solution some marketing suggests. The technology works—Microsoft Azure and other hyperscalers prove that at scale. However, the operational model and skill requirements represent a...",
       "tags": [
         "networking"
       ]
@@ -1613,6 +1510,7 @@
       "published_parsed": "2025-09-08T08:14:00+01:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "netlab release 25.09 includes: Link impairment (implemented with Linux netem queuing discipline) defined in lab topology or configured/controlled with the netlab tc command Configurable IPv6 Router Advertisement parameters The files plugin to store the content of short files (including custom...",
       "tags": [
         "netlab",
         "networking"
@@ -1625,6 +1523,7 @@
       "published_parsed": "2025-09-04T18:57:16+00:00",
       "source": "NetBrain Blog",
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/06/NB-LIVE-2025-300x157.webp",
+      "summary": "Network operations have reached an inflection point. While organizations grapple with exponentially complex infrastructures and the promise of AI-driven automation, most are stuck bridging the gap between ambitious digital transformation...",
       "tags": [
         "navigation blog",
         "networking"
@@ -1637,6 +1536,7 @@
       "published_parsed": "2025-09-04T07:59:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "TL&DR: Over 3000 A few weeks ago, Christian opened an issue describing how netlab breaks when the lab topology has more than 250 devices. We fixed that, only to get into another morass : some code has complexity higher than O(n) (meaning that going from 100 to 200 devices makes things more than...",
       "tags": [
         "netlab",
         "networking"
@@ -1649,6 +1549,7 @@
       "published_parsed": "2025-09-03T07:33:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "If you know as much about submarine cables (the thingies that carry 90% of international Internet traffic) as I do (= nothing), you SHOULD watch the Technical Update on Submarine Cables ( video ) presentation Liam Taylor had at the SwiNOG 40 event . Have fun ;)",
       "tags": [
         "networking",
         "worth reading"
@@ -1661,6 +1562,7 @@
       "published_parsed": "2025-09-02T13:07:00+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "API gateways for network automation aren't revolutionary. They're sensible abstraction that addresses real operational challenges. The key is balancing architectural flexibility with implementation pragmatism. Start simple, solve real problems, and evolve based on actual usage patterns rather than...",
       "tags": [
         "networking"
       ]
@@ -1672,6 +1574,7 @@
       "published_parsed": "2025-09-01T08:22:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Suresh Vina published a great netlab tutorial , going from the very basics to a full-blown MPLS network with custom multi-vendor device configuration. Thank you!",
       "tags": [
         "networking",
         "worth reading"
@@ -1684,6 +1587,7 @@
       "published_parsed": "2025-08-30T14:36:51+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/08/schema-library-9-.png",
+      "summary": "The Infrahub Resource Manager is designed to eliminate those pains while speeding up your workflows. The Resource Manager automatically hands out",
       "tags": [
         "infrahub",
         "networking"
@@ -1696,6 +1600,7 @@
       "published_parsed": "2025-08-29T07:52:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "In the previous blog post on this topic , I described the iBGP local-as functionality and explained why we MUST change the BGP next hop on the routes sent over the fake iBGP session (TL&DR: because we’re not running IGP across that link). That blog post used a simple topology with three routers....",
       "tags": [
         "bgp",
         "networking"
@@ -1708,6 +1613,7 @@
       "published_parsed": "2025-08-28T14:59:34+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/08/proxmox-palo-2-.png",
+      "summary": "I managed to get Palo Alto running on Proxmox. I thought it would be useful to write a post about it for anyone else trying to do the same.",
       "tags": [
         "networking",
         "palo alto"
@@ -1720,6 +1626,7 @@
       "published_parsed": "2025-08-28T08:20:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "In early August, William Collins invited me to chat about a sarcastic comment I made about a specific automation tool I have a love-hate relationship with on LinkedIn. We quickly agreed not to go (too deep) into tool-bashing. Instead, we discussed the eternal problems of network automation, from...",
       "tags": [
         "automation",
         "networking",
@@ -1733,6 +1640,7 @@
       "published_parsed": "2025-08-27T08:28:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "The we should give different applications different paths across the network idea never dies (even though in many places the residential Internet gives you enough bandwidth to watch 4K videos), and the Leveraging Intent-Based Networking and SRv6 for Dynamic End-to-End Traffic Steering ( video ) by...",
       "tags": [
         "ipv6",
         "networking",
@@ -1746,6 +1654,7 @@
       "published_parsed": "2025-08-26T08:48:00+02:00",
       "source": "ipSpace Blog",
       "image": "https://blog.ipspace.net/2025/08/evpn-inter-as-topology.png",
+      "summary": "A netlab user wanted to explore a multi-site design where every site runs an independent EVPN fabric, and the inter-site link is either a layer-2 or a layer-3 interconnect (DCI). Let’s start with the easiest scenario: a layer-3 DCI with a separate (virtual) link for every tenant (in the MPLS/VPN...",
       "tags": [
         "design",
         "evpn",
@@ -1761,6 +1670,7 @@
       "published_parsed": "2025-08-25T10:00:00+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "A key insight from this discussion is that many teams end up adapting tools originally designed for cloud and server management to networking contexts. While purpose-built network automation tools do exist, organizations often gravitate toward tools that align with their broader infrastructure...",
       "tags": [
         "networking"
       ]
@@ -1772,6 +1682,7 @@
       "published_parsed": "2025-08-25T09:13:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "A networking engineer (let’s call him Joe 1 ) sent me an interesting challenge: they built a data center network with Cisco switches, and the switches flood LLDP packets between servers. That would be interesting by itself (the whole network would appear as a single hub), but they’re also using...",
       "tags": [
         "bridging",
         "data center",
@@ -1785,6 +1696,7 @@
       "published_parsed": "2025-08-24T12:43:08+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/08/netlab-1-.png",
+      "summary": "Netlab then takes care of creating the topology, assigning IP addresses, configuring routing protocols, and even pushing custom configs.",
       "tags": [
         "cisco",
         "containerlab",
@@ -1798,6 +1710,7 @@
       "published_parsed": "2025-08-22T18:31:06+00:00",
       "source": "NetBrain Blog",
       "image": null,
+      "summary": "Thinking about exploring AI-driven network automation, but hesitant to disrupt your production environment? NetBrain’s Experience Lab and Playground offerings provide two distinct pathways to discover the power of intelligent network...",
       "tags": [
         "navigation blog",
         "network operations",
@@ -1811,6 +1724,7 @@
       "published_parsed": "2025-08-22T08:16:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "When I was cleaning the “ set BGP MED ” integration test, I decided that once a BGP prefix is in the BGP table of the BGP peer, there’s no need for a further wait before checking its MED value. After all: We configure an outbound routing policy to change MED; We execute do clear bgp * soft out at...",
       "tags": [
         "netlab",
         "networking"
@@ -1823,6 +1737,7 @@
       "published_parsed": "2025-08-21T08:02:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "A large number of vendors claim to use industry-standard CLI , which means “ something that looks like Cisco IOS, but we can’t say that in public .” The implementations of that “standard” are full of quirks; as I was making fun of Cisco IOS last week , it’s only fair to look at how others deal with...",
       "tags": [
         "bgp",
         "networking"
@@ -1835,6 +1750,7 @@
       "published_parsed": "2025-08-20T14:15:24+00:00",
       "source": "NetBrain Blog",
       "image": null,
+      "summary": "New Gartner research confirms the shift to autonomous operations is no longer a future concept—it’s a present-day strategic imperative. Here’s what it means for you. For years, network leaders have...",
       "tags": [
         "company news",
         "navigation blog",
@@ -1849,6 +1765,7 @@
       "published_parsed": "2025-08-20T07:53:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "The SwiNOG 40 event started with an interesting presentation on Building Trustworthy Network Automation ( video ) by Damien Garros (now CEO @ OpsMill ) who discussed the principles one can use to build a trustworthy network automation solution, including idempotency, dry runs, and transactional...",
       "tags": [
         "automation",
         "networking"
@@ -1861,6 +1778,7 @@
       "published_parsed": "2025-08-18T10:00:00+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "The \"best\" Python workflow isn't about using the newest tools—it's about reducing friction for your team while maintaining reliability. Many successful network automation teams use hybrid approaches: modern dependency management under the hood with simple, consistent interfaces on top.",
       "tags": [
         "networking"
       ]
@@ -1872,6 +1790,7 @@
       "published_parsed": "2025-08-12T20:26:50+00:00",
       "source": "Packet Coders",
       "image": "https://www.packetcoders.io/content/images/2025/08/Heading--11-.png",
+      "summary": "If I’m honest, I feel like Jinja gets a bad rap. Its role is often thought to be only for generating network configurations. And with model-driven automation being on the rise it can feel like Jinja is a legacy, tainted tool that we should be moving away from.",
       "tags": [
         "blog",
         "jinja",
@@ -1885,6 +1804,7 @@
       "published_parsed": "2025-08-12T13:07:00+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "The choice between Git and source of truth platforms isn't binary. The best approach often combines elements of both, leveraging structured data management while maintaining the change control and versioning that make network automation reliable.",
       "tags": [
         "networking"
       ]
@@ -1896,6 +1816,7 @@
       "published_parsed": "2025-08-12T08:26:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Rodney Brooks republished an article on great AI expectations that he wrote 37 years ago. Not surprisingly, apart from a few technical details triggered by four decades of exponential growth in silicon capabilities, the article could have been written yesterday. Side note: I’m a bit younger than...",
       "tags": [
         "ai",
         "networking"
@@ -1908,6 +1829,7 @@
       "published_parsed": "2025-08-11T08:09:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Just when I thought no vendor stupidity peculiarity could surprise me, Cisco IOS/XE proved me wrong. I was improving a completely unrelated BGP functionality. I ran BGP integration tests on Cisco IOL (because it’s the fastest one to boot), and the BGP community propagation test failed. After...",
       "tags": [
         "bgp",
         "netlab",
@@ -1921,6 +1843,7 @@
       "published_parsed": "2025-08-07T17:34:33+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "AutoCon 3 demonstrated that network automation has evolved from experimental scripts to business-critical infrastructure. But perhaps the conference's most important insight came from recognizing that automation success depends as much on psychology, trust, and user experience as it does on...",
       "tags": [
         "networking"
       ]
@@ -1932,6 +1855,7 @@
       "published_parsed": "2025-08-06T18:13:35+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/07/aws-series-11-.png",
+      "summary": "AWS has what are called Direct Connect locations. These are simply co‑location facilities where AWS has installed its own equipment that is connected",
       "tags": [
         "aws",
         "networking"
@@ -1944,6 +1868,7 @@
       "published_parsed": "2025-08-04T19:26:48+00:00",
       "source": "NetBrain Blog",
       "image": null,
+      "summary": "As a network operations manager or leader, you are responsible for the changes that drive success. One critical change to consider is switching from manual network management to automated management....",
       "tags": [
         "navigation blog",
         "network operations",
@@ -1958,6 +1883,7 @@
       "published_parsed": "2025-08-04T07:53:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "PlanetScale published a great article describing the high-level principles of how storage devices work and covering everything from tape drives to SSDs and network-attached storage — a must-read for anyone even remotely interested in how their data is stored.",
       "tags": [
         "networking",
         "worth reading"
@@ -1970,6 +1896,7 @@
       "published_parsed": "2025-08-01T19:23:56+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Rather than wholesale AI adoption or rejection, Baumann advocated for thoughtful application: understand the technology, identify appropriate use cases, implement with realistic expectations, and validate results.",
       "tags": [
         "networking"
       ]
@@ -1981,6 +1908,7 @@
       "published_parsed": "2025-08-01T19:21:01+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Network automation without proper security creates systematized vulnerabilities—insecure practices get codified and replicated across infrastructure. Howard's work demonstrates that secure automation isn't significantly harder than insecure automation; it just requires different initial choices and...",
       "tags": [
         "networking"
       ]
@@ -1992,6 +1920,7 @@
       "published_parsed": "2025-08-01T19:19:20+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Dorlandt's presentation showcased the evolution from reactive (screen scraping) to proactive (push-based) network monitoring. BMP represents a fundamental shift in how we gather BGP intelligence—from resource-intensive polling to efficient, real-time data streams.",
       "tags": [
         "networking"
       ]
@@ -2003,6 +1932,7 @@
       "published_parsed": "2025-08-01T19:17:45+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "For organizations deploying large-scale wireless infrastructure—hotels, campuses, public venues—this approach offers dramatic cost savings while maintaining enterprise functionality. The key insight: automation doesn't just improve existing operations; it can enable entirely new economic models.",
       "tags": [
         "networking"
       ]
@@ -2014,6 +1944,7 @@
       "published_parsed": "2025-08-01T19:16:06+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Saul's presentation addressed a practical challenge many organizations face: leveraging open networking benefits while managing vendor implementation differences. SONiC offers genuine multi-vendor consistency, but abstraction layers become essential for operational simplicity.",
       "tags": [
         "networking"
       ]
@@ -2025,6 +1956,7 @@
       "published_parsed": "2025-08-01T18:55:27+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Garros's presentation addresses automation's adoption challenge from a refreshingly honest perspective. Technical capability isn't enough; automation must inspire confidence in its users. This requires deliberate design choices that prioritize user trust alongside functional correctness.",
       "tags": [
         "networking"
       ]
@@ -2036,6 +1968,7 @@
       "published_parsed": "2025-08-01T18:53:37+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Edelman's keynote captured the network automation community at an inflection point. The foundational work is done—tools exist, communities are established, and early adopters have demonstrated value. But mass adoption remains elusive. The challenge isn't technical anymore. It's cultural,...",
       "tags": [
         "networking"
       ]
@@ -2047,6 +1980,7 @@
       "published_parsed": "2025-08-01T18:51:08+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Querol's design-driven approach addresses a fundamental automation challenge: the gap between what network architects envision and what gets implemented. By codifying design logic and protecting design-driven data, organizations can ensure that automation implementations match architectural intent.",
       "tags": [
         "networking"
       ]
@@ -2058,6 +1992,7 @@
       "published_parsed": "2025-08-01T18:47:50+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "As network automation tools proliferate, the risk grows of creating more complexity rather than less. Rautanen's approach suggests that successful automation requires thinking beyond tool integration toward service modeling and abstraction design.",
       "tags": [
         "networking"
       ]
@@ -2069,6 +2004,7 @@
       "published_parsed": "2025-08-01T18:43:29+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Antich's semantic correlation approach suggests a path toward systems that can reason about network events without explicit programming for every scenario. Whether this specific approach succeeds or not, the principles—autonomous interpretation, graph-based reasoning, semantic understanding—likely...",
       "tags": [
         "networking"
       ]
@@ -2080,6 +2016,7 @@
       "published_parsed": "2025-08-01T18:42:40+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "NetBrain's approach suggests that operational automation requires different tools and thinking than deployment automation—focusing on service visibility, proactive monitoring, and institutional knowledge capture rather than just configuration management.",
       "tags": [
         "networking"
       ]
@@ -2091,6 +2028,7 @@
       "published_parsed": "2025-08-01T18:41:11+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Harper's story illustrates how network automation can become a powerful security tool even when that wasn't the original intent. The lesson? Sometimes the best security improvements come not from security-focused projects, but from operational excellence initiatives that inherently improve risk...",
       "tags": [
         "networking"
       ]
@@ -2102,6 +2040,7 @@
       "published_parsed": "2025-08-01T18:37:49+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "For organizations considering Terraform for network automation, Pozo's epic provides a realistic roadmap: expect challenges, plan for scale, build teams, and focus on the indirect business value that makes the journey worthwhile. Sometimes the hardest journeys yield the most valuable destinations.",
       "tags": [
         "networking"
       ]
@@ -2113,6 +2052,7 @@
       "published_parsed": "2025-08-01T18:35:06+00:00",
       "source": "Network Automation Forum",
       "image": null,
+      "summary": "Gluware's presentation reflects a maturing understanding of enterprise automation challenges. Rather than promoting tool replacement, they're advocating for integration and enhancement of existing automation investments.",
       "tags": [
         "networking"
       ]
@@ -2124,6 +2064,7 @@
       "published_parsed": "2025-07-31T19:23:51+00:00",
       "source": "NetBrain Blog",
       "image": null,
+      "summary": "In today’s complex network environments, managing and resolving repetitive incidents efficiently is paramount. Manual troubleshooting and sifting through countless support tickets can be a major drain on resources, leading to...",
       "tags": [
         "automated diagnosis",
         "navigation blog",
@@ -2137,6 +2078,7 @@
       "published_parsed": "2025-07-28T07:44:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Is an LLM a stubborn donkey, a genie, or a slot machine (and why)? Find out in the Who is LLM? article by Martin Fowler.",
       "tags": [
         "networking",
         "worth reading"
@@ -2149,6 +2091,7 @@
       "published_parsed": "2025-07-25T07:58:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Changing an existing BGP routing policy is always tricky on platforms that apply line-by-line changes to device configurations (Cisco IOS and most other platforms claiming to have industry-standard CLI , with the notable exception of Arista EOS). The safest approach seems to be: Do not panic when...",
       "tags": [
         "netlab",
         "networking"
@@ -2161,6 +2104,7 @@
       "published_parsed": "2025-07-23T08:06:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "One should never trust the technical details published by the industry press , but assuming the Tomahawk Ultra puff piece isn’t too far off the mark, the new Broadcom ASIC (supposedly loosely based on emerging Ultra Ethernet specs): Uses Optimized Ethernet Header , replacing IP/UDP header with a...",
       "tags": [
         "data center",
         "networking"
@@ -2173,6 +2117,7 @@
       "published_parsed": "2025-07-21T07:19:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "A while ago, I published a blog post proudly describing the netlab integration test that should check for incorrect OSPF network types in netlab -generated device configurations. Almost immediately, Erik Auerswald pointed out that my test wouldn’t detect that error (it might detect other errors,...",
       "tags": [
         "automation",
         "networking"
@@ -2185,6 +2130,7 @@
       "published_parsed": "2025-07-19T22:47:37+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/06/immich.png",
+      "summary": "The next one on the list was Immich. Immich is a self-hosted photo and video backup solution that supports features like facial recognition and automatic uploads.",
       "tags": [
         "homelab",
         "networking"
@@ -2197,6 +2143,7 @@
       "published_parsed": "2025-07-18T07:41:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Writing tests that check the correctness of network device configurations is hard ( overview , more details ). It’s also an interesting exercise in getting the timing just right: Routing protocols are an eventually-consistent distributed system , and things eventually appear in the right place (if...",
       "tags": [
         "netlab",
         "networking"
@@ -2209,6 +2156,7 @@
       "published_parsed": "2025-07-17T19:00:00+00:00",
       "source": "Packet Coders",
       "image": "https://www.packetcoders.io/content/images/2025/07/Heading--9-.png",
+      "summary": "Overview Hi all, welcome back to another blog post on Ansible. I hope most of you are familiar with spine and leaf architecture, where each leaf switch connects to every spine switch to create a non-blocking, scalable fabric. In this example, we will have two spine switches and six leaf",
       "tags": [
         "ansible",
         "blog",
@@ -2222,6 +2170,7 @@
       "published_parsed": "2025-07-17T05:11:46+00:00",
       "source": "NetBrain Blog",
       "image": null,
+      "summary": "Don’t you wish everything in life was as simple as an app store – “there’s an app for that” was the slogan everyone knew. The absolute simplicity of browsing an...",
       "tags": [
         "navigation blog",
         "network assessment",
@@ -2235,6 +2184,7 @@
       "published_parsed": "2025-07-15T08:27:00+01:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "netlab release 25.07 was published yesterday. The major new features include: The ospf.areas plugin supports OSPFv2 and OSPFv3 stub areas, NSSA areas, and area ranges. The BGP routing policies plugin supports aggregate BGP routes The BGP configuration module supports BGP confederations But wait,...",
       "tags": [
         "netlab",
         "networking"
@@ -2247,6 +2197,7 @@
       "published_parsed": "2025-07-15T06:49:35+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/07/schema-library-8-.png",
+      "summary": "In this post, we’ll show you how to run integration tests in Infrahub that verify your schema, data, and Git workflows in a real, running environment.",
       "tags": [
         "infrahub",
         "networking"
@@ -2259,6 +2210,7 @@
       "published_parsed": "2025-07-11T21:11:12+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/07/aws-series-10-.png",
+      "summary": "In this post, we'll look at how to peer a Transit Gateway with another TGW, even when they are in different regions or accounts. You can peer both intra-Region",
       "tags": [
         "aws",
         "networking"
@@ -2271,6 +2223,7 @@
       "published_parsed": "2025-07-11T12:07:00+00:00",
       "source": "Packet Coders",
       "image": "https://www.packetcoders.io/content/images/2025/08/Untitled-design---2025-05-21T100911.003.png",
+      "summary": "📅 Events 5-Day Bootcamp (14th–18th July) An Intro to GenAI and LLMs for Network Automation ( members only ) – September 24 Building a ChatBot with OpenAI, MCP, and Netmiko ( members only ) – October 16 Front-End Development with React ( members only ) – November 27 How to Build a GraphQL API",
       "tags": [
         "networking"
       ]
@@ -2282,6 +2235,7 @@
       "published_parsed": "2025-07-11T08:18:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "As I was running the netlab pre-release integration tests, I noticed that ArubaCX failed the IPv6 Common Services test (it worked before). Here’s the gist of what that test does: It creates three VRFs ( red , blue , and common ) It imports routes from red and blue VRF into the common VRF and routes...",
       "tags": [
         "netlab",
         "networking"
@@ -2294,6 +2248,7 @@
       "published_parsed": "2025-07-09T20:25:49+00:00",
       "source": "NetBrain Blog",
       "image": null,
+      "summary": "The Digital Operational Resilience Act (DORA) entered into application across the European Union on 17 January 2025, reshaping how financial institutions manage cyber and operational risk [1]. Although the United...",
       "tags": [
         "change management",
         "compliance",
@@ -2311,6 +2266,7 @@
       "published_parsed": "2025-07-09T17:59:05+00:00",
       "source": "Packet Switch",
       "image": "https://www.packetswitch.co.uk/content/images/2025/07/aws-series-8-.png",
+      "summary": "In this post, we will build on that knowledge and look at creating and attaching a Site-to-Site VPN to the Transit Gateway. We will also cover",
       "tags": [
         "aws",
         "networking"
@@ -2323,6 +2279,7 @@
       "published_parsed": "2025-07-09T08:36:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
+      "summary": "Did you ever wonder why pressing an up-arrow in a (Linux) terminal window sometimes recalls the previous command but other times creates ^[[A ? Julia Evans did, and spent months exploring the quirks of the Linux terminal (and writing blog posts describing what she found), finally resulting in The...",
       "tags": [
         "networking",
         "worth reading"
