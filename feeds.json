@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-08T02:21:34.032127+00:00",
-  "article_count": 128,
+  "last_updated": "2025-10-08T07:20:01.388561+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -317,6 +317,18 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Changes in ipSpace.net RSS Feeds",
+      "link": "https://blog.ipspace.net/2025/10/changes-rss-feeds/?utm_source=atom_feed",
+      "published": "2025-10-08T06:40:00+02:00",
+      "published_parsed": "2025-10-08T06:40:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: You shouldn’t see any immediate impact of this change, but I’ll eventually clean up old stuff, so you might want to check the URLs if you use RSS/Atom feeds to get the list of ipSpace.net blog posts or podcast episodes. The (hopefully) final URLs are listed on this page . Executive Summary:...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build",
       "link": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
