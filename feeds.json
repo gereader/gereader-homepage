@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-09T07:20:18.115312+00:00",
-  "article_count": 128,
+  "last_updated": "2025-10-09T14:21:43.844883+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -94,6 +94,7 @@
     "containerlab",
     "containers",
     "copilot",
+    "core ultra",
     "coreweave",
     "cpus",
     "cross-cultural ai",
@@ -169,6 +170,7 @@
     "inaturalist",
     "infrahub",
     "intel",
+    "intel core ultra",
     "internet",
     "investment",
     "ios 26",
@@ -190,7 +192,6 @@
     "language models",
     "large language models",
     "ldp",
-    "lg",
     "lisa cook",
     "lisp",
     "llm",
@@ -239,6 +240,7 @@
     "ospf",
     "overlay networks",
     "palo alto",
+    "panther lake",
     "performance",
     "personalization",
     "phishing",
@@ -332,6 +334,24 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
+      "link": "https://arstechnica.com/gadgets/2025/10/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form/",
+      "published": "Thu, 09 Oct 2025 13:00:51 +0000",
+      "published_parsed": "2025-10-09T13:00:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New laptop CPUs replace confusing bifurcated Lunar Lake and Arrow Lake lineups.",
+      "tags": [
+        "amd",
+        "core ultra",
+        "cpus",
+        "intel",
+        "intel core ultra",
+        "panther lake",
+        "tech"
+      ]
+    },
     {
       "title": "Troubleshooting Multi-Pod EVPN",
       "link": "https://blog.ipspace.net/2025/10/troubleshoot-multi-pod-evpn/?utm_source=atom_feed",
@@ -1108,20 +1128,6 @@
         "sentinel satellites",
         "tessera",
         "wildlife conservation"
-      ]
-    },
-    {
-      "title": "LG’s $1,800 TV for seniors makes misguided assumptions",
-      "link": "https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/",
-      "published": "Fri, 26 Sep 2025 21:46:38 +0000",
-      "published_parsed": "2025-09-26T21:46:38+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2509-lg-easytv-5-640x427.jpg",
-      "summary": "Op-ed: A dumb TV would be better.",
-      "tags": [
-        "lg",
-        "tech",
-        "tvs"
       ]
     },
     {
@@ -2283,18 +2289,6 @@
       "summary": "In this post, we'll look at how to peer a Transit Gateway with another TGW, even when they are in different regions or accounts. You can peer both intra-Region",
       "tags": [
         "aws",
-        "networking"
-      ]
-    },
-    {
-      "title": "📣 Packet Coder Updates (#070) - DevNet Release, ACL Automation and More!",
-      "link": "https://www.packetcoders.io/packet-coder-updates-070-devnet-release-acl-automation-and-more/",
-      "published": "Fri, 11 Jul 2025 12:07:00 GMT",
-      "published_parsed": "2025-07-11T12:07:00+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/08/Untitled-design---2025-05-21T100911.003.png",
-      "summary": "📅 Events 5-Day Bootcamp (14th–18th July) An Intro to GenAI and LLMs for Network Automation ( members only ) – September 24 Building a ChatBot with OpenAI, MCP, and Netmiko ( members only ) – October 16 Front-End Development with React ( members only ) – November 27 How to Build a GraphQL API",
-      "tags": [
         "networking"
       ]
     }
