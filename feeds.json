@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09T02:23:27.842367+00:00",
+  "last_updated": "2025-10-09T07:20:18.115312+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -332,6 +332,19 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Troubleshooting Multi-Pod EVPN",
+      "link": "https://blog.ipspace.net/2025/10/troubleshoot-multi-pod-evpn/?utm_source=atom_feed",
+      "published": "2025-10-09T08:27:00+02:00",
+      "published_parsed": "2025-10-09T08:27:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "An engineer reading my multi-pod EVPN article asked an interesting question: How do you handle troubleshooting when VTEPs cannot reach each other across pods? The ancient Romans already knew the rough answer: divide and conquer. In this particular case, the “divide” part starts with a simple...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak",
       "link": "https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/",
@@ -2282,19 +2295,6 @@
       "image": "https://www.packetcoders.io/content/images/2025/08/Untitled-design---2025-05-21T100911.003.png",
       "summary": "📅 Events 5-Day Bootcamp (14th–18th July) An Intro to GenAI and LLMs for Network Automation ( members only ) – September 24 Building a ChatBot with OpenAI, MCP, and Netmiko ( members only ) – October 16 Front-End Development with React ( members only ) – November 27 How to Build a GraphQL API",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Dual-Stack Common-Services VRF Confuses Aruba CX",
-      "link": "https://blog.ipspace.net/2025/07/aruba-common-services-dual-stack-confusion/?utm_source=atom_feed",
-      "published": "2025-07-11T08:18:00+02:00",
-      "published_parsed": "2025-07-11T08:18:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "As I was running the netlab pre-release integration tests, I noticed that ArubaCX failed the IPv6 Common Services test (it worked before). Here’s the gist of what that test does: It creates three VRFs ( red , blue , and common ) It imports routes from red and blue VRF into the common VRF and routes...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
