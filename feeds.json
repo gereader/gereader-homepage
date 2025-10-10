@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-10T18:30:25.982890+00:00",
+  "last_updated": "2025-10-10T23:18:19.863836+00:00",
   "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,6 +12,7 @@
   ],
   "tags": [
     "aci",
+    "ads",
     "age verification",
     "agentic ai",
     "agility robotics",
@@ -52,13 +53,13 @@
     "anthropic",
     "antitrust",
     "apple",
-    "apple m5",
     "apps",
     "arduino",
     "arp",
     "ars live",
     "ars live conversations",
     "artificial intelligence",
+    "audio",
     "automated diagnosis",
     "automation",
     "aws",
@@ -69,6 +70,7 @@
     "bgp",
     "biz & it",
     "blog",
+    "bose",
     "boston dynamics",
     "bridging",
     "broadcom",
@@ -82,7 +84,6 @@
     "chatgtp",
     "chinese ai",
     "cisco",
-    "clay magouyrk",
     "cloud",
     "code agents",
     "company news",
@@ -95,13 +96,11 @@
     "containers",
     "copilot",
     "core ultra",
-    "coreweave",
     "cpus",
     "cumulus linux",
     "data breaches",
     "data center",
     "data poisoning",
-    "datacenters",
     "deepseek",
     "design",
     "dexterity",
@@ -174,10 +173,7 @@
     "intel core ultra",
     "internet",
     "investment",
-    "ios 26",
     "ip routing",
-    "ipad",
-    "ipad pro",
     "ipados",
     "ipados 26",
     "iphone",
@@ -200,12 +196,11 @@
     "logitech",
     "long-context processing",
     "machine learning",
-    "macos 26",
     "manipulation",
     "mark zuckerberg",
     "market correction",
-    "masayoshi son",
     "meta",
+    "mfa",
     "microsoft",
     "microsoft 365",
     "microsoft copilot",
@@ -218,6 +213,7 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
+    "multi factor authentication",
     "multimodal ai",
     "nas",
     "nat",
@@ -239,7 +235,6 @@
     "openai",
     "openflow",
     "optimus",
-    "oracle",
     "ospf",
     "overlay networks",
     "palo alto",
@@ -247,7 +242,6 @@
     "performance",
     "personalization",
     "phishing",
-    "piracy",
     "play store",
     "podcast",
     "policy",
@@ -275,10 +269,10 @@
     "sam altman",
     "san",
     "satellite imagery",
-    "sb energy",
     "scott wiener",
     "sd-wan",
     "sdn",
+    "search",
     "security",
     "segment routing",
     "sentinel satellites",
@@ -286,6 +280,7 @@
     "sev-snp",
     "sgx",
     "simon willison",
+    "smart displays",
     "smart home",
     "smart speakers",
     "smartphones",
@@ -293,11 +288,11 @@
     "sms",
     "snmp",
     "social media",
-    "softbank",
     "software gone wild",
+    "sonos",
     "sora",
     "sparse attention",
-    "sports",
+    "speakers",
     "stock market",
     "storage",
     "streaming",
@@ -318,6 +313,7 @@
     "ubs",
     "uk ai security institute",
     "uk economy",
+    "united kindgom",
     "update",
     "vibe coding",
     "vibe working",
@@ -340,6 +336,72 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "People regret buying Amazon smart displays after being bombarded with ads",
+      "link": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/",
+      "published": "Fri, 10 Oct 2025 20:58:40 +0000",
+      "published_parsed": "2025-10-10T20:58:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"I'm about to just toss the whole thing...\"",
+      "tags": [
+        "ads",
+        "amazon",
+        "amazon alexa",
+        "smart displays",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+      "link": "https://arstechnica.com/gadgets/2025/10/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers-feb-18/",
+      "published": "Fri, 10 Oct 2025 18:44:31 +0000",
+      "published_parsed": "2025-10-10T18:44:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ending support for SoundTouch may help Bose avoid a Sonos situation.",
+      "tags": [
+        "audio",
+        "bose",
+        "smart home",
+        "sonos",
+        "speakers",
+        "tech"
+      ]
+    },
+    {
+      "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+      "link": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
+      "published": "Fri, 10 Oct 2025 18:07:04 +0000",
+      "published_parsed": "2025-10-10T18:07:04+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Among other things, the scammers bypass multi-factor authentication.",
+      "tags": [
+        "biz & it",
+        "mfa",
+        "multi factor authentication",
+        "phishing",
+        "security"
+      ]
+    },
+    {
+      "title": "UK regulators plan to force Google changes under new competition law",
+      "link": "https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/",
+      "published": "Fri, 10 Oct 2025 16:58:36 +0000",
+      "published_parsed": "2025-10-10T16:58:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The CMA will focus on regulating search and search advertising, but not Gemini (for now).",
+      "tags": [
+        "antitrust",
+        "google",
+        "search",
+        "tech",
+        "united kindgom"
+      ]
+    },
     {
       "title": "netlab 25.10: Cisco 8000v, Nicer Graphs",
       "link": "https://blog.ipspace.net/2025/10/netlab-25-10/?utm_source=atom_feed",
@@ -1034,38 +1096,6 @@
       ]
     },
     {
-      "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
-      "link": "https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/",
-      "published": "Tue, 30 Sep 2025 19:12:15 +0000",
-      "published_parsed": "2025-09-30T19:12:15+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Signs point to a relatively mild upgrade from the 16-month-old Apple M4.",
-      "tags": [
-        "apple",
-        "apple m5",
-        "ipad",
-        "ipad pro",
-        "tech"
-      ]
-    },
-    {
-      "title": "iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more",
-      "link": "https://arstechnica.com/gadgets/2025/09/ios-26-0-1-macos-26-0-1-updates-fix-install-bugs-new-phone-problems-and-more/",
-      "published": "Tue, 30 Sep 2025 16:01:53 +0000",
-      "published_parsed": "2025-09-30T16:01:53+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "First patches fix bugs and clear up problems for the iPhone 17 family.",
-      "tags": [
-        "apple",
-        "ios 26",
-        "ipados 26",
-        "macos 26",
-        "tech"
-      ]
-    },
-    {
       "title": "California’s newly signed AI law just gave Big Tech exactly what it wanted",
       "link": "https://arstechnica.com/ai/2025/09/californias-newly-signed-ai-law-just-gave-big-tech-exactly-what-it-wanted/",
       "published": "Tue, 30 Sep 2025 15:12:10 +0000",
@@ -1135,21 +1165,6 @@
         "open source",
         "programming",
         "simon willison"
-      ]
-    },
-    {
-      "title": "Sports piracy site Streameast returns after US government let domain expire",
-      "link": "https://arstechnica.com/gadgets/2025/09/sports-piracy-site-streameast-returns-after-us-government-let-domain-expire/",
-      "published": "Mon, 29 Sep 2025 21:43:32 +0000",
-      "published_parsed": "2025-09-29T21:43:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Seized-640x480.jpg",
-      "summary": "ICE's HSI branch shut down Streameast in 2024.",
-      "tags": [
-        "piracy",
-        "sports",
-        "streaming",
-        "tech"
       ]
     },
     {
@@ -1288,34 +1303,6 @@
       "summary": "I made most of the Ansible for Networking Engineers webinar public; you can watch those videos without an ipSpace.net account. Watch the videos Want to spend more time watching free ipSpace.net videos? The complete list is here .",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Why does OpenAI need six giant data centers?",
-      "link": "https://arstechnica.com/ai/2025/09/why-does-openai-need-six-giant-data-centers/",
-      "published": "Wed, 24 Sep 2025 16:06:03 +0000",
-      "published_parsed": "2025-09-24T16:06:03+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "OpenAI's new $400 billion announcement reveals both growing AI demand and circular investments.",
-      "tags": [
-        "ai",
-        "ai chips",
-        "ai development tools",
-        "ai infrastructure",
-        "biz & it",
-        "chatgpt",
-        "clay magouyrk",
-        "coreweave",
-        "datacenters",
-        "machine learning",
-        "masayoshi son",
-        "nvidia",
-        "openai",
-        "oracle",
-        "sam altman",
-        "sb energy",
-        "softbank"
       ]
     },
     {
