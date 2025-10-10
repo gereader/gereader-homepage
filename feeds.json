@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-10T02:23:28.724503+00:00",
-  "article_count": 126,
+  "last_updated": "2025-10-10T07:20:14.924851+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -340,6 +340,19 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "netlab 25.10: Cisco 8000v, Nicer Graphs",
+      "link": "https://blog.ipspace.net/2025/10/netlab-25-10/?utm_source=atom_feed",
+      "published": "2025-10-10T08:02:00+01:00",
+      "published_parsed": "2025-10-10T08:02:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 25.10 includes: Support for container version of Cisco 8000v emulator (finally a reasonable IOS-XR platform) Support for vJunosEVO (vPTX) release 24+ (it needs UEFI BIOS), thanks to Aleksey Popov and Stefano Sasso Wildcards or regular expressions in group- or as_list members....",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "AI models can acquire backdoors from surprisingly few malicious documents",
       "link": "https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/",
