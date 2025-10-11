@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-11T07:17:32.213410+00:00",
-  "article_count": 127,
+  "last_updated": "2025-10-11T14:16:06.846156+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -219,6 +219,7 @@
     "nat",
     "navigation blog",
     "netconf",
+    "netdevops",
     "netlab",
     "network assessment",
     "network attached storage",
@@ -336,6 +337,19 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Netpicker NetBox Plugin and Automation",
+      "link": "https://www.packetswitch.co.uk/netpicker-netbox-plugin-and-automation/",
+      "published": "Sat, 11 Oct 2025 09:58:58 GMT",
+      "published_parsed": "2025-10-11T09:58:58+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/10/netpicker-2-.png",
+      "summary": "In this post, we'll focus on Netpicker Automation and how to use the Netpicker plugin with Netbox. This post assumes you already have a functioning Netpicker",
+      "tags": [
+        "netdevops",
+        "networking"
+      ]
+    },
     {
       "title": "People regret buying Amazon smart displays after being bombarded with ads",
       "link": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/",
