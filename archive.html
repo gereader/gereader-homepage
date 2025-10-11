@@ -405,6 +405,20 @@
             </div>
 
             <div class="filter-section">
+
+            <div class="filter-controls">
+                    <label class="filter-label" for="searchBox">Search:</label>
+                    <input 
+                        type="text" 
+                        id="searchBox" 
+                        class="filter-select" 
+                        placeholder="Search articles..."
+                        oninput="handleSearch(this.value)"
+                        autocomplete="off">
+                </div>
+            </div>
+
+            <div class="filter-section">
                 <button class="clear-filters-btn" id="clearFiltersBtn" onclick="clearAllFilters()" disabled>
                     Clear All Filters
                 </button>
@@ -430,6 +444,7 @@
         const articlesPerPage = 30; // Set articles per page
         let selectedSources = [];
         let selectedTags = [];
+        let searchQuery = '';
         
         // Dark mode functionality
         function initTheme() {
@@ -472,6 +487,12 @@
                     selectedTags = [];
                 }
             }
+        }
+
+        function handleSearch(query) {
+            searchQuery = query.toLowerCase().trim();
+            renderActiveFilters();
+            displayPage(1);
         }
         
         function createFilterButtons() {
@@ -550,10 +571,12 @@
         function clearAllFilters() {
             selectedSources = [];
             selectedTags = [];
+            searchQuery = '';
             localStorage.setItem('archiveSelectedSources', JSON.stringify(selectedSources));
             localStorage.setItem('archiveSelectedTags', JSON.stringify(selectedTags));
-            renderActiveFilters();
             displayPage(1);
+            document.getElementById('searchBox').value = '';
+            renderActiveFilters();
         }
         
         function renderActiveFilters() {
@@ -581,8 +604,16 @@
                 tagContainer.appendChild(chip);
             });
             
+            // Show/hide clear button based on active filters OR search
             const clearBtn = document.getElementById('clearFiltersBtn');
-            clearBtn.disabled = selectedSources.length === 0 && selectedTags.length === 0;
+            const hasActiveFilters = selectedSources.length > 0 || selectedTags.length > 0 || searchQuery !== '';
+            
+            if (hasActiveFilters) {
+                clearBtn.style.display = 'block';
+                clearBtn.disabled = false;
+            } else {
+                clearBtn.style.display = 'none';
+            }
         }
         
         function getFilteredArticles() {
@@ -595,6 +626,14 @@
             if (selectedTags.length > 0) {
                 filtered = filtered.filter(article => 
                     article.tags && article.tags.some(tag => selectedTags.includes(tag))
+                );
+            }
+            
+            // Apply search filter
+            if (searchQuery) {
+                filtered = filtered.filter(article => 
+                    article.title.toLowerCase().includes(searchQuery) ||
+                    (article.summary && article.summary.toLowerCase().includes(searchQuery))
                 );
             }
             
