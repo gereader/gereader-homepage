@@ -1,7 +1,393 @@
 {
-  "last_updated": "2025-10-07T03:34:15.296099+00:00",
-  "article_count": 1123,
+  "last_updated": "2025-10-11T18:25:34.918098+00:00",
+  "article_count": 1147,
   "articles": [
+    {
+      "title": "Netpicker NetBox Plugin and Automation",
+      "link": "https://www.packetswitch.co.uk/netpicker-netbox-plugin-and-automation/",
+      "published": "Sat, 11 Oct 2025 09:58:58 GMT",
+      "published_parsed": "2025-10-11T09:58:58+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/10/netpicker-2-.png",
+      "summary": "In this post, we'll focus on Netpicker Automation and how to use the Netpicker plugin with Netbox. This post assumes you already have a functioning Netpicker",
+      "tags": [
+        "netdevops",
+        "networking"
+      ]
+    },
+    {
+      "title": "People regret buying Amazon smart displays after being bombarded with ads",
+      "link": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/",
+      "published": "Fri, 10 Oct 2025 20:58:40 +0000",
+      "published_parsed": "2025-10-10T20:58:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"I'm about to just toss the whole thing...\"",
+      "tags": [
+        "ads",
+        "amazon",
+        "amazon alexa",
+        "smart displays",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+      "link": "https://arstechnica.com/gadgets/2025/10/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers-feb-18/",
+      "published": "Fri, 10 Oct 2025 18:44:31 +0000",
+      "published_parsed": "2025-10-10T18:44:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ending support for SoundTouch may help Bose avoid a Sonos situation.",
+      "tags": [
+        "audio",
+        "bose",
+        "smart home",
+        "sonos",
+        "speakers",
+        "tech"
+      ]
+    },
+    {
+      "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+      "link": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
+      "published": "Fri, 10 Oct 2025 18:07:04 +0000",
+      "published_parsed": "2025-10-10T18:07:04+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Among other things, the scammers bypass multi-factor authentication.",
+      "tags": [
+        "biz & it",
+        "mfa",
+        "multi factor authentication",
+        "phishing",
+        "security"
+      ]
+    },
+    {
+      "title": "UK regulators plan to force Google changes under new competition law",
+      "link": "https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/",
+      "published": "Fri, 10 Oct 2025 16:58:36 +0000",
+      "published_parsed": "2025-10-10T16:58:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The CMA will focus on regulating search and search advertising, but not Gemini (for now).",
+      "tags": [
+        "antitrust",
+        "google",
+        "search",
+        "tech",
+        "united kindgom"
+      ]
+    },
+    {
+      "title": "netlab 25.10: Cisco 8000v, Nicer Graphs",
+      "link": "https://blog.ipspace.net/2025/10/netlab-25-10/?utm_source=atom_feed",
+      "published": "2025-10-10T08:02:00+01:00",
+      "published_parsed": "2025-10-10T08:02:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 25.10 includes: Support for container version of Cisco 8000v emulator (finally a reasonable IOS-XR platform) Support for vJunosEVO (vPTX) release 24+ (it needs UEFI BIOS), thanks to Aleksey Popov and Stefano Sasso Wildcards or regular expressions in group- or as_list members....",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "AI models can acquire backdoors from surprisingly few malicious documents",
+      "link": "https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/",
+      "published": "Thu, 09 Oct 2025 22:03:21 +0000",
+      "published_parsed": "2025-10-09T22:03:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Anthropic study suggests \"poison\" training attacks don't scale with model size.",
+      "tags": [
+        "ai",
+        "ai research",
+        "ai security",
+        "ai vulnerabilities",
+        "alan turing institute",
+        "anthropic",
+        "backdoor attacks",
+        "biz & it",
+        "data poisoning",
+        "fine tuning",
+        "llm security",
+        "machine learning",
+        "model safety",
+        "pretraining",
+        "training data",
+        "uk ai security institute"
+      ]
+    },
+    {
+      "title": "YouTube prepares to welcome back banned creators with “second chance” program",
+      "link": "https://arstechnica.com/gadgets/2025/10/youtube-explains-how-banned-creators-can-get-a-second-chance/",
+      "published": "Thu, 09 Oct 2025 19:23:48 +0000",
+      "published_parsed": "2025-10-09T19:23:48+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "YouTube will evaluate each request individually, but copyright violators need not apply.",
+      "tags": [
+        "google",
+        "misinformation",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Discord says hackers stole government IDs of 70,000 users",
+      "link": "https://arstechnica.com/security/2025/10/discord-says-hackers-stole-government-ids-of-70000-users/",
+      "published": "Thu, 09 Oct 2025 18:24:13 +0000",
+      "published_parsed": "2025-10-09T18:24:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "As more sites require IDs for user age verification, expect more such breaches to come.",
+      "tags": [
+        "age verification",
+        "biz & it",
+        "discord",
+        "id",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "title": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
+      "link": "https://arstechnica.com/gadgets/2025/10/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form/",
+      "published": "Thu, 09 Oct 2025 13:00:51 +0000",
+      "published_parsed": "2025-10-09T13:00:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New laptop CPUs replace confusing bifurcated Lunar Lake and Arrow Lake lineups.",
+      "tags": [
+        "amd",
+        "core ultra",
+        "cpus",
+        "intel",
+        "intel core ultra",
+        "panther lake",
+        "tech"
+      ]
+    },
+    {
+      "title": "Troubleshooting Multi-Pod EVPN",
+      "link": "https://blog.ipspace.net/2025/10/troubleshoot-multi-pod-evpn/?utm_source=atom_feed",
+      "published": "2025-10-09T08:27:00+02:00",
+      "published_parsed": "2025-10-09T08:27:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "An engineer reading my multi-pod EVPN article asked an interesting question: How do you handle troubleshooting when VTEPs cannot reach each other across pods? The ancient Romans already knew the rough answer: divide and conquer. In this particular case, the “divide” part starts with a simple...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
+    {
+      "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak",
+      "link": "https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/",
+      "published": "Wed, 08 Oct 2025 21:18:30 +0000",
+      "published_parsed": "2025-10-08T21:18:30+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Central bank says market concentration hasn't been this extreme in 50 years.",
+      "tags": [
+        "ai",
+        "ai stocks",
+        "alphabet",
+        "amazon",
+        "andrew bailey",
+        "apple",
+        "bank of england",
+        "biz & it",
+        "donald trump",
+        "dotcom bubble",
+        "federal reserve",
+        "financial stability",
+        "google",
+        "lisa cook",
+        "machine learning",
+        "mark zuckerberg",
+        "market correction",
+        "meta",
+        "microsoft",
+        "nvidia",
+        "uk economy"
+      ]
+    },
+    {
+      "title": "Salesforce says it won’t pay extortion demand in 1 billion records breach",
+      "link": "https://arstechnica.com/security/2025/10/salesforce-says-it-wont-pay-extortion-demand-in-1-billion-records-breach/",
+      "published": "Wed, 08 Oct 2025 20:02:46 +0000",
+      "published_parsed": "2025-10-08T20:02:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Scattered LAPSUS$ Hunters gave Salesforce until Friday to pay or else.",
+      "tags": [
+        "biz & it",
+        "data breaches",
+        "extortion",
+        "ransomware",
+        "salesforce",
+        "security"
+      ]
+    },
+    {
+      "title": "Logitech will brick its $100 Pop smart home buttons on October 15",
+      "link": "https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/",
+      "published": "Wed, 08 Oct 2025 17:47:39 +0000",
+      "published_parsed": "2025-10-08T17:47:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Logitech's interest in the smart home has appeared to wane in recent years.",
+      "tags": [
+        "logitech",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google Pixel 10 Pro Fold review: The ultimate Google phone",
+      "link": "https://arstechnica.com/gadgets/2025/10/google-pixel-10-pro-fold-review-the-ultimate-google-phone/",
+      "published": "Wed, 08 Oct 2025 17:00:11 +0000",
+      "published_parsed": "2025-10-08T17:00:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google delivers another phone that is slightly better than its predecessor—is that enough?",
+      "tags": [
+        "android",
+        "features",
+        "foldables",
+        "google",
+        "reviews",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Synology caves, walks back some drive restrictions on upcoming NAS models",
+      "link": "https://arstechnica.com/gadgets/2025/10/synology-caves-walks-back-some-drive-restrictions-on-upcoming-nas-models/",
+      "published": "Wed, 08 Oct 2025 16:49:27 +0000",
+      "published_parsed": "2025-10-08T16:49:27+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Policy change affects at least 2025 model Plus, Value, and J-series DiskStations.",
+      "tags": [
+        "biz & it",
+        "dsm",
+        "enterprise storage",
+        "hard disk drive",
+        "hard drive",
+        "hdd",
+        "nas",
+        "network attached storage",
+        "storage",
+        "synology",
+        "synology dsm",
+        "tech"
+      ]
+    },
+    {
+      "title": "Changes in ipSpace.net RSS Feeds",
+      "link": "https://blog.ipspace.net/2025/10/changes-rss-feeds/?utm_source=atom_feed",
+      "published": "2025-10-08T06:40:00+02:00",
+      "published_parsed": "2025-10-08T06:40:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: You shouldn’t see any immediate impact of this change, but I’ll eventually clean up old stuff, so you might want to check the URLs if you use RSS/Atom feeds to get the list of ipSpace.net blog posts or podcast episodes. The (hopefully) final URLs are listed on this page . Executive Summary:...",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build",
+      "link": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
+      "published": "Tue, 07 Oct 2025 19:47:19 +0000",
+      "published_parsed": "2025-10-07T19:47:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft has locked down well-documented workarounds in recent test builds.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "The Three Levels of Self-Healing Networks: From Auto-Detection to True Autonomy",
+      "link": "https://www.netbraintech.com/blog/self-healing-networks/",
+      "published": "2025-10-07T18:52:31Z",
+      "published_parsed": "2025-10-07T18:52:31+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "At 2 AM on a Tuesday, a primary data center link fails. By the time the monitoring alerts wake an on-call engineer, customer transactions have been failing for 12 minutes....",
+      "tags": [
+        "navigation blog",
+        "networking",
+        "prevent outages"
+      ]
+    },
+    {
+      "title": "Qualcomm is buying Arduino, releases new Raspberry Pi-esque Arduino board",
+      "link": "https://arstechnica.com/gadgets/2025/10/arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm/",
+      "published": "Tue, 07 Oct 2025 16:30:16 +0000",
+      "published_parsed": "2025-10-07T16:30:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Qualcomm claims Arduino will keep its own branding and \"open source ethos.\"",
+      "tags": [
+        "arduino",
+        "qualcomm",
+        "tech"
+      ]
+    },
+    {
+      "title": "Play Store changes coming this month as SCOTUS declines to freeze antitrust remedies",
+      "link": "https://arstechnica.com/gadgets/2025/10/supreme-court-refuses-to-pause-play-store-changes-while-google-appeals-antitrust-case/",
+      "published": "Tue, 07 Oct 2025 15:56:43 +0000",
+      "published_parsed": "2025-10-07T15:56:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The first app store changes are due in a few weeks, with the major changes coming next summer.",
+      "tags": [
+        "antitrust",
+        "apps",
+        "google",
+        "play store",
+        "tech"
+      ]
+    },
+    {
+      "title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision",
+      "link": "https://arstechnica.com/gadgets/2025/10/newest-developer-beta-backtracks-on-one-ipados-26-multitasking-decision/",
+      "published": "Tue, 07 Oct 2025 15:42:23 +0000",
+      "published_parsed": "2025-10-07T15:42:23+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple had removed many of the iPad's old multitasking modes in the new update.",
+      "tags": [
+        "apple",
+        "ipados",
+        "ipados 26",
+        "tech"
+      ]
+    },
+    {
+      "title": "Working for a Vendor with David Gee",
+      "link": "https://blog.ipspace.net/2025/10/working-for-vendor-david-gee/?utm_source=atom_feed",
+      "published": "2025-10-07T08:23:00+02:00",
+      "published_parsed": "2025-10-07T08:23:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I first met David Gee, he worked for a large system integrator. A few years later, he moved to a networking vendor, worked for a few of them, then for a software vendor, and finally decided to start his own system integration business. Obviously, I wanted to know what drove him to make those...",
+      "tags": [
+        "netlab",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "AMD wins massive AI chip deal from OpenAI with stock sweetener",
       "link": "https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/",
@@ -15475,6 +15861,20 @@
         "automation",
         "networking",
         "training"
+      ]
+    },
+    {
+      "title": "Building Unnumbered Ethernet Lab with netlab",
+      "link": "https://blog.ipspace.net/2021/04/build-unnumbered-lab-netsim-tools/?utm_source=atom_feed",
+      "published": "2021-04-05T05:57:00+00:00",
+      "published_parsed": "2021-04-05T05:57:00+00:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last week I described the new features added to netsim-tools release 0.4 , including support for unnumbered interfaces and OSPF routing . Now let’s see how I used them to build a multi-vendor lab to test which platforms could be made to interoperate when running OSPF over unnumbered Ethernet...",
+      "tags": [
+        "ip routing",
+        "netlab",
+        "networking"
       ]
     },
     {
