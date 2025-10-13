@@ -1,7 +1,44 @@
 {
-  "last_updated": "2025-10-13T18:29:56.525788+00:00",
-  "article_count": 1150,
+  "last_updated": "2025-10-13T23:18:08.837426+00:00",
+  "article_count": 1152,
   "articles": [
+    {
+      "title": "Hackers can steal 2FA codes and private messages from Android phones",
+      "link": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+      "published": "Mon, 13 Oct 2025 21:36:35 +0000",
+      "published_parsed": "2025-10-13T21:36:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Malicious app required to make \"Pixnapping\" attack work requires no permissions.",
+      "tags": [
+        "android",
+        "biz & it",
+        "google",
+        "pixnapping",
+        "privacy",
+        "security",
+        "side channel"
+      ]
+    },
+    {
+      "title": "Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM",
+      "link": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
+      "published": "Mon, 13 Oct 2025 19:52:23 +0000",
+      "published_parsed": "2025-10-13T19:52:23+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "After more than 5 billion AI image edits, Nano Banana is expanding.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "generative ai",
+        "google",
+        "google notebooklm",
+        "google photos",
+        "search",
+        "tech"
+      ]
+    },
     {
       "title": "Apple’s streaming service gets harder to tell apart from its streaming app, box",
       "link": "https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/",
