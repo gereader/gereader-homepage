@@ -1,7 +1,42 @@
 {
-  "last_updated": "2025-10-13T14:22:18.472783+00:00",
-  "article_count": 1148,
+  "last_updated": "2025-10-13T18:29:56.525788+00:00",
+  "article_count": 1150,
   "articles": [
+    {
+      "title": "Apple’s streaming service gets harder to tell apart from its streaming app, box",
+      "link": "https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/",
+      "published": "Mon, 13 Oct 2025 17:16:56 +0000",
+      "published_parsed": "2025-10-13T17:16:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple unifies its remaining streaming offerings by dropping the \"+\".",
+      "tags": [
+        "apple",
+        "apple tv",
+        "apple tv plus",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+      "link": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
+      "published": "Mon, 13 Oct 2025 16:15:53 +0000",
+      "published_parsed": "2025-10-13T16:15:53+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New design sets a high standard for post-quantum readiness.",
+      "tags": [
+        "biz & it",
+        "diffie-hellman elliptic curve",
+        "features",
+        "ml-kem",
+        "module-lattice-based key-encapsulation mechanism",
+        "post-quantum encryption",
+        "security",
+        "signal messenger"
+      ]
+    },
     {
       "title": "netlab: Embed Configuration Templates in a Lab Topology File",
       "link": "https://blog.ipspace.net/2025/10/netlab-configlets/?utm_source=atom_feed",

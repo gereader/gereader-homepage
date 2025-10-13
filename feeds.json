@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T14:22:18.487846+00:00",
+  "last_updated": "2025-10-13T18:29:56.540904+00:00",
   "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
@@ -53,6 +53,8 @@
     "anthropic",
     "antitrust",
     "apple",
+    "apple tv",
+    "apple tv plus",
     "apps",
     "arduino",
     "arp",
@@ -94,7 +96,6 @@
     "computer-using agent",
     "containerlab",
     "containers",
-    "copilot",
     "core ultra",
     "cpus",
     "cumulus linux",
@@ -105,6 +106,7 @@
     "design",
     "dexterity",
     "dhcp",
+    "diffie-hellman elliptic curve",
     "digital surveillance",
     "discord",
     "dmvpn",
@@ -124,8 +126,6 @@
     "environmental monitoring",
     "etoro",
     "evpn",
-    "excel",
-    "exploit",
     "extortion",
     "fabric",
     "features",
@@ -190,7 +190,6 @@
     "ldp",
     "lisa cook",
     "lisp",
-    "llm",
     "llm security",
     "load balancing",
     "logitech",
@@ -202,13 +201,13 @@
     "meta",
     "mfa",
     "microsoft",
-    "microsoft 365",
-    "microsoft copilot",
     "misinformation",
     "mit",
+    "ml-kem",
     "mobile",
     "model safety",
     "modems",
+    "module-lattice-based key-encapsulation mechanism",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -246,7 +245,7 @@
     "play store",
     "podcast",
     "policy",
-    "powerpoint",
+    "post-quantum encryption",
     "pretraining",
     "prevent outages",
     "privacy",
@@ -280,6 +279,7 @@
     "service providers",
     "sev-snp",
     "sgx",
+    "signal messenger",
     "simon willison",
     "smart displays",
     "smart home",
@@ -316,9 +316,6 @@
     "uk economy",
     "united kindgom",
     "update",
-    "vibe coding",
-    "vibe working",
-    "vibe writing",
     "video",
     "video synthesis",
     "virtualization",
@@ -330,13 +327,45 @@
     "wildlife conservation",
     "windows 11",
     "windows 11 25h2",
-    "word",
     "worth reading",
-    "youtube",
-    "zero-day",
-    "zero-day vulnerability"
+    "youtube"
   ],
   "articles": [
+    {
+      "title": "Apple’s streaming service gets harder to tell apart from its streaming app, box",
+      "link": "https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/",
+      "published": "Mon, 13 Oct 2025 17:16:56 +0000",
+      "published_parsed": "2025-10-13T17:16:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple unifies its remaining streaming offerings by dropping the \"+\".",
+      "tags": [
+        "apple",
+        "apple tv",
+        "apple tv plus",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+      "link": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
+      "published": "Mon, 13 Oct 2025 16:15:53 +0000",
+      "published_parsed": "2025-10-13T16:15:53+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New design sets a high standard for post-quantum readiness.",
+      "tags": [
+        "biz & it",
+        "diffie-hellman elliptic curve",
+        "features",
+        "ml-kem",
+        "module-lattice-based key-encapsulation mechanism",
+        "post-quantum encryption",
+        "security",
+        "signal messenger"
+      ]
+    },
     {
       "title": "netlab: Embed Configuration Templates in a Lab Topology File",
       "link": "https://blog.ipspace.net/2025/10/netlab-configlets/?utm_source=atom_feed",
@@ -1096,32 +1125,6 @@
       ]
     },
     {
-      "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
-      "link": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
-      "published": "Tue, 30 Sep 2025 19:34:38 +0000",
-      "published_parsed": "2025-09-30T19:34:38+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Agent Mode in Word, Excel works like vibe coding tools but for knowledge work.",
-      "tags": [
-        "ai",
-        "anthropic",
-        "copilot",
-        "excel",
-        "llm",
-        "microsoft",
-        "microsoft 365",
-        "microsoft copilot",
-        "openai",
-        "powerpoint",
-        "tech",
-        "vibe coding",
-        "vibe working",
-        "vibe writing",
-        "word"
-      ]
-    },
-    {
       "title": "California’s newly signed AI law just gave Big Tech exactly what it wanted",
       "link": "https://arstechnica.com/ai/2025/09/californias-newly-signed-ai-law-just-gave-big-tech-exactly-what-it-wanted/",
       "published": "Tue, 30 Sep 2025 15:12:10 +0000",
@@ -1300,23 +1303,6 @@
         "robo-advisory",
         "stock market",
         "ubs"
-      ]
-    },
-    {
-      "title": "As many as 2 million Cisco devices affected by actively exploited 0-day",
-      "link": "https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/",
-      "published": "Thu, 25 Sep 2025 12:43:42 +0000",
-      "published_parsed": "2025-09-25T12:43:42+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Search shows 2 million vulnerable Cisco SNMP interfaces exposed to the Internet.",
-      "tags": [
-        "biz & it",
-        "cisco",
-        "exploit",
-        "security",
-        "zero-day",
-        "zero-day vulnerability"
       ]
     },
     {
