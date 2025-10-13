@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T07:22:16.670450+00:00",
+  "last_updated": "2025-10-13T14:22:18.487846+00:00",
   "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
@@ -337,6 +337,19 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "netlab: Embed Configuration Templates in a Lab Topology File",
+      "link": "https://blog.ipspace.net/2025/10/netlab-configlets/?utm_source=atom_feed",
+      "published": "2025-10-13T08:30:00+02:00",
+      "published_parsed": "2025-10-13T08:30:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A few days ago, I described how you can use the new config.inline functionality to apply additional configuration commands to individual devices in a netlab -powered lab. However, sometimes you have to apply the same set of commands to several devices. Although you could use device groups to do...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Netpicker NetBox Plugin and Automation",
       "link": "https://www.packetswitch.co.uk/netpicker-netbox-plugin-and-automation/",
@@ -740,7 +753,6 @@
       "image": null,
       "summary": "When I first met David Gee, he worked for a large system integrator. A few years later, he moved to a networking vendor, worked for a few of them, then for a software vendor, and finally decided to start his own system integration business. Obviously, I wanted to know what drove him to make those...",
       "tags": [
-        "netlab",
         "networking",
         "podcast",
         "software gone wild"
@@ -2268,19 +2280,6 @@
       "tags": [
         "navigation blog",
         "network assessment",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 25.07: Summaries and Confederations",
-      "link": "https://blog.ipspace.net/2025/07/netlab-25-07/?utm_source=atom_feed",
-      "published": "2025-07-15T08:27:00+01:00",
-      "published_parsed": "2025-07-15T08:27:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 25.07 was published yesterday. The major new features include: The ospf.areas plugin supports OSPFv2 and OSPFv3 stub areas, NSSA areas, and area ranges. The BGP routing policies plugin supports aggregate BGP routes The BGP configuration module supports BGP confederations But wait,...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
