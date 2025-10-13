@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-13T02:41:31.338518+00:00",
-  "article_count": 128,
+  "last_updated": "2025-10-13T07:22:16.670450+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2281,19 +2281,6 @@
       "summary": "netlab release 25.07 was published yesterday. The major new features include: The ospf.areas plugin supports OSPFv2 and OSPFv3 stub areas, NSSA areas, and area ranges. The BGP routing policies plugin supports aggregate BGP routes The BGP configuration module supports BGP confederations But wait,...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Integration Testing in Infrahub - Validate Your Automation in Real Environments",
-      "link": "https://www.packetswitch.co.uk/integration-testing-in-infrahub-validate-your-automation-in-real-environments/",
-      "published": "Tue, 15 Jul 2025 06:49:35 GMT",
-      "published_parsed": "2025-07-15T06:49:35+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/07/schema-library-8-.png",
-      "summary": "In this post, we’ll show you how to run integration tests in Infrahub that verify your schema, data, and Git workflows in a real, running environment.",
-      "tags": [
-        "infrahub",
         "networking"
       ]
     }
