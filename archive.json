@@ -1,7 +1,59 @@
 {
-  "last_updated": "2025-10-14T18:31:35.291212+00:00",
-  "article_count": 1156,
+  "last_updated": "2025-10-14T23:19:11.264478+00:00",
+  "article_count": 1159,
   "articles": [
+    {
+      "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
+      "link": "https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/",
+      "published": "Tue, 14 Oct 2025 21:01:50 +0000",
+      "published_parsed": "2025-10-14T21:01:50+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Scams like this one net billions from well-educated victims.",
+      "tags": [
+        "bitcoin",
+        "biz & it",
+        "federal indictments",
+        "online scams",
+        "pig butchering",
+        "policy"
+      ]
+    },
+    {
+      "title": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+      "link": "https://arstechnica.com/gadgets/2025/10/directv-screensavers-will-show-ai-generated-ads-with-your-face-in-2026/",
+      "published": "Tue, 14 Oct 2025 19:58:38 +0000",
+      "published_parsed": "2025-10-14T19:58:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Like other companies with streaming businesses, DirecTV is leaning into ads more.",
+      "tags": [
+        "ads",
+        "ai",
+        "directv",
+        "generative ai",
+        "satellite",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google will let Gemini schedule meetings for you in Gmail",
+      "link": "https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/",
+      "published": "Tue, 14 Oct 2025 18:24:53 +0000",
+      "published_parsed": "2025-10-14T18:24:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Help Me Schedule creates a meeting widget based on the context of your message.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "gemini",
+        "gmail",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Nvidia sells tiny new computer that puts big AI on your desktop",
       "link": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
