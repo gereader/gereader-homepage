@@ -1,7 +1,97 @@
 {
-  "last_updated": "2025-10-15T14:23:16.773365+00:00",
-  "article_count": 1161,
+  "last_updated": "2025-10-15T18:32:19.680547+00:00",
+  "article_count": 1166,
   "articles": [
+    {
+      "title": "Google’s AI videos get a big upgrade with Veo 3.1",
+      "link": "https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/",
+      "published": "Wed, 15 Oct 2025 16:00:51 +0000",
+      "published_parsed": "2025-10-15T16:00:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Veo 3.1 is coming to the Gemini app and the Flow filmmaking tool.",
+      "tags": [
+        "ai",
+        "ai video",
+        "artificial intelligence",
+        "google",
+        "tech"
+      ]
+    },
+    {
+      "title": "ChatGPT erotica coming soon with age verification, CEO says",
+      "link": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/",
+      "published": "Wed, 15 Oct 2025 15:14:52 +0000",
+      "published_parsed": "2025-10-15T15:14:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Sam Altman claims new tools can detect mental distress while relaxing limits for adults.",
+      "tags": [
+        "age verification",
+        "ai",
+        "ai behavior",
+        "ai censorship",
+        "ai companionship",
+        "ai ethics",
+        "ai paternalism",
+        "biz & it",
+        "chatbots",
+        "elon musk",
+        "machine learning",
+        "mental health",
+        "openai",
+        "sam altman",
+        "xai"
+      ]
+    },
+    {
+      "title": "Apple unveils M5 update for the 11- and 13-inch iPad Pros",
+      "link": "https://arstechnica.com/gadgets/2025/10/apple-unveils-m5-update-for-the-11-and-13-inch-ipad-pros/",
+      "published": "Wed, 15 Oct 2025 14:35:48 +0000",
+      "published_parsed": "2025-10-15T14:35:48+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Leaks of the new tablet from a couple weeks ago appear to have been genuine.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple silicon",
+        "ipad pro",
+        "tech"
+      ]
+    },
+    {
+      "title": "New Apple M5 is the centerpiece of an updated 14-inch MacBook Pro",
+      "link": "https://arstechnica.com/gadgets/2025/10/new-apple-m5-is-the-centerpiece-of-an-updated-14-inch-macbook-pro/",
+      "published": "Wed, 15 Oct 2025 14:03:55 +0000",
+      "published_parsed": "2025-10-15T14:03:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A 27.5% increase in memory bandwidth provides a big boost to GPU performance.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple silicon",
+        "macbook pro",
+        "tech"
+      ]
+    },
+    {
+      "title": "With considerably less fanfare, Apple releases a second-generation Vision Pro",
+      "link": "https://arstechnica.com/gadgets/2025/10/with-considerably-less-fanfare-apple-releases-a-second-generation-vision-pro/",
+      "published": "Wed, 15 Oct 2025 13:27:08 +0000",
+      "published_parsed": "2025-10-15T13:27:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Reports suggest that Apple has de-prioritized Vision Pro development internally.",
+      "tags": [
+        "apple",
+        "apple vision pro",
+        "tech",
+        "vision pro",
+        "visionos"
+      ]
+    },
     {
       "title": "An Introduction to the Netpicker Network Automation Platform",
       "link": "https://www.packetcoders.io/an-introduction-to-the-netpicker-network-automation-platform/",
