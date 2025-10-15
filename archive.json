@@ -1,7 +1,54 @@
 {
-  "last_updated": "2025-10-15T18:32:19.680547+00:00",
-  "article_count": 1166,
+  "last_updated": "2025-10-15T23:19:04.082533+00:00",
+  "article_count": 1168,
   "articles": [
+    {
+      "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
+      "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
+      "published": "Wed, 15 Oct 2025 20:05:39 +0000",
+      "published_parsed": "2025-10-15T20:05:39+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+      "tags": [
+        "big-ip",
+        "biz & it",
+        "breach",
+        "f5",
+        "security"
+      ]
+    },
+    {
+      "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+      "link": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
+      "published": "Wed, 15 Oct 2025 18:53:00 +0000",
+      "published_parsed": "2025-10-15T18:53:00+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
+      "tags": [
+        "ai",
+        "ai alignment",
+        "ai benchmarks",
+        "ai coding",
+        "ai development tools",
+        "ai models",
+        "ai programming",
+        "ai safety",
+        "amazon bedrock",
+        "anthropic",
+        "api",
+        "biz & it",
+        "claude haiku",
+        "claude sonnet",
+        "code agents",
+        "github",
+        "google cloud",
+        "large language models",
+        "machine learning",
+        "vertex ai"
+      ]
+    },
     {
       "title": "Google’s AI videos get a big upgrade with Veo 3.1",
       "link": "https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/",
