@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15T02:26:40.437159+00:00",
+  "last_updated": "2025-10-15T07:22:23.168323+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -318,6 +318,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "EVPN Designs: Multi-Pod with IP-Only WAN Routers",
+      "link": "https://blog.ipspace.net/2025/10/evpn-designs-inter-as-c/?utm_source=atom_feed",
+      "published": "2025-10-15T08:12:00+02:00",
+      "published_parsed": "2025-10-15T08:12:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In the multi-pod EVPN design , I described a simple way to merge two EVPN fabrics into a single end-to-end fabric. Here are a few highlights of that design: Each fabric is running OSPF and IBGP, with core (spine) devices being route reflectors There’s an EBGP session between the WAN edge routers...",
+      "tags": [
+        "design",
+        "evpn",
+        "netlab",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
       "link": "https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/",
@@ -2241,20 +2257,6 @@
       "tags": [
         "ansible",
         "blog",
-        "networking"
-      ]
-    },
-    {
-      "title": "The App Store for Network Automation",
-      "link": "https://www.netbraintech.com/blog/app-store-for-network-automation/",
-      "published": "2025-07-17T05:11:46Z",
-      "published_parsed": "2025-07-17T05:11:46+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Don’t you wish everything in life was as simple as an app store – “there’s an app for that” was the slogan everyone knew. The absolute simplicity of browsing an...",
-      "tags": [
-        "navigation blog",
-        "network assessment",
         "networking"
       ]
     }
