@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-10-15T07:22:23.153154+00:00",
-  "article_count": 1160,
+  "last_updated": "2025-10-15T14:23:16.773365+00:00",
+  "article_count": 1161,
   "articles": [
+    {
+      "title": "An Introduction to the Netpicker Network Automation Platform",
+      "link": "https://www.packetcoders.io/an-introduction-to-the-netpicker-network-automation-platform/",
+      "published": "Wed, 15 Oct 2025 12:38:31 GMT",
+      "published_parsed": "2025-10-15T12:38:31+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/10/Heading--15-.png",
+      "summary": "Within this post, we are going to explore the network automation platform Netpicker . Netpicker is a Python-powered network automation platform that provides various features to allow you to configure, back up, and perform compliance testing across 150+ vendors . Because it’s built using...",
+      "tags": [
+        "blog",
+        "networking"
+      ]
+    },
     {
       "title": "EVPN Designs: Multi-Pod with IP-Only WAN Routers",
       "link": "https://blog.ipspace.net/2025/10/evpn-designs-inter-as-c/?utm_source=atom_feed",
