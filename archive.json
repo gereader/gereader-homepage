@@ -1,7 +1,112 @@
 {
-  "last_updated": "2025-10-16T18:30:59.780015+00:00",
-  "article_count": 1169,
+  "last_updated": "2025-10-16T23:17:40.405921+00:00",
+  "article_count": 1174,
   "articles": [
+    {
+      "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
+      "link": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
+      "published": "Thu, 16 Oct 2025 21:12:48 +0000",
+      "published_parsed": "2025-10-16T21:12:48+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Copilot expands with an emphasis on creating and editing files, voice input.",
+      "tags": [
+        "copilot",
+        "microsoft",
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
+      "link": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
+      "published": "Thu, 16 Oct 2025 20:40:49 +0000",
+      "published_parsed": "2025-10-16T20:40:49+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
+      "tags": [
+        "biz & it",
+        "blockchain",
+        "hacking",
+        "malware",
+        "security"
+      ]
+    },
+    {
+      "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
+      "link": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
+      "published": "Thu, 16 Oct 2025 20:25:08 +0000",
+      "published_parsed": "2025-10-16T20:25:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "ai chips",
+        "ai criticism",
+        "ai economics",
+        "ai infrastructure",
+        "benj edwards",
+        "biz & it",
+        "bubble",
+        "cerebras",
+        "datacenters",
+        "ed zitron",
+        "financial losses",
+        "generative ai",
+        "gpu",
+        "grok",
+        "large language models",
+        "machine learning",
+        "nvidia",
+        "openai",
+        "oracle",
+        "power consumption",
+        "sam altman",
+        "stargate",
+        "venture capital"
+      ]
+    },
+    {
+      "title": "OnePlus unveils OxygenOS 16 update with deep Gemini integration",
+      "link": "https://arstechnica.com/google/2025/10/oneplus-unveils-oxygenos-16-update-with-deep-gemini-integration/",
+      "published": "Thu, 16 Oct 2025 20:05:19 +0000",
+      "published_parsed": "2025-10-16T20:05:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Does your phone even have a Mind Space?",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "gemini",
+        "google",
+        "oneplus",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple TV and Peacock bundle starts at $15/month, available on Oct. 20",
+      "link": "https://arstechnica.com/gadgets/2025/10/apple-tv-gets-rare-discount-in-peacock-streaming-bundle/",
+      "published": "Thu, 16 Oct 2025 19:18:43 +0000",
+      "published_parsed": "2025-10-16T19:18:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The bundle starts at $15/month, compared to $21/month if purchased separately.",
+      "tags": [
+        "apple",
+        "apple tv",
+        "apple tv plus",
+        "nbcuniversal",
+        "peacock",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Inside the web infrastructure revolt over Google’s AI Overviews",
       "link": "https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/",
