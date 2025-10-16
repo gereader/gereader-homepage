@@ -1,7 +1,30 @@
 {
-  "last_updated": "2025-10-16T07:21:28.085167+00:00",
-  "article_count": 1168,
+  "last_updated": "2025-10-16T14:21:57.612305+00:00",
+  "article_count": 1169,
   "articles": [
+    {
+      "title": "Inside the web infrastructure revolt over Google’s AI Overviews",
+      "link": "https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/",
+      "published": "Thu, 16 Oct 2025 11:00:03 +0000",
+      "published_parsed": "2025-10-16T11:00:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cloudflare CEO Matthew Prince is making sweeping changes to force Google's hand.",
+      "tags": [
+        "ai",
+        "cloudflare",
+        "features",
+        "google",
+        "matthew prince",
+        "media",
+        "rag",
+        "retrieval augmented generation",
+        "robots.txt",
+        "search engines",
+        "tech",
+        "web crawlers"
+      ]
+    },
     {
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
       "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",

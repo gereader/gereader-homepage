@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-16T07:21:28.100787+00:00",
+  "last_updated": "2025-10-16T14:21:57.627497+00:00",
   "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
@@ -64,7 +64,6 @@
     "apple tv",
     "apple tv plus",
     "apple vision pro",
-    "arduino",
     "arp",
     "ars live",
     "ars live conversations",
@@ -97,6 +96,7 @@
     "claude haiku",
     "claude sonnet",
     "cloud",
+    "cloudflare",
     "code agents",
     "company news",
     "compliance",
@@ -196,6 +196,8 @@
     "manipulation",
     "mark zuckerberg",
     "market correction",
+    "matthew prince",
+    "media",
     "mental health",
     "meta",
     "mfa",
@@ -252,15 +254,17 @@
     "project digits",
     "python",
     "qos",
-    "qualcomm",
+    "rag",
     "ransomware",
     "release",
     "rethink robotics",
+    "retrieval augmented generation",
     "reviews",
     "rlhf",
     "robot ai",
     "robotics",
     "robots",
+    "robots.txt",
     "rodney brooks",
     "safety",
     "salesforce",
@@ -270,6 +274,7 @@
     "sd-wan",
     "sdn",
     "search",
+    "search engines",
     "security",
     "segment routing",
     "service providers",
@@ -314,6 +319,7 @@
     "vxlan",
     "walking robots",
     "wan",
+    "web crawlers",
     "windows 10",
     "windows 10 22h2",
     "windows 11",
@@ -323,6 +329,29 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Inside the web infrastructure revolt over Google’s AI Overviews",
+      "link": "https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/",
+      "published": "Thu, 16 Oct 2025 11:00:03 +0000",
+      "published_parsed": "2025-10-16T11:00:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cloudflare CEO Matthew Prince is making sweeping changes to force Google's hand.",
+      "tags": [
+        "ai",
+        "cloudflare",
+        "features",
+        "google",
+        "matthew prince",
+        "media",
+        "rag",
+        "retrieval augmented generation",
+        "robots.txt",
+        "search engines",
+        "tech",
+        "web crawlers"
+      ]
+    },
     {
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
       "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
@@ -1066,20 +1095,6 @@
         "navigation blog",
         "networking",
         "prevent outages"
-      ]
-    },
-    {
-      "title": "Qualcomm is buying Arduino, releases new Raspberry Pi-esque Arduino board",
-      "link": "https://arstechnica.com/gadgets/2025/10/arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm/",
-      "published": "Tue, 07 Oct 2025 16:30:16 +0000",
-      "published_parsed": "2025-10-07T16:30:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Qualcomm claims Arduino will keep its own branding and \"open source ethos.\"",
-      "tags": [
-        "arduino",
-        "qualcomm",
-        "tech"
       ]
     },
     {
