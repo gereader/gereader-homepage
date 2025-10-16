@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-16T02:25:34.936581+00:00",
-  "article_count": 128,
+  "last_updated": "2025-10-16T07:21:28.100787+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2249,19 +2249,6 @@
       "summary": "The next one on the list was Immich. Immich is a self-hosted photo and video backup solution that supports features like facial recognition and automatic uploads.",
       "tags": [
         "homelab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Cisco IOS/XE Hates Redistributed Static IPv6 Routes",
-      "link": "https://blog.ipspace.net/2025/07/cisco-iosxe-hates-redistributed-ipv6-bgp/?utm_source=atom_feed",
-      "published": "2025-07-18T07:41:00+02:00",
-      "published_parsed": "2025-07-18T07:41:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Writing tests that check the correctness of network device configurations is hard ( overview , more details ). It’s also an interesting exercise in getting the timing just right: Routing protocols are an eventually-consistent distributed system , and things eventually appear in the right place (if...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
