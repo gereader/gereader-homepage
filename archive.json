@@ -1,7 +1,25 @@
 {
-  "last_updated": "2025-10-17T14:20:47.228062+00:00",
-  "article_count": 1177,
+  "last_updated": "2025-10-17T18:28:37.416510+00:00",
+  "article_count": 1178,
   "articles": [
+    {
+      "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
+      "link": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",
+      "published": "Fri, 17 Oct 2025 16:27:02 +0000",
+      "published_parsed": "2025-10-17T16:27:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Bathtub_6_Drive-failure-total-comparison.jpg",
+      "summary": "Backup firm brings a unique, informed perspective to HDD failure rates.",
+      "tags": [
+        "backblaze",
+        "hard disk drive",
+        "hard drive",
+        "hard drives",
+        "hdd",
+        "hdds",
+        "tech"
+      ]
+    },
     {
       "title": "Yes, everything online sucks now—but it doesn’t have to",
       "link": "https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/",

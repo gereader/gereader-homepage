@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-17T14:20:47.244225+00:00",
+  "last_updated": "2025-10-17T18:28:37.431848+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -74,6 +74,7 @@
     "automation",
     "aws",
     "azure",
+    "backblaze",
     "backdoor attacks",
     "bank of england",
     "benj edwards",
@@ -107,9 +108,7 @@
     "containerlab",
     "containers",
     "copilot",
-    "core ultra",
     "cory doctorow",
-    "cpus",
     "cultural bias",
     "culture",
     "cumulus linux",
@@ -169,7 +168,9 @@
     "hacking",
     "hard disk drive",
     "hard drive",
+    "hard drives",
     "hdd",
+    "hdds",
     "high availability",
     "history",
     "homelab",
@@ -179,8 +180,6 @@
     "immigration",
     "immigration and customs enforcement",
     "infrahub",
-    "intel",
-    "intel core ultra",
     "internet",
     "ip routing",
     "ipad pro",
@@ -246,7 +245,6 @@
     "ospf",
     "overlay networks",
     "palo alto",
-    "panther lake",
     "peacock",
     "performance",
     "phishing",
@@ -335,6 +333,24 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
+      "link": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",
+      "published": "Fri, 17 Oct 2025 16:27:02 +0000",
+      "published_parsed": "2025-10-17T16:27:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Bathtub_6_Drive-failure-total-comparison.jpg",
+      "summary": "Backup firm brings a unique, informed perspective to HDD failure rates.",
+      "tags": [
+        "backblaze",
+        "hard disk drive",
+        "hard drive",
+        "hard drives",
+        "hdd",
+        "hdds",
+        "tech"
+      ]
+    },
     {
       "title": "Yes, everything online sucks now—but it doesn’t have to",
       "link": "https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/",
@@ -1053,24 +1069,6 @@
         "id",
         "privacy",
         "security"
-      ]
-    },
-    {
-      "title": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
-      "link": "https://arstechnica.com/gadgets/2025/10/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form/",
-      "published": "Thu, 09 Oct 2025 13:00:51 +0000",
-      "published_parsed": "2025-10-09T13:00:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New laptop CPUs replace confusing bifurcated Lunar Lake and Arrow Lake lineups.",
-      "tags": [
-        "amd",
-        "core ultra",
-        "cpus",
-        "intel",
-        "intel core ultra",
-        "panther lake",
-        "tech"
       ]
     },
     {
