@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-17T02:25:01.838890+00:00",
-  "article_count": 129,
+  "last_updated": "2025-10-17T07:21:11.637621+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -331,6 +331,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Lab: Hide Transit Subnets in IS-IS Networks",
+      "link": "https://blog.ipspace.net/2025/10/isis-lab-hide-transit/?utm_source=atom_feed",
+      "published": "2025-10-17T07:46:00+02:00",
+      "published_parsed": "2025-10-17T07:46:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://isis.bgplabs.net/feature/topology-hide-transit.png",
+      "summary": "Sometimes you want to assign IPv4/IPv6 subnets to transit links in your network (for example, to identify interfaces in traceroute outputs), but don’t need to have those subnets in the IP routing tables throughout the whole network. Like OSPF, IS-IS has a nerd knob you can use to exclude transit...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
       "link": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
