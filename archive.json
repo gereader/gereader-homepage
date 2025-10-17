@@ -1,7 +1,23 @@
 {
-  "last_updated": "2025-10-17T18:28:37.416510+00:00",
-  "article_count": 1178,
+  "last_updated": "2025-10-17T23:18:39.659912+00:00",
+  "article_count": 1179,
   "articles": [
+    {
+      "title": "Ring cameras are about to get increasingly chummy with law enforcement",
+      "link": "https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/",
+      "published": "Fri, 17 Oct 2025 21:50:10 +0000",
+      "published_parsed": "2025-10-17T21:50:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon's Ring partners with company whose tech has reportedly been used by ICE.",
+      "tags": [
+        "amazon",
+        "privacy",
+        "ring",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
       "link": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",

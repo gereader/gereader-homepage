@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-17T18:28:37.431848+00:00",
-  "article_count": 130,
+  "last_updated": "2025-10-17T23:18:39.676026+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -207,7 +207,6 @@
     "meta",
     "mfa",
     "microsoft",
-    "misinformation",
     "mit",
     "ml-kem",
     "model safety",
@@ -266,6 +265,7 @@
     "release",
     "rethink robotics",
     "retrieval augmented generation",
+    "ring",
     "rlhf",
     "robot ai",
     "robotics",
@@ -329,10 +329,25 @@
     "windows 11 24h2",
     "windows 11 25h2",
     "worth reading",
-    "xai",
-    "youtube"
+    "xai"
   ],
   "articles": [
+    {
+      "title": "Ring cameras are about to get increasingly chummy with law enforcement",
+      "link": "https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/",
+      "published": "Fri, 17 Oct 2025 21:50:10 +0000",
+      "published_parsed": "2025-10-17T21:50:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon's Ring partners with company whose tech has reportedly been used by ICE.",
+      "tags": [
+        "amazon",
+        "privacy",
+        "ring",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
       "link": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",
@@ -1037,21 +1052,6 @@
         "pretraining",
         "training data",
         "uk ai security institute"
-      ]
-    },
-    {
-      "title": "YouTube prepares to welcome back banned creators with “second chance” program",
-      "link": "https://arstechnica.com/gadgets/2025/10/youtube-explains-how-banned-creators-can-get-a-second-chance/",
-      "published": "Thu, 09 Oct 2025 19:23:48 +0000",
-      "published_parsed": "2025-10-09T19:23:48+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "YouTube will evaluate each request individually, but copyright violators need not apply.",
-      "tags": [
-        "google",
-        "misinformation",
-        "tech",
-        "youtube"
       ]
     },
     {
@@ -2316,19 +2316,6 @@
       "summary": "A while ago, I published a blog post proudly describing the netlab integration test that should check for incorrect OSPF network types in netlab -generated device configurations. Almost immediately, Erik Auerswald pointed out that my test wouldn’t detect that error (it might detect other errors,...",
       "tags": [
         "automation",
-        "networking"
-      ]
-    },
-    {
-      "title": "Immich Setup with Docker & External Library (NFS)",
-      "link": "https://www.packetswitch.co.uk/immich-setup-with-docker-external-library-nfs/",
-      "published": "Sat, 19 Jul 2025 22:47:37 GMT",
-      "published_parsed": "2025-07-19T22:47:37+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/06/immich.png",
-      "summary": "The next one on the list was Immich. Immich is a self-hosted photo and video backup solution that supports features like facial recognition and automatic uploads.",
-      "tags": [
-        "homelab",
         "networking"
       ]
     }
