@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-16T23:17:40.405921+00:00",
-  "article_count": 1174,
+  "last_updated": "2025-10-17T02:25:01.823313+00:00",
+  "article_count": 1175,
   "articles": [
     {
       "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
@@ -69,6 +69,19 @@
         "sam altman",
         "stargate",
         "venture capital"
+      ]
+    },
+    {
+      "title": "The Era of Proactive Network Operations",
+      "link": "https://www.netbraintech.com/blog/proactive-network-operations/",
+      "published": "2025-10-16T20:11:46Z",
+      "published_parsed": "2025-10-16T20:11:46+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "For decades, network teams have been fighting fires with limited visibility. We can see devices, interfaces, and links, but we’ve been missing the most critical piece: understanding what the network...",
+      "tags": [
+        "network operations",
+        "networking"
       ]
     },
     {

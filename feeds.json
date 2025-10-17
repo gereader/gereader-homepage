@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-16T23:17:40.421399+00:00",
-  "article_count": 128,
+  "last_updated": "2025-10-17T02:25:01.838890+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -130,7 +130,6 @@
     "dora",
     "dotcom bubble",
     "dsm",
-    "dynamic maps",
     "ed zitron",
     "eigrp",
     "elon musk",
@@ -150,7 +149,6 @@
     "fine tuning",
     "firewall",
     "firewalls",
-    "gcp",
     "gemini",
     "generative ai",
     "github",
@@ -173,8 +171,6 @@
     "homelab",
     "hp",
     "humanoid robots",
-    "hybrid cloud",
-    "hybrid networks",
     "id",
     "immigration",
     "immigration and customs enforcement",
@@ -232,7 +228,6 @@
     "network automation",
     "network management",
     "network operations",
-    "network visibility",
     "networking",
     "networking fundamentals",
     "nfv",
@@ -403,6 +398,19 @@
         "sam altman",
         "stargate",
         "venture capital"
+      ]
+    },
+    {
+      "title": "The Era of Proactive Network Operations",
+      "link": "https://www.netbraintech.com/blog/proactive-network-operations/",
+      "published": "2025-10-16T20:11:46Z",
+      "published_parsed": "2025-10-16T20:11:46+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "For decades, network teams have been fighting fires with limited visibility. We can see devices, interfaces, and links, but we’ve been missing the most critical piece: understanding what the network...",
+      "tags": [
+        "network operations",
+        "networking"
       ]
     },
     {
