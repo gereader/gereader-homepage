@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-19T02:47:00.271166+00:00",
-  "article_count": 129,
+  "last_updated": "2025-10-19T07:17:48.182968+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2303,19 +2303,6 @@
       "summary": "One should never trust the technical details published by the industry press , but assuming the Tomahawk Ultra puff piece isn’t too far off the mark, the new Broadcom ASIC (supposedly loosely based on emerging Ultra Ethernet specs): Uses Optimized Ethernet Header , replacing IP/UDP header with a...",
       "tags": [
         "data center",
-        "networking"
-      ]
-    },
-    {
-      "title": "Always Check Your Tests Against Faulty Inputs",
-      "link": "https://blog.ipspace.net/2025/07/tests-should-detect-errors/?utm_source=atom_feed",
-      "published": "2025-07-21T07:19:00+02:00",
-      "published_parsed": "2025-07-21T07:19:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A while ago, I published a blog post proudly describing the netlab integration test that should check for incorrect OSPF network types in netlab -generated device configurations. Almost immediately, Erik Auerswald pointed out that my test wouldn’t detect that error (it might detect other errors,...",
-      "tags": [
-        "automation",
         "networking"
       ]
     }
