@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-20T18:32:54.369212+00:00",
+  "last_updated": "2025-10-20T23:19:00.391607+00:00",
   "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
@@ -56,7 +56,6 @@
     "announcement",
     "ansible",
     "anthropic",
-    "antitrust",
     "api",
     "apple",
     "apple m5",
@@ -160,6 +159,7 @@
     "google cloud",
     "google notebooklm",
     "google photos",
+    "google pixel",
     "government surveillance",
     "gpu",
     "gpus",
@@ -310,7 +310,6 @@
     "training data",
     "uk ai security institute",
     "uk economy",
-    "united kindgom",
     "update",
     "venture capital",
     "vertex ai",
@@ -332,6 +331,21 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
+      "link": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
+      "published": "Mon, 20 Oct 2025 20:14:29 +0000",
+      "published_parsed": "2025-10-20T20:14:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Selected testers will have to sign an NDA and use a disguised case.",
+      "tags": [
+        "google",
+        "google pixel",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "netlab: Embed Files in a Lab Topology",
       "link": "https://blog.ipspace.net/2025/10/netlab-embedded-files/?utm_source=atom_feed",
@@ -1009,22 +1023,6 @@
         "multi factor authentication",
         "phishing",
         "security"
-      ]
-    },
-    {
-      "title": "UK regulators plan to force Google changes under new competition law",
-      "link": "https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/",
-      "published": "Fri, 10 Oct 2025 16:58:36 +0000",
-      "published_parsed": "2025-10-10T16:58:36+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The CMA will focus on regulating search and search advertising, but not Gemini (for now).",
-      "tags": [
-        "antitrust",
-        "google",
-        "search",
-        "tech",
-        "united kindgom"
       ]
     },
     {
