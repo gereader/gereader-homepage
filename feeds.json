@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-21T07:22:07.250135+00:00",
-  "article_count": 129,
+  "last_updated": "2025-10-21T14:20:32.540496+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -52,7 +52,6 @@
     "amd",
     "andrew bailey",
     "android",
-    "announcement",
     "ansible",
     "anthropic",
     "api",
@@ -317,6 +316,19 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "pyATS - How to Disable Default Connection Commands",
+      "link": "https://www.packetcoders.io/pyats-how-to-disable-default-connection-commands/",
+      "published": "Tue, 21 Oct 2025 10:21:13 GMT",
+      "published_parsed": "2025-10-21T10:21:13+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/10/Untitled-design--93--1-1.webp",
+      "summary": "pyATS Tip! By default, pyATS runs several exec/config commands and logs to stdout when connecting. You can disable these using the parameters in the example below: device.connect( init_exec_commands=[], # Disable default exec commands init_config_commands=[], # Disable default config commands...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "OSPF Router ID and Loopback Interface Myths",
       "link": "https://blog.ipspace.net/2025/10/ospf-routerid-loopback-interface-myths/?utm_source=atom_feed",
