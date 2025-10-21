@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21T14:20:32.540496+00:00",
+  "last_updated": "2025-10-21T18:31:36.033664+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -47,7 +47,6 @@
     "alignment research",
     "alphabet",
     "amazon",
-    "amazon alexa",
     "amazon bedrock",
     "amd",
     "andrew bailey",
@@ -66,7 +65,6 @@
     "ars live conversations",
     "artificial intelligence",
     "asus",
-    "audio",
     "automated diagnosis",
     "automation",
     "aws",
@@ -82,7 +80,6 @@
     "blockchain",
     "blog",
     "books",
-    "bose",
     "breach",
     "bridging",
     "broadcom",
@@ -153,6 +150,7 @@
     "gmail",
     "google",
     "google cloud",
+    "google fi",
     "google notebooklm",
     "google photos",
     "google pixel",
@@ -189,8 +187,10 @@
     "lisp",
     "llm security",
     "load balancing",
+    "macbook",
     "macbook pro",
     "machine learning",
+    "macos",
     "malware",
     "mark zuckerberg",
     "market correction",
@@ -201,6 +201,7 @@
     "mfa",
     "microsoft",
     "ml-kem",
+    "mobile data",
     "model safety",
     "module-lattice-based key-encapsulation mechanism",
     "mpls",
@@ -209,6 +210,7 @@
     "msi",
     "mtu",
     "multi factor authentication",
+    "mvno",
     "nas",
     "nat",
     "navigation blog",
@@ -257,6 +259,7 @@
     "ransomware",
     "release",
     "retrieval augmented generation",
+    "reviews",
     "ring",
     "rlhf",
     "robots.txt",
@@ -273,14 +276,11 @@
     "service providers",
     "side channel",
     "signal messenger",
-    "smart displays",
     "smart home",
     "smartphones",
     "snmp",
     "software gone wild",
-    "sonos",
     "spacex",
-    "speakers",
     "stargate",
     "storage",
     "streaming",
@@ -316,6 +316,43 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "M5 MacBook Pro review: Fifth-generation Apple Silicon in a familiar wrapper",
+      "link": "https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/",
+      "published": "Tue, 21 Oct 2025 17:00:45 +0000",
+      "published_parsed": "2025-10-21T17:00:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple M5 trades blows with Pro and Max chips from older generations.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple silicon",
+        "features",
+        "macbook",
+        "macbook pro",
+        "macos",
+        "reviews",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google Fi is getting enhanced web calls and messaging, AI bill summaries",
+      "link": "https://arstechnica.com/gadgets/2025/10/google-fi-is-getting-enhanced-web-calls-and-messaging-ai-bill-summaries/",
+      "published": "Tue, 21 Oct 2025 17:00:13 +0000",
+      "published_parsed": "2025-10-21T17:00:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's MVNO gets better web support, clearer audio, and yes, more AI.",
+      "tags": [
+        "artificial intelligence",
+        "google",
+        "google fi",
+        "mobile data",
+        "mvno",
+        "tech"
+      ]
+    },
     {
       "title": "pyATS - How to Disable Default Connection Commands",
       "link": "https://www.packetcoders.io/pyats-how-to-disable-default-connection-commands/",
@@ -1001,40 +1038,6 @@
       "tags": [
         "netdevops",
         "networking"
-      ]
-    },
-    {
-      "title": "People regret buying Amazon smart displays after being bombarded with ads",
-      "link": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/",
-      "published": "Fri, 10 Oct 2025 20:58:40 +0000",
-      "published_parsed": "2025-10-10T20:58:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"I'm about to just toss the whole thing...\"",
-      "tags": [
-        "ads",
-        "amazon",
-        "amazon alexa",
-        "smart displays",
-        "smart home",
-        "tech"
-      ]
-    },
-    {
-      "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
-      "link": "https://arstechnica.com/gadgets/2025/10/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers-feb-18/",
-      "published": "Fri, 10 Oct 2025 18:44:31 +0000",
-      "published_parsed": "2025-10-10T18:44:31+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ending support for SoundTouch may help Bose avoid a Sonos situation.",
-      "tags": [
-        "audio",
-        "bose",
-        "smart home",
-        "sonos",
-        "speakers",
-        "tech"
       ]
     },
     {
