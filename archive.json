@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-10-21T02:28:10.866489+00:00",
-  "article_count": 1182,
+  "last_updated": "2025-10-21T07:22:07.234354+00:00",
+  "article_count": 1183,
   "articles": [
+    {
+      "title": "OSPF Router ID and Loopback Interface Myths",
+      "link": "https://blog.ipspace.net/2025/10/ospf-routerid-loopback-interface-myths/?utm_source=atom_feed",
+      "published": "2025-10-21T08:14:00+02:00",
+      "published_parsed": "2025-10-21T08:14:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Daniel Dib wrote a nice article describing the history of the loopback interface 1 , triggering an inevitable mention of the role of a loopback interface in OSPF and related flood of ancient memories on my end. Before going into the details, let’s get one fact straight: an OSPF router ID was always...",
+      "tags": [
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
       "link": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",

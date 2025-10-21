@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21T02:28:10.882254+00:00",
+  "last_updated": "2025-10-21T07:22:07.250135+00:00",
   "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
@@ -317,6 +317,19 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "OSPF Router ID and Loopback Interface Myths",
+      "link": "https://blog.ipspace.net/2025/10/ospf-routerid-loopback-interface-myths/?utm_source=atom_feed",
+      "published": "2025-10-21T08:14:00+02:00",
+      "published_parsed": "2025-10-21T08:14:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Daniel Dib wrote a nice article describing the history of the loopback interface 1 , triggering an inevitable mention of the role of a loopback interface in OSPF and related flood of ancient memories on my end. Before going into the details, let’s get one fact straight: an OSPF router ID was always...",
+      "tags": [
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
       "link": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",
@@ -2268,19 +2281,6 @@
       "summary": "Changing an existing BGP routing policy is always tricky on platforms that apply line-by-line changes to device configurations (Cisco IOS and most other platforms claiming to have industry-standard CLI , with the notable exception of Arista EOS). The safest approach seems to be: Do not panic when...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Ultra Ethernet: Reinventing X.25",
-      "link": "https://blog.ipspace.net/2025/07/ultra-ethernet-reinventing-x25/?utm_source=atom_feed",
-      "published": "2025-07-23T08:06:00+02:00",
-      "published_parsed": "2025-07-23T08:06:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "One should never trust the technical details published by the industry press , but assuming the Tomahawk Ultra puff piece isn’t too far off the mark, the new Broadcom ASIC (supposedly loosely based on emerging Ultra Ethernet specs): Uses Optimized Ethernet Header , replacing IP/UDP header with a...",
-      "tags": [
-        "data center",
         "networking"
       ]
     }
