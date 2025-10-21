@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-21T18:31:36.033664+00:00",
-  "article_count": 130,
+  "last_updated": "2025-10-21T23:20:18.185780+00:00",
+  "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -13,6 +13,7 @@
   "tags": [
     "acer",
     "aci",
+    "acquisition",
     "ads",
     "age verification",
     "ai",
@@ -151,8 +152,6 @@
     "google",
     "google cloud",
     "google fi",
-    "google notebooklm",
-    "google photos",
     "google pixel",
     "government surveillance",
     "gpu",
@@ -163,6 +162,7 @@
     "hard disk drive",
     "hard drive",
     "hard drives",
+    "hbo max",
     "hdd",
     "hdds",
     "high availability",
@@ -174,8 +174,13 @@
     "immigration and customs enforcement",
     "infrahub",
     "internet",
+    "ios",
+    "ios 26",
     "ip routing",
+    "ipad",
     "ipad pro",
+    "ipados",
+    "ipados 26",
     "ipv6",
     "is-is",
     "jensen huang",
@@ -183,6 +188,7 @@
     "lan",
     "large language models",
     "ldp",
+    "liquid glass",
     "lisa cook",
     "lisp",
     "llm security",
@@ -191,6 +197,7 @@
     "macbook pro",
     "machine learning",
     "macos",
+    "macos 26 tahoe",
     "malware",
     "mark zuckerberg",
     "market correction",
@@ -269,7 +276,6 @@
     "satellite",
     "sd-wan",
     "sdn",
-    "search",
     "search engines",
     "security",
     "segment routing",
@@ -306,18 +312,88 @@
     "vpn",
     "vxlan",
     "wan",
+    "warner bros. discovery",
     "web crawlers",
-    "windows 10",
-    "windows 10 22h2",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
     "worth reading",
-    "xai"
+    "xai",
+    "youtube"
   ],
   "articles": [
     {
-      "title": "M5 MacBook Pro review: Fifth-generation Apple Silicon in a familiar wrapper",
+      "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass",
+      "link": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
+      "published": "Tue, 21 Oct 2025 19:12:30 +0000",
+      "published_parsed": "2025-10-21T19:12:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_6230-1024x459.jpeg",
+      "summary": "Apple backs down from some aspects of Liquid Glass, but not others.",
+      "tags": [
+        "apple",
+        "ios",
+        "ios 26",
+        "ipados",
+        "ipados 26",
+        "liquid glass",
+        "macos",
+        "macos 26 tahoe",
+        "tech"
+      ]
+    },
+    {
+      "title": "YouTube’s likeness detection has arrived to help stop AI doppelgängers",
+      "link": "https://arstechnica.com/google/2025/10/youtube-rolls-out-likeness-detection-to-help-creators-combat-ai-fakes/",
+      "published": "Tue, 21 Oct 2025 18:46:42 +0000",
+      "published_parsed": "2025-10-21T18:46:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Likeness detection will flag possible AI fakes, but Google doesn't guarantee removal.",
+      "tags": [
+        "ai",
+        "ai video",
+        "artificial intelligence",
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "M5 iPad Pro tested: Stop me if you’ve heard this one before",
+      "link": "https://arstechnica.com/gadgets/2025/10/testing-apples-m5-ipad-pro-future-proofing-for-apples-perennial-overkill-tablet/",
+      "published": "Tue, 21 Oct 2025 17:52:42 +0000",
+      "published_parsed": "2025-10-21T17:52:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's a gorgeous tablet, but what does an iPad need with more processing power?",
+      "tags": [
+        "apple",
+        "apple m5",
+        "ipad",
+        "ipad pro",
+        "reviews",
+        "tech"
+      ]
+    },
+    {
+      "title": "HBO Max prices increase by up to $20 today",
+      "link": "https://arstechnica.com/gadgets/2025/10/warner-bros-discovery-raises-hbo-max-prices-as-it-puts-itself-up-for-sale/",
+      "published": "Tue, 21 Oct 2025 17:20:10 +0000",
+      "published_parsed": "2025-10-21T17:20:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "HBO Max subscription fees have risen every year for the past three years.",
+      "tags": [
+        "acquisition",
+        "hbo max",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
+    {
+      "title": "MacBook Pro review: Apple’s most awkward laptop is the first to show off Apple M5",
       "link": "https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/",
       "published": "Tue, 21 Oct 2025 17:00:45 +0000",
       "published_parsed": "2025-10-21T17:00:45+00:00",
@@ -884,22 +960,6 @@
       ]
     },
     {
-      "title": "Windows 10 support “ends” today, but it’s just the first of many deaths",
-      "link": "https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/",
-      "published": "Tue, 14 Oct 2025 14:58:23 +0000",
-      "published_parsed": "2025-10-14T14:58:23+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "End users can get an extra year of security updates relatively easily.",
-      "tags": [
-        "tech",
-        "windows 10",
-        "windows 10 22h2",
-        "windows 11",
-        "windows 11 25h2"
-      ]
-    },
-    {
       "title": "OpenAI wants to stop ChatGPT from validating users’ political views",
       "link": "https://arstechnica.com/ai/2025/10/openai-wants-to-stop-chatgpt-from-validating-users-political-views/",
       "published": "Tue, 14 Oct 2025 13:51:00 +0000",
@@ -958,41 +1018,6 @@
         "privacy",
         "security",
         "side channel"
-      ]
-    },
-    {
-      "title": "Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM",
-      "link": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
-      "published": "Mon, 13 Oct 2025 19:52:23 +0000",
-      "published_parsed": "2025-10-13T19:52:23+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "After more than 5 billion AI image edits, Nano Banana is expanding.",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "generative ai",
-        "google",
-        "google notebooklm",
-        "google photos",
-        "search",
-        "tech"
-      ]
-    },
-    {
-      "title": "Apple’s streaming service gets harder to tell apart from its streaming app, box",
-      "link": "https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/",
-      "published": "Mon, 13 Oct 2025 17:16:56 +0000",
-      "published_parsed": "2025-10-13T17:16:56+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple unifies its streaming offerings by dropping the \"+\".",
-      "tags": [
-        "apple",
-        "apple tv",
-        "apple tv plus",
-        "streaming",
-        "tech"
       ]
     },
     {
