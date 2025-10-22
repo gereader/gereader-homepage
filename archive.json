@@ -1,7 +1,19 @@
 {
-  "last_updated": "2025-10-22T02:41:58.354533+00:00",
-  "article_count": 1190,
+  "last_updated": "2025-10-22T07:21:10.520623+00:00",
+  "article_count": 1191,
   "articles": [
+    {
+      "title": "Public Videos: Graph Algorithms in Networks (Part 1)",
+      "link": "https://blog.ipspace.net/2025/10/video-trees-paths-centers/?utm_source=atom_feed",
+      "published": "2025-10-22T08:09:00+02:00",
+      "published_parsed": "2025-10-22T08:09:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2024/05/dalle-graph-math.jpeg",
+      "summary": "The first half of the Graph Algorithms in Networks webinar by Rachel Traylor is now available without a valid ipSpace.net account; it discusses algorithms dealing with trees, paths, and finding centers of graphs. Enjoy! Explore",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass",
       "link": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
