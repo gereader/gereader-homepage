@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-22T23:18:13.741767+00:00",
+  "last_updated": "2025-10-23T02:26:36.243049+00:00",
   "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
@@ -116,7 +116,6 @@
     "dgx spark",
     "dhcp",
     "diffie-hellman elliptic curve",
-    "digital surveillance",
     "discord",
     "dmvpn",
     "dns",
@@ -140,7 +139,6 @@
     "features",
     "federal indictments",
     "federal reserve",
-    "federal surveillance",
     "financial losses",
     "financial stability",
     "fine tuning",
@@ -153,7 +151,6 @@
     "google cloud",
     "google fi",
     "google pixel",
-    "government surveillance",
     "gpu",
     "gpus",
     "grace blackwell",
@@ -170,8 +167,6 @@
     "homelab",
     "hp",
     "id",
-    "immigration",
-    "immigration and customs enforcement",
     "infrahub",
     "internet",
     "ios",
@@ -291,7 +286,6 @@
     "storage",
     "streaming",
     "switching",
-    "syndication",
     "synology",
     "synology dsm",
     "tcp",
@@ -323,6 +317,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+      "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
+      "published": "Wed, 22 Oct 2025 22:35:41 +0000",
+      "published_parsed": "2025-10-22T22:35:41+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
+      "tags": [
+        "biz & it",
+        "security"
+      ]
+    },
     {
       "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800",
       "link": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
@@ -1345,26 +1352,6 @@
       "tags": [
         "containerlab",
         "networking"
-      ]
-    },
-    {
-      "title": "ICE wants to build a 24/7 social media surveillance team",
-      "link": "https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/",
-      "published": "Sat, 04 Oct 2025 13:21:55 +0000",
-      "published_parsed": "2025-10-04T13:21:55+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "ICE plans to hire contractors to scan platforms to target people for deportation.",
-      "tags": [
-        "biz & it",
-        "digital surveillance",
-        "federal surveillance",
-        "government surveillance",
-        "immigration",
-        "immigration and customs enforcement",
-        "policy",
-        "security",
-        "syndication"
       ]
     },
     {

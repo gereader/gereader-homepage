@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-10-22T23:18:13.725915+00:00",
-  "article_count": 1193,
+  "last_updated": "2025-10-23T02:26:36.227476+00:00",
+  "article_count": 1194,
   "articles": [
+    {
+      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+      "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
+      "published": "Wed, 22 Oct 2025 22:35:41 +0000",
+      "published_parsed": "2025-10-22T22:35:41+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
+      "tags": [
+        "biz & it",
+        "security"
+      ]
+    },
     {
       "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800",
       "link": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
