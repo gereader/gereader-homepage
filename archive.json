@@ -1,7 +1,44 @@
 {
-  "last_updated": "2025-10-23T18:31:55.322986+00:00",
-  "article_count": 1196,
+  "last_updated": "2025-10-23T23:18:43.060340+00:00",
+  "article_count": 1198,
   "articles": [
+    {
+      "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+      "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
+      "published": "Thu, 23 Oct 2025 22:08:40 +0000",
+      "published_parsed": "2025-10-23T22:08:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The acquired firm was working on a tool to control macOS directly with AI.",
+      "tags": [
+        "acquisition",
+        "ai",
+        "apple",
+        "llm",
+        "macos",
+        "openai",
+        "shortcuts",
+        "sky",
+        "software applications incorporated",
+        "tech"
+      ]
+    },
+    {
+      "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant",
+      "link": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
+      "published": "Thu, 23 Oct 2025 18:48:52 +0000",
+      "published_parsed": "2025-10-23T18:48:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Mico\" literally tries to put a face on Microsoft's chatbot-turned-assistant.",
+      "tags": [
+        "copilot",
+        "microsoft",
+        "tech",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
     {
       "title": "Reports suggest Apple is already pulling back on the iPhone Air",
       "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
