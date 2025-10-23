@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-10-23T02:26:36.227476+00:00",
-  "article_count": 1194,
+  "last_updated": "2025-10-23T07:21:28.827668+00:00",
+  "article_count": 1195,
   "articles": [
+    {
+      "title": "Lab: Drain Traffic From an IS-IS Node Before Starting Maintenance",
+      "link": "https://blog.ipspace.net/2025/10/isis-lab-overload-maintenance/?utm_source=atom_feed",
+      "published": "2025-10-23T07:09:00+02:00",
+      "published_parsed": "2025-10-23T07:09:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Here’s a cool feature every routing protocol should have: a flag that tells everyone a node is going down, giving them time to adjust their routing tables before disrupting traffic flow. OSPF never had such a feature; common implementations set the cost of all interfaces to a very high value to...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
       "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
