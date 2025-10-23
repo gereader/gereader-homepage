@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-10-23T14:23:04.966966+00:00",
-  "article_count": 1195,
+  "last_updated": "2025-10-23T18:31:55.322986+00:00",
+  "article_count": 1196,
   "articles": [
+    {
+      "title": "Reports suggest Apple is already pulling back on the iPhone Air",
+      "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
+      "published": "Thu, 23 Oct 2025 15:04:47 +0000",
+      "published_parsed": "2025-10-23T15:04:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New phone design compromises on camera and battery to achieve a lighter weight.",
+      "tags": [
+        "apple",
+        "iphone",
+        "iphone air",
+        "iphone mini",
+        "iphone plus",
+        "tech"
+      ]
+    },
     {
       "title": "Lab: Drain Traffic From an IS-IS Node Before Starting Maintenance",
       "link": "https://blog.ipspace.net/2025/10/isis-lab-overload-maintenance/?utm_source=atom_feed",

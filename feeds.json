@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-23T14:23:04.981553+00:00",
+  "last_updated": "2025-10-23T18:31:55.338436+00:00",
   "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
@@ -61,7 +61,6 @@
     "apple silicon",
     "apple tv",
     "apple tv plus",
-    "apple vision pro",
     "arp",
     "ars live",
     "ars live conversations",
@@ -176,6 +175,10 @@
     "ipad pro",
     "ipados",
     "ipados 26",
+    "iphone",
+    "iphone air",
+    "iphone mini",
+    "iphone plus",
     "ipv6",
     "is-is",
     "jensen huang",
@@ -302,8 +305,6 @@
     "video",
     "virtual reality",
     "virtualization",
-    "vision pro",
-    "visionos",
     "vpn",
     "vxlan",
     "wan",
@@ -317,6 +318,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Reports suggest Apple is already pulling back on the iPhone Air",
+      "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
+      "published": "Thu, 23 Oct 2025 15:04:47 +0000",
+      "published_parsed": "2025-10-23T15:04:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New phone design compromises on camera and battery to achieve a lighter weight.",
+      "tags": [
+        "apple",
+        "iphone",
+        "iphone air",
+        "iphone mini",
+        "iphone plus",
+        "tech"
+      ]
+    },
     {
       "title": "Lab: Drain Traffic From an IS-IS Node Before Starting Maintenance",
       "link": "https://blog.ipspace.net/2025/10/isis-lab-overload-maintenance/?utm_source=atom_feed",
@@ -893,22 +911,6 @@
         "apple silicon",
         "macbook pro",
         "tech"
-      ]
-    },
-    {
-      "title": "With considerably less fanfare, Apple releases a second-generation Vision Pro",
-      "link": "https://arstechnica.com/gadgets/2025/10/with-considerably-less-fanfare-apple-releases-a-second-generation-vision-pro/",
-      "published": "Wed, 15 Oct 2025 13:27:08 +0000",
-      "published_parsed": "2025-10-15T13:27:08+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Reports suggest that Apple has de-prioritized Vision Pro development internally.",
-      "tags": [
-        "apple",
-        "apple vision pro",
-        "tech",
-        "vision pro",
-        "visionos"
       ]
     },
     {
