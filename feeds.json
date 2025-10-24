@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-24T18:29:48.532218+00:00",
+  "last_updated": "2025-10-24T23:19:18.489808+00:00",
   "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
@@ -81,6 +81,7 @@
     "blockchain",
     "blog",
     "books",
+    "boox",
     "breach",
     "bridging",
     "broadcom",
@@ -95,7 +96,6 @@
     "claude haiku",
     "claude sonnet",
     "cloud",
-    "cloudflare",
     "code agents",
     "company news",
     "compliance",
@@ -123,6 +123,8 @@
     "dora",
     "dotcom bubble",
     "dsm",
+    "e-readers",
+    "ec2",
     "ed zitron",
     "eigrp",
     "elon musk",
@@ -200,8 +202,6 @@
     "malware",
     "mark zuckerberg",
     "market correction",
-    "matthew prince",
-    "media",
     "mental health",
     "meta",
     "mfa",
@@ -261,21 +261,18 @@
     "project digits",
     "python",
     "qos",
-    "rag",
+    "race conditions",
     "ransomware",
     "release",
-    "retrieval augmented generation",
     "reviews",
     "ring",
     "rlhf",
-    "robots.txt",
     "salesforce",
     "sam altman",
     "samsung",
     "san",
     "sd-wan",
     "sdn",
-    "search engines",
     "security",
     "segment routing",
     "service providers",
@@ -313,7 +310,6 @@
     "vxlan",
     "wan",
     "warner bros. discovery",
-    "web crawlers",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
@@ -322,6 +318,39 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "A single point of failure triggered the Amazon outage affecting millions",
+      "link": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
+      "published": "Fri, 24 Oct 2025 21:53:20 +0000",
+      "published_parsed": "2025-10-24T21:53:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
+      "tags": [
+        "amazon",
+        "aws",
+        "biz & it",
+        "ec2",
+        "race conditions",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Android-powered Boox Palma 2 Pro fits in your pocket, but it’s not a phone",
+      "link": "https://arstechnica.com/gadgets/2025/10/the-android-powered-boox-palma-2-pro-fits-in-your-pocket-but-its-not-a-phone/",
+      "published": "Fri, 24 Oct 2025 20:07:30 +0000",
+      "published_parsed": "2025-10-24T20:07:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This e-reader has a color screen and 5G.",
+      "tags": [
+        "android",
+        "boox",
+        "e-readers",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "DEEP Is Still a Must-Attend Boutique Conference",
       "link": "https://blog.ipspace.net/2025/10/deep-conference-2025/?utm_source=atom_feed",
@@ -823,29 +852,6 @@
       ]
     },
     {
-      "title": "Inside the web infrastructure revolt over Google’s AI Overviews",
-      "link": "https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/",
-      "published": "Thu, 16 Oct 2025 11:00:03 +0000",
-      "published_parsed": "2025-10-16T11:00:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Cloudflare CEO Matthew Prince is making sweeping changes to force Google's hand.",
-      "tags": [
-        "ai",
-        "cloudflare",
-        "features",
-        "google",
-        "matthew prince",
-        "media",
-        "rag",
-        "retrieval augmented generation",
-        "robots.txt",
-        "search engines",
-        "tech",
-        "web crawlers"
-      ]
-    },
-    {
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
       "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
       "published": "Wed, 15 Oct 2025 20:05:39 +0000",
@@ -890,22 +896,6 @@
         "large language models",
         "machine learning",
         "vertex ai"
-      ]
-    },
-    {
-      "title": "Google’s AI videos get a big upgrade with Veo 3.1",
-      "link": "https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/",
-      "published": "Wed, 15 Oct 2025 16:00:51 +0000",
-      "published_parsed": "2025-10-15T16:00:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Veo 3.1 is coming to the Gemini app and the Flow filmmaking tool.",
-      "tags": [
-        "ai",
-        "ai video",
-        "artificial intelligence",
-        "google",
-        "tech"
       ]
     },
     {
