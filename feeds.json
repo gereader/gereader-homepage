@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-24T23:19:18.489808+00:00",
-  "article_count": 133,
+  "last_updated": "2025-10-25T02:24:51.425315+00:00",
+  "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -49,7 +49,6 @@
     "amazon",
     "amazon bedrock",
     "amazon web services",
-    "amd",
     "andrew bailey",
     "android",
     "android xr",
@@ -84,7 +83,6 @@
     "boox",
     "breach",
     "bridging",
-    "broadcom",
     "bubble",
     "cerebras",
     "certifications",
@@ -153,7 +151,6 @@
     "google fi",
     "google pixel",
     "gpu",
-    "gpus",
     "grace blackwell",
     "grok",
     "hacking",
@@ -323,7 +320,7 @@
       "link": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
       "published": "Fri, 24 Oct 2025 21:53:20 +0000",
       "published_parsed": "2025-10-24T21:53:20+00:00",
-      "source": "Ars Technica - Gadgets",
+      "source": "Ars Technica - Tech",
       "image": null,
       "summary": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
       "tags": [
@@ -1329,30 +1326,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "AMD wins massive AI chip deal from OpenAI with stock sweetener",
-      "link": "https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/",
-      "published": "Mon, 06 Oct 2025 14:45:28 +0000",
-      "published_parsed": "2025-10-06T14:45:28+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "ChatGPT maker will be allowed to buy 10% of AMD for a penny per share.",
-      "tags": [
-        "ai",
-        "ai chips",
-        "ai development tools",
-        "ai gpu",
-        "ai infrastructure",
-        "amd",
-        "biz & it",
-        "broadcom",
-        "gpus",
-        "machine learning",
-        "microsoft",
-        "nvidia",
-        "openai"
       ]
     },
     {
