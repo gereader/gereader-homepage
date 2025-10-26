@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-26T02:41:57.653996+00:00",
-  "article_count": 132,
+  "last_updated": "2025-10-26T07:18:51.591587+00:00",
+  "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2294,19 +2294,6 @@
         "automated diagnosis",
         "navigation blog",
         "networking"
-      ]
-    },
-    {
-      "title": "Fun Reading: Who is LLM?",
-      "link": "https://blog.ipspace.net/2025/07/worth-reading-who-is-llm/?utm_source=atom_feed",
-      "published": "2025-07-28T07:44:00+02:00",
-      "published_parsed": "2025-07-28T07:44:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Is an LLM a stubborn donkey, a genie, or a slot machine (and why)? Find out in the Who is LLM? article by Martin Fowler.",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
