@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-26T07:18:51.591587+00:00",
-  "article_count": 131,
+  "last_updated": "2025-10-26T14:18:15.465915+00:00",
+  "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -221,6 +221,7 @@
     "netconf",
     "netdevops",
     "netlab",
+    "network",
     "network assessment",
     "network attached storage",
     "network automation",
@@ -315,6 +316,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Network Labs on a Budget",
+      "link": "https://www.packetswitch.co.uk/network-labs-on-a-budget/",
+      "published": "Sun, 26 Oct 2025 13:11:04 GMT",
+      "published_parsed": "2025-10-26T13:11:04+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/10/labs-budget-1-.png",
+      "summary": "In this post, I’ll go over some budget-friendly options and a few tools you can use to build your own network lab without spending too much.",
+      "tags": [
+        "homelab",
+        "network",
+        "networking"
+      ]
+    },
     {
       "title": "A single point of failure triggered the Amazon outage affecting millions",
       "link": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
