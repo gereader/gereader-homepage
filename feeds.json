@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-27T02:49:45.878637+00:00",
-  "article_count": 132,
+  "last_updated": "2025-10-27T07:21:23.338262+00:00",
+  "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -316,6 +316,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Adding a Syslog Server to a netlab Lab Topology",
+      "link": "https://blog.ipspace.net/2025/10/netlab-syslog-server/?utm_source=atom_feed",
+      "published": "2025-10-27T07:23:00+01:00",
+      "published_parsed": "2025-10-27T07:23:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab does not support a Syslog server (yet), but it’s really easy to add one to your lab topology, primarily thanks to the Rsyslog team publishing a ready-to-run container. Let’s do it ;) Adding a Syslog Server Rsyslog is an open-source implementation of a Syslog server (with many bells and...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Network Labs on a Budget",
       "link": "https://www.packetswitch.co.uk/network-labs-on-a-budget/",
