@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-28T18:33:39.540020+00:00",
+  "last_updated": "2025-10-28T23:19:55.579236+00:00",
   "article_count": 134,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,11 +14,13 @@
     "acer",
     "aci",
     "acquisition",
+    "ads",
     "age verification",
     "agi",
     "ai",
     "ai agents",
     "ai alignment",
+    "ai assistants",
     "ai behavior",
     "ai benchmarks",
     "ai bias",
@@ -42,6 +44,7 @@
     "ai security",
     "ai stocks",
     "ai supercomputer",
+    "ai sycophancy",
     "ai video",
     "ai vulnerabilities",
     "alan turing institute",
@@ -118,7 +121,6 @@
     "donald trump",
     "dora",
     "dotcom bubble",
-    "dsm",
     "e-readers",
     "ec2",
     "ed zitron",
@@ -126,7 +128,6 @@
     "elon musk",
     "emea",
     "enshittification",
-    "enterprise storage",
     "espionage",
     "evpn",
     "extended reality",
@@ -141,7 +142,6 @@
     "fine tuning",
     "firewall",
     "firewalls",
-    "gemini",
     "generative ai",
     "github",
     "google",
@@ -212,7 +212,6 @@
     "mtu",
     "multi factor authentication",
     "mvno",
-    "nas",
     "nat",
     "navigation blog",
     "netconf",
@@ -220,7 +219,6 @@
     "netlab",
     "network",
     "network assessment",
-    "network attached storage",
     "network automation",
     "network management",
     "network operations",
@@ -230,7 +228,6 @@
     "nso",
     "nsx",
     "nvidia",
-    "oneplus",
     "online culture",
     "online scams",
     "openai",
@@ -283,11 +280,8 @@
     "software gone wild",
     "spacex",
     "stargate",
-    "storage",
     "streaming",
     "switching",
-    "synology",
-    "synology dsm",
     "tcp",
     "tech",
     "tips",
@@ -314,6 +308,45 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
+      "link": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
+      "published": "Tue, 28 Oct 2025 18:11:36 +0000",
+      "published_parsed": "2025-10-28T18:11:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Sensitive chats are rare but significant given the large user base.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai behavior",
+        "ai ethics",
+        "ai safety",
+        "ai sycophancy",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "machine learning",
+        "mental health",
+        "openai",
+        "sam altman"
+      ]
+    },
+    {
+      "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
+      "link": "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/",
+      "published": "Tue, 28 Oct 2025 18:10:18 +0000",
+      "published_parsed": "2025-10-28T18:10:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Update introduces two ways for the fridges to show ads.",
+      "tags": [
+        "ads",
+        "samsung",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon",
       "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/",
@@ -889,24 +922,6 @@
       ]
     },
     {
-      "title": "OnePlus unveils OxygenOS 16 update with deep Gemini integration",
-      "link": "https://arstechnica.com/google/2025/10/oneplus-unveils-oxygenos-16-update-with-deep-gemini-integration/",
-      "published": "Thu, 16 Oct 2025 20:05:19 +0000",
-      "published_parsed": "2025-10-16T20:05:19+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Does your phone even have a Mind Space?",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "gemini",
-        "google",
-        "oneplus",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
       "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
       "published": "Wed, 15 Oct 2025 20:05:39 +0000",
@@ -1298,29 +1313,6 @@
         "ransomware",
         "salesforce",
         "security"
-      ]
-    },
-    {
-      "title": "Synology caves, walks back some drive restrictions on upcoming NAS models",
-      "link": "https://arstechnica.com/gadgets/2025/10/synology-caves-walks-back-some-drive-restrictions-on-upcoming-nas-models/",
-      "published": "Wed, 08 Oct 2025 16:49:27 +0000",
-      "published_parsed": "2025-10-08T16:49:27+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Policy change affects at least 2025 model Plus, Value, and J-series DiskStations.",
-      "tags": [
-        "biz & it",
-        "dsm",
-        "enterprise storage",
-        "hard disk drive",
-        "hard drive",
-        "hdd",
-        "nas",
-        "network attached storage",
-        "storage",
-        "synology",
-        "synology dsm",
-        "tech"
       ]
     },
     {

@@ -1,7 +1,46 @@
 {
-  "last_updated": "2025-10-28T18:33:39.524018+00:00",
-  "article_count": 1206,
+  "last_updated": "2025-10-28T23:19:55.563558+00:00",
+  "article_count": 1208,
   "articles": [
+    {
+      "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
+      "link": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
+      "published": "Tue, 28 Oct 2025 18:11:36 +0000",
+      "published_parsed": "2025-10-28T18:11:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Sensitive chats are rare but significant given the large user base.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai behavior",
+        "ai ethics",
+        "ai safety",
+        "ai sycophancy",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "machine learning",
+        "mental health",
+        "openai",
+        "sam altman"
+      ]
+    },
+    {
+      "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
+      "link": "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/",
+      "published": "Tue, 28 Oct 2025 18:10:18 +0000",
+      "published_parsed": "2025-10-28T18:10:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Update introduces two ways for the fridges to show ads.",
+      "tags": [
+        "ads",
+        "samsung",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon",
       "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/",
