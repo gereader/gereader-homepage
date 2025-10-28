@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-28T02:38:19.042853+00:00",
-  "article_count": 133,
+  "last_updated": "2025-10-28T07:21:12.655653+00:00",
+  "article_count": 134,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -316,6 +316,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "OMG: Automatic OSPFv3 Router ID on Cisco IOS",
+      "link": "https://blog.ipspace.net/2025/10/ospf-automatic-router-id/?utm_source=atom_feed",
+      "published": "2025-10-28T07:52:00+01:00",
+      "published_parsed": "2025-10-28T07:52:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Found this incredible gem 1 hidden in the Usage Guidelines for the OSPFv3 router-id configuration command part of the Cisco IOS IPv6 reference guide . The whole paragraph seems hallucinated 2 , but that couldn’t be because the page was supposedly last updated in 2019, and LLMs weren’t good enough...",
+      "tags": [
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Adding a Syslog Server to a netlab Lab Topology",
       "link": "https://blog.ipspace.net/2025/10/netlab-syslog-server/?utm_source=atom_feed",
