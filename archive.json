@@ -1,7 +1,51 @@
 {
-  "last_updated": "2025-10-29T14:23:21.162653+00:00",
-  "article_count": 1210,
+  "last_updated": "2025-10-29T18:33:01.911031+00:00",
+  "article_count": 1212,
   "articles": [
+    {
+      "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
+      "link": "https://arstechnica.com/gadgets/2025/10/tv-focused-youtube-update-brings-ai-upscaling-shopping-qr-codes/",
+      "published": "Wed, 29 Oct 2025 16:37:06 +0000",
+      "published_parsed": "2025-10-29T16:37:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "YouTube seeks a more couch-friendly experience.",
+      "tags": [
+        "google",
+        "streaming video",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
+      "link": "https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/",
+      "published": "Wed, 29 Oct 2025 14:46:21 +0000",
+      "published_parsed": "2025-10-29T14:46:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"I don’t believe we’re in an AI bubble,\" says Huang after announcing $500B in orders.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai infrastructure",
+        "apple",
+        "biz & it",
+        "blackwell chips",
+        "data centers",
+        "donald trump",
+        "gpus",
+        "jensen huang",
+        "machine learning",
+        "microsoft",
+        "nokia",
+        "nvidia",
+        "openai",
+        "palantir",
+        "semiconductors",
+        "uber"
+      ]
+    },
     {
       "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
       "link": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
