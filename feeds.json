@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-29T02:45:54.813666+00:00",
-  "article_count": 134,
+  "last_updated": "2025-10-29T07:21:31.418698+00:00",
+  "article_count": 135,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -308,6 +308,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: AI for Network Managers",
+      "link": "https://blog.ipspace.net/2025/10/worth-reading-ai-network-managers/?utm_source=atom_feed",
+      "published": "2025-10-29T07:34:00+01:00",
+      "published_parsed": "2025-10-29T07:34:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Pat Allen wrote an interesting guide for managers of networking teams dealing with the onslaught of AI (HT: PacketPushers newsletter). The leitmotif: use AI to generate a rough solution, then review and improve it. That makes perfect sense and works as long as we don’t forget we can’t trust AI,...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
       "link": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
