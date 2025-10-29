@@ -1,7 +1,29 @@
 {
-  "last_updated": "2025-10-29T07:21:31.402360+00:00",
-  "article_count": 1209,
+  "last_updated": "2025-10-29T14:23:21.162653+00:00",
+  "article_count": 1210,
   "articles": [
+    {
+      "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+      "link": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
+      "published": "Wed, 29 Oct 2025 13:40:15 +0000",
+      "published_parsed": "2025-10-29T13:40:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
+      "tags": [
+        "amd",
+        "battering ram",
+        "biz & it",
+        "features",
+        "intel",
+        "nvidia",
+        "secure enclaves",
+        "security",
+        "tee.fail",
+        "trusted execution environments",
+        "wiretap"
+      ]
+    },
     {
       "title": "Worth Reading: AI for Network Managers",
       "link": "https://blog.ipspace.net/2025/10/worth-reading-ai-network-managers/?utm_source=atom_feed",
