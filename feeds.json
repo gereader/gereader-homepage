@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-29T18:33:01.927251+00:00",
-  "article_count": 135,
+  "last_updated": "2025-10-29T23:20:32.672539+00:00",
+  "article_count": 134,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2317,20 +2317,6 @@
       "image": null,
       "summary": "Gluware's presentation reflects a maturing understanding of enterprise automation challenges. Rather than promoting tool replacement, they're advocating for integration and enhancement of existing automation investments.",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "How NetBrain&#8217;s AI-Assisted Ticket Analysis Transforms Your Ops",
-      "link": "https://www.netbraintech.com/blog/ai-assisted-ticket/",
-      "published": "2025-07-31T19:23:51Z",
-      "published_parsed": "2025-07-31T19:23:51+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "In today’s complex network environments, managing and resolving repetitive incidents efficiently is paramount. Manual troubleshooting and sifting through countless support tickets can be a major drain on resources, leading to...",
-      "tags": [
-        "automated diagnosis",
-        "navigation blog",
         "networking"
       ]
     }
