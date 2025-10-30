@@ -1,7 +1,95 @@
 {
-  "last_updated": "2025-10-30T14:22:47.087697+00:00",
-  "article_count": 1214,
+  "last_updated": "2025-10-30T18:31:57.753729+00:00",
+  "article_count": 1219,
   "articles": [
+    {
+      "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles",
+      "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/",
+      "published": "Thu, 30 Oct 2025 17:28:38 +0000",
+      "published_parsed": "2025-10-30T17:28:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival.",
+      "tags": [
+        "disney",
+        "disney plus",
+        "hdr",
+        "hulu",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Top 5 Takeaways from NetBrain LIVE 2025 that Redefine NetOps Outcomes in 2026",
+      "link": "https://www.netbraintech.com/blog/redefine-netops-outcomes-in-2026/",
+      "published": "2025-10-30T16:42:05Z",
+      "published_parsed": "2025-10-30T16:42:05+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "NetBrain LIVE 2025 wrapped up last month, but delivered a bold prediction: AI and automation will halve Mean Time to Repair (MTTR) every 12-18 months. More specifically, CEO Lingping Gao...",
+      "tags": [
+        "company news",
+        "navigation blog",
+        "networking"
+      ]
+    },
+    {
+      "title": "Google makes first Play Store changes after losing Epic Games antitrust case",
+      "link": "https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/",
+      "published": "Thu, 30 Oct 2025 16:19:28 +0000",
+      "published_parsed": "2025-10-30T16:19:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google is begrudgingly letting developers lead users away from the Play Store.",
+      "tags": [
+        "apps",
+        "google",
+        "play store",
+        "tech"
+      ]
+    },
+    {
+      "title": "Beyond the Map: The Real Value of Network Visibility",
+      "link": "https://www.netbraintech.com/blog/real-value-of-network-visibility/",
+      "published": "2025-10-30T16:03:08Z",
+      "published_parsed": "2025-10-30T16:03:08+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "There was a time when a network could be captured in a single Visio diagram. Teams could gather around a printed map and literally point to where a problem was...",
+      "tags": [
+        "company news",
+        "navigation blog",
+        "network visibility",
+        "networking"
+      ]
+    },
+    {
+      "title": "After teen death lawsuits, Character.AI will restrict chats for under-18 users",
+      "link": "https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/",
+      "published": "Thu, 30 Oct 2025 15:54:18 +0000",
+      "published_parsed": "2025-10-30T15:54:18+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AI companion app faces legal and regulatory pressure over child safety concerns.",
+      "tags": [
+        "ai",
+        "ai companions",
+        "ai regulation",
+        "ai safety",
+        "biz & it",
+        "character.ai",
+        "chatbots",
+        "child safety",
+        "daniel de freitas",
+        "emotional ai",
+        "google",
+        "machine learning",
+        "mental health",
+        "noam shazeer",
+        "openai",
+        "sam altman"
+      ]
+    },
     {
       "title": "New Project: Open-Source VXLAN/EVPN Labs",
       "link": "https://blog.ipspace.net/2025/10/vxlan-evpn-labs/?utm_source=atom_feed",
