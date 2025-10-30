@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-30T07:20:54.855412+00:00",
-  "article_count": 134,
+  "last_updated": "2025-10-30T14:22:47.106162+00:00",
+  "article_count": 135,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -308,13 +308,27 @@
   ],
   "articles": [
     {
+      "title": "New Project: Open-Source VXLAN/EVPN Labs",
+      "link": "https://blog.ipspace.net/2025/10/vxlan-evpn-labs/?utm_source=atom_feed",
+      "published": "2025-10-30T08:11:00+01:00",
+      "published_parsed": "2025-10-30T08:11:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After launching the BGP labs in 2023 and IS-IS labs in 2024, it was time to start another project that was quietly sitting on the back burner for ages: open-source (and free) VXLAN/EVPN labs . The first lab exercise is already online and expects you to extend a single VLAN segment across an IP...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
+    {
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
       "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
       "published": "Wed, 29 Oct 2025 21:04:45 +0000",
       "published_parsed": "2025-10-29T21:04:45+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
-      "summary": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
+      "summary": "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
       "tags": [
         "biz & it",
         "code dependencies",

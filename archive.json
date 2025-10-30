@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-10-30T07:20:54.839516+00:00",
-  "article_count": 1213,
+  "last_updated": "2025-10-30T14:22:47.087697+00:00",
+  "article_count": 1214,
   "articles": [
+    {
+      "title": "New Project: Open-Source VXLAN/EVPN Labs",
+      "link": "https://blog.ipspace.net/2025/10/vxlan-evpn-labs/?utm_source=atom_feed",
+      "published": "2025-10-30T08:11:00+01:00",
+      "published_parsed": "2025-10-30T08:11:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After launching the BGP labs in 2023 and IS-IS labs in 2024, it was time to start another project that was quietly sitting on the back burner for ages: open-source (and free) VXLAN/EVPN labs . The first lab exercise is already online and expects you to extend a single VLAN segment across an IP...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
       "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
