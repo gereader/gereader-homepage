@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-30T18:31:57.770055+00:00",
-  "article_count": 137,
+  "last_updated": "2025-10-30T23:19:31.387773+00:00",
+  "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -15,6 +15,8 @@
     "aci",
     "acquisition",
     "ads",
+    "affinity",
+    "affinity photo",
     "age verification",
     "agi",
     "ai",
@@ -80,6 +82,8 @@
     "breach",
     "bridging",
     "bubble",
+    "canva",
+    "cellebrite",
     "cerebras",
     "certifications",
     "character.ai",
@@ -97,6 +101,7 @@
     "containerlab",
     "containers",
     "copilot",
+    "coreweave",
     "cultural bias",
     "cumulus linux",
     "daniel de freitas",
@@ -135,7 +140,6 @@
     "google",
     "google cloud",
     "google fi",
-    "google pixel",
     "gpu",
     "gpus",
     "grace blackwell",
@@ -162,6 +166,7 @@
     "iphone air",
     "iphone mini",
     "iphone plus",
+    "ipo",
     "ipv6",
     "is-is",
     "jensen huang",
@@ -180,7 +185,6 @@
     "macos 26 tahoe",
     "malware",
     "mental health",
-    "mfa",
     "microsoft",
     "ml-kem",
     "mobile data",
@@ -190,7 +194,6 @@
     "mpls-te",
     "msi",
     "mtu",
-    "multi factor authentication",
     "mvno",
     "nat",
     "navigation blog",
@@ -222,7 +225,6 @@
     "pegasus",
     "performance",
     "phantomraven",
-    "phishing",
     "pig butchering",
     "pixnapping",
     "play store",
@@ -240,7 +242,6 @@
     "race conditions",
     "release",
     "reviews",
-    "ring",
     "rlhf",
     "ryzen",
     "sam altman",
@@ -260,6 +261,7 @@
     "smart home",
     "smartphones",
     "snmp",
+    "softbank",
     "software applications incorporated",
     "software gone wild",
     "spacex",
@@ -293,6 +295,62 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "published": "Thu, 30 Oct 2025 20:29:43 +0000",
+      "published_parsed": "2025-10-30T20:29:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cellebrite can apparently extract data from most Pixel phones, unless they're running GrapheneOS.",
+      "tags": [
+        "cellebrite",
+        "google",
+        "security",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update",
+      "link": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
+      "published": "Thu, 30 Oct 2025 20:05:50 +0000",
+      "published_parsed": "2025-10-30T20:05:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Updated app is \"free forever,\" but perpetually licensed Affinity apps are gone.",
+      "tags": [
+        "affinity",
+        "affinity photo",
+        "canva",
+        "tech"
+      ]
+    },
+    {
+      "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
+      "link": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/",
+      "published": "Thu, 30 Oct 2025 18:24:32 +0000",
+      "published_parsed": "2025-10-30T18:24:32+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
+      "tags": [
+        "ai",
+        "ai infrastructure",
+        "biz & it",
+        "chatgpt",
+        "coreweave",
+        "generative ai",
+        "ipo",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "sam altman",
+        "softbank"
+      ]
+    },
     {
       "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles",
       "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/",
@@ -930,21 +988,6 @@
       ]
     },
     {
-      "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
-      "link": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
-      "published": "Mon, 20 Oct 2025 20:14:29 +0000",
-      "published_parsed": "2025-10-20T20:14:29+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Selected testers will have to sign an NDA and use a disguised case.",
-      "tags": [
-        "google",
-        "google pixel",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "netlab: Embed Files in a Lab Topology",
       "link": "https://blog.ipspace.net/2025/10/netlab-embedded-files/?utm_source=atom_feed",
       "published": "2025-10-20T09:45:00+02:00",
@@ -955,22 +998,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Ring cameras are about to get increasingly chummy with law enforcement",
-      "link": "https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/",
-      "published": "Fri, 17 Oct 2025 21:50:10 +0000",
-      "published_parsed": "2025-10-17T21:50:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon's Ring partners with company whose tech has reportedly been used by ICE.",
-      "tags": [
-        "amazon",
-        "privacy",
-        "ring",
-        "smart home",
-        "tech"
       ]
     },
     {
@@ -1309,22 +1336,6 @@
       "tags": [
         "netdevops",
         "networking"
-      ]
-    },
-    {
-      "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
-      "link": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
-      "published": "Fri, 10 Oct 2025 18:07:04 +0000",
-      "published_parsed": "2025-10-10T18:07:04+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Among other things, the scammers bypass multi-factor authentication.",
-      "tags": [
-        "biz & it",
-        "mfa",
-        "multi factor authentication",
-        "phishing",
-        "security"
       ]
     },
     {
@@ -2177,174 +2188,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Fine-Tuning LLMs for Network Configuration Intelligence",
-      "link": "https://networkautomation.forum/blog/fine-tuning-llms-for-network-configuration-intelligence",
-      "published": "Fri, 01 Aug 2025 19:23:56 +0000",
-      "published_parsed": "2025-08-01T19:23:56+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Rather than wholesale AI adoption or rejection, Baumann advocated for thoughtful application: understand the technology, identify appropriate use cases, implement with realistic expectations, and validate results.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Security's Missing Link in Network Automation",
-      "link": "https://networkautomation.forum/blog/securitys-missing-link-in-network-automation",
-      "published": "Fri, 01 Aug 2025 19:21:01 +0000",
-      "published_parsed": "2025-08-01T19:21:01+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Network automation without proper security creates systematized vulnerabilities—insecure practices get codified and replicated across infrastructure. Howard's work demonstrates that secure automation isn't significantly harder than insecure automation; it just requires different initial choices and...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Escaping the Screen Scraping Trap with BGP Monitoring Protocol",
-      "link": "https://networkautomation.forum/blog/escaping-the-screen-scraping-trap-with-bgp-monitoring-protocol",
-      "published": "Fri, 01 Aug 2025 19:19:20 +0000",
-      "published_parsed": "2025-08-01T19:19:20+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Dorlandt's presentation showcased the evolution from reactive (screen scraping) to proactive (push-based) network monitoring. BMP represents a fundamental shift in how we gather BGP intelligence—from resource-intensive polling to efficient, real-time data streams.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Disrupting Enterprise Wi-Fi with Automation and Open Source",
-      "link": "https://networkautomation.forum/blog/disrupting-enterprise-wi-fi-with-automation-and-open-source",
-      "published": "Fri, 01 Aug 2025 19:17:45 +0000",
-      "published_parsed": "2025-08-01T19:17:45+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "For organizations deploying large-scale wireless infrastructure—hotels, campuses, public venues—this approach offers dramatic cost savings while maintaining enterprise functionality. The key insight: automation doesn't just improve existing operations; it can enable entirely new economic models.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Taming Multi-Vendor SONiC with Abstraction APIs",
-      "link": "https://networkautomation.forum/blog/taming-multi-vendor-sonic-with-abstraction-apis",
-      "published": "Fri, 01 Aug 2025 19:16:06 +0000",
-      "published_parsed": "2025-08-01T19:16:06+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Saul's presentation addressed a practical challenge many organizations face: leveraging open networking benefits while managing vendor implementation differences. SONiC offers genuine multi-vendor consistency, but abstraction layers become essential for operational simplicity.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Black Box Problem: Why Trust is the Missing Piece in Network Automation",
-      "link": "https://networkautomation.forum/blog/the-black-box-problem-why-trust-is-the-missing-piece-in-network-automation",
-      "published": "Fri, 01 Aug 2025 18:55:27 +0000",
-      "published_parsed": "2025-08-01T18:55:27+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Garros's presentation addresses automation's adoption challenge from a refreshingly honest perspective. Technical capability isn't enough; automation must inspire confidence in its users. This requires deliberate design choices that prioritize user trust alongside functional correctness.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Long Arc of Network Automation: Lessons from a 25-Year Journey",
-      "link": "https://networkautomation.forum/blog/the-long-arc-of-network-automation-lessons-from-a-25-year-journey",
-      "published": "Fri, 01 Aug 2025 18:53:37 +0000",
-      "published_parsed": "2025-08-01T18:53:37+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Edelman's keynote captured the network automation community at an inflection point. The foundational work is done—tools exist, communities are established, and early adopters have demonstrated value. But mass adoption remains elusive. The challenge isn't technical anymore. It's cultural,...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Beyond Data: Why Design-Driven Automation is the Missing Link",
-      "link": "https://networkautomation.forum/blog/beyond-data-why-design-driven-automation-is-the-missing-link",
-      "published": "Fri, 01 Aug 2025 18:51:08 +0000",
-      "published_parsed": "2025-08-01T18:51:08+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Querol's design-driven approach addresses a fundamental automation challenge: the gap between what network architects envision and what gets implemented. By codifying design logic and protecting design-driven data, organizations can ensure that automation implementations match architectural intent.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Car Analogy: Why Network Abstraction Matters More Than You Think",
-      "link": "https://networkautomation.forum/blog/the-car-analogy-why-network-abstraction-matters-more-than-you-think",
-      "published": "Fri, 01 Aug 2025 18:47:50 +0000",
-      "published_parsed": "2025-08-01T18:47:50+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "As network automation tools proliferate, the risk grows of creating more complexity rather than less. Rautanen's approach suggests that successful automation requires thinking beyond tool integration toward service modeling and abstraction design.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Correlation Conundrum: Why Current Approaches Fall Short and What Comes Next",
-      "link": "https://networkautomation.forum/blog/the-correlation-conundrum-why-current-approaches-fall-short-and-what-comes-next",
-      "published": "Fri, 01 Aug 2025 18:43:29 +0000",
-      "published_parsed": "2025-08-01T18:43:29+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Antich's semantic correlation approach suggests a path toward systems that can reason about network events without explicit programming for every scenario. Whether this specific approach succeeds or not, the principles—autonomous interpretation, graph-based reasoning, semantic understanding—likely...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Beyond Building Networks: The Day Two Automation Challenge",
-      "link": "https://networkautomation.forum/blog/beyond-building-networks-the-day-two-automation-challenge",
-      "published": "Fri, 01 Aug 2025 18:42:40 +0000",
-      "published_parsed": "2025-08-01T18:42:40+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "NetBrain's approach suggests that operational automation requires different tools and thinking than deployment automation—focusing on service visibility, proactive monitoring, and institutional knowledge capture rather than just configuration management.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Security Side Effect: How Network Automation Accidentally Transformed Our Risk Posture",
-      "link": "https://networkautomation.forum/blog/the-security-side-effect-how-network-automation-accidentally-transformed-our-risk-posture",
-      "published": "Fri, 01 Aug 2025 18:41:11 +0000",
-      "published_parsed": "2025-08-01T18:41:11+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Harper's story illustrates how network automation can become a powerful security tool even when that wasn't the original intent. The lesson? Sometimes the best security improvements come not from security-focused projects, but from operational excellence initiatives that inherently improve risk...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Network Automation Epic: Terraform's Journey from Cloud to Campus",
-      "link": "https://networkautomation.forum/blog/the-network-automation-epic-terraforms-journey-from-cloud-to-campus",
-      "published": "Fri, 01 Aug 2025 18:37:49 +0000",
-      "published_parsed": "2025-08-01T18:37:49+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "For organizations considering Terraform for network automation, Pozo's epic provides a realistic roadmap: expect challenges, plan for scale, build teams, and focus on the indirect business value that makes the journey worthwhile. Sometimes the hardest journeys yield the most valuable destinations.",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Beyond the Island of Automation: Bridging Complex Networks with Purpose-Built Platforms",
-      "link": "https://networkautomation.forum/blog/beyond-the-island-of-automation-bridging-complex-networks-with-purpose-built-platforms",
-      "published": "Fri, 01 Aug 2025 18:35:06 +0000",
-      "published_parsed": "2025-08-01T18:35:06+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "Gluware's presentation reflects a maturing understanding of enterprise automation challenges. Rather than promoting tool replacement, they're advocating for integration and enhancement of existing automation investments.",
-      "tags": [
-        "networking"
       ]
     }
   ]

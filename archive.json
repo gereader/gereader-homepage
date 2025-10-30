@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-10-30T18:31:57.753729+00:00",
-  "article_count": 1219,
+  "last_updated": "2025-10-30T23:19:31.371562+00:00",
+  "article_count": 1222,
   "articles": [
+    {
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "published": "Thu, 30 Oct 2025 20:29:43 +0000",
+      "published_parsed": "2025-10-30T20:29:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cellebrite can apparently extract data from most Pixel phones, unless they're running GrapheneOS.",
+      "tags": [
+        "cellebrite",
+        "google",
+        "security",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update",
+      "link": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
+      "published": "Thu, 30 Oct 2025 20:05:50 +0000",
+      "published_parsed": "2025-10-30T20:05:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Updated app is \"free forever,\" but perpetually licensed Affinity apps are gone.",
+      "tags": [
+        "affinity",
+        "affinity photo",
+        "canva",
+        "tech"
+      ]
+    },
+    {
+      "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
+      "link": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/",
+      "published": "Thu, 30 Oct 2025 18:24:32 +0000",
+      "published_parsed": "2025-10-30T18:24:32+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
+      "tags": [
+        "ai",
+        "ai infrastructure",
+        "biz & it",
+        "chatgpt",
+        "coreweave",
+        "generative ai",
+        "ipo",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "sam altman",
+        "softbank"
+      ]
+    },
     {
       "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles",
       "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/",
