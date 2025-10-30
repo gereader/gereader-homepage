@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-10-29T23:20:32.656788+00:00",
-  "article_count": 1212,
+  "last_updated": "2025-10-30T02:42:45.687356+00:00",
+  "article_count": 1213,
   "articles": [
+    {
+      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+      "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+      "published": "Wed, 29 Oct 2025 21:04:45 +0000",
+      "published_parsed": "2025-10-29T21:04:45+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
+      "tags": [
+        "biz & it",
+        "code dependencies",
+        "code repositories",
+        "npm",
+        "phantomraven",
+        "security"
+      ]
+    },
     {
       "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
       "link": "https://arstechnica.com/gadgets/2025/10/tv-focused-youtube-update-brings-ai-upscaling-shopping-qr-codes/",
