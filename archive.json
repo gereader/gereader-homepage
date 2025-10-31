@@ -1,7 +1,23 @@
 {
-  "last_updated": "2025-10-31T18:31:44.696678+00:00",
-  "article_count": 1224,
+  "last_updated": "2025-10-31T23:19:42.122568+00:00",
+  "article_count": 1225,
   "articles": [
+    {
+      "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
+      "link": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
+      "published": "Fri, 31 Oct 2025 21:03:56 +0000",
+      "published_parsed": "2025-10-31T21:03:56+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Both vulnerabilities are being exploited in wide-scale operations.",
+      "tags": [
+        "biz & it",
+        "microsoft windows vulnerabilities",
+        "security",
+        "zero-day",
+        "zero-day vulnerability"
+      ]
+    },
     {
       "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager",
       "link": "https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/",

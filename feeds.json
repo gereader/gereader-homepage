@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T18:31:44.713001+00:00",
+  "last_updated": "2025-10-31T23:19:42.138627+00:00",
   "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
@@ -111,7 +111,6 @@
     "desktop computing",
     "dgx spark",
     "dhcp",
-    "diffie-hellman elliptic curve",
     "disney",
     "disney plus",
     "dmvpn",
@@ -184,8 +183,7 @@
     "malware",
     "mental health",
     "microsoft",
-    "ml-kem",
-    "module-lattice-based key-encapsulation mechanism",
+    "microsoft windows vulnerabilities",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -227,7 +225,6 @@
     "podcast",
     "policy",
     "political bias",
-    "post-quantum encryption",
     "power consumption",
     "prevent outages",
     "privacy",
@@ -252,7 +249,6 @@
     "service providers",
     "shortcuts",
     "side channel",
-    "signal messenger",
     "sky",
     "smart home",
     "smartphones",
@@ -289,9 +285,27 @@
     "wiretap",
     "worth reading",
     "xai",
-    "youtube"
+    "youtube",
+    "zero-day",
+    "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
+      "link": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
+      "published": "Fri, 31 Oct 2025 21:03:56 +0000",
+      "published_parsed": "2025-10-31T21:03:56+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Both vulnerabilities are being exploited in wide-scale operations.",
+      "tags": [
+        "biz & it",
+        "microsoft windows vulnerabilities",
+        "security",
+        "zero-day",
+        "zero-day vulnerability"
+      ]
+    },
     {
       "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager",
       "link": "https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/",
@@ -1283,25 +1297,6 @@
         "privacy",
         "security",
         "side channel"
-      ]
-    },
-    {
-      "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
-      "link": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
-      "published": "Mon, 13 Oct 2025 16:15:53 +0000",
-      "published_parsed": "2025-10-13T16:15:53+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "New design sets a high standard for post-quantum readiness.",
-      "tags": [
-        "biz & it",
-        "diffie-hellman elliptic curve",
-        "features",
-        "ml-kem",
-        "module-lattice-based key-encapsulation mechanism",
-        "post-quantum encryption",
-        "security",
-        "signal messenger"
       ]
     },
     {
