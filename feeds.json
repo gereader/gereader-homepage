@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T07:20:34.896183+00:00",
+  "last_updated": "2025-10-31T14:22:14.734140+00:00",
   "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
@@ -139,7 +139,8 @@
     "github",
     "google",
     "google cloud",
-    "google fi",
+    "google gemini",
+    "google home",
     "gpu",
     "gpus",
     "grace blackwell",
@@ -187,14 +188,12 @@
     "mental health",
     "microsoft",
     "ml-kem",
-    "mobile data",
     "module-lattice-based key-encapsulation mechanism",
     "mpls",
     "mpls vpn",
     "mpls-te",
     "msi",
     "mtu",
-    "mvno",
     "nat",
     "navigation blog",
     "netconf",
@@ -295,6 +294,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
+      "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
+      "published": "Fri, 31 Oct 2025 11:30:22 +0000",
+      "published_parsed": "2025-10-31T11:30:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
+      "tags": [
+        "ai",
+        "features",
+        "google",
+        "google gemini",
+        "google home",
+        "tech"
+      ]
+    },
     {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
       "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
@@ -924,23 +940,6 @@
         "macbook pro",
         "macos",
         "reviews",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google Fi is getting enhanced web calls and messaging, AI bill summaries",
-      "link": "https://arstechnica.com/gadgets/2025/10/google-fi-is-getting-enhanced-web-calls-and-messaging-ai-bill-summaries/",
-      "published": "Tue, 21 Oct 2025 17:00:13 +0000",
-      "published_parsed": "2025-10-21T17:00:13+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google's MVNO gets better web support, clearer audio, and yes, more AI.",
-      "tags": [
-        "artificial intelligence",
-        "google",
-        "google fi",
-        "mobile data",
-        "mvno",
         "tech"
       ]
     },

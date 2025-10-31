@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-10-31T07:20:34.880259+00:00",
-  "article_count": 1222,
+  "last_updated": "2025-10-31T14:22:14.718122+00:00",
+  "article_count": 1223,
   "articles": [
+    {
+      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
+      "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
+      "published": "Fri, 31 Oct 2025 11:30:22 +0000",
+      "published_parsed": "2025-10-31T11:30:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
+      "tags": [
+        "ai",
+        "features",
+        "google",
+        "google gemini",
+        "google home",
+        "tech"
+      ]
+    },
     {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
       "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
