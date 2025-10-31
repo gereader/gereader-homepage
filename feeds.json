@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T14:22:14.734140+00:00",
+  "last_updated": "2025-10-31T18:31:44.713001+00:00",
   "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
@@ -59,7 +59,6 @@
     "api",
     "apple",
     "apple m5",
-    "apple silicon",
     "apps",
     "arp",
     "artificial general intelligence",
@@ -179,8 +178,6 @@
     "lisp",
     "llm",
     "load balancing",
-    "macbook",
-    "macbook pro",
     "machine learning",
     "macos",
     "macos 26 tahoe",
@@ -287,6 +284,7 @@
     "wan",
     "warner bros. discovery",
     "windows 11",
+    "windows 11 24h2",
     "windows 11 25h2",
     "wiretap",
     "worth reading",
@@ -294,6 +292,21 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager",
+      "link": "https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/",
+      "published": "Fri, 31 Oct 2025 16:06:33 +0000",
+      "published_parsed": "2025-10-31T16:06:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
     {
       "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
       "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
@@ -921,26 +934,6 @@
         "streaming",
         "tech",
         "warner bros. discovery"
-      ]
-    },
-    {
-      "title": "MacBook Pro review: Apple’s most awkward laptop is the first to show off Apple M5",
-      "link": "https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/",
-      "published": "Tue, 21 Oct 2025 17:00:45 +0000",
-      "published_parsed": "2025-10-21T17:00:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple M5 trades blows with Pro and Max chips from older generations.",
-      "tags": [
-        "apple",
-        "apple m5",
-        "apple silicon",
-        "features",
-        "macbook",
-        "macbook pro",
-        "macos",
-        "reviews",
-        "tech"
       ]
     },
     {

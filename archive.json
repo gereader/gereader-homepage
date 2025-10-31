@@ -1,7 +1,22 @@
 {
-  "last_updated": "2025-10-31T14:22:14.718122+00:00",
-  "article_count": 1223,
+  "last_updated": "2025-10-31T18:31:44.696678+00:00",
+  "article_count": 1224,
   "articles": [
+    {
+      "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager",
+      "link": "https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/",
+      "published": "Fri, 31 Oct 2025 16:06:33 +0000",
+      "published_parsed": "2025-10-31T16:06:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
     {
       "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
       "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
