@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-01T18:27:21.175450+00:00",
-  "article_count": 1225,
+  "last_updated": "2025-11-01T23:18:39.217314+00:00",
+  "article_count": 1226,
   "articles": [
     {
       "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
@@ -991,6 +991,19 @@
         "breach",
         "f5",
         "security"
+      ]
+    },
+    {
+      "title": "Python Getters, Setters and @property Decorator",
+      "link": "https://www.packetswitch.co.uk/python-getters-setters-and-property-decorator/",
+      "published": "Wed, 15 Oct 2025 19:23:00 GMT",
+      "published_parsed": "2025-10-15T19:23:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/02/functions--methods-and-self-2-.png",
+      "summary": "When I first started working with Python classes, some of the most confusing topics were getters, setters, and @property. There are plenty of tutorials on how to use them",
+      "tags": [
+        "networking",
+        "python"
       ]
     },
     {
