@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-02T18:26:56.358576+00:00",
-  "article_count": 125,
+  "last_updated": "2025-11-02T23:19:04.956749+00:00",
+  "article_count": 124,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2187,21 +2187,6 @@
       "tags": [
         "aws",
         "networking"
-      ]
-    },
-    {
-      "title": "Automation for Network Leaders",
-      "link": "https://www.netbraintech.com/blog/automation-network-leaders/",
-      "published": "2025-08-04T19:26:48Z",
-      "published_parsed": "2025-08-04T19:26:48+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "As a network operations manager or leader, you are responsible for the changes that drive success. One critical change to consider is switching from manual network management to automated management....",
-      "tags": [
-        "navigation blog",
-        "network operations",
-        "networking",
-        "prevent outages"
       ]
     }
   ]
