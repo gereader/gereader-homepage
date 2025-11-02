@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-02T07:19:21.571059+00:00",
-  "article_count": 1226,
+  "last_updated": "2025-11-02T14:18:07.478655+00:00",
+  "article_count": 1228,
   "articles": [
+    {
+      "title": "Build BGP Labs in Minutes, Not Hours with Netlab",
+      "link": "https://www.packetswitch.co.uk/build-bgp-labs-in-minutes-not-hours-with-netlab/",
+      "published": "Sun, 02 Nov 2025 13:29:43 GMT",
+      "published_parsed": "2025-11-02T13:29:43+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/11/bgp-labs.png",
+      "summary": "What if I told you that all it takes to build a simple BGP lab with two eBGP peers is a single YAML file? No need to add nodes, connect links",
+      "tags": [
+        "bgp",
+        "networking"
+      ]
+    },
     {
       "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
       "link": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
@@ -1317,6 +1330,20 @@
         "privacy",
         "security",
         "side channel"
+      ]
+    },
+    {
+      "title": "Python OOP - Method vs Function and the Mystery of ‘self’",
+      "link": "https://www.packetswitch.co.uk/python-oop-methods-functions-and-the-mystery-of-self/",
+      "published": "Mon, 13 Oct 2025 21:12:00 GMT",
+      "published_parsed": "2025-10-13T21:12:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2024/08/functions--methods-and-self.png",
+      "summary": "I just realized how much I didn't understand about Python Object-Oriented Programming. I thought I knew the basics, but a few days ago, while going through a Python course, I found out I was wrong.",
+      "tags": [
+        "netdevops",
+        "networking",
+        "python"
       ]
     },
     {
