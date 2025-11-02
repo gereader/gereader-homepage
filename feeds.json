@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-02T02:46:23.797562+00:00",
-  "article_count": 124,
+  "last_updated": "2025-11-02T07:19:21.587257+00:00",
+  "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2175,19 +2175,6 @@
         "network operations",
         "networking",
         "prevent outages"
-      ]
-    },
-    {
-      "title": "MUST READ: Storage Devices and Latency",
-      "link": "https://blog.ipspace.net/2025/08/worth-reading-storage-latency/?utm_source=atom_feed",
-      "published": "2025-08-04T07:53:00+02:00",
-      "published_parsed": "2025-08-04T07:53:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "PlanetScale published a great article describing the high-level principles of how storage devices work and covering everything from tape drives to SSDs and network-attached storage — a must-read for anyone even remotely interested in how their data is stored.",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
