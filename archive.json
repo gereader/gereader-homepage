@@ -1,7 +1,52 @@
 {
-  "last_updated": "2025-11-03T18:30:47.038051+00:00",
-  "article_count": 1229,
+  "last_updated": "2025-11-03T23:20:02.385006+00:00",
+  "article_count": 1231,
   "articles": [
+    {
+      "title": "After confusing driver release, AMD says old GPUs are still actively supported",
+      "link": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+      "published": "Mon, 03 Nov 2025 20:21:36 +0000",
+      "published_parsed": "2025-11-03T20:21:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Re-using old silicon means that dropping \"old\" GPUs can affect \"new\" products.",
+      "tags": [
+        "amd",
+        "gaming",
+        "radeon",
+        "rdna",
+        "rdna 2",
+        "tech"
+      ]
+    },
+    {
+      "title": "OpenAI signs massive AI compute deal with Amazon",
+      "link": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
+      "published": "Mon, 03 Nov 2025 17:23:11 +0000",
+      "published_parsed": "2025-11-03T17:23:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai infrastructure",
+        "amazon",
+        "aws",
+        "biz & it",
+        "chatbots",
+        "datacenters",
+        "generative ai",
+        "google",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "oracle",
+        "sam altman"
+      ]
+    },
     {
       "title": "Ansible Release 12: the Windows Vista Moment",
       "link": "https://blog.ipspace.net/2025/11/ansible-12-different/?utm_source=atom_feed",

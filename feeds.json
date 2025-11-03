@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03T18:30:47.054037+00:00",
+  "last_updated": "2025-11-03T23:20:02.400867+00:00",
   "article_count": 125,
   "sources": [
     "Ars Technica - Gadgets",
@@ -133,6 +133,7 @@
     "financial losses",
     "firewall",
     "firewalls",
+    "gaming",
     "generative ai",
     "github",
     "google",
@@ -144,7 +145,6 @@
     "grace blackwell",
     "grok",
     "hacking",
-    "hbo max",
     "hdr",
     "high availability",
     "history",
@@ -220,19 +220,20 @@
     "performance",
     "phantomraven",
     "pig butchering",
-    "pixnapping",
     "play store",
     "podcast",
     "policy",
     "political bias",
     "power consumption",
     "prevent outages",
-    "privacy",
     "project digits",
     "public benefit corporation",
     "python",
     "qos",
     "race conditions",
+    "radeon",
+    "rdna",
+    "rdna 2",
     "release",
     "reviews",
     "rlhf",
@@ -248,7 +249,6 @@
     "semiconductors",
     "service providers",
     "shortcuts",
-    "side channel",
     "sky",
     "smart home",
     "smartphones",
@@ -278,7 +278,6 @@
     "vpn",
     "vxlan",
     "wan",
-    "warner bros. discovery",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
@@ -290,6 +289,51 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "After confusing driver release, AMD says old GPUs are still actively supported",
+      "link": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+      "published": "Mon, 03 Nov 2025 20:21:36 +0000",
+      "published_parsed": "2025-11-03T20:21:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Re-using old silicon means that dropping \"old\" GPUs can affect \"new\" products.",
+      "tags": [
+        "amd",
+        "gaming",
+        "radeon",
+        "rdna",
+        "rdna 2",
+        "tech"
+      ]
+    },
+    {
+      "title": "OpenAI signs massive AI compute deal with Amazon",
+      "link": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
+      "published": "Mon, 03 Nov 2025 17:23:11 +0000",
+      "published_parsed": "2025-11-03T17:23:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai infrastructure",
+        "amazon",
+        "aws",
+        "biz & it",
+        "chatbots",
+        "datacenters",
+        "generative ai",
+        "google",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "oracle",
+        "sam altman"
+      ]
+    },
     {
       "title": "Ansible Release 12: the Windows Vista Moment",
       "link": "https://blog.ipspace.net/2025/11/ansible-12-different/?utm_source=atom_feed",
@@ -961,22 +1005,6 @@
       ]
     },
     {
-      "title": "HBO Max prices increase by up to $20 today",
-      "link": "https://arstechnica.com/gadgets/2025/10/warner-bros-discovery-raises-hbo-max-prices-as-it-puts-itself-up-for-sale/",
-      "published": "Tue, 21 Oct 2025 17:20:10 +0000",
-      "published_parsed": "2025-10-21T17:20:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "HBO Max subscription fees have risen every year for the past three years.",
-      "tags": [
-        "acquisition",
-        "hbo max",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
-      ]
-    },
-    {
       "title": "pyATS - How to Disable Default Connection Commands",
       "link": "https://www.packetcoders.io/pyats-how-to-disable-default-connection-commands/",
       "published": "Tue, 21 Oct 2025 10:21:13 GMT",
@@ -1318,24 +1346,6 @@
       "tags": [
         "networking",
         "training"
-      ]
-    },
-    {
-      "title": "Hackers can steal 2FA codes and private messages from Android phones",
-      "link": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
-      "published": "Mon, 13 Oct 2025 21:36:35 +0000",
-      "published_parsed": "2025-10-13T21:36:35+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Malicious app required to make \"Pixnapping\" attack work requires no permissions.",
-      "tags": [
-        "android",
-        "biz & it",
-        "google",
-        "pixnapping",
-        "privacy",
-        "security",
-        "side channel"
       ]
     },
     {
