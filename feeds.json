@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-04T14:23:38.691054+00:00",
-  "article_count": 127,
+  "last_updated": "2025-11-04T18:32:31.351642+00:00",
+  "article_count": 126,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2221,19 +2221,6 @@
       "image": null,
       "summary": "AutoCon 3 demonstrated that network automation has evolved from experimental scripts to business-critical infrastructure. But perhaps the conference's most important insight came from recognizing that automation success depends as much on psychology, trust, and user experience as it does on...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "AWS Direct Connect Technical Deep Dive (IX)",
-      "link": "https://www.packetswitch.co.uk/aws-direct-connect-technical-deep-dive/",
-      "published": "Wed, 06 Aug 2025 18:13:35 GMT",
-      "published_parsed": "2025-08-06T18:13:35+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/07/aws-series-11-.png",
-      "summary": "AWS has what are called Direct Connect locations. These are simply co‑location facilities where AWS has installed its own equipment that is connected",
-      "tags": [
-        "aws",
         "networking"
       ]
     }
