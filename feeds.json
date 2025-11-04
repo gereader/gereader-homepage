@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-04T02:41:41.776243+00:00",
-  "article_count": 125,
+  "last_updated": "2025-11-04T07:22:13.681925+00:00",
+  "article_count": 126,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -285,6 +285,20 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "The Curious Case of Default OSPF Interface Timers",
+      "link": "https://blog.ipspace.net/2025/11/ospf-interface-timers/?utm_source=atom_feed",
+      "published": "2025-11-04T07:14:00+01:00",
+      "published_parsed": "2025-11-04T07:14:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "We run two types of integration tests before shipping a netlab release: device integration tests that check whether we correctly implemented netlab features on all supported devices, and platform integration tests that check whether rarely-used core functionality works as expected. I want to have...",
+      "tags": [
+        "netlab",
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more",
       "link": "https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/",
