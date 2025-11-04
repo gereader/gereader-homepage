@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-04T07:22:13.665739+00:00",
-  "article_count": 1233,
+  "last_updated": "2025-11-04T14:23:38.675793+00:00",
+  "article_count": 1234,
   "articles": [
+    {
+      "title": "Improve Python Code Readability by Enforcing Named Arguments",
+      "link": "https://www.packetcoders.io/improve-python-code-readability-by-enforcing-named-arguments-2/",
+      "published": "Tue, 04 Nov 2025 11:22:14 GMT",
+      "published_parsed": "2025-11-04T11:22:14+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/10/Untitled-design--93--1.webp",
+      "summary": "🐍 Python Tip: Improve code readability by enforcing named arguments. To enforce all arguments to be named, start your parameter list with * . Here’s an example: def add_vlan(*, vlan_id, name): print(f\"VLAN ID: {vlan_id}\") print(f\"Name: {name}\") add_vlan(vlan_",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "The Curious Case of Default OSPF Interface Timers",
       "link": "https://blog.ipspace.net/2025/11/ospf-interface-timers/?utm_source=atom_feed",
