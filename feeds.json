@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03T23:20:02.400867+00:00",
+  "last_updated": "2025-11-04T02:41:41.776243+00:00",
   "article_count": 125,
   "sources": [
     "Ars Technica - Gadgets",
@@ -58,7 +58,6 @@
     "anthropic",
     "api",
     "apple",
-    "apple m5",
     "apps",
     "arp",
     "artificial general intelligence",
@@ -157,8 +156,6 @@
     "ios",
     "ios 26",
     "ip routing",
-    "ipad",
-    "ipad pro",
     "ipados",
     "ipados 26",
     "iphone",
@@ -235,7 +232,6 @@
     "rdna",
     "rdna 2",
     "release",
-    "reviews",
     "rlhf",
     "ryzen",
     "sam altman",
@@ -289,6 +285,25 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more",
+      "link": "https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/",
+      "published": "Tue, 04 Nov 2025 02:08:26 +0000",
+      "published_parsed": "2025-11-04T02:08:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New updates include a small but noteworthy batch of fixes and features.",
+      "tags": [
+        "apple",
+        "ios",
+        "ios 26",
+        "ipados",
+        "ipados 26",
+        "macos",
+        "macos 26 tahoe",
+        "tech"
+      ]
+    },
     {
       "title": "After confusing driver release, AMD says old GPUs are still actively supported",
       "link": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
@@ -985,23 +1000,6 @@
         "google",
         "tech",
         "youtube"
-      ]
-    },
-    {
-      "title": "M5 iPad Pro tested: Stop me if you’ve heard this one before",
-      "link": "https://arstechnica.com/gadgets/2025/10/testing-apples-m5-ipad-pro-future-proofing-for-apples-perennial-overkill-tablet/",
-      "published": "Tue, 21 Oct 2025 17:52:42 +0000",
-      "published_parsed": "2025-10-21T17:52:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It's a gorgeous tablet, but what does an iPad need with more processing power?",
-      "tags": [
-        "apple",
-        "apple m5",
-        "ipad",
-        "ipad pro",
-        "reviews",
-        "tech"
       ]
     },
     {
