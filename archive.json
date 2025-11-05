@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-11-05T07:21:48.777889+00:00",
-  "article_count": 1236,
+  "last_updated": "2025-11-05T14:23:08.888882+00:00",
+  "article_count": 1237,
   "articles": [
+    {
+      "title": "Worth Reading: AI Won't Replace Network Engineers",
+      "link": "https://blog.ipspace.net/2025/11/worth-reading-ai-replace-network-engineers/?utm_source=atom_feed",
+      "published": "2025-11-05T08:38:00+01:00",
+      "published_parsed": "2025-11-05T08:38:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Jason Gintert published an excellent explanation why AI won’t replace (all) network engineers , and reading it, I felt like reading one of my “automation won’t replace network engineers” blog posts. Here’s a quote to get you in the mood: AI will make good engineers better and will expose mediocre...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "New HDR10+ Advanced standard will try to improve a controversial TV feature",
       "link": "https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/",
