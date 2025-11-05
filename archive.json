@@ -1,7 +1,43 @@
 {
-  "last_updated": "2025-11-05T18:32:29.888935+00:00",
-  "article_count": 1240,
+  "last_updated": "2025-11-05T23:20:16.482302+00:00",
+  "article_count": 1242,
   "articles": [
+    {
+      "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
+      "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
+      "published": "Wed, 05 Nov 2025 23:00:46 +0000",
+      "published_parsed": "2025-11-05T23:00:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "You wouldn't know it from the hype, but the results fail to impress.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "generative ai",
+        "guardrails",
+        "malware",
+        "ransomware",
+        "security"
+      ]
+    },
+    {
+      "title": "YouTube TV’s Disney blackout reminds users that they don’t own what they stream",
+      "link": "https://arstechnica.com/gadgets/2025/11/youtube-tvs-disney-blackout-reminds-users-that-they-dont-own-what-they-stream/",
+      "published": "Wed, 05 Nov 2025 19:10:45 +0000",
+      "published_parsed": "2025-11-05T19:10:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "“This is a hard lesson for us all.”",
+      "tags": [
+        "disney",
+        "dvr",
+        "google",
+        "streaming",
+        "tech",
+        "youtube",
+        "youtube tv"
+      ]
+    },
     {
       "title": "Google settlement with Epic caps Play Store fees, boosts other Android app stores",
       "link": "https://arstechnica.com/gadgets/2025/11/google-settlement-with-epic-caps-play-store-fees-boosts-other-android-app-stores/",

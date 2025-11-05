@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T18:32:29.905227+00:00",
+  "last_updated": "2025-11-05T23:20:16.498186+00:00",
   "article_count": 126,
   "sources": [
     "Ars Technica - Gadgets",
@@ -25,7 +25,6 @@
     "ai assistants",
     "ai behavior",
     "ai benchmarks",
-    "ai bias",
     "ai censorship",
     "ai chips",
     "ai coding",
@@ -38,15 +37,12 @@
     "ai gpu",
     "ai infrastructure",
     "ai models",
-    "ai objectivity",
     "ai paternalism",
     "ai programming",
     "ai regulation",
-    "ai research",
     "ai safety",
     "ai supercomputer",
     "ai sycophancy",
-    "alignment research",
     "amazon",
     "amazon bedrock",
     "amd",
@@ -95,9 +91,7 @@
     "company news",
     "containerlab",
     "containers",
-    "copilot",
     "coreweave",
-    "cultural bias",
     "cumulus linux",
     "daniel de freitas",
     "data center",
@@ -115,6 +109,7 @@
     "dolby vision",
     "dolby vision 2",
     "donald trump",
+    "dvr",
     "e-readers",
     "ec2",
     "ed zitron",
@@ -145,6 +140,7 @@
     "gpus",
     "grace blackwell",
     "grok",
+    "guardrails",
     "hacking",
     "hdr",
     "hdr10",
@@ -220,7 +216,6 @@
     "play store",
     "podcast",
     "policy",
-    "political bias",
     "power consumption",
     "prevent outages",
     "project digits",
@@ -229,10 +224,10 @@
     "qos",
     "race conditions",
     "radeon",
+    "ransomware",
     "rdna",
     "rdna 2",
     "release",
-    "rlhf",
     "ryzen",
     "sam altman",
     "samsung",
@@ -283,10 +278,47 @@
     "worth reading",
     "xai",
     "youtube",
+    "youtube tv",
     "zero-day",
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
+      "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
+      "published": "Wed, 05 Nov 2025 23:00:46 +0000",
+      "published_parsed": "2025-11-05T23:00:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "You wouldn't know it from the hype, but the results fail to impress.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "generative ai",
+        "guardrails",
+        "malware",
+        "ransomware",
+        "security"
+      ]
+    },
+    {
+      "title": "YouTube TV’s Disney blackout reminds users that they don’t own what they stream",
+      "link": "https://arstechnica.com/gadgets/2025/11/youtube-tvs-disney-blackout-reminds-users-that-they-dont-own-what-they-stream/",
+      "published": "Wed, 05 Nov 2025 19:10:45 +0000",
+      "published_parsed": "2025-11-05T19:10:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "“This is a hard lesson for us all.”",
+      "tags": [
+        "disney",
+        "dvr",
+        "google",
+        "streaming",
+        "tech",
+        "youtube",
+        "youtube tv"
+      ]
+    },
     {
       "title": "Google settlement with Epic caps Play Store fees, boosts other Android app stores",
       "link": "https://arstechnica.com/gadgets/2025/11/google-settlement-with-epic-caps-play-store-fees-boosts-other-android-app-stores/",
@@ -989,22 +1021,6 @@
       ]
     },
     {
-      "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant",
-      "link": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
-      "published": "Thu, 23 Oct 2025 18:48:52 +0000",
-      "published_parsed": "2025-10-23T18:48:52+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"Mico\" literally tries to put a face on Microsoft's chatbot-turned-assistant.",
-      "tags": [
-        "copilot",
-        "microsoft",
-        "tech",
-        "windows 11",
-        "windows 11 25h2"
-      ]
-    },
-    {
       "title": "Lab: Drain Traffic From an IS-IS Node Before Starting Maintenance",
       "link": "https://blog.ipspace.net/2025/10/isis-lab-overload-maintenance/?utm_source=atom_feed",
       "published": "2025-10-23T07:09:00+02:00",
@@ -1342,36 +1358,6 @@
         "project digits",
         "spacex",
         "tech"
-      ]
-    },
-    {
-      "title": "OpenAI wants to stop ChatGPT from validating users’ political views",
-      "link": "https://arstechnica.com/ai/2025/10/openai-wants-to-stop-chatgpt-from-validating-users-political-views/",
-      "published": "Tue, 14 Oct 2025 13:51:00 +0000",
-      "published_parsed": "2025-10-14T13:51:00+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "New paper reveals reducing \"bias\" means making ChatGPT stop mirroring users' political language.",
-      "tags": [
-        "ai",
-        "ai alignment",
-        "ai behavior",
-        "ai bias",
-        "ai criticism",
-        "ai ethics",
-        "ai objectivity",
-        "ai research",
-        "alignment research",
-        "anthropic",
-        "biz & it",
-        "chatgpt",
-        "cultural bias",
-        "generative ai",
-        "large language models",
-        "machine learning",
-        "openai",
-        "political bias",
-        "rlhf"
       ]
     },
     {
