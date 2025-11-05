@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-05T14:23:08.905353+00:00",
-  "article_count": 127,
+  "last_updated": "2025-11-05T18:32:29.905227+00:00",
+  "article_count": 126,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -49,10 +49,8 @@
     "alignment research",
     "amazon",
     "amazon bedrock",
-    "amazon web services",
     "amd",
     "android",
-    "android xr",
     "ansible",
     "anthropic",
     "api",
@@ -123,9 +121,10 @@
     "eigrp",
     "elon musk",
     "emotional ai",
+    "epic",
     "espionage",
+    "evergreen",
     "evpn",
-    "extended reality",
     "f5",
     "fabric",
     "features",
@@ -140,6 +139,8 @@
     "google cloud",
     "google gemini",
     "google home",
+    "google maps",
+    "google v. epic",
     "gpu",
     "gpus",
     "grace blackwell",
@@ -153,6 +154,7 @@
     "hp",
     "hulu",
     "infrahub",
+    "install",
     "intel",
     "internet",
     "ios",
@@ -160,10 +162,6 @@
     "ip routing",
     "ipados",
     "ipados 26",
-    "iphone",
-    "iphone air",
-    "iphone mini",
-    "iphone plus",
     "ipo",
     "ipv6",
     "is-is",
@@ -274,7 +272,6 @@
     "venture capital",
     "vertex ai",
     "video",
-    "virtual reality",
     "virtualization",
     "vpn",
     "vxlan",
@@ -290,6 +287,55 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Google settlement with Epic caps Play Store fees, boosts other Android app stores",
+      "link": "https://arstechnica.com/gadgets/2025/11/google-settlement-with-epic-caps-play-store-fees-boosts-other-android-app-stores/",
+      "published": "Wed, 05 Nov 2025 16:26:02 +0000",
+      "published_parsed": "2025-11-05T16:26:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google will make several changes to Android app support globally, supported through at least 2032.",
+      "tags": [
+        "apps",
+        "epic",
+        "google",
+        "google v. epic",
+        "play store",
+        "tech"
+      ]
+    },
+    {
+      "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
+      "link": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/",
+      "published": "Wed, 05 Nov 2025 15:42:57 +0000",
+      "published_parsed": "2025-11-05T15:42:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A new major Windows 11 release means a new guide for cleaning up the OS.",
+      "tags": [
+        "evergreen",
+        "features",
+        "install",
+        "tech",
+        "windows 11"
+      ]
+    },
+    {
+      "title": "So long, Assistant—Gemini is taking over Google Maps",
+      "link": "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/",
+      "published": "Wed, 05 Nov 2025 14:00:26 +0000",
+      "published_parsed": "2025-11-05T14:00:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Gemini is rolling out to Maps on Android and iOS, with Android Auto coming soon.",
+      "tags": [
+        "ai",
+        "google",
+        "google gemini",
+        "google maps",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: AI Won't Replace Network Engineers",
       "link": "https://blog.ipspace.net/2025/11/worth-reading-ai-replace-network-engineers/?utm_source=atom_feed",
@@ -959,23 +1005,6 @@
       ]
     },
     {
-      "title": "Reports suggest Apple is already pulling back on the iPhone Air",
-      "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
-      "published": "Thu, 23 Oct 2025 15:04:47 +0000",
-      "published_parsed": "2025-10-23T15:04:47+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New phone design compromises on camera and battery to achieve a lighter weight.",
-      "tags": [
-        "apple",
-        "iphone",
-        "iphone air",
-        "iphone mini",
-        "iphone plus",
-        "tech"
-      ]
-    },
-    {
       "title": "Lab: Drain Traffic From an IS-IS Node Before Starting Maintenance",
       "link": "https://blog.ipspace.net/2025/10/isis-lab-overload-maintenance/?utm_source=atom_feed",
       "published": "2025-10-23T07:09:00+02:00",
@@ -1000,39 +1029,6 @@
       "tags": [
         "biz & it",
         "security"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800",
-      "link": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
-      "published": "Wed, 22 Oct 2025 18:12:50 +0000",
-      "published_parsed": "2025-10-22T18:12:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It may not be as spendy as the Vision Pro, but $1,800 is still a lot.",
-      "tags": [
-        "android xr",
-        "extended reality",
-        "google",
-        "samsung",
-        "tech",
-        "virtual reality"
-      ]
-    },
-    {
-      "title": "AWS outage reminds us why $2,449 Internet-dependent beds are a bad idea",
-      "link": "https://arstechnica.com/gadgets/2025/10/smart-beds-leave-sleepers-hot-and-bothered-during-aws-outage/",
-      "published": "Wed, 22 Oct 2025 17:57:10 +0000",
-      "published_parsed": "2025-10-22T17:57:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "“Would be great if my bed wasn’t stuck in an inclined position ...\"",
-      "tags": [
-        "amazon",
-        "amazon web services",
-        "aws",
-        "smart home",
-        "tech"
       ]
     },
     {
@@ -2227,18 +2223,6 @@
       "tags": [
         "bgp",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Design-First, Trust-Always: Summarizing what we learned at AutoCon3",
-      "link": "https://networkautomation.forum/blog/design-first-trust-always-summarizing-what-we-learned-at-autocon3",
-      "published": "Thu, 07 Aug 2025 17:34:33 +0000",
-      "published_parsed": "2025-08-07T17:34:33+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "AutoCon 3 demonstrated that network automation has evolved from experimental scripts to business-critical infrastructure. But perhaps the conference's most important insight came from recognizing that automation success depends as much on psychology, trust, and user experience as it does on...",
-      "tags": [
         "networking"
       ]
     }

@@ -1,7 +1,56 @@
 {
-  "last_updated": "2025-11-05T14:23:08.888882+00:00",
-  "article_count": 1237,
+  "last_updated": "2025-11-05T18:32:29.888935+00:00",
+  "article_count": 1240,
   "articles": [
+    {
+      "title": "Google settlement with Epic caps Play Store fees, boosts other Android app stores",
+      "link": "https://arstechnica.com/gadgets/2025/11/google-settlement-with-epic-caps-play-store-fees-boosts-other-android-app-stores/",
+      "published": "Wed, 05 Nov 2025 16:26:02 +0000",
+      "published_parsed": "2025-11-05T16:26:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google will make several changes to Android app support globally, supported through at least 2032.",
+      "tags": [
+        "apps",
+        "epic",
+        "google",
+        "google v. epic",
+        "play store",
+        "tech"
+      ]
+    },
+    {
+      "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
+      "link": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/",
+      "published": "Wed, 05 Nov 2025 15:42:57 +0000",
+      "published_parsed": "2025-11-05T15:42:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A new major Windows 11 release means a new guide for cleaning up the OS.",
+      "tags": [
+        "evergreen",
+        "features",
+        "install",
+        "tech",
+        "windows 11"
+      ]
+    },
+    {
+      "title": "So long, Assistant—Gemini is taking over Google Maps",
+      "link": "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/",
+      "published": "Wed, 05 Nov 2025 14:00:26 +0000",
+      "published_parsed": "2025-11-05T14:00:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Gemini is rolling out to Maps on Android and iOS, with Android Auto coming soon.",
+      "tags": [
+        "ai",
+        "google",
+        "google gemini",
+        "google maps",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: AI Won't Replace Network Engineers",
       "link": "https://blog.ipspace.net/2025/11/worth-reading-ai-replace-network-engineers/?utm_source=atom_feed",
