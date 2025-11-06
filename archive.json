@@ -1,7 +1,34 @@
 {
-  "last_updated": "2025-11-06T14:23:03.363912+00:00",
-  "article_count": 1243,
+  "last_updated": "2025-11-06T18:33:51.045791+00:00",
+  "article_count": 1244,
   "articles": [
+    {
+      "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
+      "link": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
+      "published": "Thu, 06 Nov 2025 17:24:51 +0000",
+      "published_parsed": "2025-11-06T17:24:51+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
+      "tags": [
+        "ai",
+        "ai and work",
+        "ai infrastructure",
+        "australia",
+        "biz & it",
+        "christmas island",
+        "cloud computing",
+        "crabs",
+        "datacenters",
+        "defense",
+        "google",
+        "machine learning",
+        "military",
+        "red crabs",
+        "subcom",
+        "subsea cables"
+      ]
+    },
     {
       "title": "Presentation: Testing Disaster Recovery Designs",
       "link": "https://blog.ipspace.net/2025/11/testing-dr-designs/?utm_source=atom_feed",
