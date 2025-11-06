@@ -1,7 +1,22 @@
 {
-  "last_updated": "2025-11-06T18:33:51.045791+00:00",
-  "article_count": 1244,
+  "last_updated": "2025-11-06T23:19:51.843527+00:00",
+  "article_count": 1245,
   "articles": [
+    {
+      "title": "Gemini Deep Research comes to Google Finance, backed by prediction market data",
+      "link": "https://arstechnica.com/google/2025/11/gemini-deep-research-comes-to-google-finance-backed-by-prediction-market-data/",
+      "published": "Thu, 06 Nov 2025 20:39:15 +0000",
+      "published_parsed": "2025-11-06T20:39:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Deep Research and predictions based on Kalshi and Polymarket data are coming soon to Google Finance.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
       "link": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",

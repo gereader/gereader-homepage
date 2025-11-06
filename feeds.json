@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06T18:33:51.062002+00:00",
+  "last_updated": "2025-11-06T23:19:51.860123+00:00",
   "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,7 +12,6 @@
   ],
   "tags": [
     "aci",
-    "acquisition",
     "ads",
     "affinity",
     "affinity photo",
@@ -165,7 +164,6 @@
     "large language models",
     "ldp",
     "lisp",
-    "llm",
     "load balancing",
     "machine learning",
     "macos",
@@ -238,13 +236,10 @@
     "segment routing",
     "semiconductors",
     "service providers",
-    "shortcuts",
-    "sky",
     "smart home",
     "smartphones",
     "snmp",
     "softbank",
-    "software applications incorporated",
     "software gone wild",
     "space",
     "stargate",
@@ -282,6 +277,21 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Gemini Deep Research comes to Google Finance, backed by prediction market data",
+      "link": "https://arstechnica.com/google/2025/11/gemini-deep-research-comes-to-google-finance-backed-by-prediction-market-data/",
+      "published": "Thu, 06 Nov 2025 20:39:15 +0000",
+      "published_parsed": "2025-11-06T20:39:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Deep Research and predictions based on Kalshi and Polymarket data are coming soon to Google Finance.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
       "link": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
@@ -1035,27 +1045,6 @@
       "summary": "I love well-organized small conferences, so it wasn’t hard to persuade me to have another talk at the DEEP Conference in Zadar, Croatia. This time, I talked about the role of digital twins in disaster recovery/avoidance testing. You might know my take on networking digital twins ; after that, I...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
-      "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
-      "published": "Thu, 23 Oct 2025 22:08:40 +0000",
-      "published_parsed": "2025-10-23T22:08:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The acquired firm was working on a tool to control macOS directly with AI.",
-      "tags": [
-        "acquisition",
-        "ai",
-        "apple",
-        "llm",
-        "macos",
-        "openai",
-        "shortcuts",
-        "sky",
-        "software applications incorporated",
-        "tech"
       ]
     },
     {
