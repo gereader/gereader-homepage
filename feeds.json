@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-06T02:44:14.551124+00:00",
-  "article_count": 126,
+  "last_updated": "2025-11-06T07:21:29.375686+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -283,6 +283,18 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Presentation: Testing Disaster Recovery Designs",
+      "link": "https://blog.ipspace.net/2025/11/testing-dr-designs/?utm_source=atom_feed",
+      "published": "2025-11-06T08:09:00+01:00",
+      "published_parsed": "2025-11-06T08:09:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Someone asked for my DEEP 2025 presentation (Testing Disaster Recovery Designs). You can download it here (no strings attached). I hope you’ll find it interesting. The organizers plan to make the recorded videos public after a few months. Of course, I’ll post a link when they do that.",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
       "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
