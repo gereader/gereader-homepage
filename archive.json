@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-07T07:21:48.423337+00:00",
-  "article_count": 1247,
+  "last_updated": "2025-11-07T14:21:56.727074+00:00",
+  "article_count": 1248,
   "articles": [
     {
       "title": "Lab: Adjust IS-IS Timers",
@@ -48,6 +48,19 @@
         "artificial intelligence",
         "google",
         "tech"
+      ]
+    },
+    {
+      "title": "Teaching AI to Understand Your Network  by Decoding Its DNA",
+      "link": "https://www.netbraintech.com/blog/teaching-ai-to-understand-your-network/",
+      "published": "2025-11-06T18:30:27Z",
+      "published_parsed": "2025-11-06T18:30:27+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/uploads/2025/11/Human-AI-Twin-Circle.png",
+      "summary": "Artificial Intelligence promises a self-healing, autonomous network. For today’s NetOps teams, that promise often feels hollow. The reality is that most AI tools are bolted on – built on a...",
+      "tags": [
+        "network visibility",
+        "networking"
       ]
     },
     {
