@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06T23:19:51.860123+00:00",
+  "last_updated": "2025-11-07T02:41:54.316148+00:00",
   "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
@@ -61,7 +61,6 @@
     "benj edwards",
     "bgp",
     "big-ip",
-    "bitcoin",
     "biz & it",
     "blackwell chips",
     "blockchain",
@@ -122,7 +121,6 @@
     "f5",
     "fabric",
     "features",
-    "federal indictments",
     "financial losses",
     "firewall",
     "firewalls",
@@ -197,7 +195,6 @@
     "nso",
     "nsx",
     "nvidia",
-    "online scams",
     "openai",
     "openflow",
     "oracle",
@@ -208,7 +205,6 @@
     "pegasus",
     "performance",
     "phantomraven",
-    "pig butchering",
     "play store",
     "podcast",
     "policy",
@@ -224,10 +220,12 @@
     "rdna 2",
     "red crabs",
     "release",
+    "russia",
     "ryzen",
     "sam altman",
     "samsung",
     "san",
+    "sandworm",
     "satellites",
     "sd-wan",
     "sdn",
@@ -257,6 +255,7 @@
     "trusted execution environments",
     "tvs",
     "uber",
+    "ukraine",
     "update",
     "venture capital",
     "vertex ai",
@@ -265,9 +264,11 @@
     "vpn",
     "vxlan",
     "wan",
+    "war",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
+    "wipers",
     "wiretap",
     "worth reading",
     "xai",
@@ -277,6 +278,25 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
+      "link": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/",
+      "published": "Thu, 06 Nov 2025 22:17:21 +0000",
+      "published_parsed": "2025-11-06T22:17:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Sandworm and other Russian-state hackers unleash data-destroying payloads on their neighbors.",
+      "tags": [
+        "biz & it",
+        "malware",
+        "russia",
+        "sandworm",
+        "security",
+        "ukraine",
+        "war",
+        "wipers"
+      ]
+    },
     {
       "title": "Gemini Deep Research comes to Google Finance, backed by prediction market data",
       "link": "https://arstechnica.com/google/2025/11/gemini-deep-research-comes-to-google-finance-backed-by-prediction-market-data/",
@@ -1334,23 +1354,6 @@
         "netlab",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
-      "link": "https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/",
-      "published": "Tue, 14 Oct 2025 21:01:50 +0000",
-      "published_parsed": "2025-10-14T21:01:50+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Scams like this one net billions from well-educated victims.",
-      "tags": [
-        "bitcoin",
-        "biz & it",
-        "federal indictments",
-        "online scams",
-        "pig butchering",
-        "policy"
       ]
     },
     {
