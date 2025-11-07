@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-07T02:41:54.316148+00:00",
-  "article_count": 127,
+  "last_updated": "2025-11-07T07:21:48.438714+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -279,6 +279,20 @@
   ],
   "articles": [
     {
+      "title": "Lab: Adjust IS-IS Timers",
+      "link": "https://blog.ipspace.net/2025/11/isis-lab-timers/?utm_source=atom_feed",
+      "published": "2025-11-07T07:37:00+01:00",
+      "published_parsed": "2025-11-07T07:37:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://isis.bgplabs.net/feature/topology-timers.png",
+      "summary": "Like any other routing protocol, IS-IS has several timers you can tweak to improve the convergence speed of your network, or make your network unstable (eventually breaking it completely) if you reduce them too much (if you care about fast convergence, you REALLY SHOULD use BFD). You’ll find more...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
+    {
       "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
       "link": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/",
       "published": "Thu, 06 Nov 2025 22:17:21 +0000",
@@ -313,13 +327,13 @@
       ]
     },
     {
-      "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
+      "title": "Google says project on famous crab-covered island is about cables, not combat",
       "link": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
       "published": "Thu, 06 Nov 2025 17:24:51 +0000",
       "published_parsed": "2025-11-06T17:24:51+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
-      "summary": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
+      "summary": "Tech giant denies building secret AI data center, says focus is subsea infrastructure.",
       "tags": [
         "ai",
         "ai and work",
