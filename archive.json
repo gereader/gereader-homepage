@@ -1,7 +1,79 @@
 {
-  "last_updated": "2025-11-07T18:31:16.288265+00:00",
-  "article_count": 1248,
+  "last_updated": "2025-11-07T23:19:17.943409+00:00",
+  "article_count": 1251,
   "articles": [
+    {
+      "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
+      "link": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/",
+      "published": "Fri, 07 Nov 2025 20:15:33 +0000",
+      "published_parsed": "2025-11-07T20:15:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New \"computational Turing test\" reportedly catches AI pretending to be human with 80% accuracy.",
+      "tags": [
+        "ai",
+        "ai alignment",
+        "ai behavior",
+        "ai detection",
+        "ai research",
+        "ai sycophancy",
+        "apertus",
+        "biz & it",
+        "chatbots",
+        "computational turing test",
+        "deepseek",
+        "duke university",
+        "emotional ai",
+        "gemma",
+        "generative ai",
+        "large language models",
+        "llama",
+        "machine learning",
+        "mistral",
+        "nyu",
+        "qwen",
+        "social media",
+        "university of amsterdam",
+        "university of zurich"
+      ]
+    },
+    {
+      "title": "Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year",
+      "link": "https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/",
+      "published": "Fri, 07 Nov 2025 19:33:20 +0000",
+      "published_parsed": "2025-11-07T19:33:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Targeted attack could steal all of a phone's data and activate camera or mic.",
+      "tags": [
+        "android",
+        "malware",
+        "samsung",
+        "security",
+        "smartphones",
+        "spyware",
+        "tech"
+      ]
+    },
+    {
+      "title": "Higher prices, simpler streaming expected if HBO Max folds into Paramount+",
+      "link": "https://arstechnica.com/gadgets/2025/11/higher-prices-simpler-streaming-expected-if-hbo-max-folds-into-paramount/",
+      "published": "Fri, 07 Nov 2025 18:54:38 +0000",
+      "published_parsed": "2025-11-07T18:54:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The end of HBO Max is \"certainly plausible.\"",
+      "tags": [
+        "hbo",
+        "hbo max",
+        "mergers",
+        "paramount",
+        "paramount plus",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "Lab: Adjust IS-IS Timers",
       "link": "https://blog.ipspace.net/2025/11/isis-lab-timers/?utm_source=atom_feed",
