@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-09T02:44:28.197238+00:00",
-  "article_count": 130,
+  "last_updated": "2025-11-09T07:19:31.182485+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2260,20 +2260,6 @@
       "summary": "Rodney Brooks republished an article on great AI expectations that he wrote 37 years ago. Not surprisingly, apart from a few technical details triggered by four decades of exponential growth in silicon capabilities, the article could have been written yesterday. Side note: I’m a bit younger than...",
       "tags": [
         "ai",
-        "networking"
-      ]
-    },
-    {
-      "title": "BGP Community Propagation on Cisco IOS/XE: The 90's Called",
-      "link": "https://blog.ipspace.net/2025/08/cisco-ios-community-propagation/?utm_source=atom_feed",
-      "published": "2025-08-11T08:09:00+02:00",
-      "published_parsed": "2025-08-11T08:09:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Just when I thought no vendor stupidity peculiarity could surprise me, Cisco IOS/XE proved me wrong. I was improving a completely unrelated BGP functionality. I ran BGP integration tests on Cisco IOL (because it’s the fastest one to boot), and the BGP community propagation test failed. After...",
-      "tags": [
-        "bgp",
-        "netlab",
         "networking"
       ]
     }
