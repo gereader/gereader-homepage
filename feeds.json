@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T02:49:02.191542+00:00",
+  "last_updated": "2025-11-10T07:21:32.466171+00:00",
   "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
@@ -290,6 +290,19 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "netlab: Test IPv6 IGP Deployment",
+      "link": "https://blog.ipspace.net/2025/11/netlab-igp-ipv6-deployment/?utm_source=atom_feed",
+      "published": "2025-11-10T07:45:00+01:00",
+      "published_parsed": "2025-11-10T07:45:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Imagine you have an IPv4-only network 1 and want to try out how to deploy a routing protocol for IPv6. netlab is a pretty good tool for the job as it: Creates an addressing scheme for you Designs a routing protocol deployment ( OSPF , IS-IS ) based on just a few bits of information Deploys...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
       "link": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/",
@@ -2247,19 +2260,6 @@
       "image": null,
       "summary": "The choice between Git and source of truth platforms isn't binary. The best approach often combines elements of both, leveraging structured data management while maintaining the change control and versioning that make network automation reliable.",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Fun Reading: AI: Great Expectations",
-      "link": "https://blog.ipspace.net/2025/08/worth-reading-ai-expectations/?utm_source=atom_feed",
-      "published": "2025-08-12T08:26:00+02:00",
-      "published_parsed": "2025-08-12T08:26:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Rodney Brooks republished an article on great AI expectations that he wrote 37 years ago. Not surprisingly, apart from a few technical details triggered by four decades of exponential growth in silicon capabilities, the article could have been written yesterday. Side note: I’m a bit younger than...",
-      "tags": [
-        "ai",
         "networking"
       ]
     }
