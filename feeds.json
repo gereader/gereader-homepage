@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-10T18:32:21.667854+00:00",
-  "article_count": 128,
+  "last_updated": "2025-11-10T23:20:44.503174+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -47,6 +47,7 @@
     "apertus",
     "api",
     "apple",
+    "apple tv",
     "apps",
     "arp",
     "artificial general intelligence",
@@ -229,7 +230,6 @@
     "red crabs",
     "release",
     "russia",
-    "ryzen",
     "sam altman",
     "samsung",
     "san",
@@ -290,6 +290,22 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery",
+      "link": "https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/",
+      "published": "Mon, 10 Nov 2025 18:41:42 +0000",
+      "published_parsed": "2025-11-10T18:41:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple execs say Apple TV shows and movies are about \"emotional\" experiences.",
+      "tags": [
+        "ads",
+        "apple",
+        "apple tv",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "netlab: Test IPv6 IGP Deployment",
       "link": "https://blog.ipspace.net/2025/11/netlab-igp-ipv6-deployment/?utm_source=atom_feed",
@@ -1066,20 +1082,6 @@
         "ads",
         "samsung",
         "smart home",
-        "tech"
-      ]
-    },
-    {
-      "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon",
-      "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/",
-      "published": "Tue, 28 Oct 2025 15:17:13 +0000",
-      "published_parsed": "2025-10-28T15:17:13+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Both AMD and Intel continue to serve low-end PCs with aging silicon.",
-      "tags": [
-        "amd",
-        "ryzen",
         "tech"
       ]
     },
@@ -2234,20 +2236,6 @@
       "image": null,
       "summary": "The \"best\" Python workflow isn't about using the newest tools—it's about reducing friction for your team while maintaining reliability. Many successful network automation teams use hybrid approaches: modern dependency management under the hood with simple, consistent interfaces on top.",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Jinja: It’s More Than Just Config Generation!",
-      "link": "https://www.packetcoders.io/jinja-its-more-than-just-config-generation/",
-      "published": "Tue, 12 Aug 2025 20:26:50 GMT",
-      "published_parsed": "2025-08-12T20:26:50+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/08/Heading--11-.png",
-      "summary": "If I’m honest, I feel like Jinja gets a bad rap. Its role is often thought to be only for generating network configurations. And with model-driven automation being on the rise it can feel like Jinja is a legacy, tainted tool that we should be moving away from.",
-      "tags": [
-        "blog",
-        "jinja",
         "networking"
       ]
     }
