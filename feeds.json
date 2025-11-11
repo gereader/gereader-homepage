@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-11T02:44:17.018612+00:00",
-  "article_count": 127,
+  "last_updated": "2025-11-11T07:22:16.766555+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -294,6 +294,20 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "One-Arm Hub-and-Spoke VPN on Arista EOS",
+      "link": "https://blog.ipspace.net/2025/11/one-arm-hub-spoke-vpn-arista-eos/?utm_source=atom_feed",
+      "published": "2025-11-11T07:28:00+01:00",
+      "published_parsed": "2025-11-11T07:28:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In September 2024, I described how you can build One-Arm Hub-and-Spoke VPN with MPLS/VPN . In that blog post, I mentioned that the solution doesn’t work on Arista EOS because it allocates MPLS labels to whole VRFs ( per-VRF label allocation ). In early September, I received an email from Daniel...",
+      "tags": [
+        "design",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Researchers isolate memorization from reasoning in AI neural networks",
       "link": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
