@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T18:31:52.268250+00:00",
+  "last_updated": "2025-11-11T23:19:53.490459+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -30,12 +30,14 @@
     "ai development tools",
     "ai economics",
     "ai ethics",
+    "ai images",
     "ai infrastructure",
     "ai memorization",
     "ai regulation",
     "ai research",
     "ai safety",
     "ai sycophancy",
+    "airlines",
     "allen institute for ai",
     "amazon",
     "amd",
@@ -109,6 +111,7 @@
     "emotional ai",
     "epic",
     "espionage",
+    "europe",
     "evergreen",
     "evpn",
     "fabric",
@@ -125,6 +128,7 @@
     "google gemini",
     "google home",
     "google maps",
+    "google photos",
     "google v. epic",
     "gpu",
     "gpus",
@@ -196,6 +200,7 @@
     "noam shazeer",
     "nokia",
     "npm",
+    "npu",
     "nso",
     "nsx",
     "nvidia",
@@ -244,17 +249,16 @@
     "segment routing",
     "semiconductors",
     "service providers",
-    "smart home",
     "smartphones",
     "snmp",
     "social media",
     "softbank",
+    "software",
     "software gone wild",
     "space",
     "spyware",
     "stargate",
     "streaming",
-    "streaming video",
     "subcom",
     "subsea cables",
     "switching",
@@ -293,6 +297,56 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
+      "link": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
+      "published": "Tue, 11 Nov 2025 21:34:10 +0000",
+      "published_parsed": "2025-11-11T21:34:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New system allows devices to connect directly to secure space in Google's AI servers.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "google",
+        "google gemini",
+        "npu",
+        "tech"
+      ]
+    },
+    {
+      "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
+      "link": "https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/",
+      "published": "Tue, 11 Nov 2025 21:20:32 +0000",
+      "published_parsed": "2025-11-11T21:20:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ryanair CEO admits \"there’ll be some teething problems.\"",
+      "tags": [
+        "airlines",
+        "europe",
+        "policy",
+        "software",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google announces even more AI in Photos app, powered by Nano Banana",
+      "link": "https://arstechnica.com/google/2025/11/googles-nano-banana-ai-image-editing-is-finally-coming-to-google-photos/",
+      "published": "Tue, 11 Nov 2025 17:00:11 +0000",
+      "published_parsed": "2025-11-11T17:00:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's Nano Banana is powering a raft of new features in the app.",
+      "tags": [
+        "ai",
+        "ai images",
+        "artificial intelligence",
+        "google",
+        "google photos",
+        "tech"
+      ]
+    },
     {
       "title": "ClickFix may be the biggest security threat your family has never heard of",
       "link": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/",
@@ -947,21 +1001,6 @@
       ]
     },
     {
-      "title": "Google makes first Play Store changes after losing Epic Games antitrust case",
-      "link": "https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/",
-      "published": "Thu, 30 Oct 2025 16:19:28 +0000",
-      "published_parsed": "2025-10-30T16:19:28+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google is begrudgingly letting developers lead users away from the Play Store.",
-      "tags": [
-        "apps",
-        "google",
-        "play store",
-        "tech"
-      ]
-    },
-    {
       "title": "Beyond the Map: The Real Value of Network Visibility",
       "link": "https://www.netbraintech.com/blog/real-value-of-network-visibility/",
       "published": "2025-10-30T16:03:08Z",
@@ -1032,21 +1071,6 @@
         "npm",
         "phantomraven",
         "security"
-      ]
-    },
-    {
-      "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
-      "link": "https://arstechnica.com/gadgets/2025/10/tv-focused-youtube-update-brings-ai-upscaling-shopping-qr-codes/",
-      "published": "Wed, 29 Oct 2025 16:37:06 +0000",
-      "published_parsed": "2025-10-29T16:37:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "YouTube seeks a more couch-friendly experience.",
-      "tags": [
-        "google",
-        "streaming video",
-        "tech",
-        "youtube"
       ]
     },
     {
@@ -1136,21 +1160,6 @@
         "mental health",
         "openai",
         "sam altman"
-      ]
-    },
-    {
-      "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
-      "link": "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/",
-      "published": "Tue, 28 Oct 2025 18:10:18 +0000",
-      "published_parsed": "2025-10-28T18:10:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Update introduces two ways for the fridges to show ads.",
-      "tags": [
-        "ads",
-        "samsung",
-        "smart home",
-        "tech"
       ]
     },
     {
