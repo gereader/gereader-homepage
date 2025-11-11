@@ -1,7 +1,23 @@
 {
-  "last_updated": "2025-11-11T07:22:16.750339+00:00",
-  "article_count": 1255,
+  "last_updated": "2025-11-11T14:23:32.619699+00:00",
+  "article_count": 1256,
   "articles": [
+    {
+      "title": "ClickFix may be the biggest security threat your family has never heard of",
+      "link": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/",
+      "published": "Tue, 11 Nov 2025 12:30:51 +0000",
+      "published_parsed": "2025-11-11T12:30:51+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Relatively new technique can bypass many endpoint protections.",
+      "tags": [
+        "biz & it",
+        "clickfix",
+        "malware",
+        "scams",
+        "security"
+      ]
+    },
     {
       "title": "One-Arm Hub-and-Spoke VPN on Arista EOS",
       "link": "https://blog.ipspace.net/2025/11/one-arm-hub-spoke-vpn-arista-eos/?utm_source=atom_feed",
