@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T14:23:32.636230+00:00",
+  "last_updated": "2025-11-11T18:31:52.268250+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -513,7 +513,7 @@
       "published": "2025-11-06T18:30:27Z",
       "published_parsed": "2025-11-06T18:30:27+00:00",
       "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/uploads/2025/11/Human-AI-Twin-Circle.png",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2025/11/Human-AI-Twin-Circle-300x300.png",
       "summary": "Artificial Intelligence promises a self-healing, autonomous network. For today’s NetOps teams, that promise often feels hollow. The reality is that most AI tools are bolted on – built on a...",
       "tags": [
         "network visibility",
