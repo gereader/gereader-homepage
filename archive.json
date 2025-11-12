@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-11-12T02:42:52.977770+00:00",
-  "article_count": 1260,
+  "last_updated": "2025-11-12T07:21:57.203581+00:00",
+  "article_count": 1261,
   "articles": [
+    {
+      "title": "Worth Reading: The Majority AI View",
+      "link": "https://blog.ipspace.net/2025/11/worth-reading-majority-ai-view/?utm_source=atom_feed",
+      "published": "2025-11-12T08:06:00+01:00",
+      "published_parsed": "2025-11-12T08:06:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Many engineers who tried out (or use) various AI products would agree that they’re useful when used correctly, but way overhyped. However, as Anil Dash explains in his Majority AI View article, we rarely hear that opinion: What’s amazing is the reality that virtually 100% of tech experts I talk to...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
       "link": "https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
