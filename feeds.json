@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T18:31:22.442269+00:00",
+  "last_updated": "2025-11-12T23:21:07.521679+00:00",
   "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
@@ -30,6 +30,8 @@
     "ai images",
     "ai infrastructure",
     "ai memorization",
+    "ai model",
+    "ai programming",
     "ai regulation",
     "ai research",
     "ai safety",
@@ -46,6 +48,7 @@
     "ansible",
     "anthropic",
     "apertus",
+    "api",
     "apple",
     "apple tv",
     "apps",
@@ -60,11 +63,9 @@
     "bgp",
     "biz & it",
     "blackwell chips",
-    "blockchain",
     "blog",
     "bridging",
     "calculator",
-    "cellebrite",
     "certifications",
     "character.ai",
     "chatbots",
@@ -137,10 +138,11 @@
     "google maps",
     "google photos",
     "google v. epic",
+    "gpt-5",
+    "gpt-5.1",
     "gpus",
     "gradient descent",
     "guardrails",
-    "hacking",
     "hbo",
     "hbo max",
     "hdr",
@@ -191,6 +193,7 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
+    "multimodal ai",
     "nat",
     "navigation blog",
     "netconf",
@@ -264,6 +267,7 @@
     "segment routing",
     "semiconductors",
     "service providers",
+    "simulated reasoning",
     "smartphones",
     "snmp",
     "social media",
@@ -273,12 +277,14 @@
     "software gone wild",
     "space",
     "spyware",
+    "sr model",
     "startups",
     "steve jobs",
     "streaming",
     "subcom",
     "subsea cables",
     "switching",
+    "sycophancy",
     "tales of tech",
     "tales of tech history",
     "tales of tech lore",
@@ -307,6 +313,8 @@
     "war",
     "warner bros. discovery",
     "weight matrices",
+    "windows 10",
+    "windows 10 22h2",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
@@ -321,6 +329,50 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
+      "link": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
+      "published": "Wed, 12 Nov 2025 22:54:47 +0000",
+      "published_parsed": "2025-11-12T22:54:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai behavior",
+        "ai model",
+        "ai programming",
+        "api",
+        "biz & it",
+        "chatbots",
+        "generative ai",
+        "gpt-5",
+        "gpt-5.1",
+        "large language models",
+        "machine learning",
+        "multimodal ai",
+        "openai",
+        "sam altman",
+        "simulated reasoning",
+        "sr model",
+        "sycophancy"
+      ]
+    },
+    {
+      "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs",
+      "link": "https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/",
+      "published": "Wed, 12 Nov 2025 20:38:01 +0000",
+      "published_parsed": "2025-11-12T20:38:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A bug was keeping Windows 10 PCs from enrolling in Microsoft's ESU program.",
+      "tags": [
+        "tech",
+        "windows 10",
+        "windows 10 22h2"
+      ]
+    },
     {
       "title": "Meta’s star AI scientist Yann LeCun plans to leave for own startup",
       "link": "https://arstechnica.com/ai/2025/11/metas-star-ai-scientist-yann-lecun-plans-to-leave-for-own-startup/",
@@ -1044,22 +1096,6 @@
       ]
     },
     {
-      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
-      "published": "Thu, 30 Oct 2025 20:29:43 +0000",
-      "published_parsed": "2025-10-30T20:29:43+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Cellebrite can apparently extract data from most Pixel phones, unless they're running GrapheneOS.",
-      "tags": [
-        "cellebrite",
-        "google",
-        "security",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
       "link": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/",
       "published": "Thu, 30 Oct 2025 18:24:32 +0000",
@@ -1459,22 +1495,6 @@
         "is-is",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
-      "link": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
-      "published": "Thu, 16 Oct 2025 20:40:49 +0000",
-      "published_parsed": "2025-10-16T20:40:49+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-      "tags": [
-        "biz & it",
-        "blockchain",
-        "hacking",
-        "malware",
-        "security"
       ]
     },
     {
