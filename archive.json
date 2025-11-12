@@ -1,7 +1,40 @@
 {
-  "last_updated": "2025-11-11T23:19:53.473904+00:00",
-  "article_count": 1259,
+  "last_updated": "2025-11-12T02:42:52.977770+00:00",
+  "article_count": 1260,
   "articles": [
+    {
+      "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
+      "link": "https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
+      "published": "Tue, 11 Nov 2025 23:26:04 +0000",
+      "published_parsed": "2025-11-11T23:26:04+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "In 1982, a young Mac developer turned Jobs into a UI designer—and accidentally invented a new technique.",
+      "tags": [
+        "1982",
+        "1984",
+        "andy hertzfeld",
+        "apple",
+        "calculator",
+        "chris espinosa",
+        "classic mac",
+        "computer history",
+        "folklore.org",
+        "mac os",
+        "macintosh",
+        "quickdraw",
+        "retrocomputing",
+        "retrotech",
+        "software development",
+        "steve jobs",
+        "tales of tech",
+        "tales of tech history",
+        "tales of tech lore",
+        "tech",
+        "user interface design",
+        "vintage computing"
+      ]
+    },
     {
       "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
       "link": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
