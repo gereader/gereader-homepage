@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-13T07:21:54.787494+00:00",
-  "article_count": 1266,
+  "last_updated": "2025-11-13T14:21:46.003653+00:00",
+  "article_count": 1267,
   "articles": [
+    {
+      "title": "netlab 25.11: SRv6 on IOS/XE, Streamlined Graphs and Reports",
+      "link": "https://blog.ipspace.net/2025/11/netlab-25-11/?utm_source=atom_feed",
+      "published": "2025-11-13T10:02:00+01:00",
+      "published_parsed": "2025-11-13T10:02:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I managed to push out netlab release 25.11 yesterday. Here are the highlights: SRv6 on IOS/XE. It works with Catalyst 8000v, IOL, and IOL layer-2 image, and can be used to build L3VPNs (the IOS/XE image I have supports no other service on top of SRv6) RIPv2/RIPng on OpenBSD A more streamlined way...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
       "link": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
