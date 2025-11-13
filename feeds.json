@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13T14:21:46.020249+00:00",
+  "last_updated": "2025-11-13T18:32:15.203813+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -99,6 +99,7 @@
     "deepseek",
     "defense",
     "design",
+    "developers",
     "dhcp",
     "disney",
     "dmvpn",
@@ -134,7 +135,6 @@
     "goodfire",
     "google",
     "google gemini",
-    "google home",
     "google maps",
     "google photos",
     "google v. epic",
@@ -329,6 +329,21 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Google will let Android power users bypass upcoming sideloading restrictions",
+      "link": "https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/",
+      "published": "Thu, 13 Nov 2025 17:30:50 +0000",
+      "published_parsed": "2025-11-13T17:30:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google will preserve sideloading for power users, but it hasn't decided how that will work yet.",
+      "tags": [
+        "apps",
+        "developers",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 25.11: SRv6 on IOS/XE, Streamlined Graphs and Reports",
       "link": "https://blog.ipspace.net/2025/11/netlab-25-11/?utm_source=atom_feed",
@@ -1089,23 +1104,6 @@
         "windows 11",
         "windows 11 24h2",
         "windows 11 25h2"
-      ]
-    },
-    {
-      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
-      "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
-      "published": "Fri, 31 Oct 2025 11:30:22 +0000",
-      "published_parsed": "2025-10-31T11:30:22+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
-      "tags": [
-        "ai",
-        "features",
-        "google",
-        "google gemini",
-        "google home",
-        "tech"
       ]
     },
     {
