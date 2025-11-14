@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-14T02:43:36.805772+00:00",
-  "article_count": 130,
+  "last_updated": "2025-11-14T07:21:53.619317+00:00",
+  "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -329,6 +329,20 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Using netlab for Classroom Training with Sander Steffann",
+      "link": "https://blog.ipspace.net/2025/11/using-netlab-ipv6-training/?utm_source=atom_feed",
+      "published": "2025-11-14T07:17:00+01:00",
+      "published_parsed": "2025-11-14T07:17:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In March 2024, I received my first PR from an airplane: Sander Steffann was flying to South Africa to deliver an Ansible training and fixed a minor annoyance in the then-new multilab feature. Of course, I wanted to know more about his setup, but it took us over a year and a half till we managed to...",
+      "tags": [
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "Google will let Android power users bypass upcoming sideloading restrictions",
       "link": "https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/",
