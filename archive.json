@@ -1,7 +1,29 @@
 {
-  "last_updated": "2025-11-14T18:32:01.520590+00:00",
-  "article_count": 1270,
+  "last_updated": "2025-11-14T23:19:55.943515+00:00",
+  "article_count": 1271,
   "articles": [
+    {
+      "title": "Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules",
+      "link": "https://arstechnica.com/ai/2025/11/forget-agi-sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules/",
+      "published": "Fri, 14 Nov 2025 18:45:34 +0000",
+      "published_parsed": "2025-11-14T18:45:34+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Ongoing struggles with AI model instruction-following show that true human-level AI still a ways off.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai writing",
+        "biz & it",
+        "chatbots",
+        "custom instructions",
+        "gpt-5.1",
+        "large language models",
+        "machine learning",
+        "openai",
+        "sam altman"
+      ]
+    },
     {
       "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
       "link": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",

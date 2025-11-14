@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-14T18:32:01.537670+00:00",
+  "last_updated": "2025-11-14T23:19:55.960328+00:00",
   "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
@@ -37,6 +37,7 @@
     "ai safety",
     "ai strategy",
     "ai sycophancy",
+    "ai writing",
     "airlines",
     "alexandr wang",
     "allen institute for ai",
@@ -92,6 +93,7 @@
     "coreweave",
     "crabs",
     "cumulus linux",
+    "custom instructions",
     "cyberattacks",
     "daniel de freitas",
     "data center",
@@ -329,6 +331,28 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules",
+      "link": "https://arstechnica.com/ai/2025/11/forget-agi-sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules/",
+      "published": "Fri, 14 Nov 2025 18:45:34 +0000",
+      "published_parsed": "2025-11-14T18:45:34+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Ongoing struggles with AI model instruction-following show that true human-level AI still a ways off.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai writing",
+        "biz & it",
+        "chatbots",
+        "custom instructions",
+        "gpt-5.1",
+        "large language models",
+        "machine learning",
+        "openai",
+        "sam altman"
+      ]
+    },
     {
       "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
       "link": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",
@@ -1443,19 +1467,6 @@
         "is-is",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
-      "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
-      "published": "Wed, 22 Oct 2025 22:35:41 +0000",
-      "published_parsed": "2025-10-22T22:35:41+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
-      "tags": [
-        "biz & it",
-        "security"
       ]
     },
     {
