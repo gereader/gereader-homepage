@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-14T07:21:53.619317+00:00",
+  "last_updated": "2025-11-14T14:22:00.166580+00:00",
   "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
@@ -75,6 +75,7 @@
     "christmas island",
     "cisco",
     "classic mac",
+    "claude",
     "clickfix",
     "cloud",
     "cloud computing",
@@ -91,6 +92,7 @@
     "coreweave",
     "crabs",
     "cumulus linux",
+    "cyberattacks",
     "daniel de freitas",
     "data center",
     "data centers",
@@ -213,7 +215,6 @@
     "nokia",
     "npm",
     "npu",
-    "nso",
     "nsx",
     "nvidia",
     "nvidia geforce",
@@ -229,7 +230,6 @@
     "palo alto",
     "paramount",
     "paramount plus",
-    "pegasus",
     "performance",
     "phantomraven",
     "play store",
@@ -329,6 +329,24 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
+      "link": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",
+      "published": "Fri, 14 Nov 2025 12:20:48 +0000",
+      "published_parsed": "2025-11-14T12:20:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biz & it",
+        "claude",
+        "cyberattacks",
+        "espionage",
+        "security"
+      ]
+    },
     {
       "title": "Using netlab for Classroom Training with Sander Steffann",
       "link": "https://blog.ipspace.net/2025/11/using-netlab-ipv6-training/?utm_source=atom_feed",
@@ -1476,23 +1494,6 @@
       "tags": [
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
-      "link": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",
-      "published": "Mon, 20 Oct 2025 22:18:22 +0000",
-      "published_parsed": "2025-10-20T22:18:22+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
-      "tags": [
-        "biz & it",
-        "espionage",
-        "nso",
-        "pegasus",
-        "policy",
-        "security"
       ]
     },
     {

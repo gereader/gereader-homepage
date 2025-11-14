@@ -1,7 +1,25 @@
 {
-  "last_updated": "2025-11-14T07:21:53.602706+00:00",
-  "article_count": 1269,
+  "last_updated": "2025-11-14T14:22:00.150096+00:00",
+  "article_count": 1270,
   "articles": [
+    {
+      "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
+      "link": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",
+      "published": "Fri, 14 Nov 2025 12:20:48 +0000",
+      "published_parsed": "2025-11-14T12:20:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biz & it",
+        "claude",
+        "cyberattacks",
+        "espionage",
+        "security"
+      ]
+    },
     {
       "title": "Using netlab for Classroom Training with Sander Steffann",
       "link": "https://blog.ipspace.net/2025/11/using-netlab-ipv6-training/?utm_source=atom_feed",
