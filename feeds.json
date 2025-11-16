@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-16T07:20:15.563793+00:00",
-  "article_count": 131,
+  "last_updated": "2025-11-16T14:18:51.997461+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2373,18 +2373,6 @@
       "summary": "The SwiNOG 40 event started with an interesting presentation on Building Trustworthy Network Automation ( video ) by Damien Garros (now CEO @ OpsMill ) who discussed the principles one can use to build a trustworthy network automation solution, including idempotency, dry runs, and transactional...",
       "tags": [
         "automation",
-        "networking"
-      ]
-    },
-    {
-      "title": "The Network Engineer's Guide to Python Tooling",
-      "link": "https://networkautomation.forum/blog/the-network-engineers-guide-to-python-tooling",
-      "published": "Mon, 18 Aug 2025 10:00:00 +0000",
-      "published_parsed": "2025-08-18T10:00:00+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "The \"best\" Python workflow isn't about using the newest tools—it's about reducing friction for your team while maintaining reliability. Many successful network automation teams use hybrid approaches: modern dependency management under the hood with simple, consistent interfaces on top.",
-      "tags": [
         "networking"
       ]
     }
