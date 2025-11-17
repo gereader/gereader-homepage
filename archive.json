@@ -1,7 +1,23 @@
 {
-  "last_updated": "2025-11-17T14:23:17.504231+00:00",
-  "article_count": 1273,
+  "last_updated": "2025-11-17T18:32:22.330099+00:00",
+  "article_count": 1274,
   "articles": [
+    {
+      "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
+      "link": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/",
+      "published": "Mon, 17 Nov 2025 16:41:05 +0000",
+      "published_parsed": "2025-11-17T16:41:05+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company falls more than rivals over its borrowing and reliance on OpenAI contracts.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "larry ellison",
+        "oracle",
+        "syndication"
+      ]
+    },
     {
       "title": "I’ve already been using a “Steam Machine” for months, and I think it’s great",
       "link": "https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/",

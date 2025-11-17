@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T14:23:17.521048+00:00",
+  "last_updated": "2025-11-17T18:32:22.346970+00:00",
   "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
@@ -114,7 +114,6 @@
     "donald trump",
     "duke university",
     "dvr",
-    "ec2",
     "eigrp",
     "emotional ai",
     "epic",
@@ -171,6 +170,7 @@
     "k-fac",
     "lan",
     "large language models",
+    "larry ellison",
     "ldp",
     "lisp",
     "llama",
@@ -243,7 +243,6 @@
     "qos",
     "quickdraw",
     "qwen",
-    "race conditions",
     "radeon",
     "ransomware",
     "rdna",
@@ -290,6 +289,7 @@
     "subsea cables",
     "switching",
     "sycophancy",
+    "syndication",
     "tales of tech",
     "tales of tech history",
     "tales of tech lore",
@@ -332,6 +332,22 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
+      "link": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/",
+      "published": "Mon, 17 Nov 2025 16:41:05 +0000",
+      "published_parsed": "2025-11-17T16:41:05+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company falls more than rivals over its borrowing and reliance on OpenAI contracts.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "larry ellison",
+        "oracle",
+        "syndication"
+      ]
+    },
     {
       "title": "I’ve already been using a “Steam Machine” for months, and I think it’s great",
       "link": "https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/",
@@ -1440,23 +1456,6 @@
         "homelab",
         "network",
         "networking"
-      ]
-    },
-    {
-      "title": "A single point of failure triggered the Amazon outage affecting millions",
-      "link": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
-      "published": "Fri, 24 Oct 2025 21:53:20 +0000",
-      "published_parsed": "2025-10-24T21:53:20+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
-      "tags": [
-        "amazon",
-        "aws",
-        "biz & it",
-        "ec2",
-        "race conditions",
-        "tech"
       ]
     },
     {
