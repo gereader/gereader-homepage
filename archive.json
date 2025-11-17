@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-11-17T07:22:42.499256+00:00",
-  "article_count": 1272,
+  "last_updated": "2025-11-17T14:23:17.504231+00:00",
+  "article_count": 1273,
   "articles": [
+    {
+      "title": "I’ve already been using a “Steam Machine” for months, and I think it’s great",
+      "link": "https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/",
+      "published": "Mon, 17 Nov 2025 12:00:59 +0000",
+      "published_parsed": "2025-11-17T12:00:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "With a little know-how, you can get yourself a Steam Machine right this minute.",
+      "tags": [
+        "features",
+        "gaming",
+        "steam deck",
+        "steam machine",
+        "steamos",
+        "tech"
+      ]
+    },
     {
       "title": "AI Enshittification: Swiss Airlines Edition",
       "link": "https://blog.ipspace.net/2025/11/swiss-airlines-ai-enshittification/?utm_source=atom_feed",
