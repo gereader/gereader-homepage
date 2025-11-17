@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T18:32:22.346970+00:00",
+  "last_updated": "2025-11-17T23:20:24.469327+00:00",
   "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
@@ -51,6 +51,7 @@
     "apertus",
     "api",
     "apple",
+    "apple silicon",
     "apple tv",
     "apps",
     "arp",
@@ -176,7 +177,12 @@
     "llama",
     "load balancing",
     "loss curvature",
+    "m2 ultra",
+    "m3 ultra",
+    "m5 ultra",
     "mac os",
+    "mac pro",
+    "mac studio",
     "machine learning",
     "macintosh",
     "macos",
@@ -243,10 +249,7 @@
     "qos",
     "quickdraw",
     "qwen",
-    "radeon",
     "ransomware",
-    "rdna",
-    "rdna 2",
     "red crabs",
     "release",
     "retrocomputing",
@@ -332,6 +335,25 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
+      "link": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
+      "published": "Mon, 17 Nov 2025 17:59:09 +0000",
+      "published_parsed": "2025-11-17T17:59:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Mac Pro was last updated in mid-2023, one of the last Macs to switch from Intel.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "m2 ultra",
+        "m3 ultra",
+        "m5 ultra",
+        "mac pro",
+        "mac studio",
+        "tech"
+      ]
+    },
     {
       "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
       "link": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/",
@@ -1104,23 +1126,6 @@
         "ipados 26",
         "macos",
         "macos 26 tahoe",
-        "tech"
-      ]
-    },
-    {
-      "title": "After confusing driver release, AMD says old GPUs are still actively supported",
-      "link": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
-      "published": "Mon, 03 Nov 2025 20:21:36 +0000",
-      "published_parsed": "2025-11-03T20:21:36+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Re-using old silicon means that dropping \"old\" GPUs can affect \"new\" products.",
-      "tags": [
-        "amd",
-        "gaming",
-        "radeon",
-        "rdna",
-        "rdna 2",
         "tech"
       ]
     },
