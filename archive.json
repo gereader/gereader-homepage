@@ -1,7 +1,55 @@
 {
-  "last_updated": "2025-11-18T14:23:10.474746+00:00",
-  "article_count": 1279,
+  "last_updated": "2025-11-18T18:33:38.343996+00:00",
+  "article_count": 1281,
   "articles": [
+    {
+      "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
+      "link": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/",
+      "published": "Tue, 18 Nov 2025 16:32:58 +0000",
+      "published_parsed": "2025-11-18T16:32:58+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Sundar Pichai says no company is immune if AI bubble bursts, echoing dotcom fears.",
+      "tags": [
+        "ai",
+        "ai energy",
+        "ai infrastructure",
+        "ai investment",
+        "ai regulation",
+        "alphabet",
+        "biz & it",
+        "climate change",
+        "deepmind",
+        "dotcom bubble",
+        "ed zitron",
+        "google",
+        "jamie dimon",
+        "jensen huang",
+        "large language models",
+        "machine learning",
+        "nvidia",
+        "openai",
+        "sundar pichai"
+      ]
+    },
+    {
+      "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
+      "link": "https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/",
+      "published": "Tue, 18 Nov 2025 16:08:56 +0000",
+      "published_parsed": "2025-11-18T16:08:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's flagship AI model is getting its second major upgrade this year.",
+      "tags": [
+        "ai",
+        "ai coding",
+        "artificial intelligence",
+        "generative ai",
+        "google",
+        "google gemini",
+        "tech"
+      ]
+    },
     {
       "title": "Example: Multi-Pod EVPN Troubleshooting (Part 1)",
       "link": "https://blog.ipspace.net/2025/11/evpn-multi-pod-tshoot-example/?utm_source=atom_feed",
