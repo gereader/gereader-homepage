@@ -1,7 +1,41 @@
 {
-  "last_updated": "2025-11-17T23:20:24.453615+00:00",
-  "article_count": 1275,
+  "last_updated": "2025-11-18T02:42:55.527424+00:00",
+  "article_count": 1277,
   "articles": [
+    {
+      "title": "With a new company, Jeff Bezos will become a CEO again",
+      "link": "https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/",
+      "published": "Mon, 17 Nov 2025 22:50:21 +0000",
+      "published_parsed": "2025-11-17T22:50:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "He stepped down at Amazon in 2021 and doesn't hold a CEO title at Blue Origin.",
+      "tags": [
+        "ai",
+        "amazon",
+        "blue origin",
+        "jeff bezos",
+        "project prometheus",
+        "tech"
+      ]
+    },
+    {
+      "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
+      "link": "https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/",
+      "published": "Mon, 17 Nov 2025 22:20:38 +0000",
+      "published_parsed": "2025-11-17T22:20:38+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Fleets of laptops run from US residences gave appearance workers were in the US.",
+      "tags": [
+        "apt38",
+        "biz & it",
+        "fraud",
+        "it jobs",
+        "north korea",
+        "security"
+      ]
+    },
     {
       "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
       "link": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
