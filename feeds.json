@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T07:22:09.361008+00:00",
+  "last_updated": "2025-11-18T14:23:10.491459+00:00",
   "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
@@ -249,7 +249,6 @@
     "qwen",
     "ransomware",
     "red crabs",
-    "release",
     "retrocomputing",
     "retrotech",
     "reviews",
@@ -345,6 +344,19 @@
         "evpn",
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "How to Work with an Excel Spreadsheet in Python",
+      "link": "https://www.packetcoders.io/how-to-work-with-an-excel-spreadsheet-in-python/",
+      "published": "Tue, 18 Nov 2025 08:00:54 GMT",
+      "published_parsed": "2025-11-18T08:00:54+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/10/Untitled-design--93--1.webp",
+      "summary": "For those still working with Excel spreadsheets, here's a quick tip ... To easily work with data from an Excel spreadsheet in Python, use the Pandas library. First, import the spreadsheet, then iterate over the data, using itertuples, like so: # Install - pip install pandas import pandas as pd",
+      "tags": [
+        "networking",
+        "tips"
       ]
     },
     {
@@ -2370,21 +2382,6 @@
       "tags": [
         "bgp",
         "networking"
-      ]
-    },
-    {
-      "title": "Why Agentic NetOps is the Next Mandate for Network Leaders",
-      "link": "https://www.netbraintech.com/blog/agentic-netops/",
-      "published": "2025-08-20T14:15:24Z",
-      "published_parsed": "2025-08-20T14:15:24+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "New Gartner research confirms the shift to autonomous operations is no longer a future concept—it’s a present-day strategic imperative. Here’s what it means for you. For years, network leaders have...",
-      "tags": [
-        "company news",
-        "navigation blog",
-        "networking",
-        "prevent outages"
       ]
     }
   ]

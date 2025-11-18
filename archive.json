@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-18T07:22:09.344220+00:00",
-  "article_count": 1278,
+  "last_updated": "2025-11-18T14:23:10.474746+00:00",
+  "article_count": 1279,
   "articles": [
     {
       "title": "Example: Multi-Pod EVPN Troubleshooting (Part 1)",
@@ -14,6 +14,19 @@
         "evpn",
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "How to Work with an Excel Spreadsheet in Python",
+      "link": "https://www.packetcoders.io/how-to-work-with-an-excel-spreadsheet-in-python/",
+      "published": "Tue, 18 Nov 2025 08:00:54 GMT",
+      "published_parsed": "2025-11-18T08:00:54+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/10/Untitled-design--93--1.webp",
+      "summary": "For those still working with Excel spreadsheets, here's a quick tip ... To easily work with data from an Excel spreadsheet in Python, use the Pandas library. First, import the spreadsheet, then iterate over the data, using itertuples, like so: # Install - pip install pandas import pandas as pd",
+      "tags": [
+        "networking",
+        "tips"
       ]
     },
     {
