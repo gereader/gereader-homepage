@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-11-18T02:42:55.527424+00:00",
-  "article_count": 1277,
+  "last_updated": "2025-11-18T07:22:09.344220+00:00",
+  "article_count": 1278,
   "articles": [
+    {
+      "title": "Example: Multi-Pod EVPN Troubleshooting (Part 1)",
+      "link": "https://blog.ipspace.net/2025/11/evpn-multi-pod-tshoot-example/?utm_source=atom_feed",
+      "published": "2025-11-18T08:27:00+02:00",
+      "published_parsed": "2025-11-18T08:27:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last month, I wrote about the specifics of troubleshooting multi-pod EVPN designs . Today, I’d like to start a journey through an example in which (channeling my inner CCIE preparation lab instructor) I broke as many things as I could think of. Here’s the lab topology we’ll use (and as usual, the...",
+      "tags": [
+        "evpn",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "With a new company, Jeff Bezos will become a CEO again",
       "link": "https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/",
