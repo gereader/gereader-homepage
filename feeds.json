@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-18T23:20:18.319777+00:00",
-  "article_count": 131,
+  "last_updated": "2025-11-19T02:43:13.124424+00:00",
+  "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -53,6 +53,7 @@
     "anthropic",
     "apertus",
     "api",
+    "api integration",
     "apple",
     "apple silicon",
     "apple tv",
@@ -99,6 +100,7 @@
     "crabs",
     "cumulus linux",
     "custom instructions",
+    "cyber threats",
     "cyberattacks",
     "daniel de freitas",
     "data center",
@@ -207,9 +209,11 @@
     "netdevops",
     "netlab",
     "network",
+    "network assessment",
     "network automation",
     "network management",
     "network operations",
+    "network security",
     "network visibility",
     "networking",
     "networking fundamentals",
@@ -264,6 +268,7 @@
     "security",
     "segment routing",
     "service providers",
+    "siem",
     "simulated reasoning",
     "smartphones",
     "snmp",
@@ -272,6 +277,7 @@
     "software",
     "software development",
     "software gone wild",
+    "splunk",
     "spyware",
     "sr model",
     "startups",
@@ -295,6 +301,7 @@
     "traffic engineering",
     "training",
     "transformer models",
+    "troubleshooting",
     "turing award",
     "ukraine",
     "university of amsterdam",
@@ -623,6 +630,19 @@
         "developers",
         "google",
         "tech"
+      ]
+    },
+    {
+      "title": "The Future of NetOps",
+      "link": "https://www.netbraintech.com/blog/predictions-for-netops-2023/",
+      "published": "2025-11-13T17:09:55Z",
+      "published_parsed": "2025-11-13T17:09:55+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
+      "summary": "NetOps shapes how organizations expand, innovate, and protect their digital ecosystems. Informed by DevOps, NetOps combines hybrid architectures, distributed workloads, and artificial intelligence (AI) powered data centers into fast, adaptable,...",
+      "tags": [
+        "network operations",
+        "networking"
       ]
     },
     {
@@ -1285,6 +1305,39 @@
       ]
     },
     {
+      "title": "Transform Network Security With Automated Incident Response",
+      "link": "https://www.netbraintech.com/blog/respond-to-network-security-threats-as-fast-as-you-detect-them/",
+      "published": "2025-11-01T21:04:52Z",
+      "published_parsed": "2025-11-01T21:04:52+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
+      "summary": "Modern network security is facing more complex and sophisticated threats. Automated incident response is the tool enterprise networks need to ensure business continuity. Automation solutions provide the intelligence and agility...",
+      "tags": [
+        "api integration",
+        "cyber threats",
+        "network security",
+        "networking",
+        "security",
+        "siem",
+        "splunk",
+        "troubleshooting"
+      ]
+    },
+    {
+      "title": "What Is Zero Trust Security?",
+      "link": "https://www.netbraintech.com/blog/zero-trust-security/",
+      "published": "2025-11-01T17:27:37Z",
+      "published_parsed": "2025-11-01T17:27:37+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2023/08/What-Is-Zero-Trust-Architecture.jpg",
+      "summary": "Cybersecurity threats change quickly. Thankfully, security measures can also quickly evolve to keep up with new threats online. Zero Trust security is a key update that every company needs to...",
+      "tags": [
+        "navigation blog",
+        "network security",
+        "networking"
+      ]
+    },
+    {
       "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
       "link": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
       "published": "Fri, 31 Oct 2025 21:03:56 +0000",
@@ -1463,6 +1516,20 @@
       "tags": [
         "homelab",
         "network",
+        "networking"
+      ]
+    },
+    {
+      "title": "How to Simplify Cisco SmartNet Renewals",
+      "link": "https://www.netbraintech.com/blog/cisco-smartnet-renewals/",
+      "published": "2025-10-25T22:31:17Z",
+      "published_parsed": "2025-10-25T22:31:17+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
+      "summary": "Cisco SmartNet is a 24/7 support and hardware replacement service. Also known as SmartNet Total Care (SNTC), it provides expert help, software updates, and fast hardware replacement so you can...",
+      "tags": [
+        "network assessment",
+        "network operations",
         "networking"
       ]
     },
@@ -2145,19 +2212,6 @@
       ]
     },
     {
-      "title": "Top 5 Reasons to Come to NetBrain LIVE 2025",
-      "link": "https://www.netbraintech.com/blog/come-to-netbrain-live-2025/",
-      "published": "2025-09-04T18:57:16Z",
-      "published_parsed": "2025-09-04T18:57:16+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2025/06/NB-LIVE-2025-300x157.webp",
-      "summary": "Network operations have reached an inflection point. While organizations grapple with exponentially complex infrastructures and the promise of AI-driven automation, most are stuck bridging the gap between ambitious digital transformation...",
-      "tags": [
-        "navigation blog",
-        "networking"
-      ]
-    },
-    {
       "title": "How Many Lab Devices Can netlab Handle?",
       "link": "https://blog.ipspace.net/2025/09/netlab-lab-size/?utm_source=atom_feed",
       "published": "2025-09-04T07:59:00+02:00",
@@ -2328,20 +2382,6 @@
       "tags": [
         "cisco",
         "containerlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Experience Lab vs. Playground: Picking Your Risk-Free Path to Network Automation",
-      "link": "https://www.netbraintech.com/blog/lab-vs-playground/",
-      "published": "2025-08-22T18:31:06Z",
-      "published_parsed": "2025-08-22T18:31:06+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Thinking about exploring AI-driven network automation, but hesitant to disrupt your production environment? NetBrain’s Experience Lab and Playground offerings provide two distinct pathways to discover the power of intelligent network...",
-      "tags": [
-        "navigation blog",
-        "network operations",
         "networking"
       ]
     },
