@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-19T02:43:13.124424+00:00",
+  "last_updated": "2025-11-19T07:22:36.676315+00:00",
   "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
@@ -331,6 +331,19 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Interesting: an MCP Agent for Link-State Routing Protocols",
+      "link": "https://blog.ipspace.net/2025/11/mcp-agent-link-state-protocols/?utm_source=atom_feed",
+      "published": "2025-11-19T07:15:00+01:00",
+      "published_parsed": "2025-11-19T07:15:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Vadim Semenov created a nice demo that allows you to use an LLM to query the collected link-state graphs through an MCP agent ( SuzieQ would probably be faster and easier to deploy, but hey, AI). If you want to kick the tires, you’ll find the source code on GitHub ( Network AI assistant , MCP...",
+      "tags": [
+        "ai",
+        "networking"
+      ]
+    },
     {
       "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
       "link": "https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/",
@@ -2395,19 +2408,6 @@
       "summary": "When I was cleaning the “ set BGP MED ” integration test, I decided that once a BGP prefix is in the BGP table of the BGP peer, there’s no need for a further wait before checking its MED value. After all: We configure an outbound routing policy to change MED; We execute do clear bgp * soft out at...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Configuring BGP Community Propagation is Confusing",
-      "link": "https://blog.ipspace.net/2025/08/bgp-community-configuration/?utm_source=atom_feed",
-      "published": "2025-08-21T08:02:00+02:00",
-      "published_parsed": "2025-08-21T08:02:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A large number of vendors claim to use industry-standard CLI , which means “ something that looks like Cisco IOS, but we can’t say that in public .” The implementations of that “standard” are full of quirks; as I was making fun of Cisco IOS last week , it’s only fair to look at how others deal with...",
-      "tags": [
-        "bgp",
         "networking"
       ]
     }
