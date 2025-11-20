@@ -1,7 +1,53 @@
 {
-  "last_updated": "2025-11-20T18:33:33.182397+00:00",
-  "article_count": 1300,
+  "last_updated": "2025-11-20T23:20:47.266019+00:00",
+  "article_count": 1302,
   "articles": [
+    {
+      "title": "Microsoft makes Zork I, II, and III open source under MIT License",
+      "link": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/",
+      "published": "Thu, 20 Nov 2025 20:33:50 +0000",
+      "published_parsed": "2025-11-20T20:33:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft's Open Source Programs Office worked with Jason Scott to do it.",
+      "tags": [
+        "activision",
+        "gaming",
+        "github",
+        "infocom",
+        "jason scott",
+        "microsoft",
+        "mit license",
+        "open source programs office",
+        "ospo",
+        "tech",
+        "xbox",
+        "zork",
+        "zork i",
+        "zork ii",
+        "zork iii"
+      ]
+    },
+    {
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
+      "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
+      "published": "Thu, 20 Nov 2025 20:11:01 +0000",
+      "published_parsed": "2025-11-20T20:11:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's Pixel 10 works with AirDrop, and other phones should follow later.",
+      "tags": [
+        "android",
+        "apple",
+        "google pixel",
+        "ios",
+        "ios 26",
+        "iphone",
+        "pixel",
+        "pixel 10",
+        "tech"
+      ]
+    },
     {
       "title": "Flying with whales: Drones are remaking marine mammal research",
       "link": "https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/",
