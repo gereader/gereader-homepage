@@ -1,7 +1,42 @@
 {
-  "last_updated": "2025-11-20T14:23:32.248285+00:00",
-  "article_count": 1296,
+  "last_updated": "2025-11-20T18:33:33.182397+00:00",
+  "article_count": 1300,
   "articles": [
+    {
+      "title": "Flying with whales: Drones are remaking marine mammal research",
+      "link": "https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/",
+      "published": "Thu, 20 Nov 2025 17:22:29 +0000",
+      "published_parsed": "2025-11-20T17:22:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Aerial drones are giving scientists a new view of life at sea.",
+      "tags": [
+        "drones",
+        "marine life",
+        "marine mammals",
+        "marine research",
+        "science",
+        "syndication",
+        "tech",
+        "whales"
+      ]
+    },
+    {
+      "title": "Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images",
+      "link": "https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/",
+      "published": "Thu, 20 Nov 2025 16:33:25 +0000",
+      "published_parsed": "2025-11-20T16:33:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new image-generator model is available to try globally today.",
+      "tags": [
+        "ai",
+        "ai image generation",
+        "google",
+        "google gemini",
+        "tech"
+      ]
+    },
     {
       "title": "In 1982, a physics joke gone wrong sparked the invention of the emoticon",
       "link": "https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/",
@@ -472,6 +507,19 @@
     {
       "title": "The Future of NetOps",
       "link": "https://www.netbraintech.com/blog/predictions-for-netops-2023/",
+      "published": "2025-11-13T17:09:55Z",
+      "published_parsed": "2025-11-13T17:09:55+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
+      "summary": "NetOps shapes how organizations expand, innovate, and protect their digital ecosystems. Informed by DevOps, NetOps combines hybrid architectures, distributed workloads, and artificial intelligence (AI) powered data centers into fast, adaptable,...",
+      "tags": [
+        "network operations",
+        "networking"
+      ]
+    },
+    {
+      "title": "The Future of NetOps",
+      "link": "https://www.netbraintech.com/blog/the-future-of-netops/",
       "published": "2025-11-13T17:09:55Z",
       "published_parsed": "2025-11-13T17:09:55+00:00",
       "source": "NetBrain Blog",
@@ -1249,6 +1297,25 @@
     {
       "title": "Transform Network Security With Automated Incident Response",
       "link": "https://www.netbraintech.com/blog/respond-to-network-security-threats-as-fast-as-you-detect-them/",
+      "published": "2025-11-01T21:04:52Z",
+      "published_parsed": "2025-11-01T21:04:52+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
+      "summary": "Modern network security is facing more complex and sophisticated threats. Automated incident response is the tool enterprise networks need to ensure business continuity. Automation solutions provide the intelligence and agility...",
+      "tags": [
+        "api integration",
+        "cyber threats",
+        "network security",
+        "networking",
+        "security",
+        "siem",
+        "splunk",
+        "troubleshooting"
+      ]
+    },
+    {
+      "title": "Transform Network Security With Automated Incident Response",
+      "link": "https://www.netbraintech.com/blog/automated-incident-response/",
       "published": "2025-11-01T21:04:52Z",
       "published_parsed": "2025-11-01T21:04:52+00:00",
       "source": "NetBrain Blog",

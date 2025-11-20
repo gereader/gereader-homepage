@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-20T14:23:32.264058+00:00",
+  "last_updated": "2025-11-20T18:33:33.200989+00:00",
   "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
@@ -28,6 +28,7 @@
     "ai detection",
     "ai development tools",
     "ai energy",
+    "ai image generation",
     "ai images",
     "ai infrastructure",
     "ai investment",
@@ -122,6 +123,7 @@
     "docker",
     "doom",
     "dotcom bubble",
+    "drones",
     "duke university",
     "ed zitron",
     "eigrp",
@@ -160,8 +162,6 @@
     "gpt-5.1",
     "gradient descent",
     "guardrails",
-    "hbo",
-    "hbo max",
     "high availability",
     "history",
     "homelab",
@@ -202,10 +202,12 @@
     "machine learning",
     "macintosh",
     "malware",
+    "marine life",
+    "marine mammals",
+    "marine research",
     "mark zuckerberg",
     "matthew prince",
     "mechanistic interpretability",
-    "mergers",
     "meta",
     "microsoft",
     "microsoft windows vulnerabilities",
@@ -255,8 +257,6 @@
     "overfitting",
     "overlay networks",
     "palo alto",
-    "paramount",
-    "paramount plus",
     "performance",
     "podcast",
     "policy",
@@ -282,6 +282,7 @@
     "satya nadella",
     "scale ai",
     "scams",
+    "science",
     "scott fahlman",
     "scott miller",
     "sd-wan",
@@ -344,9 +345,9 @@
     "vxlan",
     "wan",
     "war",
-    "warner bros. discovery",
     "wasteland",
     "weight matrices",
+    "whales",
     "windows",
     "windows 10",
     "windows 10 22h2",
@@ -360,6 +361,41 @@
     "zero-day vulnerability"
   ],
   "articles": [
+    {
+      "title": "Flying with whales: Drones are remaking marine mammal research",
+      "link": "https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/",
+      "published": "Thu, 20 Nov 2025 17:22:29 +0000",
+      "published_parsed": "2025-11-20T17:22:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Aerial drones are giving scientists a new view of life at sea.",
+      "tags": [
+        "drones",
+        "marine life",
+        "marine mammals",
+        "marine research",
+        "science",
+        "syndication",
+        "tech",
+        "whales"
+      ]
+    },
+    {
+      "title": "Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images",
+      "link": "https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/",
+      "published": "Thu, 20 Nov 2025 16:33:25 +0000",
+      "published_parsed": "2025-11-20T16:33:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new image-generator model is available to try globally today.",
+      "tags": [
+        "ai",
+        "ai image generation",
+        "google",
+        "google gemini",
+        "tech"
+      ]
+    },
     {
       "title": "In 1982, a physics joke gone wrong sparked the invention of the emoticon",
       "link": "https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/",
@@ -829,7 +865,7 @@
     },
     {
       "title": "The Future of NetOps",
-      "link": "https://www.netbraintech.com/blog/predictions-for-netops-2023/",
+      "link": "https://www.netbraintech.com/blog/the-future-of-netops/",
       "published": "2025-11-13T17:09:55Z",
       "published_parsed": "2025-11-13T17:09:55+00:00",
       "source": "NetBrain Blog",
@@ -1201,25 +1237,6 @@
       ]
     },
     {
-      "title": "Higher prices, simpler streaming expected if HBO Max folds into Paramount+",
-      "link": "https://arstechnica.com/gadgets/2025/11/higher-prices-simpler-streaming-expected-if-hbo-max-folds-into-paramount/",
-      "published": "Fri, 07 Nov 2025 18:54:38 +0000",
-      "published_parsed": "2025-11-07T18:54:38+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The end of HBO Max is \"certainly plausible.\"",
-      "tags": [
-        "hbo",
-        "hbo max",
-        "mergers",
-        "paramount",
-        "paramount plus",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
-      ]
-    },
-    {
       "title": "Lab: Adjust IS-IS Timers",
       "link": "https://blog.ipspace.net/2025/11/isis-lab-timers/?utm_source=atom_feed",
       "published": "2025-11-07T07:37:00+01:00",
@@ -1250,21 +1267,6 @@
         "ukraine",
         "war",
         "wipers"
-      ]
-    },
-    {
-      "title": "Gemini Deep Research comes to Google Finance, backed by prediction market data",
-      "link": "https://arstechnica.com/google/2025/11/gemini-deep-research-comes-to-google-finance-backed-by-prediction-market-data/",
-      "published": "Thu, 06 Nov 2025 20:39:15 +0000",
-      "published_parsed": "2025-11-06T20:39:15+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Deep Research and predictions based on Kalshi and Polymarket data are coming soon to Google Finance.",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "google",
-        "tech"
       ]
     },
     {
@@ -1434,7 +1436,7 @@
     },
     {
       "title": "Transform Network Security With Automated Incident Response",
-      "link": "https://www.netbraintech.com/blog/respond-to-network-security-threats-as-fast-as-you-detect-them/",
+      "link": "https://www.netbraintech.com/blog/automated-incident-response/",
       "published": "2025-11-01T21:04:52Z",
       "published_parsed": "2025-11-01T21:04:52+00:00",
       "source": "NetBrain Blog",
