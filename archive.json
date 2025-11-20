@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-11-20T02:41:39.100850+00:00",
-  "article_count": 1294,
+  "last_updated": "2025-11-20T07:22:06.320205+00:00",
+  "article_count": 1295,
   "articles": [
+    {
+      "title": "Building VXLAN/EVPN Data Center Lab with netlab",
+      "link": "https://blog.ipspace.net/2025/11/worth-reading-netlab-vxlan-evpn/?utm_source=atom_feed",
+      "published": "2025-11-20T07:56:00+01:00",
+      "published_parsed": "2025-11-20T07:56:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Dmitry Klepcha published an excellent document describing how you can use netlab to build a series of data center fabric labs, starting from a simple IP network (without routing) and finishing with a complex EVPN/VXLAN network using symmetric IRB and MLAG toward hosts. But wait, there’s more: all...",
+      "tags": [
+        "netlab",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
       "link": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
