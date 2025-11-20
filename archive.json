@@ -1,7 +1,36 @@
 {
-  "last_updated": "2025-11-20T07:22:06.320205+00:00",
-  "article_count": 1295,
+  "last_updated": "2025-11-20T14:23:32.248285+00:00",
+  "article_count": 1296,
   "articles": [
+    {
+      "title": "In 1982, a physics joke gone wrong sparked the invention of the emoticon",
+      "link": "https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/",
+      "published": "Thu, 20 Nov 2025 12:00:22 +0000",
+      "published_parsed": "2025-11-20T12:00:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A simple proposal on a 1982 electronic bulletin board helped sarcasm flourish online.",
+      "tags": [
+        "1982",
+        "arpanet",
+        "carnegie mellon",
+        "cmu",
+        "computer science history",
+        "digital culture",
+        "emoji",
+        "emoticons",
+        "flame wars",
+        "internet history",
+        "online communication",
+        "retrotech",
+        "scott fahlman",
+        "smileys",
+        "tales of tech lore",
+        "tech",
+        "tech lore",
+        "text communication"
+      ]
+    },
     {
       "title": "Building VXLAN/EVPN Data Center Lab with netlab",
       "link": "https://blog.ipspace.net/2025/11/worth-reading-netlab-vxlan-evpn/?utm_source=atom_feed",
