@@ -1,7 +1,23 @@
 {
-  "last_updated": "2025-11-20T23:20:47.266019+00:00",
-  "article_count": 1302,
+  "last_updated": "2025-11-21T02:42:02.181250+00:00",
+  "article_count": 1303,
   "articles": [
+    {
+      "title": "HP and Dell disable HEVC support built into their laptops’ CPUs",
+      "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
+      "published": "Thu, 20 Nov 2025 23:02:01 +0000",
+      "published_parsed": "2025-11-20T23:02:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "HEVC licensing gets more expensive in January.",
+      "tags": [
+        "biz & it",
+        "dell",
+        "hp",
+        "laptops",
+        "tech"
+      ]
+    },
     {
       "title": "Microsoft makes Zork I, II, and III open source under MIT License",
       "link": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/",
