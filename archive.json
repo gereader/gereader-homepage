@@ -1,7 +1,38 @@
 {
-  "last_updated": "2025-11-21T18:29:41.399478+00:00",
-  "article_count": 1304,
+  "last_updated": "2025-11-21T23:20:06.824319+00:00",
+  "article_count": 1305,
   "articles": [
+    {
+      "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
+      "link": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
+      "published": "Fri, 21 Nov 2025 21:47:44 +0000",
+      "published_parsed": "2025-11-21T21:47:44+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Google's AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai compute",
+        "ai development tools",
+        "ai gpu",
+        "ai infrastructure",
+        "alphabet",
+        "amin vahdat",
+        "api",
+        "biz & it",
+        "capital expenditures",
+        "cloud computing",
+        "datacenters",
+        "generative ai",
+        "google",
+        "large language models",
+        "machine learning",
+        "sundar pichai",
+        "tensor processing unit",
+        "tpu"
+      ]
+    },
     {
       "title": "Public Videos: Bridging with EVPN",
       "link": "https://blog.ipspace.net/2025/11/video-evpn-bridging/?utm_source=atom_feed",
