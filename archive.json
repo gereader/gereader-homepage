@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-21T02:42:02.181250+00:00",
-  "article_count": 1303,
+  "last_updated": "2025-11-21T07:22:17.487580+00:00",
+  "article_count": 1304,
   "articles": [
+    {
+      "title": "Public Videos: Bridging with EVPN",
+      "link": "https://blog.ipspace.net/2025/11/video-evpn-bridging/?utm_source=atom_feed",
+      "published": "2025-11-21T08:09:00+02:00",
+      "published_parsed": "2025-11-21T08:09:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2024/03/dalle-evpn-fabric.jpg",
+      "summary": "The EVPN in the Data Center and Bridging with EVPN parts of the EVPN webinar , featuring Dinesh Dutt , are now available without a valid ipSpace.net account. Enjoy! Explore",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "HP and Dell disable HEVC support built into their laptops’ CPUs",
       "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
