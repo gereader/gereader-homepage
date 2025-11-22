@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-22T07:19:48.060901+00:00",
-  "article_count": 133,
+  "last_updated": "2025-11-22T14:18:48.033271+00:00",
+  "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2471,20 +2471,6 @@
       "tags": [
         "bridging",
         "data center",
-        "networking"
-      ]
-    },
-    {
-      "title": "Netlab - The Fastest Way to Build Network Labs",
-      "link": "https://www.packetswitch.co.uk/netlab-the-fastest-way-to-build-network-labs/",
-      "published": "Sun, 24 Aug 2025 12:43:08 GMT",
-      "published_parsed": "2025-08-24T12:43:08+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/08/netlab-1-.png",
-      "summary": "Netlab then takes care of creating the topology, assigning IP addresses, configuring routing protocols, and even pushing custom configs.",
-      "tags": [
-        "cisco",
-        "containerlab",
         "networking"
       ]
     }
