@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21T23:20:06.841490+00:00",
+  "last_updated": "2025-11-22T02:26:03.522662+00:00",
   "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
@@ -42,7 +42,6 @@
     "ai strategy",
     "ai sycophancy",
     "ai writing",
-    "airlines",
     "alexandr wang",
     "allen institute for ai",
     "alphabet",
@@ -64,6 +63,7 @@
     "arp",
     "arpanet",
     "artificial intelligence",
+    "asus",
     "atari 2600",
     "australia",
     "automation",
@@ -97,6 +97,7 @@
     "computational turing test",
     "computer history",
     "computer science history",
+    "consumer routers",
     "containerlab",
     "containers",
     "convolutional neural networks",
@@ -128,12 +129,13 @@
     "duke university",
     "ed zitron",
     "eigrp",
+    "election systems",
     "emoji",
     "emoticons",
     "emotional ai",
+    "encryption keys",
     "enterprise ai",
     "espionage",
-    "europe",
     "evpn",
     "fabric",
     "fair",
@@ -163,13 +165,15 @@
     "gpt-5",
     "gpt-5.1",
     "gradient descent",
-    "guardrails",
+    "hacking",
     "high availability",
     "history",
     "homelab",
     "hp",
+    "iacr",
     "infocom",
     "infrahub",
+    "international associate for cryptological research",
     "internet",
     "internet history",
     "interplay productions",
@@ -277,7 +281,6 @@
     "qos",
     "quickdraw",
     "qwen",
-    "ransomware",
     "rebecca heineman",
     "red crabs",
     "retrocomputing",
@@ -306,7 +309,6 @@
     "smileys",
     "snmp",
     "social media",
-    "software",
     "software development",
     "software gone wild",
     "space invaders",
@@ -314,10 +316,12 @@
     "sr model",
     "stadia",
     "startups",
+    "state sponsored hacking",
     "steam deck",
     "steam machine",
     "steamos",
     "steve jobs",
+    "streaming",
     "subcom",
     "subsea cables",
     "sundar pichai",
@@ -373,6 +377,55 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Oops. Cryptographers cancel election results after losing decryption key.",
+      "link": "https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/",
+      "published": "Sat, 22 Nov 2025 00:16:25 +0000",
+      "published_parsed": "2025-11-22T00:16:25+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Voting system required three keys. One of them has been \"irretrievably lost.\"",
+      "tags": [
+        "biz & it",
+        "election systems",
+        "encryption keys",
+        "iacr",
+        "international associate for cryptological research",
+        "security"
+      ]
+    },
+    {
+      "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now",
+      "link": "https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/",
+      "published": "Fri, 21 Nov 2025 23:00:24 +0000",
+      "published_parsed": "2025-11-21T23:00:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Curiosity Stream's owner has more content for AI companies than it does for subscribers.",
+      "tags": [
+        "ai",
+        "generative ai",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "How to know if your Asus router is one of thousands hacked by China-state hackers",
+      "link": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/",
+      "published": "Fri, 21 Nov 2025 22:05:20 +0000",
+      "published_parsed": "2025-11-21T22:05:20+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "So far, the hackers are laying low, likely for later use.",
+      "tags": [
+        "asus",
+        "biz & it",
+        "consumer routers",
+        "hacking",
+        "security",
+        "state sponsored hacking"
+      ]
+    },
     {
       "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
       "link": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
@@ -1175,22 +1228,6 @@
       ]
     },
     {
-      "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
-      "link": "https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/",
-      "published": "Tue, 11 Nov 2025 21:20:32 +0000",
-      "published_parsed": "2025-11-11T21:20:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ryanair CEO admits \"there’ll be some teething problems.\"",
-      "tags": [
-        "airlines",
-        "europe",
-        "policy",
-        "software",
-        "tech"
-      ]
-    },
-    {
       "title": "ClickFix may be the biggest security threat your family has never heard of",
       "link": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/",
       "published": "Tue, 11 Nov 2025 12:30:51 +0000",
@@ -1389,24 +1426,6 @@
       ]
     },
     {
-      "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
-      "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
-      "published": "Wed, 05 Nov 2025 23:00:46 +0000",
-      "published_parsed": "2025-11-05T23:00:46+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "You wouldn't know it from the hype, but the results fail to impress.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "generative ai",
-        "guardrails",
-        "malware",
-        "ransomware",
-        "security"
-      ]
-    },
-    {
       "title": "Worth Reading: AI Won't Replace Network Engineers",
       "link": "https://blog.ipspace.net/2025/11/worth-reading-ai-replace-network-engineers/?utm_source=atom_feed",
       "published": "2025-11-05T08:38:00+01:00",
@@ -1445,34 +1464,6 @@
         "netlab",
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "OpenAI signs massive AI compute deal with Amazon",
-      "link": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
-      "published": "Mon, 03 Nov 2025 17:23:11 +0000",
-      "published_parsed": "2025-11-03T17:23:11+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
-      "tags": [
-        "ai",
-        "ai chips",
-        "ai infrastructure",
-        "amazon",
-        "aws",
-        "biz & it",
-        "chatbots",
-        "datacenters",
-        "generative ai",
-        "google",
-        "large language models",
-        "machine learning",
-        "microsoft",
-        "nvidia",
-        "openai",
-        "oracle",
-        "sam altman"
       ]
     },
     {

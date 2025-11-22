@@ -1,7 +1,56 @@
 {
-  "last_updated": "2025-11-21T23:20:06.824319+00:00",
-  "article_count": 1305,
+  "last_updated": "2025-11-22T02:26:03.505490+00:00",
+  "article_count": 1308,
   "articles": [
+    {
+      "title": "Oops. Cryptographers cancel election results after losing decryption key.",
+      "link": "https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/",
+      "published": "Sat, 22 Nov 2025 00:16:25 +0000",
+      "published_parsed": "2025-11-22T00:16:25+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Voting system required three keys. One of them has been \"irretrievably lost.\"",
+      "tags": [
+        "biz & it",
+        "election systems",
+        "encryption keys",
+        "iacr",
+        "international associate for cryptological research",
+        "security"
+      ]
+    },
+    {
+      "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now",
+      "link": "https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/",
+      "published": "Fri, 21 Nov 2025 23:00:24 +0000",
+      "published_parsed": "2025-11-21T23:00:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Curiosity Stream's owner has more content for AI companies than it does for subscribers.",
+      "tags": [
+        "ai",
+        "generative ai",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "How to know if your Asus router is one of thousands hacked by China-state hackers",
+      "link": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/",
+      "published": "Fri, 21 Nov 2025 22:05:20 +0000",
+      "published_parsed": "2025-11-21T22:05:20+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "So far, the hackers are laying low, likely for later use.",
+      "tags": [
+        "asus",
+        "biz & it",
+        "consumer routers",
+        "hacking",
+        "security",
+        "state sponsored hacking"
+      ]
+    },
     {
       "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
       "link": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
