@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-23T02:57:48.103637+00:00",
-  "article_count": 132,
+  "last_updated": "2025-11-23T07:20:19.693615+00:00",
+  "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2457,20 +2457,6 @@
       "image": null,
       "summary": "A key insight from this discussion is that many teams end up adapting tools originally designed for cloud and server management to networking contexts. While purpose-built network automation tools do exist, organizations often gravitate toward tools that align with their broader infrastructure...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "When Switches Flood LLDP Traffic",
-      "link": "https://blog.ipspace.net/2025/08/switches-flood-lldp/?utm_source=atom_feed",
-      "published": "2025-08-25T09:13:00+02:00",
-      "published_parsed": "2025-08-25T09:13:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A networking engineer (let’s call him Joe 1 ) sent me an interesting challenge: they built a data center network with Cisco switches, and the switches flood LLDP packets between servers. That would be interesting by itself (the whole network would appear as a single hub), but they’re also using...",
-      "tags": [
-        "bridging",
-        "data center",
         "networking"
       ]
     }
