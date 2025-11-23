@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-23T07:20:19.693615+00:00",
-  "article_count": 131,
+  "last_updated": "2025-11-23T14:18:38.375846+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -840,7 +840,7 @@
       ]
     },
     {
-      "title": "Example: Multi-Pod EVPN Troubleshooting (Part 1)",
+      "title": "Multi-Pod EVPN Troubleshooting: Fixing Next Hops",
       "link": "https://blog.ipspace.net/2025/11/evpn-multi-pod-tshoot-example/?utm_source=atom_feed",
       "published": "2025-11-18T08:27:00+02:00",
       "published_parsed": "2025-11-18T08:27:00+02:00",
@@ -2446,18 +2446,6 @@
         "netlab",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Terraform for Networks: Where It Works, Where It Breaks, and How to Decide",
-      "link": "https://networkautomation.forum/blog/terraform-for-networks-where-it-works-where-it-breaks-and-how-to-decide",
-      "published": "Mon, 25 Aug 2025 10:00:00 +0000",
-      "published_parsed": "2025-08-25T10:00:00+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "A key insight from this discussion is that many teams end up adapting tools originally designed for cloud and server management to networking contexts. While purpose-built network automation tools do exist, organizations often gravitate toward tools that align with their broader infrastructure...",
-      "tags": [
-        "networking"
       ]
     }
   ]
