@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T02:53:22.276884+00:00",
+  "last_updated": "2025-11-24T07:22:20.612648+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -377,6 +377,20 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "IOS/XR Route Redistribution Configuration Mess",
+      "link": "https://blog.ipspace.net/2025/11/iosxr-redistribute-config-mess/?utm_source=atom_feed",
+      "published": "2025-11-24T07:43:00+01:00",
+      "published_parsed": "2025-11-24T07:43:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "One would hope that the developers of a network operating system wouldn’t feel the irresistible urge to reinvent what should have been a common configuration feature for every routing protocol. Alas, the IOS/XR developers failed to get that memo. I decided to implement route redistribution (known...",
+      "tags": [
+        "netlab",
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Oops. Cryptographers cancel election results after losing decryption key.",
       "link": "https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/",
@@ -2430,22 +2444,6 @@
         "ipv6",
         "networking",
         "segment routing"
-      ]
-    },
-    {
-      "title": "EVPN Designs: Layer-3 Inter-AS Option A",
-      "link": "https://blog.ipspace.net/2025/08/evpn-designs-interas-a/?utm_source=atom_feed",
-      "published": "2025-08-26T08:48:00+02:00",
-      "published_parsed": "2025-08-26T08:48:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2025/08/evpn-inter-as-topology.png",
-      "summary": "A netlab user wanted to explore a multi-site design where every site runs an independent EVPN fabric, and the inter-site link is either a layer-2 or a layer-3 interconnect (DCI). Let’s start with the easiest scenario: a layer-3 DCI with a separate (virtual) link for every tenant (in the MPLS/VPN...",
-      "tags": [
-        "design",
-        "evpn",
-        "netlab",
-        "networking",
-        "vxlan"
       ]
     }
   ]
