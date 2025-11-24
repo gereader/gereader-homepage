@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T18:34:26.035749+00:00",
+  "last_updated": "2025-11-24T23:20:52.547419+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -59,6 +59,7 @@
     "apple silicon",
     "apps",
     "apt38",
+    "arduino",
     "arp",
     "arpanet",
     "artificial intelligence",
@@ -243,7 +244,6 @@
     "new york university",
     "nfv",
     "north korea",
-    "npu",
     "nsx",
     "nvidia",
     "nvidia geforce",
@@ -274,6 +274,7 @@
     "project prometheus",
     "python",
     "qos",
+    "qualcomm",
     "quickdraw",
     "qwen",
     "rebecca heineman",
@@ -369,6 +370,20 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
+      "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
+      "published": "Mon, 24 Nov 2025 20:45:42 +0000",
+      "published_parsed": "2025-11-24T20:45:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "“Why is reverse-engineering prohibited... for a company built on openly hackable systems?”",
+      "tags": [
+        "arduino",
+        "qualcomm",
+        "tech"
+      ]
+    },
     {
       "title": "UK government will buy tech to boost AI sector in $130M growth push",
       "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
@@ -1229,23 +1244,6 @@
         "tech",
         "user interface design",
         "vintage computing"
-      ]
-    },
-    {
-      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
-      "link": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
-      "published": "Tue, 11 Nov 2025 21:34:10 +0000",
-      "published_parsed": "2025-11-11T21:34:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New system allows devices to connect directly to secure space in Google's AI servers.",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "google",
-        "google gemini",
-        "npu",
-        "tech"
       ]
     },
     {

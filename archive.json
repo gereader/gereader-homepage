@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-11-24T18:34:26.019404+00:00",
-  "article_count": 1310,
+  "last_updated": "2025-11-24T23:20:52.529574+00:00",
+  "article_count": 1311,
   "articles": [
+    {
+      "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
+      "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
+      "published": "Mon, 24 Nov 2025 20:45:42 +0000",
+      "published_parsed": "2025-11-24T20:45:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "“Why is reverse-engineering prohibited... for a company built on openly hackable systems?”",
+      "tags": [
+        "arduino",
+        "qualcomm",
+        "tech"
+      ]
+    },
     {
       "title": "UK government will buy tech to boost AI sector in $130M growth push",
       "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
