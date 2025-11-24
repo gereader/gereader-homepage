@@ -1,7 +1,22 @@
 {
-  "last_updated": "2025-11-24T14:23:34.964766+00:00",
-  "article_count": 1309,
+  "last_updated": "2025-11-24T18:34:26.019404+00:00",
+  "article_count": 1310,
   "articles": [
+    {
+      "title": "UK government will buy tech to boost AI sector in $130M growth push",
+      "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
+      "published": "Mon, 24 Nov 2025 14:17:29 +0000",
+      "published_parsed": "2025-11-24T14:17:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Plan will offer guaranteed payments for British startups making AI hardware",
+      "tags": [
+        "ai",
+        "biz & it",
+        "financial times",
+        "syndication"
+      ]
+    },
     {
       "title": "IOS/XR Route Redistribution Configuration Mess",
       "link": "https://blog.ipspace.net/2025/11/iosxr-redistribute-config-mess/?utm_source=atom_feed",

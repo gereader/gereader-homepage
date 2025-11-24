@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T14:23:34.982027+00:00",
+  "last_updated": "2025-11-24T18:34:26.035749+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,7 +18,6 @@
     "activision",
     "ai",
     "ai alignment",
-    "ai and work",
     "ai architecture",
     "ai assistants",
     "ai behavior",
@@ -65,7 +64,6 @@
     "artificial intelligence",
     "asus",
     "atari 2600",
-    "australia",
     "automation",
     "aws",
     "azure",
@@ -82,7 +80,6 @@
     "certifications",
     "chatbots",
     "chris espinosa",
-    "christmas island",
     "cisco",
     "classic mac",
     "claude",
@@ -103,7 +100,6 @@
     "convolutional neural networks",
     "copilot",
     "copyright",
-    "crabs",
     "cumulus linux",
     "custom instructions",
     "cyber threats",
@@ -114,7 +110,6 @@
     "deep learning",
     "deepmind",
     "deepseek",
-    "defense",
     "dell",
     "design",
     "developers",
@@ -141,6 +136,7 @@
     "fair",
     "fallout",
     "features",
+    "financial times",
     "firewall",
     "firewalls",
     "flame wars",
@@ -221,7 +217,6 @@
     "mechanistic interpretability",
     "meta",
     "microsoft",
-    "military",
     "mistral",
     "mit license",
     "model editing",
@@ -282,7 +277,6 @@
     "quickdraw",
     "qwen",
     "rebecca heineman",
-    "red crabs",
     "retrocomputing",
     "retrogaming",
     "retrotech",
@@ -322,8 +316,6 @@
     "steamos",
     "steve jobs",
     "streaming",
-    "subcom",
-    "subsea cables",
     "sundar pichai",
     "switching",
     "sycophancy",
@@ -377,6 +369,21 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "UK government will buy tech to boost AI sector in $130M growth push",
+      "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
+      "published": "Mon, 24 Nov 2025 14:17:29 +0000",
+      "published_parsed": "2025-11-24T14:17:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Plan will offer guaranteed payments for British startups making AI hardware",
+      "tags": [
+        "ai",
+        "biz & it",
+        "financial times",
+        "syndication"
+      ]
+    },
     {
       "title": "IOS/XR Route Redistribution Configuration Mess",
       "link": "https://blog.ipspace.net/2025/11/iosxr-redistribute-config-mess/?utm_source=atom_feed",
@@ -1398,33 +1405,6 @@
       "tags": [
         "network visibility",
         "networking"
-      ]
-    },
-    {
-      "title": "Google says project on famous crab-covered island is about cables, not combat",
-      "link": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
-      "published": "Thu, 06 Nov 2025 17:24:51 +0000",
-      "published_parsed": "2025-11-06T17:24:51+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Tech giant denies building secret AI data center, says focus is subsea infrastructure.",
-      "tags": [
-        "ai",
-        "ai and work",
-        "ai infrastructure",
-        "australia",
-        "biz & it",
-        "christmas island",
-        "cloud computing",
-        "crabs",
-        "datacenters",
-        "defense",
-        "google",
-        "machine learning",
-        "military",
-        "red crabs",
-        "subcom",
-        "subsea cables"
       ]
     },
     {
