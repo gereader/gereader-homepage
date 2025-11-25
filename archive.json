@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-11-25T02:45:48.406131+00:00",
-  "article_count": 1311,
+  "last_updated": "2025-11-25T07:22:21.422411+00:00",
+  "article_count": 1312,
   "articles": [
+    {
+      "title": "Multi-Pod EVPN Troubleshooting (Part 2)",
+      "link": "https://blog.ipspace.net/2025/11/evpn-multi-pod-tshoot-rt/?utm_source=atom_feed",
+      "published": "2025-11-25T07:49:00+02:00",
+      "published_parsed": "2025-11-25T07:49:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last week, we fixed the incorrect BGP next hops in our sample multi-pod EVPN fabric . With that fixed, every PE device should see every other PE device as a remote VTEP for ingress replication purposes. However, that’s not the case; let’s see why and fix it. Note: This is the fourth blog post in...",
+      "tags": [
+        "evpn",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
       "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
