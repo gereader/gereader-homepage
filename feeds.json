@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-26T14:24:32.836273+00:00",
-  "article_count": 130,
+  "last_updated": "2025-11-26T18:29:48.687336+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -53,20 +53,25 @@
     "api",
     "api integration",
     "apple",
+    "apple m5",
     "apple silicon",
+    "apple vision pro",
     "apps",
     "apt38",
+    "ar",
     "arduino",
     "arp",
     "arpanet",
     "artificial intelligence",
     "asus",
     "atari 2600",
+    "augmented reality",
     "automation",
     "aws",
     "azure",
     "baldur's gate",
     "bgp",
+    "bitcoin",
     "biz & it",
     "blog",
     "blue origin",
@@ -94,6 +99,7 @@
     "convolutional neural networks",
     "copilot",
     "copyright",
+    "crypto",
     "cumulus linux",
     "custom instructions",
     "cyber threats",
@@ -125,6 +131,7 @@
     "encryption keys",
     "enterprise ai",
     "espionage",
+    "ether",
     "evpn",
     "fabric",
     "fair",
@@ -205,9 +212,11 @@
     "matthew prince",
     "mechanistic interpretability",
     "meta",
+    "metaverse",
     "microsoft",
     "mistral",
     "mit license",
+    "mixed reality",
     "model editing",
     "mpls",
     "mpls vpn",
@@ -270,10 +279,8 @@
     "retrogaming",
     "retrotech",
     "reviews",
-    "russia",
     "sam altman",
     "san",
-    "sandworm",
     "satya nadella",
     "scale ai",
     "scams",
@@ -294,6 +301,7 @@
     "software",
     "software gone wild",
     "space invaders",
+    "spatial computing",
     "splunk",
     "sr model",
     "ssds",
@@ -322,31 +330,32 @@
     "transgender",
     "troubleshooting",
     "turing award",
-    "ukraine",
     "university of amsterdam",
     "university of zurich",
     "update",
     "video",
     "video games",
     "vintage computing",
+    "virtual reality",
     "virtualization",
+    "vision pro",
+    "visionos",
+    "visionos 26",
     "vpn",
+    "vr",
     "vulnerabilities",
     "vxlan",
     "wan",
-    "war",
     "wasteland",
     "weight matrices",
     "whales",
     "windows",
-    "windows 10",
-    "windows 10 22h2",
     "windows 11",
     "windows 11 25h2",
-    "wipers",
     "world models",
     "worth reading",
     "xbox",
+    "xr",
     "yann lecun",
     "zork",
     "zork i",
@@ -354,6 +363,50 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Vision Pro M5 review: It’s time for Apple to make some tough choices",
+      "link": "https://arstechnica.com/gadgets/2025/11/where-apples-vision-pro-stands-today-post-m5-refresh/",
+      "published": "Wed, 26 Nov 2025 17:00:14 +0000",
+      "published_parsed": "2025-11-26T17:00:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A state of the union from someone who actually sort of uses the thing.",
+      "tags": [
+        "ai",
+        "apple",
+        "apple m5",
+        "apple vision pro",
+        "ar",
+        "augmented reality",
+        "features",
+        "metaverse",
+        "mixed reality",
+        "spatial computing",
+        "tech",
+        "virtual reality",
+        "vision pro",
+        "visionos",
+        "visionos 26",
+        "vr",
+        "xr"
+      ]
+    },
+    {
+      "title": "Crypto hoarders dump tokens as shares tumble",
+      "link": "https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/",
+      "published": "Wed, 26 Nov 2025 15:37:47 +0000",
+      "published_parsed": "2025-11-26T15:37:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Several companies are selling crypto stockpiles in effort to fund share buybacks, shore up stock prices.",
+      "tags": [
+        "bitcoin",
+        "biz & it",
+        "crypto",
+        "ether",
+        "syndication"
+      ]
+    },
     {
       "title": "Testing IP Multicast with netlab",
       "link": "https://blog.ipspace.net/2025/11/worth-reading-netlab-multicast/?utm_source=atom_feed",
@@ -1173,20 +1226,6 @@
       ]
     },
     {
-      "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs",
-      "link": "https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/",
-      "published": "Wed, 12 Nov 2025 20:38:01 +0000",
-      "published_parsed": "2025-11-12T20:38:01+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "A bug was keeping Windows 10 PCs from enrolling in Microsoft's ESU program.",
-      "tags": [
-        "tech",
-        "windows 10",
-        "windows 10 22h2"
-      ]
-    },
-    {
       "title": "Meta’s star AI scientist Yann LeCun plans to leave for own startup",
       "link": "https://arstechnica.com/ai/2025/11/metas-star-ai-scientist-yann-lecun-plans-to-leave-for-own-startup/",
       "published": "Wed, 12 Nov 2025 17:14:16 +0000",
@@ -1361,25 +1400,6 @@
         "is-is",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
-      "link": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/",
-      "published": "Thu, 06 Nov 2025 22:17:21 +0000",
-      "published_parsed": "2025-11-06T22:17:21+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Sandworm and other Russian-state hackers unleash data-destroying payloads on their neighbors.",
-      "tags": [
-        "biz & it",
-        "malware",
-        "russia",
-        "sandworm",
-        "security",
-        "ukraine",
-        "war",
-        "wipers"
       ]
     },
     {
@@ -2371,19 +2391,6 @@
       "tags": [
         "bgp",
         "networking"
-      ]
-    },
-    {
-      "title": "Running Palo Alto Firewalls on Proxmox",
-      "link": "https://www.packetswitch.co.uk/running-palo-alto-firewalls-on-proxmox/",
-      "published": "Thu, 28 Aug 2025 14:59:34 GMT",
-      "published_parsed": "2025-08-28T14:59:34+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/08/proxmox-palo-2-.png",
-      "summary": "I managed to get Palo Alto running on Proxmox. I thought it would be useful to write a post about it for anyone else trying to do the same.",
-      "tags": [
-        "networking",
-        "palo alto"
       ]
     }
   ]
