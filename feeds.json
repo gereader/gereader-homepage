@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-26T02:46:00.954566+00:00",
+  "last_updated": "2025-11-26T07:21:54.306862+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -354,6 +354,20 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Testing IP Multicast with netlab",
+      "link": "https://blog.ipspace.net/2025/11/worth-reading-netlab-multicast/?utm_source=atom_feed",
+      "published": "2025-11-26T07:56:00+01:00",
+      "published_parsed": "2025-11-26T07:56:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2025/11/multicast-topo.jpg",
+      "summary": "Aleksandr Albin built a large (almost 20-router) lab topology (based on an example from Jeff Doyle’s Routing TCP/IP Volume 2) that he uses to practice inter-AS IP multicast. He also published the topology file (and additional configuration templates) on GitHub and documented his experience in a...",
+      "tags": [
+        "netlab",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Plex’s crackdown on free remote streaming access starts this week",
       "link": "https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/",
@@ -1369,7 +1383,7 @@
       ]
     },
     {
-      "title": "Teaching AI to Understand Your Network  by Decoding Its DNA",
+      "title": "Teaching AI to Understand Your Network by Decoding Its DNA",
       "link": "https://www.netbraintech.com/blog/teaching-ai-to-understand-your-network/",
       "published": "2025-11-06T18:30:27Z",
       "published_parsed": "2025-11-06T18:30:27+00:00",
@@ -2370,20 +2384,6 @@
       "tags": [
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "Network Automation Reality Check with William Collins",
-      "link": "https://blog.ipspace.net/2025/08/network-automation-reality-check/?utm_source=atom_feed",
-      "published": "2025-08-28T08:20:00+02:00",
-      "published_parsed": "2025-08-28T08:20:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In early August, William Collins invited me to chat about a sarcastic comment I made about a specific automation tool I have a love-hate relationship with on LinkedIn. We quickly agreed not to go (too deep) into tool-bashing. Instead, we discussed the eternal problems of network automation, from...",
-      "tags": [
-        "automation",
-        "networking",
-        "podcast"
       ]
     }
   ]
