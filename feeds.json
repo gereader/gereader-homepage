@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-28T14:22:57.163073+00:00",
-  "article_count": 131,
+  "last_updated": "2025-11-28T18:31:16.916132+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2374,19 +2374,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Automate IP, VLAN & BGP Resource Allocation With Infrahub Resource Manager",
-      "link": "https://www.packetswitch.co.uk/automate-ip-vlan-bgp-resource-allocation-with-infrahub-resource-manager/",
-      "published": "Sat, 30 Aug 2025 14:36:51 GMT",
-      "published_parsed": "2025-08-30T14:36:51+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/08/schema-library-9-.png",
-      "summary": "The Infrahub Resource Manager is designed to eliminate those pains while speeding up your workflows. The Resource Manager automatically hands out",
-      "tags": [
-        "infrahub",
-        "networking"
       ]
     }
   ]
