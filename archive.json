@@ -1,7 +1,36 @@
 {
-  "last_updated": "2025-11-28T07:22:18.981035+00:00",
-  "article_count": 1320,
+  "last_updated": "2025-11-28T14:22:57.145167+00:00",
+  "article_count": 1322,
   "articles": [
+    {
+      "title": "We put the new pocket-size vinyl format to the test—with mixed results",
+      "link": "https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/",
+      "published": "Fri, 28 Nov 2025 12:00:04 +0000",
+      "published_parsed": "2025-11-28T12:00:04+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's a fun new format, but finding a place in the market may be challenging.",
+      "tags": [
+        "features",
+        "music",
+        "tech",
+        "tiny vinyl",
+        "vinyl records"
+      ]
+    },
+    {
+      "title": "AutoCon4 Takeaway: Flock9 Announced",
+      "link": "https://www.packetcoders.io/autocon4-takeaway-flock9-announced/",
+      "published": "Fri, 28 Nov 2025 10:00:55 GMT",
+      "published_parsed": "2025-11-28T10:00:55+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/11/Landing_image_flock9-1.png",
+      "summary": "One of the big announcements from AutoCon4 last week came from the team behind Netpicker and Slurpit. They have now released major upgrades, and have aligned the product catalog under the umbrella of the Flock9 platform, bringing Netpicker and Slurpit even closer together. The TL;DR Netpicker AI...",
+      "tags": [
+        "blog",
+        "networking"
+      ]
+    },
     {
       "title": "Lab: IS-IS Route Redistribution",
       "link": "https://blog.ipspace.net/2025/11/isis-route-redistribution/?utm_source=atom_feed",
