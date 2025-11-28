@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-28T02:41:57.556486+00:00",
-  "article_count": 129,
+  "last_updated": "2025-11-28T07:22:18.998334+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -350,6 +350,20 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Lab: IS-IS Route Redistribution",
+      "link": "https://blog.ipspace.net/2025/11/isis-route-redistribution/?utm_source=atom_feed",
+      "published": "2025-11-28T07:45:00+01:00",
+      "published_parsed": "2025-11-28T07:45:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://isis.bgplabs.net/feature/topology-redistribute.png",
+      "summary": "Route redistribution into IS-IS seems even easier than its OSPFv2/OSPFv3 counterparts. There are no additional LSAs/LSPs; the redistributed prefixes are included in the router LSP. Things get much more interesting once you start looking into the gory details and exploring how different...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "OSPFv3 Router ID Documentation on Arista EOS",
       "link": "https://blog.ipspace.net/2025/11/arista-eos-ospfv3-router-id/?utm_source=atom_feed",
