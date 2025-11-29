@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-29T02:41:36.223017+00:00",
-  "article_count": 130,
+  "last_updated": "2025-11-29T07:20:36.093269+00:00",
+  "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -350,6 +350,19 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Fun Reading: From XML to LLMs",
+      "link": "https://blog.ipspace.net/2025/11/worth-reading-xml-to-llm/?utm_source=atom_feed",
+      "published": "2025-11-29T07:53:00+01:00",
+      "published_parsed": "2025-11-29T07:53:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In his latest blog post ( Systems design 3: LLMs and the semantic revolution ), Avery Pennarun claims that LLMs might solve the problem we consistently failed to solve on a large scale for the last 60 (or so) years – the automated B2B data exchange. You might agree with him or not (for example, an...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "We put the new pocket-size vinyl format to the test—with mixed results",
       "link": "https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/",
