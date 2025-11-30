@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-30T02:56:55.047801+00:00",
-  "article_count": 131,
+  "last_updated": "2025-11-30T07:19:49.207716+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2374,19 +2374,6 @@
       "summary": "API gateways for network automation aren't revolutionary. They're sensible abstraction that addresses real operational challenges. The key is balancing architectural flexibility with implementation pragmatism. Start simple, solve real problems, and evolve based on actual usage patterns rather than...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Netlab: The Fastest Way to Build Network Labs",
-      "link": "https://blog.ipspace.net/2025/09/netlab-fastest-way-build-labs/?utm_source=atom_feed",
-      "published": "2025-09-01T08:22:00+02:00",
-      "published_parsed": "2025-09-01T08:22:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Suresh Vina published a great netlab tutorial , going from the very basics to a full-blown MPLS network with custom multi-vendor device configuration. Thank you!",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
