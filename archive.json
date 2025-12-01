@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-01T03:08:11.985535+00:00",
-  "article_count": 1323,
+  "last_updated": "2025-12-01T07:25:56.224635+00:00",
+  "article_count": 1324,
   "articles": [
+    {
+      "title": "netlab as the Universal Configuration Translator",
+      "link": "https://blog.ipspace.net/2025/12/netlab-configuration-translator/?utm_source=atom_feed",
+      "published": "2025-12-01T07:30:00+01:00",
+      "published_parsed": "2025-12-01T07:30:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Dan Partelly , a heavy netlab user (and an active contributor ), sent me this interesting perspective on how one might want to use netlab without ever building a lab with it. All I added was a bit of AI-assisted editing; my comments are on a grey background. In all podcasts and interviews I...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Fun Reading: From XML to LLMs",
       "link": "https://blog.ipspace.net/2025/11/worth-reading-xml-to-llm/?utm_source=atom_feed",
