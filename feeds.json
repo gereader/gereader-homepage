@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01T18:38:11.033616+00:00",
+  "last_updated": "2025-12-01T23:21:33.681419+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -52,8 +52,8 @@
     "api integration",
     "apple",
     "apple m5",
-    "apple silicon",
     "apple vision pro",
+    "apps",
     "apt38",
     "ar",
     "arduino",
@@ -96,6 +96,7 @@
     "copilot",
     "copyright",
     "crypto",
+    "culture",
     "cumulus linux",
     "custom instructions",
     "cyber threats",
@@ -144,6 +145,7 @@
     "glaad",
     "goodfire",
     "google",
+    "google cast",
     "google gemini",
     "google pixel",
     "gpt-5",
@@ -189,11 +191,6 @@
     "lisp",
     "load balancing",
     "loss curvature",
-    "m2 ultra",
-    "m3 ultra",
-    "m5 ultra",
-    "mac pro",
-    "mac studio",
     "machine learning",
     "malware",
     "marine life",
@@ -219,6 +216,7 @@
     "navigation blog",
     "netconf",
     "netdevops",
+    "netflix",
     "netlab",
     "network",
     "network assessment",
@@ -283,6 +281,7 @@
     "service providers",
     "siem",
     "simulated reasoning",
+    "smart tvs",
     "smartphones",
     "smileys",
     "snmp",
@@ -296,10 +295,8 @@
     "stadia",
     "startups",
     "state sponsored hacking",
-    "steam deck",
-    "steam machine",
-    "steamos",
     "streaming",
+    "streaming video",
     "sundar pichai",
     "switching",
     "sycophancy",
@@ -350,6 +347,40 @@
     "zork iii"
   ],
   "articles": [
+    {
+      "title": "Even Microsoft’s retro holiday sweaters are having Copilot forced upon them",
+      "link": "https://arstechnica.com/gadgets/2025/12/even-microsofts-retro-holiday-sweaters-are-having-copilot-forced-upon-them/",
+      "published": "Mon, 01 Dec 2025 19:43:05 +0000",
+      "published_parsed": "2025-12-01T19:43:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft has not one, not two, but three new sweaters available for $60 to $80.",
+      "tags": [
+        "copilot",
+        "culture",
+        "microsoft",
+        "tech",
+        "windows"
+      ]
+    },
+    {
+      "title": "Netflix quietly drops support for casting to most TVs",
+      "link": "https://arstechnica.com/gadgets/2025/12/netflix-quietly-drops-support-for-casting-to-most-tvs/",
+      "published": "Mon, 01 Dec 2025 17:22:26 +0000",
+      "published_parsed": "2025-12-01T17:22:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Netflix will only support Google Cast on older devices without remotes.",
+      "tags": [
+        "apps",
+        "google",
+        "google cast",
+        "netflix",
+        "smart tvs",
+        "streaming video",
+        "tech"
+      ]
+    },
     {
       "title": "netlab as the Universal Configuration Translator",
       "link": "https://blog.ipspace.net/2025/12/netlab-configuration-translator/?utm_source=atom_feed",
@@ -1121,25 +1152,6 @@
       ]
     },
     {
-      "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
-      "link": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
-      "published": "Mon, 17 Nov 2025 17:59:09 +0000",
-      "published_parsed": "2025-11-17T17:59:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Mac Pro was last updated in mid-2023, one of the last Macs to switch from Intel.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "m2 ultra",
-        "m3 ultra",
-        "m5 ultra",
-        "mac pro",
-        "mac studio",
-        "tech"
-      ]
-    },
-    {
       "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
       "link": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/",
       "published": "Mon, 17 Nov 2025 16:41:05 +0000",
@@ -1153,23 +1165,6 @@
         "larry ellison",
         "oracle",
         "syndication"
-      ]
-    },
-    {
-      "title": "I’ve already been using a “Steam Machine” for months, and I think it’s great",
-      "link": "https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/",
-      "published": "Mon, 17 Nov 2025 12:00:59 +0000",
-      "published_parsed": "2025-11-17T12:00:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "With a little know-how, you can get yourself a Steam Machine right this minute.",
-      "tags": [
-        "features",
-        "gaming",
-        "steam deck",
-        "steam machine",
-        "steamos",
-        "tech"
       ]
     },
     {
