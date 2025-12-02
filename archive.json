@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-12-02T02:48:01.164777+00:00",
-  "article_count": 1326,
+  "last_updated": "2025-12-02T07:24:30.727403+00:00",
+  "article_count": 1327,
   "articles": [
+    {
+      "title": "Multi-Pod EVPN Troubleshooting (Part 3)",
+      "link": "https://blog.ipspace.net/2025/12/evpn-multi-pod-tshoot-xc/?utm_source=atom_feed",
+      "published": "2025-12-02T07:47:00+02:00",
+      "published_parsed": "2025-12-02T07:47:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last week, we fixed the mismatched route targets in our sample multi-pod EVPN fabric . With that fixed, every PE device should see every other PE device as a remote VTEP for ingress replication purposes. We got that to work on Site-A (AS 65001), but not on Site-B (AS 65002); let’s see what else is...",
+      "tags": [
+        "evpn",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Even Microsoft’s retro holiday sweaters are having Copilot forced upon them",
       "link": "https://arstechnica.com/gadgets/2025/12/even-microsofts-retro-holiday-sweaters-are-having-copilot-forced-upon-them/",
