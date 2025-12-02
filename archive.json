@@ -1,7 +1,22 @@
 {
-  "last_updated": "2025-12-02T14:26:11.155971+00:00",
-  "article_count": 1329,
+  "last_updated": "2025-12-02T18:36:44.686011+00:00",
+  "article_count": 1330,
   "articles": [
+    {
+      "title": "Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price",
+      "link": "https://arstechnica.com/gadgets/2025/12/samsungs-galaxy-z-trifold-is-a-10-inch-tablet-that-fits-in-your-pocket/",
+      "published": "Tue, 02 Dec 2025 16:47:10 +0000",
+      "published_parsed": "2025-12-02T16:47:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Samsung's long-awaited tri-fold phone is launching in Korea this month, with a US launch early next year.",
+      "tags": [
+        "foldables",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Syntax hacking: Researchers discover sentence structure can bypass AI safety rules",
       "link": "https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/",
