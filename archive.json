@@ -1,7 +1,50 @@
 {
-  "last_updated": "2025-12-02T07:24:30.727403+00:00",
-  "article_count": 1327,
+  "last_updated": "2025-12-02T14:26:11.155971+00:00",
+  "article_count": 1329,
   "articles": [
+    {
+      "title": "Syntax hacking: Researchers discover sentence structure can bypass AI safety rules",
+      "link": "https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/",
+      "published": "Tue, 02 Dec 2025 12:15:55 +0000",
+      "published_parsed": "2025-12-02T12:15:55+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New research offers clues about why some prompt injection attacks may succeed.",
+      "tags": [
+        "ai",
+        "ai alignment",
+        "ai research",
+        "ai security",
+        "ai study",
+        "biz & it",
+        "chantal shaib",
+        "gpt-4o",
+        "jailbreaking",
+        "large language models",
+        "machine learning",
+        "meta",
+        "mit",
+        "northeastern university",
+        "olmo",
+        "openai",
+        "prompt injections",
+        "spurious correlations",
+        "vinith m. suriyakumar"
+      ]
+    },
+    {
+      "title": "Validate Environment Variables with Pydantic",
+      "link": "https://www.packetcoders.io/validate-environment-variables-with-pydantic/",
+      "published": "Tue, 02 Dec 2025 08:00:19 GMT",
+      "published_parsed": "2025-12-02T08:00:19+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/11/Tips-logo.webp",
+      "summary": "Tip! Validate your env vars from your .env files before they hit your application by using Pydantic. This also eliminates the need to call python-dotenv manually. Here's an example: # uv add pydantic pydantic-settings python-dotenv from pydantic import Field, AnyHttpUrl, ValidationError from...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "Multi-Pod EVPN Troubleshooting (Part 3)",
       "link": "https://blog.ipspace.net/2025/12/evpn-multi-pod-tshoot-xc/?utm_source=atom_feed",
