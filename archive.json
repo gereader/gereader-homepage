@@ -1,7 +1,53 @@
 {
-  "last_updated": "2025-12-03T14:24:32.115584+00:00",
-  "article_count": 1335,
+  "last_updated": "2025-12-03T18:36:04.441715+00:00",
+  "article_count": 1337,
   "articles": [
+    {
+      "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
+      "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+      "published": "Wed, 03 Dec 2025 18:24:06 +0000",
+      "published_parsed": "2025-12-03T18:24:06+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Report: Microsoft declared \"the era of AI agents\" in May, but enterprise customers aren't buying.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai adoption",
+        "ai agents",
+        "ai infrastructure",
+        "ai spending",
+        "azure",
+        "biz & it",
+        "cloud computing",
+        "copilot",
+        "enterprise ai",
+        "foundry",
+        "generative ai",
+        "machine learning",
+        "microsoft",
+        "microsoft copilot",
+        "simulated reasoning",
+        "sr models"
+      ]
+    },
+    {
+      "title": "Fraudulent gambling network may actually be something more nefarious",
+      "link": "https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/",
+      "published": "Wed, 03 Dec 2025 17:23:26 +0000",
+      "published_parsed": "2025-12-03T17:23:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Researchers say there's more to the network, which has operated for 14 years.",
+      "tags": [
+        "biz & it",
+        "espionage",
+        "exploits",
+        "fraud",
+        "hacking",
+        "security"
+      ]
+    },
     {
       "title": "Worth Watching: AI/ML Data Center Design",
       "link": "https://blog.ipspace.net/2025/12/worth-reading-ai-ml-data-center-design/?utm_source=atom_feed",
