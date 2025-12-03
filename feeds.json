@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-03T02:47:22.252345+00:00",
-  "article_count": 131,
+  "last_updated": "2025-12-03T07:24:18.199776+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2372,19 +2372,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "netlab release 25.09 includes: Link impairment (implemented with Linux netem queuing discipline) defined in lab topology or configured/controlled with the netlab tc command Configurable IPv6 Router Advertisement parameters The files plugin to store the content of short files (including custom...",
-      "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "How Many Lab Devices Can netlab Handle?",
-      "link": "https://blog.ipspace.net/2025/09/netlab-lab-size/?utm_source=atom_feed",
-      "published": "2025-09-04T07:59:00+02:00",
-      "published_parsed": "2025-09-04T07:59:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "TL&DR: Over 3000 A few weeks ago, Christian opened an issue describing how netlab breaks when the lab topology has more than 250 devices. We fixed that, only to get into another morass : some code has complexity higher than O(n) (meaning that going from 100 to 200 devices makes things more than...",
       "tags": [
         "netlab",
         "networking"
