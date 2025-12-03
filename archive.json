@@ -1,7 +1,39 @@
 {
-  "last_updated": "2025-12-03T18:36:04.441715+00:00",
-  "article_count": 1337,
+  "last_updated": "2025-12-03T23:19:45.195440+00:00",
+  "article_count": 1339,
   "articles": [
+    {
+      "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
+      "link": "https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/",
+      "published": "Wed, 03 Dec 2025 19:48:47 +0000",
+      "published_parsed": "2025-12-03T19:48:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Micron cites AI data center demand as reason for killing DIY upgrade brand.",
+      "tags": [
+        "ai",
+        "ai infrastructure",
+        "amd",
+        "crucial",
+        "datacenters",
+        "ddr5",
+        "dram",
+        "framework",
+        "hbm",
+        "lenovo",
+        "machine learning",
+        "memory",
+        "memory shortage",
+        "micron",
+        "nvidia",
+        "pc building",
+        "samsung",
+        "semiconductors",
+        "sk hynix",
+        "ssd",
+        "tech"
+      ]
+    },
     {
       "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
       "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
@@ -29,6 +61,25 @@
         "microsoft copilot",
         "simulated reasoning",
         "sr models"
+      ]
+    },
+    {
+      "title": "Prime Video pulls eerily emotionless AI-generated anime dubs after complaints",
+      "link": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
+      "published": "Wed, 03 Dec 2025 18:11:45 +0000",
+      "published_parsed": "2025-12-03T18:11:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "In some cases, better dubs already existed.",
+      "tags": [
+        "ai",
+        "amazon",
+        "amazon prime video",
+        "anime",
+        "culture",
+        "generative ai",
+        "streaming",
+        "tech"
       ]
     },
     {
