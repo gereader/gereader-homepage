@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-03T07:24:18.182466+00:00",
-  "article_count": 1334,
+  "last_updated": "2025-12-03T14:24:32.115584+00:00",
+  "article_count": 1335,
   "articles": [
+    {
+      "title": "Worth Watching: AI/ML Data Center Design",
+      "link": "https://blog.ipspace.net/2025/12/worth-reading-ai-ml-data-center-design/?utm_source=atom_feed",
+      "published": "2025-12-03T10:30:00+01:00",
+      "published_parsed": "2025-12-03T10:30:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "What could be better than watching 0x02 Jeffs discuss networking? How about having Petr Lapukhov of the RFC 7938 fame as a guest discussing AI/ML Data Center Design ? Note: Petr disappeared into the information black hole called Facebook over a decade ago, so I wondered how they allowed him to chat...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months",
       "link": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/",
