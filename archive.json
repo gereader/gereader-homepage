@@ -1,7 +1,86 @@
 {
-  "last_updated": "2025-12-04T18:36:50.583367+00:00",
-  "article_count": 1342,
+  "last_updated": "2025-12-04T23:22:07.337858+00:00",
+  "article_count": 1346,
   "articles": [
+    {
+      "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
+      "link": "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/",
+      "published": "Thu, 04 Dec 2025 21:51:36 +0000",
+      "published_parsed": "2025-12-04T21:51:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Defendants were convicted of similar crimes a decade ago. How were they cleared again?",
+      "tags": [
+        "ai",
+        "biz & it",
+        "contractors",
+        "courts",
+        "data theft"
+      ]
+    },
+    {
+      "title": "Engineer proves that Kohler’s smart toilet cameras aren’t very private",
+      "link": "https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/",
+      "published": "Thu, 04 Dec 2025 21:23:40 +0000",
+      "published_parsed": "2025-12-04T21:23:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Kohler is getting the scoop on people's poop.",
+      "tags": [
+        "cameras",
+        "e2ee",
+        "end to end encryption",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "OnePlus 15 finally gets FCC clearance after government shutdown delay—preorders live",
+      "link": "https://arstechnica.com/gadgets/2025/12/oneplus-15-finally-gets-fcc-clearance-after-government-shutdown-delay-preorders-live/",
+      "published": "Thu, 04 Dec 2025 18:11:41 +0000",
+      "published_parsed": "2025-12-04T18:11:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The device starts at $900 and comes with a free gift for a limited time.",
+      "tags": [
+        "fcc",
+        "oneplus",
+        "oneplus 15",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet",
+      "link": "https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/",
+      "published": "Thu, 04 Dec 2025 17:59:38 +0000",
+      "published_parsed": "2025-12-04T17:59:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Thirty years later, JavaScript is the glue that holds the interactive web together, warts and all.",
+      "tags": [
+        "1995",
+        "bill joy",
+        "brendan eich",
+        "browser history",
+        "ecmascript",
+        "javascript",
+        "netscape",
+        "node.js",
+        "oracle",
+        "programming",
+        "retrotech",
+        "software development",
+        "sun microsystems",
+        "tales of tech lore",
+        "tech",
+        "tech history",
+        "tech lore",
+        "trademark",
+        "typescript",
+        "web development"
+      ]
+    },
     {
       "title": "The NPU in your phone keeps improving—why isn’t that making AI better?",
       "link": "https://arstechnica.com/gadgets/2025/12/the-npu-in-your-phone-keeps-improving-why-isnt-that-making-ai-better/",
