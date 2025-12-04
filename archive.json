@@ -1,7 +1,26 @@
 {
-  "last_updated": "2025-12-04T07:24:01.768159+00:00",
-  "article_count": 1341,
+  "last_updated": "2025-12-04T14:25:19.241024+00:00",
+  "article_count": 1342,
   "articles": [
+    {
+      "title": "The NPU in your phone keeps improving—why isn’t that making AI better?",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-npu-in-your-phone-keeps-improving-why-isnt-that-making-ai-better/",
+      "published": "Thu, 04 Dec 2025 12:00:42 +0000",
+      "published_parsed": "2025-12-04T12:00:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Shrinking AI for your phone is no simple matter.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "features",
+        "generative ai",
+        "google",
+        "npu",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Technical Writing: Lower Your Expectations",
       "link": "https://blog.ipspace.net/2025/12/worth-reading-technical-writing/?utm_source=atom_feed",
