@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T14:24:16.653433+00:00",
+  "last_updated": "2025-12-05T18:31:44.483016+00:00",
   "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,7 +13,6 @@
   "tags": [
     "1995",
     "aci",
-    "activision",
     "agentic ai",
     "ai",
     "ai adoption",
@@ -39,6 +38,7 @@
     "amazon",
     "amazon prime video",
     "amd",
+    "amd ryzen",
     "amin vahdat",
     "android",
     "android 16",
@@ -58,6 +58,7 @@
     "artificial intelligence",
     "asus",
     "augmented reality",
+    "automated diagnosis",
     "automation",
     "aws",
     "azure",
@@ -72,6 +73,7 @@
     "cameras",
     "capital expenditures",
     "certifications",
+    "change management",
     "chantal shaib",
     "chatbots",
     "chatgpt",
@@ -132,7 +134,6 @@
     "gemini",
     "gemini 3",
     "generative ai",
-    "github",
     "google",
     "google cast",
     "google gemini",
@@ -147,7 +148,6 @@
     "homelab",
     "hp",
     "iacr",
-    "infocom",
     "infrahub",
     "intel",
     "international associate for cryptological research",
@@ -158,7 +158,6 @@
     "it jobs",
     "jailbreaking",
     "jamie dimon",
-    "jason scott",
     "javascript",
     "jensen huang",
     "jinja",
@@ -183,7 +182,6 @@
     "microsoft",
     "microsoft copilot",
     "mit",
-    "mit license",
     "mixed reality",
     "mpls",
     "mpls vpn",
@@ -217,12 +215,10 @@
     "olmo",
     "oneplus",
     "oneplus 15",
-    "open source programs office",
     "openai",
     "openflow",
     "oracle",
     "ospf",
-    "ospo",
     "outage",
     "overlay networks",
     "palo alto",
@@ -237,6 +233,7 @@
     "python",
     "qos",
     "qualcomm",
+    "radeon",
     "ram",
     "react server components",
     "retrotech",
@@ -309,15 +306,54 @@
     "warner bros. discovery",
     "web development",
     "windows",
+    "windows 11",
+    "windows 11 25h2",
     "worth reading",
-    "xbox",
-    "xr",
-    "zork",
-    "zork i",
-    "zork ii",
-    "zork iii"
+    "xr"
   ],
   "articles": [
+    {
+      "title": "Top Five Use Cases of Agentic NetOps in 2026 and Beyond",
+      "link": "https://www.netbraintech.com/blog/top-five-use-cases-of-agentic-netops-in-2026/",
+      "published": "2025-12-05T17:56:02Z",
+      "published_parsed": "2025-12-05T17:56:02+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Network teams are under pressure from all sides. They must keep complex hybrid networks available and secure, but lack true end‑to‑end visibility, so outages, performance issues, and security gaps can...",
+      "tags": [
+        "automated diagnosis",
+        "change management",
+        "navigation blog",
+        "network assessment",
+        "network operations",
+        "network security",
+        "network visibility",
+        "networking",
+        "prevent outages"
+      ]
+    },
+    {
+      "title": "SteamOS vs. Windows on dedicated GPUs: It’s complicated, but Windows has an edge",
+      "link": "https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/",
+      "published": "Fri, 05 Dec 2025 17:29:37 +0000",
+      "published_parsed": "2025-12-05T17:29:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ars testing shows SteamOS fares better on iGPUs than powerful graphics cards.",
+      "tags": [
+        "amd",
+        "amd ryzen",
+        "gaming",
+        "intel",
+        "nvidia",
+        "radeon",
+        "steamos",
+        "tech",
+        "windows",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
     {
       "title": "Lab: More Complex VXLAN Deployment Scenario",
       "link": "https://blog.ipspace.net/2025/12/vxlan-complex/?utm_source=atom_feed",
@@ -1113,32 +1149,6 @@
         "hp",
         "laptops",
         "tech"
-      ]
-    },
-    {
-      "title": "Microsoft makes Zork I, II, and III open source under MIT License",
-      "link": "https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/",
-      "published": "Thu, 20 Nov 2025 20:33:50 +0000",
-      "published_parsed": "2025-11-20T20:33:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Microsoft's Open Source Programs Office worked with Jason Scott to do it.",
-      "tags": [
-        "activision",
-        "gaming",
-        "github",
-        "infocom",
-        "jason scott",
-        "microsoft",
-        "mit license",
-        "open source programs office",
-        "ospo",
-        "tech",
-        "xbox",
-        "zork",
-        "zork i",
-        "zork ii",
-        "zork iii"
       ]
     },
     {
@@ -2235,20 +2245,6 @@
         "bgp",
         "cisco",
         "networking"
-      ]
-    },
-    {
-      "title": "How to Stop Network Outages from Hurting Your Business: A Practical Guide",
-      "link": "https://www.netbraintech.com/blog/stop-network-outages/",
-      "published": "2025-09-12T16:35:39Z",
-      "published_parsed": "2025-09-12T16:35:39+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2025/09/The-cost-of-network-downtime.webp",
-      "summary": "From Reactive to Proactive: How we believe NetBrain Turns Gartner’s Outage Prevention Strategies into Reality If you’re a head of IT operations, few things keep you up at night like...",
-      "tags": [
-        "navigation blog",
-        "networking",
-        "prevent outages"
       ]
     },
     {
