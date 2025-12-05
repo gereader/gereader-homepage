@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-12-05T02:49:24.323426+00:00",
-  "article_count": 1346,
+  "last_updated": "2025-12-05T07:23:16.574971+00:00",
+  "article_count": 1347,
   "articles": [
+    {
+      "title": "Lab: More Complex VXLAN Deployment Scenario",
+      "link": "https://blog.ipspace.net/2025/12/vxlan-complex/?utm_source=atom_feed",
+      "published": "2025-12-05T07:22:00+01:00",
+      "published_parsed": "2025-12-05T07:22:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In the first VXLAN lab , we covered the very basics. Now it’s time for a few essential concepts (before introducing the EVPN control plane or integrated routing and bridging): Each VXLAN segment could have a different set of VTEPs (used to build the BUM flooding list) While the VXLAN Network...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
       "link": "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/",
