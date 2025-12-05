@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-05T18:31:44.483016+00:00",
-  "article_count": 133,
+  "last_updated": "2025-12-05T23:21:02.519965+00:00",
+  "article_count": 134,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -13,6 +13,7 @@
   "tags": [
     "1995",
     "aci",
+    "acquisition",
     "agentic ai",
     "ai",
     "ai adoption",
@@ -142,6 +143,7 @@
     "gpt-5",
     "hacking",
     "hbm",
+    "hbo",
     "hbo max",
     "high availability",
     "history",
@@ -303,6 +305,7 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "warner bros.",
     "warner bros. discovery",
     "web development",
     "windows",
@@ -313,12 +316,31 @@
   ],
   "articles": [
     {
+      "title": "Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming",
+      "link": "https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/",
+      "published": "Fri, 05 Dec 2025 18:49:43 +0000",
+      "published_parsed": "2025-12-05T18:49:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Netflix's plans to own HBO Max, DC Comics, Harry Potter to face regulatory scrutiny.",
+      "tags": [
+        "acquisition",
+        "hbo",
+        "hbo max",
+        "netflix",
+        "streaming",
+        "tech",
+        "warner bros.",
+        "warner bros. discovery"
+      ]
+    },
+    {
       "title": "Top Five Use Cases of Agentic NetOps in 2026 and Beyond",
       "link": "https://www.netbraintech.com/blog/top-five-use-cases-of-agentic-netops-in-2026/",
       "published": "2025-12-05T17:56:02Z",
       "published_parsed": "2025-12-05T17:56:02+00:00",
       "source": "NetBrain Blog",
-      "image": null,
+      "image": "https://www.netbraintech.com/wp-content/uploads/2025/12/thumnail-Abru-210x300.webp",
       "summary": "Network teams are under pressure from all sides. They must keep complex hybrid networks available and secure, but lack true end‑to‑end visibility, so outages, performance issues, and security gaps can...",
       "tags": [
         "automated diagnosis",
