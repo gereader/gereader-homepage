@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T23:21:02.519965+00:00",
+  "last_updated": "2025-12-06T02:40:31.280418+00:00",
   "article_count": 134,
   "sources": [
     "Ars Technica - Gadgets",
@@ -131,6 +131,7 @@
     "foundry",
     "framework",
     "fraud",
+    "fubo",
     "gaming",
     "gemini",
     "gemini 3",
@@ -193,6 +194,7 @@
     "nand",
     "nat",
     "navigation blog",
+    "nbcuniversal",
     "netconf",
     "netdevops",
     "netflix",
@@ -261,6 +263,7 @@
     "software gone wild",
     "spatial computing",
     "splunk",
+    "sports",
     "spurious correlations",
     "sr model",
     "sr models",
@@ -315,6 +318,22 @@
     "xr"
   ],
   "articles": [
+    {
+      "title": "Streaming service makes rare decision to lower its monthly fees",
+      "link": "https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/",
+      "published": "Fri, 05 Dec 2025 22:56:51 +0000",
+      "published_parsed": "2025-12-05T22:56:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This could be just what Fubo and its subscribers need.",
+      "tags": [
+        "fubo",
+        "nbcuniversal",
+        "sports",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming",
       "link": "https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/",
@@ -1079,21 +1098,6 @@
         "iacr",
         "international associate for cryptological research",
         "security"
-      ]
-    },
-    {
-      "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now",
-      "link": "https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/",
-      "published": "Fri, 21 Nov 2025 23:00:24 +0000",
-      "published_parsed": "2025-11-21T23:00:24+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Curiosity Stream's owner has more content for AI companies than it does for subscribers.",
-      "tags": [
-        "ai",
-        "generative ai",
-        "streaming",
-        "tech"
       ]
     },
     {
