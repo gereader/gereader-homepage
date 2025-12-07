@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-07T02:57:14.768640+00:00",
-  "article_count": 134,
+  "last_updated": "2025-12-07T07:20:53.567147+00:00",
+  "article_count": 133,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2364,19 +2364,6 @@
       "image": null,
       "summary": "SONiC represents a legitimate alternative for specific use cases and organizations, but it's not the universal solution some marketing suggests. The technology works—Microsoft Azure and other hyperscalers prove that at scale. However, the operational model and skill requirements represent a...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 25.09: IPv6 RA, Link Impairments, and Performance Gains",
-      "link": "https://blog.ipspace.net/2025/09/netlab-25-09/?utm_source=atom_feed",
-      "published": "2025-09-08T08:14:00+01:00",
-      "published_parsed": "2025-09-08T08:14:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 25.09 includes: Link impairment (implemented with Linux netem queuing discipline) defined in lab topology or configured/controlled with the netlab tc command Configurable IPv6 Router Advertisement parameters The files plugin to store the content of short files (including custom...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
