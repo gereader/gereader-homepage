@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T18:35:44.720917+00:00",
+  "last_updated": "2025-12-08T23:22:25.696185+00:00",
   "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
@@ -54,7 +54,6 @@
     "apps",
     "apt38",
     "ar",
-    "arduino",
     "arp",
     "artificial intelligence",
     "asus",
@@ -227,6 +226,7 @@
     "outage",
     "overlay networks",
     "palo alto",
+    "paramount",
     "pay or consent",
     "pc building",
     "performance",
@@ -238,7 +238,6 @@
     "prompt injections",
     "python",
     "qos",
-    "qualcomm",
     "radeon",
     "ram",
     "react server components",
@@ -320,6 +319,23 @@
     "xr"
   ],
   "articles": [
+    {
+      "title": "Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover",
+      "link": "https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/",
+      "published": "Mon, 08 Dec 2025 18:36:16 +0000",
+      "published_parsed": "2025-12-08T18:36:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Paramount has already proven it can get a controversial merger done.",
+      "tags": [
+        "acquisition",
+        "hbo max",
+        "paramount",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "Meta offers EU users ad-light option in push to end investigation",
       "link": "https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/",
@@ -1070,20 +1086,6 @@
         "evpn",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
-      "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
-      "published": "Mon, 24 Nov 2025 20:45:42 +0000",
-      "published_parsed": "2025-11-24T20:45:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "“Why is reverse-engineering prohibited... for a company built on openly hackable systems?”",
-      "tags": [
-        "arduino",
-        "qualcomm",
-        "tech"
       ]
     },
     {

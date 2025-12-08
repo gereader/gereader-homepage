@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-08T18:35:44.702893+00:00",
-  "article_count": 1353,
+  "last_updated": "2025-12-08T23:22:25.678008+00:00",
+  "article_count": 1354,
   "articles": [
+    {
+      "title": "Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover",
+      "link": "https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/",
+      "published": "Mon, 08 Dec 2025 18:36:16 +0000",
+      "published_parsed": "2025-12-08T18:36:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Paramount has already proven it can get a controversial merger done.",
+      "tags": [
+        "acquisition",
+        "hbo max",
+        "paramount",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "Meta offers EU users ad-light option in push to end investigation",
       "link": "https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/",
