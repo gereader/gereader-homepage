@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T14:26:11.903223+00:00",
+  "last_updated": "2025-12-08T18:35:44.720917+00:00",
   "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
@@ -119,9 +119,11 @@
     "enterprise ai",
     "espionage",
     "ether",
+    "eu",
     "evpn",
     "exploits",
     "fabric",
+    "facebook",
     "fcc",
     "features",
     "financial times",
@@ -167,7 +169,6 @@
     "lan",
     "laptops",
     "large language models",
-    "larry ellison",
     "layoffs",
     "ldp",
     "lenovo",
@@ -226,6 +227,7 @@
     "outage",
     "overlay networks",
     "palo alto",
+    "pay or consent",
     "pc building",
     "performance",
     "plex",
@@ -318,6 +320,23 @@
     "xr"
   ],
   "articles": [
+    {
+      "title": "Meta offers EU users ad-light option in push to end investigation",
+      "link": "https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/",
+      "published": "Mon, 08 Dec 2025 14:57:11 +0000",
+      "published_parsed": "2025-12-08T14:57:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Facebook agrees to change \"pay or consent\" model after talks with European Commission.",
+      "tags": [
+        "biz & it",
+        "eu",
+        "facebook",
+        "meta",
+        "pay or consent",
+        "syndication"
+      ]
+    },
     {
       "title": "netlab 25.12: Cisco IOS/XR Configuration Modules, More VXLAN Goodies",
       "link": "https://blog.ipspace.net/2025/12/netlab-25-12/?utm_source=atom_feed",
@@ -1367,22 +1386,6 @@
         "it jobs",
         "north korea",
         "security"
-      ]
-    },
-    {
-      "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
-      "link": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/",
-      "published": "Mon, 17 Nov 2025 16:41:05 +0000",
-      "published_parsed": "2025-11-17T16:41:05+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Company falls more than rivals over its borrowing and reliance on OpenAI contracts.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "larry ellison",
-        "oracle",
-        "syndication"
       ]
     },
     {

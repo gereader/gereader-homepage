@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-08T14:26:11.886652+00:00",
-  "article_count": 1352,
+  "last_updated": "2025-12-08T18:35:44.702893+00:00",
+  "article_count": 1353,
   "articles": [
+    {
+      "title": "Meta offers EU users ad-light option in push to end investigation",
+      "link": "https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/",
+      "published": "Mon, 08 Dec 2025 14:57:11 +0000",
+      "published_parsed": "2025-12-08T14:57:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Facebook agrees to change \"pay or consent\" model after talks with European Commission.",
+      "tags": [
+        "biz & it",
+        "eu",
+        "facebook",
+        "meta",
+        "pay or consent",
+        "syndication"
+      ]
+    },
     {
       "title": "netlab 25.12: Cisco IOS/XR Configuration Modules, More VXLAN Goodies",
       "link": "https://blog.ipspace.net/2025/12/netlab-25-12/?utm_source=atom_feed",
