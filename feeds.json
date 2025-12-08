@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-08T07:26:42.305420+00:00",
-  "article_count": 133,
+  "last_updated": "2025-12-08T14:26:11.903223+00:00",
+  "article_count": 132,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2353,19 +2353,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "SwiNOG 40: Reliability of High-Speed Transceivers",
-      "link": "https://blog.ipspace.net/2025/09/swinog40-melting-transceivers/?utm_source=atom_feed",
-      "published": "2025-09-09T14:33:00+02:00",
-      "published_parsed": "2025-09-09T14:33:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Whenever you see Gerhard Stein and Thomas Weible from Flexoptix in a list of presenters, three things immediately become obvious: It will be about transceivers It will be fun It will include some crazy stuff Their SwiNOG 40 presentation ( video ) met all three expectation. We learned how well...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
