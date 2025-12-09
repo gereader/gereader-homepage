@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-09T07:24:36.063639+00:00",
-  "article_count": 132,
+  "last_updated": "2025-12-09T14:26:16.695622+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2330,34 +2330,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Scan Python Dependencies for Vulnerabilities with PySentry",
-      "link": "https://www.packetcoders.io/scan-python-dependencies-for-vulnerabilities-with-pysentry/",
-      "published": "Wed, 10 Sep 2025 09:47:19 GMT",
-      "published_parsed": "2025-09-10T09:47:19+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/09/Untitled-design--93-.png",
-      "summary": "PySentry - Scan your Python dependencies for known vulnerabilities. Built in Rust for performance, PySentry is fast, easy to use, and supports flexible output formats (Markdown, JSON, etc.). Here are some examples 👇 # Install pysentry-rs using uv (or use pip install pysentry-rs) $ uv add...",
-      "tags": [
-        "networking",
-        "tips"
-      ]
-    },
-    {
-      "title": "Labbing Network Technology Details with netlab",
-      "link": "https://blog.ipspace.net/2025/09/labbing-network-technology-details/?utm_source=atom_feed",
-      "published": "2025-09-10T08:08:00+00:00",
-      "published_parsed": "2025-09-10T08:08:00+00:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "It’s been over four years since I published the last Software Gone Wild episode . In the meantime, I spent most of my time developing an open-source labbing tool , so it should be no surprise that the first post-hiatus episode focused on a netlab use case: how Ethan Banks (of the PacketPushers...",
-      "tags": [
-        "netlab",
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
