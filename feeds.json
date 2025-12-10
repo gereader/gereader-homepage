@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-10T14:26:25.532744+00:00",
+  "last_updated": "2025-12-10T18:34:26.624847+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -49,15 +49,10 @@
     "anthropic",
     "api",
     "api integration",
-    "apple",
-    "apple m5",
-    "apple vision pro",
     "apps",
-    "ar",
     "arp",
     "artificial intelligence",
     "asus",
-    "augmented reality",
     "automated diagnosis",
     "automation",
     "aws",
@@ -179,12 +174,10 @@
     "memory",
     "memory shortage",
     "meta",
-    "metaverse",
     "micron",
     "microsoft",
     "microsoft copilot",
     "mit",
-    "mixed reality",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -238,6 +231,7 @@
     "python",
     "qos",
     "radeon",
+    "rdna4",
     "react server components",
     "retrotech",
     "sam altman",
@@ -260,7 +254,6 @@
     "snmp",
     "software development",
     "software gone wild",
-    "spatial computing",
     "splunk",
     "sports",
     "spurious correlations",
@@ -297,13 +290,8 @@
     "video",
     "vinith m. suriyakumar",
     "vinyl records",
-    "virtual reality",
     "virtualization",
-    "vision pro",
-    "visionos",
-    "visionos 26",
     "vpn",
-    "vr",
     "vulnerabilities",
     "vxlan",
     "wan",
@@ -314,10 +302,25 @@
     "windows",
     "windows 11",
     "windows 11 25h2",
-    "worth reading",
-    "xr"
+    "worth reading"
   ],
   "articles": [
+    {
+      "title": "AMD’s next-gen “FSR Redstone” brings big gains, as long as you’re using a new GPU",
+      "link": "https://arstechnica.com/gadgets/2025/12/amds-fsr-redstone-upscaling-claims-to-close-the-gap-with-nvidias-dlss/",
+      "published": "Wed, 10 Dec 2025 14:00:43 +0000",
+      "published_parsed": "2025-12-10T14:00:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Redstone\" is a promising mix of old and new ideas, but Nvidia is years ahead.",
+      "tags": [
+        "amd",
+        "gaming",
+        "radeon",
+        "rdna4",
+        "tech"
+      ]
+    },
     {
       "title": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
       "link": "https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/",
@@ -1039,34 +1042,6 @@
         "biz & it",
         "hp",
         "layoffs"
-      ]
-    },
-    {
-      "title": "Vision Pro M5 review: It’s time for Apple to make some tough choices",
-      "link": "https://arstechnica.com/gadgets/2025/11/where-apples-vision-pro-stands-today-post-m5-refresh/",
-      "published": "Wed, 26 Nov 2025 17:00:14 +0000",
-      "published_parsed": "2025-11-26T17:00:14+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "A state of the union from someone who actually sort of uses the thing.",
-      "tags": [
-        "ai",
-        "apple",
-        "apple m5",
-        "apple vision pro",
-        "ar",
-        "augmented reality",
-        "features",
-        "metaverse",
-        "mixed reality",
-        "spatial computing",
-        "tech",
-        "virtual reality",
-        "vision pro",
-        "visionos",
-        "visionos 26",
-        "vr",
-        "xr"
       ]
     },
     {
