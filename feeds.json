@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-10T07:25:32.971562+00:00",
-  "article_count": 131,
+  "last_updated": "2025-12-10T14:26:25.532744+00:00",
+  "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -12,6 +12,7 @@
   ],
   "tags": [
     "1995",
+    "abandonment",
     "aci",
     "acquisition",
     "agentic ai",
@@ -52,7 +53,6 @@
     "apple m5",
     "apple vision pro",
     "apps",
-    "apt38",
     "ar",
     "arp",
     "artificial intelligence",
@@ -159,7 +159,6 @@
     "ip routing",
     "ipv6",
     "is-is",
-    "it jobs",
     "jailbreaking",
     "jamie dimon",
     "javascript",
@@ -191,6 +190,7 @@
     "mpls-te",
     "mtu",
     "music",
+    "musk",
     "nat",
     "navigation blog",
     "nbcuniversal",
@@ -210,7 +210,6 @@
     "networking fundamentals",
     "nfv",
     "node.js",
-    "north korea",
     "northeastern university",
     "npu",
     "nsx",
@@ -220,6 +219,7 @@
     "oneplus 15",
     "openai",
     "openflow",
+    "operation bluebird",
     "oracle",
     "ospf",
     "outage",
@@ -290,6 +290,7 @@
     "traffic engineering",
     "training",
     "troubleshooting",
+    "twitter",
     "typescript",
     "vibemark",
     "vibemarking",
@@ -317,6 +318,23 @@
     "xr"
   ],
   "articles": [
+    {
+      "title": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
+      "link": "https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/",
+      "published": "Wed, 10 Dec 2025 12:32:21 +0000",
+      "published_parsed": "2025-12-10T12:32:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "“Abandonment” offers rare chance to reclaim one of tech’s most recognized brands.",
+      "tags": [
+        "abandonment",
+        "biz & it",
+        "musk",
+        "operation bluebird",
+        "trademark",
+        "twitter"
+      ]
+    },
     {
       "title": "Evergreen: The Big Ball of Mud",
       "link": "https://blog.ipspace.net/2025/12/worth-reading-big-ball-mud/?utm_source=atom_feed",
@@ -1381,23 +1399,6 @@
       ]
     },
     {
-      "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
-      "link": "https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/",
-      "published": "Mon, 17 Nov 2025 22:20:38 +0000",
-      "published_parsed": "2025-11-17T22:20:38+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Fleets of laptops run from US residences gave appearance workers were in the US.",
-      "tags": [
-        "apt38",
-        "biz & it",
-        "fraud",
-        "it jobs",
-        "north korea",
-        "security"
-      ]
-    },
-    {
       "title": "AI Enshittification: Swiss Airlines Edition",
       "link": "https://blog.ipspace.net/2025/11/swiss-airlines-ai-enshittification/?utm_source=atom_feed",
       "published": "2025-11-17T08:00:00+01:00",
@@ -1419,6 +1420,7 @@
       "image": null,
       "summary": "In March 2024, I received my first PR from an airplane: Sander Steffann was flying to South Africa to deliver an Ansible training and fixed a minor annoyance in the then-new multilab feature. Of course, I wanted to know more about his setup, but it took us over a year and a half till we managed to...",
       "tags": [
+        "netlab",
         "networking",
         "podcast",
         "software gone wild"
@@ -2322,19 +2324,6 @@
       "summary": "IS-IS does not use IPv4 or IPv6, so it should be a no-brainer to run it over IPv4 unnumbered or IPv6 LLA interfaces. The latter is true; the former is smack in the middle of the It Depends™ territory. Want to know more or test the devices you’re usually working with? The Running IS-IS Over...",
       "tags": [
         "is-is",
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "The Curious Case of 'ip host' Configuration Command",
-      "link": "https://blog.ipspace.net/2025/09/ip-hosts-configuration/?utm_source=atom_feed",
-      "published": "2025-09-11T09:51:00+02:00",
-      "published_parsed": "2025-09-11T09:51:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Since time immemorial, I have used the ip host router configuration command to get host-to-IP mappings in networking labs without going through the hassle of setting up a DNS server. Some devices even accepted multiple IP addresses in the ip host command, allowing you to list all router interfaces...",
-      "tags": [
         "netlab",
         "networking"
       ]
