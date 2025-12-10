@@ -1,7 +1,64 @@
 {
-  "last_updated": "2025-12-10T18:34:26.608079+00:00",
-  "article_count": 1359,
+  "last_updated": "2025-12-10T23:20:24.503138+00:00",
+  "article_count": 1362,
   "articles": [
+    {
+      "title": "A new open-weights AI coding model is closing in on proprietary options",
+      "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
+      "published": "Wed, 10 Dec 2025 20:38:58 +0000",
+      "published_parsed": "2025-12-10T20:38:58+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Devstral 2 model scores 72% on industry benchmark, nearing proprietary rivals.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai programming",
+        "andrej karpathy",
+        "asml",
+        "biz & it",
+        "machine learning",
+        "mistral ai",
+        "open source",
+        "open weights",
+        "software engineering",
+        "swe-bench",
+        "vibe coding"
+      ]
+    },
+    {
+      "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
+      "link": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
+      "published": "Wed, 10 Dec 2025 20:07:47 +0000",
+      "published_parsed": "2025-12-10T20:07:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sports and YouTube TV played big roles, MoffettNathanson report says.",
+      "tags": [
+        "cable",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader",
+      "link": "https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/",
+      "published": "Wed, 10 Dec 2025 18:40:58 +0000",
+      "published_parsed": "2025-12-10T18:40:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon has added color e-ink to its devices more slowly than its competitors.",
+      "tags": [
+        "amazon",
+        "kindle",
+        "kindle colorsoft",
+        "kindle scribe",
+        "kindle scribe colorsoft",
+        "tech"
+      ]
+    },
     {
       "title": "AMD’s next-gen “FSR Redstone” brings big gains, as long as you’re using a new GPU",
       "link": "https://arstechnica.com/gadgets/2025/12/amds-fsr-redstone-upscaling-claims-to-close-the-gap-with-nvidias-dlss/",
