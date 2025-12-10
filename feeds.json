@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-10T02:52:26.329865+00:00",
-  "article_count": 130,
+  "last_updated": "2025-12-10T07:25:32.971562+00:00",
+  "article_count": 131,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -317,6 +317,19 @@
     "xr"
   ],
   "articles": [
+    {
+      "title": "Evergreen: The Big Ball of Mud",
+      "link": "https://blog.ipspace.net/2025/12/worth-reading-big-ball-mud/?utm_source=atom_feed",
+      "published": "2025-12-10T08:07:00+01:00",
+      "published_parsed": "2025-12-10T08:07:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In 2007, Jeff Atwood published a legendary blog post summarizing a 1997 paper by Brian Foote and Joseph Yoder. Reading that blog post (or the original paper), the inevitable conclusion is that we haven’t made much progress in the last 20 years. Even worse, almost every single pathological...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Google is reviving wearable gesture controls, but only for the Pixel Watch 4",
       "link": "https://arstechnica.com/gadgets/2025/12/google-is-reviving-wearable-gesture-controls-but-only-for-the-pixel-watch-4/",
