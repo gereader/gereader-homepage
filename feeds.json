@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-11T07:26:51.369330+00:00",
-  "article_count": 130,
+  "last_updated": "2025-12-11T14:24:48.968661+00:00",
+  "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2280,20 +2280,6 @@
         "bgp",
         "cisco",
         "networking"
-      ]
-    },
-    {
-      "title": "TypedDict vs Pydantic",
-      "link": "https://www.packetcoders.io/typeddict-vs-pydantic/",
-      "published": "Fri, 12 Sep 2025 10:40:30 GMT",
-      "published_parsed": "2025-09-12T10:40:30+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/09/Heading--13-.png",
-      "summary": "Introduction When you're working with structured data in Python, there are two common options: TypedDict (from the typing module) and Pydantic (a popular validation library). Both are useful, but they serve different needs depending on whether you prioritize static type checking , runtime...",
-      "tags": [
-        "blog",
-        "networking",
-        "python"
       ]
     }
   ]
