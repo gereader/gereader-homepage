@@ -1,7 +1,55 @@
 {
-  "last_updated": "2025-12-11T14:24:48.950621+00:00",
-  "article_count": 1363,
+  "last_updated": "2025-12-11T18:34:33.804134+00:00",
+  "article_count": 1365,
   "articles": [
+    {
+      "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
+      "link": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
+      "published": "Thu, 11 Dec 2025 16:43:30 +0000",
+      "published_parsed": "2025-12-11T16:43:30+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Three-year deal lets users create AI videos of Mickey Mouse, Darth Vader, and more.",
+      "tags": [
+        "ai",
+        "ai law",
+        "ai video",
+        "ai video generator",
+        "biz & it",
+        "bob iger",
+        "copyright",
+        "disney",
+        "generative ai",
+        "hollywood",
+        "image synthesis",
+        "intellectual property",
+        "licensing",
+        "machine learning",
+        "marvel",
+        "openai",
+        "pixar",
+        "sam altman",
+        "sora",
+        "star wars",
+        "video synthesis"
+      ]
+    },
+    {
+      "title": "Oracle shares slide on $15B increase in data center spending",
+      "link": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
+      "published": "Thu, 11 Dec 2025 14:39:21 +0000",
+      "published_parsed": "2025-12-11T14:39:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company raises its capital expenditure forecast as it doubles down on AI infrastructure bet.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "data centers",
+        "larry ellison",
+        "oracle"
+      ]
+    },
     {
       "title": "IETF v6ops Working Group with Nick Buraglio",
       "link": "https://blog.ipspace.net/2025/12/v6ops-ietf-working-group/?utm_source=atom_feed",
