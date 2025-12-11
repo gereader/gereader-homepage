@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T18:34:33.822127+00:00",
+  "last_updated": "2025-12-11T23:22:13.376612+00:00",
   "article_count": 129,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,6 +21,7 @@
     "ai agents",
     "ai alignment",
     "ai assistants",
+    "ai benchmarks",
     "ai chips",
     "ai coding",
     "ai competition",
@@ -92,7 +93,6 @@
     "culture",
     "cumulus linux",
     "cyber threats",
-    "data breaches",
     "data center",
     "data centers",
     "data theft",
@@ -139,6 +139,7 @@
     "google pixel",
     "gpt-4o",
     "gpt-5",
+    "gpt-5.2",
     "hacking",
     "hbm",
     "hbo",
@@ -176,7 +177,6 @@
     "lisp",
     "load balancing",
     "machine learning",
-    "malware",
     "marc benioff",
     "marvel",
     "matthew prince",
@@ -318,6 +318,33 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+      "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+      "published": "Thu, 11 Dec 2025 21:27:18 +0000",
+      "published_parsed": "2025-12-11T21:27:18+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai assistants",
+        "ai benchmarks",
+        "ai coding",
+        "biz & it",
+        "chatgpt",
+        "gemini 3",
+        "google",
+        "google gemini",
+        "gpt-5",
+        "gpt-5.2",
+        "large language models",
+        "machine learning",
+        "openai",
+        "sam altman"
+      ]
+    },
     {
       "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
       "link": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
@@ -1338,27 +1365,6 @@
         "matthew prince",
         "outage",
         "policy"
-      ]
-    },
-    {
-      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
-      "link": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
-      "published": "Wed, 19 Nov 2025 20:25:46 +0000",
-      "published_parsed": "2025-11-19T20:25:46+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Integration of Copilot Actions into Windows is off by default, but for how long?",
-      "tags": [
-        "ai",
-        "biz & it",
-        "copilot",
-        "data breaches",
-        "large language models",
-        "malware",
-        "microsoft",
-        "security",
-        "vulnerabilities",
-        "windows"
       ]
     },
     {
