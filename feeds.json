@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T02:54:22.851274+00:00",
+  "last_updated": "2025-12-11T07:26:51.369330+00:00",
   "article_count": 130,
   "sources": [
     "Ars Technica - Gadgets",
@@ -304,6 +304,21 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "IETF v6ops Working Group with Nick Buraglio",
+      "link": "https://blog.ipspace.net/2025/12/v6ops-ietf-working-group/?utm_source=atom_feed",
+      "published": "2025-12-11T08:03:00+01:00",
+      "published_parsed": "2025-12-11T08:03:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The first IPv6 specs were published in 1995, and yet 30 years later, we still have a pretty active IETF working group focused on “ developing guidelines for the deployment and operation of new and existing IPv6 networks. ” (taken from the old charter ; they updated it in late October 2025). Why is...",
+      "tags": [
+        "ipv6",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "A new open-weights AI coding model is closing in on proprietary options",
       "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
@@ -2279,20 +2294,6 @@
         "blog",
         "networking",
         "python"
-      ]
-    },
-    {
-      "title": "Lab: Running IS-IS over IPv4 Unnumbered and IPv6 LLA Interfaces",
-      "link": "https://blog.ipspace.net/2025/09/isis-lab-unnumbered/?utm_source=atom_feed",
-      "published": "2025-09-12T07:41:00+02:00",
-      "published_parsed": "2025-09-12T07:41:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://isis.bgplabs.net/basic/topology-unnumbered.png",
-      "summary": "IS-IS does not use IPv4 or IPv6, so it should be a no-brainer to run it over IPv4 unnumbered or IPv6 LLA interfaces. The latter is true; the former is smack in the middle of the It Depends™ territory. Want to know more or test the devices you’re usually working with? The Running IS-IS Over...",
-      "tags": [
-        "is-is",
-        "netlab",
-        "networking"
       ]
     }
   ]

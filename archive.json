@@ -1,7 +1,22 @@
 {
-  "last_updated": "2025-12-11T02:54:22.833394+00:00",
-  "article_count": 1362,
+  "last_updated": "2025-12-11T07:26:51.351144+00:00",
+  "article_count": 1363,
   "articles": [
+    {
+      "title": "IETF v6ops Working Group with Nick Buraglio",
+      "link": "https://blog.ipspace.net/2025/12/v6ops-ietf-working-group/?utm_source=atom_feed",
+      "published": "2025-12-11T08:03:00+01:00",
+      "published_parsed": "2025-12-11T08:03:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The first IPv6 specs were published in 1995, and yet 30 years later, we still have a pretty active IETF working group focused on “ developing guidelines for the deployment and operation of new and existing IPv6 networks. ” (taken from the old charter ; they updated it in late October 2025). Why is...",
+      "tags": [
+        "ipv6",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "A new open-weights AI coding model is closing in on proprietary options",
       "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
