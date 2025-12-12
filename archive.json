@@ -1,7 +1,55 @@
 {
-  "last_updated": "2025-12-12T07:26:00.601761+00:00",
-  "article_count": 1366,
+  "last_updated": "2025-12-12T14:21:46.563415+00:00",
+  "article_count": 1369,
   "articles": [
+    {
+      "title": "How to break free from smart TV ads and tracking",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "published": "Fri, 12 Dec 2025 12:30:22 +0000",
+      "published_parsed": "2025-12-12T12:30:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sick of smart TVs? Here are your best options.",
+      "tags": [
+        "ads",
+        "features",
+        "streaming",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
+      "link": "https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/",
+      "published": "Fri, 12 Dec 2025 12:15:02 +0000",
+      "published_parsed": "2025-12-12T12:15:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"... AI toys shouldn’t be capable of having sexually explicit conversations, period.\"",
+      "tags": [
+        "ai",
+        "chatbots",
+        "children",
+        "generative ai",
+        "openai",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Lab: Multilevel IS-IS Deployments",
+      "link": "https://blog.ipspace.net/2025/12/multilevel-isis/?utm_source=atom_feed",
+      "published": "2025-12-12T11:45:00+01:00",
+      "published_parsed": "2025-12-12T11:45:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://isis.bgplabs.net/advanced/topology-multiarea.png",
+      "summary": "Like OSPF, IS-IS was designed when router memory was measured in megabytes and clock speeds in megahertz. Not surprisingly, it includes a scalability mechanism similar to OSPF areas. An IS-IS router could be a level-1 router (having in-area prefixes and a default route), a level-2 router (knowing...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
       "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
