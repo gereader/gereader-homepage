@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-13T14:20:20.735844+00:00",
-  "article_count": 129,
+  "last_updated": "2025-12-13T18:30:18.361566+00:00",
+  "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2327,19 +2327,6 @@
       "image": null,
       "summary": "netlab release 25.09 introduced numerous graphing enhancements and a new graph type (IS-IS graphs), so I decided to write a series of blog posts explaining how you can generate graphs from netlab lab topologies. I wrote an intro to netlab topology graphs years ago, and as expected, it was...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "[FATAL] Ansible Release 12.0 Breaks netlab Jinja2 Templates",
-      "link": "https://blog.ipspace.net/2025/09/netlab-25-09-post1/?utm_source=atom_feed",
-      "published": "2025-09-14T19:25:00+02:00",
-      "published_parsed": "2025-09-14T19:25:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "On September 9th, the ansible release 12.0 appeared on PyPi. It requires ansible-core release 2.19 , which includes breaking changes to Jinja2 templating. netlab Jinja2 templates rely on a few Ansible Jinja2 filters; netlab thus imports and uses those filters, and it looks like those imports pulled...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
