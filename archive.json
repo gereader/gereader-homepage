@@ -1,7 +1,65 @@
 {
-  "last_updated": "2025-12-15T18:36:29.929870+00:00",
-  "article_count": 1372,
+  "last_updated": "2025-12-15T23:23:04.018963+00:00",
+  "article_count": 1375,
   "articles": [
+    {
+      "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
+      "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
+      "published": "Mon, 15 Dec 2025 22:41:43 +0000",
+      "published_parsed": "2025-12-15T22:41:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
+      "tags": [
+        "ai",
+        "ai criticism",
+        "ai slop",
+        "biz & it",
+        "dictionaries",
+        "generative ai",
+        "machine learning",
+        "merriam-webster",
+        "oxford",
+        "simon willison",
+        "slop",
+        "social media",
+        "spam",
+        "word of the year"
+      ]
+    },
+    {
+      "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
+      "link": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
+      "published": "Mon, 15 Dec 2025 21:15:55 +0000",
+      "published_parsed": "2025-12-15T21:15:55+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
+      "tags": [
+        "biz & it",
+        "encryption",
+        "rc4",
+        "security",
+        "windows server"
+      ]
+    },
+    {
+      "title": "Google will end dark web reports that alerted users to leaked data",
+      "link": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/",
+      "published": "Mon, 15 Dec 2025 18:13:24 +0000",
+      "published_parsed": "2025-12-15T18:13:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says the reports lacked \"helpful next steps.\"",
+      "tags": [
+        "dark web",
+        "data leaks",
+        "google",
+        "privacy",
+        "security",
+        "tech"
+      ]
+    },
     {
       "title": "Roomba maker iRobot swept into bankruptcy",
       "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
