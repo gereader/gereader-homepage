@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-15T14:28:19.715108+00:00",
-  "article_count": 1371,
+  "last_updated": "2025-12-15T18:36:29.929870+00:00",
+  "article_count": 1372,
   "articles": [
+    {
+      "title": "Roomba maker iRobot swept into bankruptcy",
+      "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
+      "published": "Mon, 15 Dec 2025 15:24:41 +0000",
+      "published_parsed": "2025-12-15T15:24:41+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Shenzhen-based Picea Robotics, its lender and primary supplier, will acquire all of iRobot’s shares.",
+      "tags": [
+        "bankrupt",
+        "biz & it",
+        "irobot",
+        "picea",
+        "roomba",
+        "syndication"
+      ]
+    },
     {
       "title": "Underscores (in Hostnames) Strike Again",
       "link": "https://blog.ipspace.net/2025/12/underscores-strike-again/?utm_source=atom_feed",
