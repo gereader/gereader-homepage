@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T02:59:05.297316+00:00",
+  "last_updated": "2025-12-15T07:27:19.479763+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -325,6 +325,19 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Underscores (in Hostnames) Strike Again",
+      "link": "https://blog.ipspace.net/2025/12/underscores-strike-again/?utm_source=atom_feed",
+      "published": "2025-12-15T07:23:00+01:00",
+      "published_parsed": "2025-12-15T07:23:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I don’t know why I decided to allow underscores in netlab node names. Maybe it’s a leftover from the ancient days when some network devices refused to accept hyphens in hostnames, or perhaps it’s a programmer’s subconscious hatred of hyphens in identifiers (no programming language I’m aware of...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
       "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
@@ -2315,18 +2328,6 @@
       "summary": "During integration testing, I find unexpected quirks in network devices way too often. However, that’s infinitely better than experiencing them in production (even after thoroughly testing stuff) while discovering that your peers don’t care about routing security, RPKI, and similar useless stuff....",
       "tags": [
         "bgp",
-        "networking"
-      ]
-    },
-    {
-      "title": "Updated: netlab Network Topology Graphs",
-      "link": "https://blog.ipspace.net/2025/09/update-netlab-graphs/?utm_source=atom_feed",
-      "published": "2025-09-16T07:39:00+02:00",
-      "published_parsed": "2025-09-16T07:39:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 25.09 introduced numerous graphing enhancements and a new graph type (IS-IS graphs), so I decided to write a series of blog posts explaining how you can generate graphs from netlab lab topologies. I wrote an intro to netlab topology graphs years ago, and as expected, it was...",
-      "tags": [
         "networking"
       ]
     }

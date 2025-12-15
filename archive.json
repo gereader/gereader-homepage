@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-15T02:59:05.279323+00:00",
-  "article_count": 1370,
+  "last_updated": "2025-12-15T07:27:19.461865+00:00",
+  "article_count": 1371,
   "articles": [
+    {
+      "title": "Underscores (in Hostnames) Strike Again",
+      "link": "https://blog.ipspace.net/2025/12/underscores-strike-again/?utm_source=atom_feed",
+      "published": "2025-12-15T07:23:00+01:00",
+      "published_parsed": "2025-12-15T07:23:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I don’t know why I decided to allow underscores in netlab node names. Maybe it’s a leftover from the ancient days when some network devices refused to accept hyphens in hostnames, or perhaps it’s a programmer’s subconscious hatred of hyphens in identifiers (no programming language I’m aware of...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
       "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
