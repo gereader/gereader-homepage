@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-16T18:36:14.432510+00:00",
-  "article_count": 1376,
+  "last_updated": "2025-12-16T23:22:33.503327+00:00",
+  "article_count": 1377,
   "articles": [
+    {
+      "title": "Software leaks point to the first Apple Silicon “iMac Pro,” among other devices",
+      "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/",
+      "published": "Tue, 16 Dec 2025 18:52:43 +0000",
+      "published_parsed": "2025-12-16T18:52:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Resurrected high-end all-in-one could be a worthy successor to 2017's iMac Pro.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "imac",
+        "mac",
+        "macos 26 tahoe",
+        "tech"
+      ]
+    },
     {
       "title": "Has Ansible Team Abandoned Network Automation?",
       "link": "https://blog.ipspace.net/2025/12/ansible-abandoned-network-automation/?utm_source=atom_feed",
