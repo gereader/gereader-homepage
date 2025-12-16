@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-16T02:53:26.095913+00:00",
-  "article_count": 128,
+  "last_updated": "2025-12-16T07:25:49.068837+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2310,19 +2310,6 @@
       "summary": "I always ask engineers reporting a netlab bug to provide a minimal lab topology that would reproduce the error, sometimes resulting in “interesting” side effects. For example, I was trying to debug a BGP-related Arista EOS issue using a netlab topology similar to this one: defaults.device: eos...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "SwiNOG 40: When a Routing Control Functions Is Too Fresh",
-      "link": "https://blog.ipspace.net/2025/09/swinog40-arista-rcf-bug/?utm_source=atom_feed",
-      "published": "2025-09-17T07:33:00+02:00",
-      "published_parsed": "2025-09-17T07:33:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "During integration testing, I find unexpected quirks in network devices way too often. However, that’s infinitely better than experiencing them in production (even after thoroughly testing stuff) while discovering that your peers don’t care about routing security, RPKI, and similar useless stuff....",
-      "tags": [
-        "bgp",
         "networking"
       ]
     }
