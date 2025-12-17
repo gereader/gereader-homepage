@@ -1,7 +1,31 @@
 {
-  "last_updated": "2025-12-17T18:37:06.345575+00:00",
-  "article_count": 1379,
+  "last_updated": "2025-12-17T23:22:36.706741+00:00",
+  "article_count": 1380,
   "articles": [
+    {
+      "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+      "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "published": "Wed, 17 Dec 2025 22:22:33 +0000",
+      "published_parsed": "2025-12-17T22:22:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New GPT Image 1.5 allows more detailed conversational image editing, for better or worse.",
+      "tags": [
+        "ai",
+        "ai image generator",
+        "ai image generators",
+        "api",
+        "biz & it",
+        "chatgpt",
+        "deepfakes",
+        "generative ai",
+        "google",
+        "image synthesis",
+        "machine learning",
+        "multimodal ai",
+        "openai"
+      ]
+    },
     {
       "title": "Browser extensions with 8 million users collect extended AI conversations",
       "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",

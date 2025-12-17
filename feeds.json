@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T18:37:06.363675+00:00",
+  "last_updated": "2025-12-17T23:22:36.724103+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -28,6 +28,8 @@
     "ai competition",
     "ai criticism",
     "ai development tools",
+    "ai image generator",
+    "ai image generators",
     "ai infrastructure",
     "ai law",
     "ai layoffs",
@@ -48,6 +50,7 @@
     "anime",
     "ansible",
     "anthropic",
+    "api",
     "api integration",
     "apple",
     "apple silicon",
@@ -104,6 +107,7 @@
     "data theft",
     "datacenters",
     "ddr5",
+    "deepfakes",
     "design",
     "dhcp",
     "dictionaries",
@@ -128,7 +132,6 @@
     "facebook",
     "fcc",
     "features",
-    "financial times",
     "firewall",
     "firewalls",
     "foundry",
@@ -199,6 +202,7 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
+    "multimodal ai",
     "musk",
     "nat",
     "navigation blog",
@@ -330,6 +334,30 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+      "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "published": "Wed, 17 Dec 2025 22:22:33 +0000",
+      "published_parsed": "2025-12-17T22:22:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New GPT Image 1.5 allows more detailed conversational image editing, for better or worse.",
+      "tags": [
+        "ai",
+        "ai image generator",
+        "ai image generators",
+        "api",
+        "biz & it",
+        "chatgpt",
+        "deepfakes",
+        "generative ai",
+        "google",
+        "image synthesis",
+        "machine learning",
+        "multimodal ai",
+        "openai"
+      ]
+    },
     {
       "title": "Browser extensions with 8 million users collect extended AI conversations",
       "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
@@ -1394,21 +1422,6 @@
         "evpn",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "UK government will buy tech to boost AI sector in $130M growth push",
-      "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
-      "published": "Mon, 24 Nov 2025 14:17:29 +0000",
-      "published_parsed": "2025-11-24T14:17:29+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Plan will offer guaranteed payments for British startups making AI hardware",
-      "tags": [
-        "ai",
-        "biz & it",
-        "financial times",
-        "syndication"
       ]
     },
     {
