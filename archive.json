@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-17T07:25:18.752411+00:00",
-  "article_count": 1377,
+  "last_updated": "2025-12-17T14:26:44.463529+00:00",
+  "article_count": 1378,
   "articles": [
+    {
+      "title": "Hilarious: HTTP Status Codes as Pizza Images",
+      "link": "https://blog.ipspace.net/2025/12/worth-reading-http-pizza/?utm_source=atom_feed",
+      "published": "2025-12-17T11:31:00+01:00",
+      "published_parsed": "2025-12-17T11:31:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Want to look up various HTTP status/error codes when troubleshooting a DNS BGP network server problem? Start at http.pizza for badly-needed stress relief (HT: Networking Notes ), then start a chat session with your new AI friend exploring more focused resources like the Wikipedia list of HTTP...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Software leaks point to the first Apple Silicon “iMac Pro,” among other devices",
       "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/",
