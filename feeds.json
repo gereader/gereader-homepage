@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T14:26:44.481625+00:00",
+  "last_updated": "2025-12-17T18:37:06.363675+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -23,6 +23,7 @@
     "ai alignment",
     "ai assistants",
     "ai benchmarks",
+    "ai bot",
     "ai coding",
     "ai competition",
     "ai criticism",
@@ -66,6 +67,7 @@
     "bob iger",
     "brendan eich",
     "bridging",
+    "browser extensions",
     "browser history",
     "cable",
     "cameras",
@@ -75,6 +77,7 @@
     "chatbots",
     "chatgpt",
     "children",
+    "chrome",
     "cisco",
     "claude",
     "cloud",
@@ -111,10 +114,9 @@
     "dram",
     "e2ee",
     "ecmascript",
+    "edge",
     "eigrp",
-    "election systems",
     "encryption",
-    "encryption keys",
     "end to end encryption",
     "enterprise ai",
     "espionage",
@@ -152,13 +154,11 @@
     "hollywood",
     "homelab",
     "hp",
-    "iacr",
     "imac",
     "image synthesis",
     "infrahub",
     "intel",
     "intellectual property",
-    "international associate for cryptological research",
     "internet",
     "ip routing",
     "ipv6",
@@ -330,6 +330,25 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Browser extensions with 8 million users collect extended AI conversations",
+      "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
+      "published": "Wed, 17 Dec 2025 15:25:25 +0000",
+      "published_parsed": "2025-12-17T15:25:25+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The extensions, available for Chromium browsers, harvest full AI conversations over months.",
+      "tags": [
+        "ai",
+        "ai bot",
+        "biz & it",
+        "browser extensions",
+        "chrome",
+        "edge",
+        "privacy",
+        "security"
+      ]
+    },
     {
       "title": "Hilarious: HTTP Status Codes as Pizza Images",
       "link": "https://blog.ipspace.net/2025/12/worth-reading-http-pizza/?utm_source=atom_feed",
@@ -1404,23 +1423,6 @@
         "netlab",
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Oops. Cryptographers cancel election results after losing decryption key.",
-      "link": "https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/",
-      "published": "Sat, 22 Nov 2025 00:16:25 +0000",
-      "published_parsed": "2025-11-22T00:16:25+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Voting system required three keys. One of them has been \"irretrievably lost.\"",
-      "tags": [
-        "biz & it",
-        "election systems",
-        "encryption keys",
-        "iacr",
-        "international associate for cryptological research",
-        "security"
       ]
     },
     {
