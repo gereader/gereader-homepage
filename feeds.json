@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-17T02:50:00.087268+00:00",
-  "article_count": 128,
+  "last_updated": "2025-12-17T07:25:18.771410+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2310,19 +2310,6 @@
       "summary": "I wrote about the optimal BGP path selection with BGP additional paths in 2021, and I probably mentioned (in one of the 360 BGP-related blog posts ) that you need it to implement IBGP load balancing in networks using BGP route reflectors. If you want to try that out, check out the IBGP Load...",
       "tags": [
         "bgp",
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Arista EOS Hates a Routing Instance with No Interfaces",
-      "link": "https://blog.ipspace.net/2025/09/eos-no-interfaces/?utm_source=atom_feed",
-      "published": "2025-09-18T07:20:00+02:00",
-      "published_parsed": "2025-09-18T07:20:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I always ask engineers reporting a netlab bug to provide a minimal lab topology that would reproduce the error, sometimes resulting in “interesting” side effects. For example, I was trying to debug a BGP-related Arista EOS issue using a netlab topology similar to this one: defaults.device: eos...",
-      "tags": [
         "netlab",
         "networking"
       ]
