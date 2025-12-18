@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T18:35:54.706168+00:00",
+  "last_updated": "2025-12-18T23:22:44.114972+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -42,6 +42,7 @@
     "ai video",
     "ai video generator",
     "ai work",
+    "aiops",
     "amazon",
     "amazon prime video",
     "amd",
@@ -57,7 +58,7 @@
     "arp",
     "artificial intelligence",
     "asml",
-    "automated diagnosis",
+    "automated troubleshooting",
     "automation",
     "aws",
     "azure",
@@ -216,7 +217,7 @@
     "network assessment",
     "network automation",
     "network management",
-    "network operations",
+    "network observability",
     "network security",
     "network visibility",
     "networking",
@@ -248,7 +249,6 @@
     "picea",
     "pixar",
     "podcast",
-    "prevent outages",
     "privacy",
     "programming",
     "prompt injections",
@@ -923,15 +923,15 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/12/thumnail-Abru-210x300.webp",
       "summary": "Network teams are under pressure from all sides. They must keep complex hybrid networks available and secure, but lack true end‑to‑end visibility, so outages, performance issues, and security gaps can...",
       "tags": [
-        "automated diagnosis",
+        "aiops",
+        "automated troubleshooting",
         "change management",
         "navigation blog",
         "network assessment",
-        "network operations",
+        "network observability",
         "network security",
         "network visibility",
-        "networking",
-        "prevent outages"
+        "networking"
       ]
     },
     {
@@ -1555,7 +1555,7 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "NetOps shapes how organizations expand, innovate, and protect their digital ecosystems. Informed by DevOps, NetOps combines hybrid architectures, distributed workloads, and artificial intelligence (AI) powered data centers into fast, adaptable,...",
       "tags": [
-        "network operations",
+        "aiops",
         "networking"
       ]
     },
@@ -1858,8 +1858,8 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "Cisco SmartNet is a 24/7 support and hardware replacement service. Also known as SmartNet Total Care (SNTC), it provides expert help, software updates, and fast hardware replacement so you can...",
       "tags": [
+        "aiops",
         "network assessment",
-        "network operations",
         "networking"
       ]
     },
@@ -1963,7 +1963,7 @@
       "image": null,
       "summary": "For decades, network teams have been fighting fires with limited visibility. We can see devices, interfaces, and links, but we’ve been missing the most critical piece: understanding what the network...",
       "tags": [
-        "network operations",
+        "aiops",
         "networking"
       ]
     },
@@ -2110,8 +2110,8 @@
       "summary": "At 2 AM on a Tuesday, a primary data center link fails. By the time the monitoring alerts wake an on-call engineer, customer transactions have been failing for 12 minutes....",
       "tags": [
         "navigation blog",
-        "networking",
-        "prevent outages"
+        "network observability",
+        "networking"
       ]
     },
     {
