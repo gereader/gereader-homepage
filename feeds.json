@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-18T02:50:06.728076+00:00",
-  "article_count": 128,
+  "last_updated": "2025-12-18T07:25:07.779144+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2325,20 +2325,6 @@
       "image": null,
       "summary": "When I was writing a blog post, I needed a link to the netlab lab topology documentation, so I searched for “netlab lab topology” (I know I’m lazy, but it felt quicker than navigating the sidebar menu). The AI overview I got was way too verbose, but it nailed the Key Concepts and How It Works well...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Use Additional BGP Paths for IBGP Load Balancing",
-      "link": "https://blog.ipspace.net/2025/09/bgp-labs-addpath/?utm_source=atom_feed",
-      "published": "2025-09-19T08:01:00+02:00",
-      "published_parsed": "2025-09-19T08:01:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://bgplabs.net/lb/topology-ibgp-add-path.png",
-      "summary": "I wrote about the optimal BGP path selection with BGP additional paths in 2021, and I probably mentioned (in one of the 360 BGP-related blog posts ) that you need it to implement IBGP load balancing in networks using BGP route reflectors. If you want to try that out, check out the IBGP Load...",
-      "tags": [
-        "bgp",
-        "netlab",
         "networking"
       ]
     }
