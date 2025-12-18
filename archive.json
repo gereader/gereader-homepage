@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-18T07:25:07.761176+00:00",
-  "article_count": 1380,
+  "last_updated": "2025-12-18T14:26:21.528683+00:00",
+  "article_count": 1381,
   "articles": [
+    {
+      "title": "How to Inject Host and Group Vars from Ansible into NetBox Config Templates",
+      "link": "https://www.packetcoders.io/how-to-inject-host-and-group-vars-from-ansible-into-netbox-config-templates/",
+      "published": "Thu, 18 Dec 2025 09:00:32 GMT",
+      "published_parsed": "2025-12-18T09:00:32+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2025/12/Tips-logo.webp",
+      "summary": "Ansible and NetBox Tip: Pass Ansible group_vars and host_vars into NetBox Config Templates by sending your Ansible vars, making them available directly within your Config Templates. Here is an example: # Ansible Playbook - name: Trigger NetBox to return rendered configuration ansible.builtin.uri:...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
       "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
