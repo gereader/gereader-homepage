@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T23:22:44.114972+00:00",
+  "last_updated": "2025-12-19T02:53:19.228468+00:00",
   "article_count": 128,
   "sources": [
     "Ars Technica - Gadgets",
@@ -44,11 +44,9 @@
     "ai work",
     "aiops",
     "amazon",
-    "amazon prime video",
     "amd",
     "amd ryzen",
     "andrej karpathy",
-    "anime",
     "ansible",
     "anthropic",
     "api",
@@ -95,9 +93,7 @@
     "copilot",
     "copyright",
     "courts",
-    "crucial",
     "crypto",
-    "culture",
     "cumulus linux",
     "cyber threats",
     "dario amodei",
@@ -106,8 +102,6 @@
     "data centers",
     "data leaks",
     "data theft",
-    "datacenters",
-    "ddr5",
     "deepfakes",
     "design",
     "dhcp",
@@ -116,7 +110,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "dram",
     "e2ee",
     "ecmascript",
     "edge",
@@ -136,7 +129,6 @@
     "firewall",
     "firewalls",
     "foundry",
-    "framework",
     "fraud",
     "fubo",
     "gaming",
@@ -150,7 +142,6 @@
     "gpt-5",
     "gpt-5.2",
     "hacking",
-    "hbm",
     "hbo",
     "hbo max",
     "high availability",
@@ -180,7 +171,6 @@
     "larry ellison",
     "layoffs",
     "ldp",
-    "lenovo",
     "licensing",
     "lisp",
     "load balancing",
@@ -189,11 +179,8 @@
     "macos 26 tahoe",
     "marc benioff",
     "marvel",
-    "memory",
-    "memory shortage",
     "merriam-webster",
     "meta",
-    "micron",
     "microsoft",
     "microsoft copilot",
     "mistral",
@@ -243,7 +230,7 @@
     "palo alto",
     "paramount",
     "pay or consent",
-    "pc building",
+    "peacock",
     "pebble",
     "performance",
     "picea",
@@ -261,18 +248,15 @@
     "retrotech",
     "roomba",
     "sam altman",
-    "samsung",
     "san",
     "sd-wan",
     "sdn",
     "security",
     "segment routing",
-    "semiconductors",
     "service providers",
     "siem",
     "simon willison",
     "simulated reasoning",
-    "sk hynix",
     "slop",
     "smart home",
     "smartphones",
@@ -289,7 +273,6 @@
     "spurious correlations",
     "sr model",
     "sr models",
-    "ssd",
     "star wars",
     "steamos",
     "streaming",
@@ -331,9 +314,59 @@
     "windows 11 25h2",
     "windows server",
     "word of the year",
-    "worth reading"
+    "worth reading",
+    "youtube"
   ],
   "articles": [
+    {
+      "title": "YouTube bans two popular channels that created fake AI movie trailers",
+      "link": "https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/",
+      "published": "Thu, 18 Dec 2025 22:39:54 +0000",
+      "published_parsed": "2025-12-18T22:39:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google loves AI content, except when it doesn't.",
+      "tags": [
+        "ai",
+        "ai video",
+        "artificial intelligence",
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Peacock showing ads upon launch opens the door for more disruptive streaming ads",
+      "link": "https://arstechnica.com/gadgets/2025/12/peacock-showing-ads-upon-launch-opens-the-door-for-more-disruptive-streaming-ads/",
+      "published": "Thu, 18 Dec 2025 22:18:21 +0000",
+      "published_parsed": "2025-12-18T22:18:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Subscribers will start seeing ads when selecting a user next year.",
+      "tags": [
+        "ads",
+        "nbcuniversal",
+        "peacock",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "RAM and SSD prices are still climbing—here’s our best advice for PC builders",
+      "link": "https://arstechnica.com/gadgets/2025/12/for-just-a-couple-of-months-in-the-middle-of-2025-it-was-an-ok-time-to-build-a-pc/",
+      "published": "Thu, 18 Dec 2025 21:31:03 +0000",
+      "published_parsed": "2025-12-18T21:31:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "I would avoid building a PC right now, but if you can't, here's our best advice.",
+      "tags": [
+        "amd",
+        "gaming",
+        "intel",
+        "nvidia",
+        "tech"
+      ]
+    },
     {
       "title": "How to Inject Host and Group Vars from Ansible into NetBox Config Templates",
       "link": "https://www.packetcoders.io/how-to-inject-host-and-group-vars-from-ansible-into-netbox-config-templates/",
@@ -1098,38 +1131,6 @@
       ]
     },
     {
-      "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
-      "link": "https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/",
-      "published": "Wed, 03 Dec 2025 19:48:47 +0000",
-      "published_parsed": "2025-12-03T19:48:47+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Micron cites AI data center demand as reason for killing DIY upgrade brand.",
-      "tags": [
-        "ai",
-        "ai infrastructure",
-        "amd",
-        "crucial",
-        "datacenters",
-        "ddr5",
-        "dram",
-        "framework",
-        "hbm",
-        "lenovo",
-        "machine learning",
-        "memory",
-        "memory shortage",
-        "micron",
-        "nvidia",
-        "pc building",
-        "samsung",
-        "semiconductors",
-        "sk hynix",
-        "ssd",
-        "tech"
-      ]
-    },
-    {
       "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
       "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
       "published": "Wed, 03 Dec 2025 18:24:06 +0000",
@@ -1156,25 +1157,6 @@
         "microsoft copilot",
         "simulated reasoning",
         "sr models"
-      ]
-    },
-    {
-      "title": "Prime Video pulls eerily emotionless AI-generated anime dubs after complaints",
-      "link": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
-      "published": "Wed, 03 Dec 2025 18:11:45 +0000",
-      "published_parsed": "2025-12-03T18:11:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "In some cases, better dubs already existed.",
-      "tags": [
-        "ai",
-        "amazon",
-        "amazon prime video",
-        "anime",
-        "culture",
-        "generative ai",
-        "streaming",
-        "tech"
       ]
     },
     {
@@ -1237,21 +1219,6 @@
         "sundar pichai",
         "vibemark",
         "vibemarking"
-      ]
-    },
-    {
-      "title": "Mad Men’s 4K debut botched by HBO Max streaming episode with visible crewmembers",
-      "link": "https://arstechnica.com/gadgets/2025/12/mad-mens-4k-debut-botched-by-hbo-max-streaming-episode-with-visible-crewmembers/",
-      "published": "Tue, 02 Dec 2025 21:52:10 +0000",
-      "published_parsed": "2025-12-02T21:52:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Producer Lionsgate reportedly contributed to the gaffe.",
-      "tags": [
-        "hbo max",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {

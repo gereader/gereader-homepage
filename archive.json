@@ -1,7 +1,56 @@
 {
-  "last_updated": "2025-12-18T23:22:44.096970+00:00",
-  "article_count": 1381,
+  "last_updated": "2025-12-19T02:53:19.210292+00:00",
+  "article_count": 1384,
   "articles": [
+    {
+      "title": "YouTube bans two popular channels that created fake AI movie trailers",
+      "link": "https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/",
+      "published": "Thu, 18 Dec 2025 22:39:54 +0000",
+      "published_parsed": "2025-12-18T22:39:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google loves AI content, except when it doesn't.",
+      "tags": [
+        "ai",
+        "ai video",
+        "artificial intelligence",
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Peacock showing ads upon launch opens the door for more disruptive streaming ads",
+      "link": "https://arstechnica.com/gadgets/2025/12/peacock-showing-ads-upon-launch-opens-the-door-for-more-disruptive-streaming-ads/",
+      "published": "Thu, 18 Dec 2025 22:18:21 +0000",
+      "published_parsed": "2025-12-18T22:18:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Subscribers will start seeing ads when selecting a user next year.",
+      "tags": [
+        "ads",
+        "nbcuniversal",
+        "peacock",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "RAM and SSD prices are still climbing—here’s our best advice for PC builders",
+      "link": "https://arstechnica.com/gadgets/2025/12/for-just-a-couple-of-months-in-the-middle-of-2025-it-was-an-ok-time-to-build-a-pc/",
+      "published": "Thu, 18 Dec 2025 21:31:03 +0000",
+      "published_parsed": "2025-12-18T21:31:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "I would avoid building a PC right now, but if you can't, here's our best advice.",
+      "tags": [
+        "amd",
+        "gaming",
+        "intel",
+        "nvidia",
+        "tech"
+      ]
+    },
     {
       "title": "How to Inject Host and Group Vars from Ansible into NetBox Config Templates",
       "link": "https://www.packetcoders.io/how-to-inject-host-and-group-vars-from-ansible-into-netbox-config-templates/",
