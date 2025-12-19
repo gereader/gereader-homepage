@@ -1,7 +1,46 @@
 {
-  "last_updated": "2025-12-19T18:34:07.017702+00:00",
-  "article_count": 1385,
+  "last_updated": "2025-12-19T23:22:06.137428+00:00",
+  "article_count": 1387,
   "articles": [
+    {
+      "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
+      "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
+      "published": "Fri, 19 Dec 2025 21:18:07 +0000",
+      "published_parsed": "2025-12-19T21:18:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "LG says it'll let people delete the Copilot icon. But TV chatbots aren't going away.",
+      "tags": [
+        "ai",
+        "chatbots",
+        "copilot",
+        "generative ai",
+        "lg",
+        "microsoft",
+        "samsung",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Riot Games is making an anti-cheat change that could be rough on older PCs",
+      "link": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/",
+      "published": "Fri, 19 Dec 2025 20:27:36 +0000",
+      "published_parsed": "2025-12-19T20:27:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "BIOS checks will only affect a limited subset of Valorant players for now.",
+      "tags": [
+        "amd",
+        "anti-cheat",
+        "gaming",
+        "intel",
+        "riot games",
+        "tech",
+        "valorant",
+        "vanguard"
+      ]
+    },
     {
       "title": "Happy Holidays and All the Best in 2026!",
       "link": "https://blog.ipspace.net/2025/12/wrapup-2025/?utm_source=atom_feed",
