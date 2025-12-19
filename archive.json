@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-19T07:24:13.793243+00:00",
-  "article_count": 1384,
+  "last_updated": "2025-12-19T14:24:22.807205+00:00",
+  "article_count": 1385,
   "articles": [
+    {
+      "title": "Happy Holidays and All the Best in 2026!",
+      "link": "https://blog.ipspace.net/2025/12/wrapup-2025/?utm_source=atom_feed",
+      "published": "2025-12-19T10:01:00+00:00",
+      "published_parsed": "2025-12-19T10:01:00+00:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "They say time goes faster as you get older, and it seems to be true. Another year has (almost) gone by. Try to disconnect from the crazy pace of the networking world, forget the “ vibe coding with AI will make engineers obsolete ” stupidities (hint: Fifth Generation Languages and Natural Language...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "YouTube bans two popular channels that created fake AI movie trailers",
       "link": "https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/",
