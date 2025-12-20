@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-20T07:20:20.329977+00:00",
-  "article_count": 128,
+  "last_updated": "2025-12-20T14:20:24.788148+00:00",
+  "article_count": 127,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2272,19 +2272,6 @@
       "summary": "Last week, I explained how to generate network topology graphs (using GraphViz or D2 graphing engines) from a netlab lab topology . Let’s see how we can make them look nicer (or at least more informative). We’ll work with a simple leaf-and-spine topology with four nodes 1 : Baseline leaf-and-spine...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Getting Started With Infrahub MCP Server",
-      "link": "https://www.packetswitch.co.uk/getting-started-with-infrahub-mcp-server/",
-      "published": "Sun, 21 Sep 2025 09:59:53 GMT",
-      "published_parsed": "2025-09-21T09:59:53+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/09/schema-library-10-.png",
-      "summary": "In this post, we’ll be looking at how to use the Infrahub MCP server. But, before we get there, we’ll go through some background on Model Context Protocol (MCP) itself",
-      "tags": [
-        "infrahub",
         "networking"
       ]
     }
