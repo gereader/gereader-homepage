@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-21T02:58:49.050869+00:00",
-  "article_count": 127,
+  "last_updated": "2025-12-21T07:22:05.711889+00:00",
+  "article_count": 126,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2260,19 +2260,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Changing Colors and Line Styles in netlab Graphs",
-      "link": "https://blog.ipspace.net/2025/09/netlab-graphs-colors-lines/?utm_source=atom_feed",
-      "published": "2025-09-22T07:38:00+02:00",
-      "published_parsed": "2025-09-22T07:38:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Last week, I explained how to generate network topology graphs (using GraphViz or D2 graphing engines) from a netlab lab topology . Let’s see how we can make them look nicer (or at least more informative). We’ll work with a simple leaf-and-spine topology with four nodes 1 : Baseline leaf-and-spine...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
