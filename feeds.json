@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-22T03:01:02.682309+00:00",
-  "article_count": 126,
+  "last_updated": "2025-12-22T07:26:55.505858+00:00",
+  "article_count": 125,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2247,19 +2247,6 @@
         "bgp",
         "cisco",
         "networking"
-      ]
-    },
-    {
-      "title": "SwiNOG 40: Deploying Precision Time Protocol across WAN",
-      "link": "https://blog.ipspace.net/2025/09/swinog40-ptp-wan/?utm_source=atom_feed",
-      "published": "2025-09-23T07:33:00+02:00",
-      "published_parsed": "2025-09-23T07:33:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Is it possible to deploy Precision Time Protocol across a country-wide WAN network and reach nanosecond-level synchronization between cities? It’s definitely not trivial and only works over dedicated infrastructure; for more details, watch the PTP in WANs ( video ) presentation Oliver Ettlin had at...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
