@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-23T02:55:35.800787+00:00",
-  "article_count": 124,
+  "last_updated": "2025-12-23T07:26:39.902531+00:00",
+  "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2220,19 +2220,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Start a Lab From a GitHub netlab Topology File",
-      "link": "https://blog.ipspace.net/2025/09/netlab-download-url/?utm_source=atom_feed",
-      "published": "2025-09-24T07:37:00+02:00",
-      "published_parsed": "2025-09-24T07:37:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Someone approached me after my NOG.HR netlab presentation and said: “ wouldn’t it be great if we could just start the lab from an example topology published on GitHub? ” It took me almost a year to get it done, but the functionality finally made it into the 25.09 release : Read more …",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
