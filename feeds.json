@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T07:26:39.902531+00:00",
+  "last_updated": "2025-12-23T14:24:13.606202+00:00",
   "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
@@ -41,7 +41,6 @@
     "ai video",
     "ai video generator",
     "ai work",
-    "aiops",
     "amazon",
     "amd",
     "amd ryzen",
@@ -50,13 +49,11 @@
     "anthropic",
     "anti-cheat",
     "api",
-    "api integration",
     "apple",
     "apple silicon",
     "arp",
     "artificial intelligence",
     "asml",
-    "automated troubleshooting",
     "automation",
     "aws",
     "azure",
@@ -71,7 +68,6 @@
     "cable",
     "cameras",
     "certifications",
-    "change management",
     "chantal shaib",
     "chatbots",
     "chatgpt",
@@ -83,7 +79,6 @@
     "cloud computing",
     "code agents",
     "codex",
-    "company news",
     "containerlab",
     "containers",
     "contractors",
@@ -92,7 +87,6 @@
     "courts",
     "crypto",
     "cumulus linux",
-    "cyber threats",
     "dario amodei",
     "dark web",
     "data center",
@@ -189,19 +183,14 @@
     "multimodal ai",
     "musk",
     "nat",
-    "navigation blog",
     "nbcuniversal",
     "netconf",
     "netdevops",
     "netflix",
     "netlab",
     "network",
-    "network assessment",
     "network automation",
     "network management",
-    "network observability",
-    "network security",
-    "network visibility",
     "networking",
     "networking fundamentals",
     "nfv",
@@ -248,7 +237,6 @@
     "security",
     "segment routing",
     "service providers",
-    "siem",
     "simon willison",
     "simulated reasoning",
     "slop",
@@ -262,7 +250,6 @@
     "software gone wild",
     "sora",
     "spam",
-    "splunk",
     "sports",
     "spurious correlations",
     "sr model",
@@ -280,7 +267,6 @@
     "trademark",
     "traffic engineering",
     "training",
-    "troubleshooting",
     "tvs",
     "twitter",
     "valorant",
@@ -998,14 +984,6 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/12/thumnail-Abru-210x300.webp",
       "summary": "Network teams are under pressure from all sides. They must keep complex hybrid networks available and secure, but lack true end‑to‑end visibility, so outages, performance issues, and security gaps can...",
       "tags": [
-        "aiops",
-        "automated troubleshooting",
-        "change management",
-        "navigation blog",
-        "network assessment",
-        "network observability",
-        "network security",
-        "network visibility",
         "networking"
       ]
     },
@@ -1514,7 +1492,6 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "NetOps shapes how organizations expand, innovate, and protect their digital ecosystems. Informed by DevOps, NetOps combines hybrid architectures, distributed workloads, and artificial intelligence (AI) powered data centers into fast, adaptable,...",
       "tags": [
-        "aiops",
         "networking"
       ]
     },
@@ -1595,7 +1572,6 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/11/Human-AI-Twin-Circle-300x300.png",
       "summary": "Artificial Intelligence promises a self-healing, autonomous network. For today’s NetOps teams, that promise often feels hollow. The reality is that most AI tools are bolted on – built on a...",
       "tags": [
-        "network visibility",
         "networking"
       ]
     },
@@ -1687,14 +1663,7 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "Modern network security is facing more complex and sophisticated threats. Automated incident response is the tool enterprise networks need to ensure business continuity. Automation solutions provide the intelligence and agility...",
       "tags": [
-        "api integration",
-        "cyber threats",
-        "network security",
-        "networking",
-        "security",
-        "siem",
-        "splunk",
-        "troubleshooting"
+        "networking"
       ]
     },
     {
@@ -1706,8 +1675,6 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2023/08/What-Is-Zero-Trust-Architecture.jpg",
       "summary": "Cybersecurity threats change quickly. Thankfully, security measures can also quickly evolve to keep up with new threats online. Zero Trust security is a key update that every company needs to...",
       "tags": [
-        "navigation blog",
-        "network security",
         "networking"
       ]
     },
@@ -1720,8 +1687,6 @@
       "image": null,
       "summary": "NetBrain LIVE 2025 wrapped up last month, but delivered a bold prediction: AI and automation will halve Mean Time to Repair (MTTR) every 12-18 months. More specifically, CEO Lingping Gao...",
       "tags": [
-        "company news",
-        "navigation blog",
         "networking"
       ]
     },
@@ -1734,9 +1699,6 @@
       "image": null,
       "summary": "There was a time when a network could be captured in a single Visio diagram. Teams could gather around a printed map and literally point to where a problem was...",
       "tags": [
-        "company news",
-        "navigation blog",
-        "network visibility",
         "networking"
       ]
     },
@@ -1817,8 +1779,6 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "Cisco SmartNet is a 24/7 support and hardware replacement service. Also known as SmartNet Total Care (SNTC), it provides expert help, software updates, and fast hardware replacement so you can...",
       "tags": [
-        "aiops",
-        "network assessment",
         "networking"
       ]
     },
@@ -1887,6 +1847,19 @@
       ]
     },
     {
+      "title": "Docker Networking (Bridge, Host and None Drivers)",
+      "link": "https://www.packetswitch.co.uk/docker-series-networking-and-ip-addresses/",
+      "published": "Mon, 20 Oct 2025 18:42:00 GMT",
+      "published_parsed": "2025-10-20T18:42:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/03/docker-series.png",
+      "summary": "In this post, we will focus on the bridge, host and none Docker Network Drivers. Containers have networking enabled by default, and they can make outgoing connections.",
+      "tags": [
+        "docker",
+        "networking"
+      ]
+    },
+    {
       "title": "netlab: Embed Files in a Lab Topology",
       "link": "https://blog.ipspace.net/2025/10/netlab-embedded-files/?utm_source=atom_feed",
       "published": "2025-10-20T09:45:00+02:00",
@@ -1922,7 +1895,6 @@
       "image": null,
       "summary": "For decades, network teams have been fighting fires with limited visibility. We can see devices, interfaces, and links, but we’ve been missing the most critical piece: understanding what the network...",
       "tags": [
-        "aiops",
         "networking"
       ]
     },
@@ -2068,8 +2040,6 @@
       "image": null,
       "summary": "At 2 AM on a Tuesday, a primary data center link fails. By the time the monitoring alerts wake an on-call engineer, customer transactions have been failing for 12 minutes....",
       "tags": [
-        "navigation blog",
-        "network observability",
         "networking"
       ]
     },
@@ -2207,19 +2177,6 @@
       "summary": "I made most of the Ansible for Networking Engineers webinar public; you can watch those videos without an ipSpace.net account. Watch the videos Want to spend more time watching free ipSpace.net videos? The complete list is here .",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Validate your Jinja Templates with j2lint",
-      "link": "https://www.packetcoders.io/validate-your-jinja-templates-with-j2lint/",
-      "published": "Wed, 24 Sep 2025 08:33:15 GMT",
-      "published_parsed": "2025-09-24T08:33:15+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/09/Untitled-design--93--1.webp",
-      "summary": "Jinja Tip: Validate and check your Jinja templates for syntax errors with j2lint. Ideal for integrating into a CI pipeline. ➜ https://github.com/aristanetworks/j2lint Here is an example below 👇 $ uv tool install j2lint $ cat config.j2 hostname {%for int in interfaces%} interface ip address...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
