@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-24T07:26:40.321204+00:00",
-  "article_count": 122,
+  "last_updated": "2025-12-24T14:22:43.017580+00:00",
+  "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -51,6 +51,7 @@
     "api",
     "apple",
     "apple silicon",
+    "arista",
     "arp",
     "artificial intelligence",
     "asml",
@@ -149,6 +150,7 @@
     "ipv6",
     "irobot",
     "is-is",
+    "ise",
     "jailbreaking",
     "jinja",
     "kindle",
@@ -294,6 +296,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Arista Radius Administrator Login with Cisco ISE",
+      "link": "https://www.packetswitch.co.uk/arista-radius-administrator-login-with-cisco-ise/",
+      "published": "Wed, 24 Dec 2025 12:00:19 GMT",
+      "published_parsed": "2025-12-24T12:00:19+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/12/blog-banners-all.png",
+      "summary": "Arista comes with two built-in roles called network-admin and network-operator. ISE then responds with either access-accept or access-reject",
+      "tags": [
+        "arista",
+        "ise",
+        "networking"
+      ]
+    },
     {
       "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
       "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
