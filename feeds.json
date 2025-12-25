@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T02:56:02.976696+00:00",
-  "article_count": 123,
+  "last_updated": "2025-12-25T07:24:36.280576+00:00",
+  "article_count": 122,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2166,20 +2166,6 @@
       "tags": [
         "dhcp",
         "ipv6",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Protect IS-IS Routing Data with MD5 Authentication",
-      "link": "https://blog.ipspace.net/2025/09/isis-lab-authenticate/?utm_source=atom_feed",
-      "published": "2025-09-26T07:40:00+02:00",
-      "published_parsed": "2025-09-26T07:40:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://isis.bgplabs.net/feature/topology-md5.png",
-      "summary": "Like OSPF and BGP, IS-IS contains a simple mechanism to authenticate routing traffic – IS-IS packets can include a cleartext password or an MD5 - or SHA hash . Unlike OSPF, IS-IS can also authenticate: The hello packets exchanged between routers The contents of Link State PDUs flooded across an...",
-      "tags": [
-        "is-is",
-        "netlab",
         "networking"
       ]
     }
