@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T07:24:36.280576+00:00",
-  "article_count": 122,
+  "last_updated": "2025-12-25T14:22:38.878580+00:00",
+  "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -296,6 +296,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "FortiGate Radius Administrator Login with Cisco ISE",
+      "link": "https://www.packetswitch.co.uk/fortigate-radius-administrator-login-with-cisco-ise/",
+      "published": "Thu, 25 Dec 2025 10:27:49 GMT",
+      "published_parsed": "2025-12-25T10:27:49+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/12/blog-banners-all-1-.png",
+      "summary": "You can assign different admin profiles based on who is logging in, without creating local users on every firewall. In this post, we will look at",
+      "tags": [
+        "firewall",
+        "ise",
+        "networking"
+      ]
+    },
     {
       "title": "Arista Radius Administrator Login with Cisco ISE",
       "link": "https://www.packetswitch.co.uk/arista-radius-administrator-login-with-cisco-ise/",
