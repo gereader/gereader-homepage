@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T18:33:46.821859+00:00",
-  "article_count": 1390,
+  "last_updated": "2025-12-26T23:22:24.613046+00:00",
+  "article_count": 1391,
   "articles": [
     {
       "title": "FortiGate Radius Administrator Login with Cisco ISE",
@@ -5787,6 +5787,20 @@
       "tags": [
         "bgp",
         "networking"
+      ]
+    },
+    {
+      "title": "Configuring Palo Alto Administrator Authentication with Cisco ISE (Radius)",
+      "link": "https://www.packetswitch.co.uk/configuring-palo-alto-administrator-authentication-with-cisco-ise/",
+      "published": "Tue, 16 Sep 2025 09:14:00 GMT",
+      "published_parsed": "2025-09-16T09:14:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/12/blog-banners-all-2-.png",
+      "summary": "You can use Radius to authenticate users into the Palo Alto Firewall. You can also use Radius to manage authorization by defining VSAs",
+      "tags": [
+        "ise",
+        "networking",
+        "palo alto"
       ]
     },
     {
