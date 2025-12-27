@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-27T18:32:21.609465+00:00",
-  "article_count": 1391,
+  "last_updated": "2025-12-27T23:21:27.339933+00:00",
+  "article_count": 1392,
   "articles": [
+    {
+      "title": "What Is BGP Confederation?",
+      "link": "https://www.packetswitch.co.uk/what-is-bgp-confederation/",
+      "published": "Sat, 27 Dec 2025 18:39:15 GMT",
+      "published_parsed": "2025-12-27T18:39:15+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/09/bgp-multi-home-5-.png",
+      "summary": "BGP confederations help solve this problem by dividing a large autonomous system into smaller sub-autonomous systems (sub-AS). Routers within the",
+      "tags": [
+        "bgp",
+        "networking"
+      ]
+    },
     {
       "title": "FortiGate Radius Administrator Login with Cisco ISE",
       "link": "https://www.packetswitch.co.uk/fortigate-radius-administrator-login-with-cisco-ise/",
