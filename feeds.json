@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-28T03:06:32.676674+00:00",
-  "article_count": 124,
+  "last_updated": "2025-12-28T07:22:57.739636+00:00",
+  "article_count": 123,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2179,20 +2179,6 @@
       "summary": "After I published the updated netlab topology graphs article, Samuel K. Lam quickly made a comment along the lines of now we know how the graph representing the following topology was made , adding a nice ASCII art that illustrated the point I was trying to make much better than my graphs: ASCII...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Android Phones Might Ask for /64 Delegated Prefix",
-      "link": "https://blog.ipspace.net/2025/09/android-dhcpv6-prefix-delegation/?utm_source=atom_feed",
-      "published": "2025-09-29T07:43:00+02:00",
-      "published_parsed": "2025-09-29T07:43:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I’m too old to be fighting with windmills, but sometimes I have to get a rant off my chest. This one was triggered by the latest episode of the hilarious 1 “DHCPv6 on Android” soap opera In a 720-degree turnaround, Android 11 supports DHCPv6, but only for prefix delegation purposes . Yes, you got...",
-      "tags": [
-        "dhcp",
-        "ipv6",
         "networking"
       ]
     }
