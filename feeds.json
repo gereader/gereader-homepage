@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-29T03:06:41.524021+00:00",
-  "article_count": 123,
+  "last_updated": "2025-12-29T07:28:40.029195+00:00",
+  "article_count": 122,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2167,19 +2167,6 @@
         "netlab",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Changing the Layout of netlab Topology Graphs",
-      "link": "https://blog.ipspace.net/2025/09/netlab-graphs-layout/?utm_source=atom_feed",
-      "published": "2025-09-30T07:26:00+02:00",
-      "published_parsed": "2025-09-30T07:26:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2025/09/bl-topology.png",
-      "summary": "After I published the updated netlab topology graphs article, Samuel K. Lam quickly made a comment along the lines of now we know how the graph representing the following topology was made , adding a nice ASCII art that illustrated the point I was trying to make much better than my graphs: ASCII...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
