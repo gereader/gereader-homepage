@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-31T07:26:25.059082+00:00",
-  "article_count": 121,
+  "last_updated": "2025-12-31T14:23:05.404119+00:00",
+  "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2136,19 +2136,6 @@
       "summary": "In this challenge lab, you’ll configure a BIRD daemon running in a container as a BGP route reflector in a transit autonomous system. You should be familiar with the configuration concepts if you completed the IBGP lab exercises , but will probably struggle with BIRD configuration if you’re not...",
       "tags": [
         "bgp",
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab: Applying Simple Configuration Changes",
-      "link": "https://blog.ipspace.net/2025/10/netlab-simple-configuration-changes/?utm_source=atom_feed",
-      "published": "2025-10-02T08:19:00+00:00",
-      "published_parsed": "2025-10-02T08:19:00+00:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "For years, netlab has had custom configuration templates that can be used to deploy custom configurations onto lab devices. The custom configuration templates can be Jinja2 templates, and you can create different templates (for the same functionality) for different platforms . However, using that...",
-      "tags": [
         "netlab",
         "networking"
       ]
