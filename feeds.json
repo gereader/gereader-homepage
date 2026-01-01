@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-01T03:08:08.612522+00:00",
-  "article_count": 121,
+  "last_updated": "2026-01-01T07:26:13.296029+00:00",
+  "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2135,20 +2135,6 @@
       "summary": "In this post, we’ll look at how to take Wireshark Packet Captures in Containerlab labs. We will look at both Edgeshark and VS Code Extension.",
       "tags": [
         "containerlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Using BIRD BGP Daemon as a BGP Route Reflector",
-      "link": "https://blog.ipspace.net/2025/10/bgp-labs-bird-rr/?utm_source=atom_feed",
-      "published": "2025-10-03T07:51:00+02:00",
-      "published_parsed": "2025-10-03T07:51:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://bgplabs.net/challenge/topology-bird-rr.png",
-      "summary": "In this challenge lab, you’ll configure a BIRD daemon running in a container as a BGP route reflector in a transit autonomous system. You should be familiar with the configuration concepts if you completed the IBGP lab exercises , but will probably struggle with BIRD configuration if you’re not...",
-      "tags": [
-        "bgp",
-        "netlab",
         "networking"
       ]
     }
