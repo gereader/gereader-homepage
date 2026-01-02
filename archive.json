@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-02T18:34:17.244753+00:00",
-  "article_count": 1393,
+  "last_updated": "2026-01-02T23:21:42.413668+00:00",
+  "article_count": 1394,
   "articles": [
     {
       "title": "You're Not Alone: Business Cases, AI, and Real Conversations",
@@ -2897,6 +2897,18 @@
       "summary": "My first encounter with Ansible release 12 wasn’t exactly encouraging. We were using a few Ansible Jinja2 filters ( ipaddr and hwaddr ) in internal netlab templates, and all of a sudden those templates started crashing due to some weird behavior of attributes starting with underscore. We...",
       "tags": [
         "ansible",
+        "networking"
+      ]
+    },
+    {
+      "title": "Demystifying Retrieval-Augmented Generation (RAG)",
+      "link": "https://www.netbraintech.com/blog/rag/",
+      "published": "2025-11-02T17:35:59Z",
+      "published_parsed": "2025-11-02T17:35:59+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "RAG is revolutionizing AI by blending generative creativity with real-time data precision—delivering accurate, reliable solutions for complex business challenges.",
+      "tags": [
         "networking"
       ]
     },

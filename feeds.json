@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T18:34:17.261972+00:00",
+  "last_updated": "2026-01-02T23:21:42.432062+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -1697,6 +1697,18 @@
       ]
     },
     {
+      "title": "Demystifying Retrieval-Augmented Generation (RAG)",
+      "link": "https://www.netbraintech.com/blog/rag/",
+      "published": "2025-11-02T17:35:59Z",
+      "published_parsed": "2025-11-02T17:35:59+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "RAG is revolutionizing AI by blending generative creativity with real-time data precision—delivering accurate, reliable solutions for complex business challenges.",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
       "title": "Build BGP Labs in Minutes, Not Hours with Netlab",
       "link": "https://www.packetswitch.co.uk/build-bgp-labs-in-minutes-not-hours-with-netlab/",
       "published": "Sun, 02 Nov 2025 13:29:43 GMT",
@@ -2082,18 +2094,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "TL&DR: You shouldn’t see any immediate impact of this change, but I’ll eventually clean up old stuff, so you might want to check the URLs if you use RSS/Atom feeds to get the list of ipSpace.net blog posts or podcast episodes. The (hopefully) final URLs are listed on this page . Executive Summary:...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "The Three Levels of Self-Healing Networks: From Auto-Detection to True Autonomy",
-      "link": "https://www.netbraintech.com/blog/self-healing-networks/",
-      "published": "2025-10-07T18:52:31Z",
-      "published_parsed": "2025-10-07T18:52:31+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "At 2 AM on a Tuesday, a primary data center link fails. By the time the monitoring alerts wake an on-call engineer, customer transactions have been failing for 12 minutes....",
       "tags": [
         "networking"
       ]
