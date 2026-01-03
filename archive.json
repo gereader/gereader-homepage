@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-01-03T14:21:08.378836+00:00",
-  "article_count": 1394,
+  "last_updated": "2026-01-03T18:32:30.532057+00:00",
+  "article_count": 1399,
   "articles": [
+    {
+      "title": "“Streaming stops feeling infinite”: What subscribers can expect in 2026",
+      "link": "https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/",
+      "published": "Thu, 01 Jan 2026 13:00:18 +0000",
+      "published_parsed": "2026-01-01T13:00:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Streaming may get a little worse before it gets better.",
+      "tags": [
+        "hbo max",
+        "netflix",
+        "paramount plus",
+        "paramount skydance",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "You're Not Alone: Business Cases, AI, and Real Conversations",
       "link": "https://networkautomation.forum/blog/autocon-4-in-review-what-you-told-us",
@@ -12,6 +30,40 @@
       "summary": "AutoCon 4 descended on Austin, Texas the week before Thanksgiving, and based on the post-event survey results, the community showed up in force and left energized. Over 700 people attended the main conference and 250+ participated in the pre-event workshops. We asked everyone to tell us what they...",
       "tags": [
         "networking"
+      ]
+    },
+    {
+      "title": "Remembering what Windows 10 did right—and how it made modern Windows more annoying",
+      "link": "https://arstechnica.com/gadgets/2025/12/remembering-the-best-and-worst-about-windows-10-on-the-year-it-technically-died/",
+      "published": "Mon, 29 Dec 2025 13:00:01 +0000",
+      "published_parsed": "2025-12-29T13:00:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Remembering Windows 10's rollout can help diagnose what ails Windows 11.",
+      "tags": [
+        "microsoft",
+        "tech",
+        "windows",
+        "windows 10",
+        "windows 10 22h2",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "I switched to eSIM in 2025, and I am full of regret",
+      "link": "https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/",
+      "published": "Mon, 29 Dec 2025 12:45:50 +0000",
+      "published_parsed": "2025-12-29T12:45:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Swapping SIM cards used to be easy, and then came eSIM.",
+      "tags": [
+        "esim",
+        "google",
+        "pixel 10",
+        "smartphones",
+        "tech"
       ]
     },
     {
@@ -53,6 +105,38 @@
         "arista",
         "ise",
         "networking"
+      ]
+    },
+    {
+      "title": "FCC’s import ban on the best new drones starts today",
+      "link": "https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/",
+      "published": "Tue, 23 Dec 2025 17:29:57 +0000",
+      "published_parsed": "2025-12-23T17:29:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "US drone makers are happy—US drone hobbyists, not so much.",
+      "tags": [
+        "dji",
+        "drones",
+        "fcc",
+        "policy",
+        "tech",
+        "unmanned aircraft systems"
+      ]
+    },
+    {
+      "title": "The Splay is a subpar monitor but an exciting portable projector",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/",
+      "published": "Tue, 23 Dec 2025 12:30:06 +0000",
+      "published_parsed": "2025-12-23T12:30:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Splay can be a monitor and takes a lot of the stress out of projectors, too.",
+      "tags": [
+        "monitors",
+        "projectors",
+        "reviews",
+        "tech"
       ]
     },
     {
