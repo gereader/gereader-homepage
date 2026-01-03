@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-03T07:21:37.377268+00:00",
-  "article_count": 120,
+  "last_updated": "2026-01-03T14:21:08.397366+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2123,19 +2123,6 @@
       "tags": [
         "networking",
         "virtualization"
-      ]
-    },
-    {
-      "title": "How to Take Packet Captures in ContainerLab/Netlab?",
-      "link": "https://www.packetswitch.co.uk/how-to-take-packet-captures-in-containerlab-netlab/",
-      "published": "Sun, 05 Oct 2025 11:31:04 GMT",
-      "published_parsed": "2025-10-05T11:31:04+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/09/containerlab-wireshark.png",
-      "summary": "In this post, we’ll look at how to take Wireshark Packet Captures in Containerlab labs. We will look at both Edgeshark and VS Code Extension.",
-      "tags": [
-        "containerlab",
-        "networking"
       ]
     }
   ]
