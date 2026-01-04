@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-03T23:22:19.086339+00:00",
-  "article_count": 1399,
+  "last_updated": "2026-01-04T03:09:16.161384+00:00",
+  "article_count": 1404,
   "articles": [
     {
       "title": "“Streaming stops feeling infinite”: What subscribers can expect in 2026",
@@ -30,6 +30,99 @@
       "summary": "AutoCon 4 descended on Austin, Texas the week before Thanksgiving, and based on the post-event survey results, the community showed up in force and left energized. Over 700 people attended the main conference and 250+ participated in the pre-event workshops. We asked everyone to tell us what they...",
       "tags": [
         "networking"
+      ]
+    },
+    {
+      "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+      "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+      "published": "Wed, 31 Dec 2025 13:15:40 +0000",
+      "published_parsed": "2025-12-31T13:15:40+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
+      "tags": [
+        "2025 year end",
+        "ai",
+        "apple",
+        "biz & it",
+        "cloud",
+        "security",
+        "signal messenger",
+        "supply chain attacks"
+      ]
+    },
+    {
+      "title": "From prophet to product: How AI came back down to earth in 2025",
+      "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+      "published": "Wed, 31 Dec 2025 12:00:31 +0000",
+      "published_parsed": "2025-12-31T12:00:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
+      "tags": [
+        "2025",
+        "ai",
+        "ai alignment",
+        "ai and work",
+        "ai coding",
+        "ai criticism",
+        "ai ethics",
+        "ai hallucination",
+        "ai infrastructure",
+        "ai regulation",
+        "ai research",
+        "ai sycophancy",
+        "anthropic",
+        "biz & it",
+        "character.ai",
+        "chatbots",
+        "chatgpt",
+        "confabulation",
+        "dario amodei",
+        "datacenters",
+        "deepseek",
+        "features",
+        "generative ai",
+        "google",
+        "large language models",
+        "machine learning",
+        "nvidia",
+        "openai",
+        "sam altman",
+        "simulated reasoning",
+        "sr models"
+      ]
+    },
+    {
+      "title": "Condé Nast user database reportedly breached, Ars unaffected",
+      "link": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
+      "published": "Tue, 30 Dec 2025 18:45:54 +0000",
+      "published_parsed": "2025-12-30T18:45:54+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A serious data breach has occurred, but Ars users have nothing to worry about.",
+      "tags": [
+        "biz & it",
+        "conde nast",
+        "hacking",
+        "user accounts",
+        "user privacy"
+      ]
+    },
+    {
+      "title": "GPS is vulnerable to jamming—here’s how we might fix it",
+      "link": "https://arstechnica.com/information-technology/2025/12/gps-is-vulnerable-to-jamming-heres-how-we-might-fix-it/",
+      "published": "Mon, 29 Dec 2025 15:10:16 +0000",
+      "published_parsed": "2025-12-29T15:10:16+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "GPS jamming has gotten cheap and easy, but there are potential solutions.",
+      "tags": [
+        "biz & it",
+        "gps",
+        "interference",
+        "jamming",
+        "satellites"
       ]
     },
     {
@@ -91,6 +184,33 @@
         "firewall",
         "ise",
         "networking"
+      ]
+    },
+    {
+      "title": "How AI coding agents work—and what to remember if you use them",
+      "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+      "published": "Wed, 24 Dec 2025 12:00:27 +0000",
+      "published_parsed": "2025-12-24T12:00:27+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "From compression tricks to multi-agent teamwork, here's what makes them tick.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai work",
+        "anthropic",
+        "biz & it",
+        "claude code",
+        "codex",
+        "context windows",
+        "large language models",
+        "machine learning",
+        "openai",
+        "programming",
+        "software development",
+        "vibe coding"
       ]
     },
     {
