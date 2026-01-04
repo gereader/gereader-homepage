@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-04T03:09:16.178849+00:00",
-  "article_count": 119,
+  "last_updated": "2026-01-04T07:23:59.014680+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2112,19 +2112,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "Spaghetti Pasta Networking",
-      "link": "https://blog.ipspace.net/2025/10/spaghetti-pasta-networking/?utm_source=atom_feed",
-      "published": "2025-10-06T08:15:00+02:00",
-      "published_parsed": "2025-10-06T08:15:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Here’s an interesting data point in case you ever wondered why things are getting slower, even though the CPU performance is supposedly increasing. Albert Siersema sent me a link to a confusing implementation of spaghetti networking . It looks like they’re trying to solve the how do I connect two...",
-      "tags": [
-        "networking",
-        "virtualization"
       ]
     }
   ]
