@@ -1,7 +1,80 @@
 {
-  "last_updated": "2026-01-05T18:37:35.244688+00:00",
-  "article_count": 1405,
+  "last_updated": "2026-01-05T23:23:37.270252+00:00",
+  "article_count": 1409,
   "articles": [
+    {
+      "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
+      "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+      "published": "Mon, 05 Jan 2026 21:42:14 +0000",
+      "published_parsed": "2026-01-05T21:42:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Californians can now submit demands requiring 500 brokers to delete their data.",
+      "tags": [
+        "biz & it",
+        "california",
+        "data brokers",
+        "personal information",
+        "policy",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "title": "Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87",
+      "link": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
+      "published": "Mon, 05 Jan 2026 20:28:06 +0000",
+      "published_parsed": "2026-01-05T20:28:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cheifet produced more than 400 episodes of TV tracing the rise of personal computing.",
+      "tags": [
+        "ai",
+        "computer chronicles",
+        "computer history",
+        "gary kildall",
+        "internet archive",
+        "machine learning",
+        "obituaries",
+        "pbs",
+        "retrocomputing",
+        "retrotech",
+        "stewart cheifet",
+        "tech",
+        "vintage computing"
+      ]
+    },
+    {
+      "title": "Amazon Alexa+ released to the general public via an early access website",
+      "link": "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/",
+      "published": "Mon, 05 Jan 2026 20:01:12 +0000",
+      "published_parsed": "2026-01-05T20:01:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon brings back browser-based Alexa but will eventually add a paywall.",
+      "tags": [
+        "ai",
+        "amazon",
+        "amazon alexa",
+        "generative ai",
+        "tech"
+      ]
+    },
+    {
+      "title": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new “Optimus” drives",
+      "link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/",
+      "published": "Mon, 05 Jan 2026 19:32:28 +0000",
+      "published_parsed": "2026-01-05T19:32:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
+      "tags": [
+        "ces 2026",
+        "sandisk",
+        "tech",
+        "western digital"
+      ]
+    },
     {
       "title": "Google TV’s big Gemini update adds image and video generation, voice control for settings",
       "link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/",
