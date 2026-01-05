@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-05T03:11:12.132068+00:00",
-  "article_count": 118,
+  "last_updated": "2026-01-05T07:31:02.962034+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2098,20 +2098,6 @@
       "summary": "TL&DR: You shouldn’t see any immediate impact of this change, but I’ll eventually clean up old stuff, so you might want to check the URLs if you use RSS/Atom feeds to get the list of ipSpace.net blog posts or podcast episodes. The (hopefully) final URLs are listed on this page . Executive Summary:...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Working for a Vendor with David Gee",
-      "link": "https://blog.ipspace.net/2025/10/working-for-vendor-david-gee/?utm_source=atom_feed",
-      "published": "2025-10-07T08:23:00+02:00",
-      "published_parsed": "2025-10-07T08:23:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "When I first met David Gee, he worked for a large system integrator. A few years later, he moved to a networking vendor, worked for a few of them, then for a software vendor, and finally decided to start his own system integration business. Obviously, I wanted to know what drove him to make those...",
-      "tags": [
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
