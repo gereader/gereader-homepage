@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05T14:28:02.101141+00:00",
+  "last_updated": "2026-01-05T18:37:35.263149+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,7 +15,6 @@
     "2025 year end",
     "abandonment",
     "aci",
-    "acquisition",
     "ads",
     "agentic ai",
     "ai",
@@ -125,6 +124,7 @@
     "firewalls",
     "foundry",
     "gaming",
+    "gemini",
     "gemini 3",
     "generative ai",
     "github copilot",
@@ -206,7 +206,6 @@
     "overlay networks",
     "oxford",
     "palo alto",
-    "paramount",
     "paramount plus",
     "paramount skydance",
     "pay or consent",
@@ -244,6 +243,7 @@
     "simulated reasoning",
     "slop",
     "smart home",
+    "smart tvs",
     "smartphones",
     "smartwatches",
     "snmp",
@@ -294,6 +294,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Google TV’s big Gemini update adds image and video generation, voice control for settings",
+      "link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/",
+      "published": "Mon, 05 Jan 2026 17:51:36 +0000",
+      "published_parsed": "2026-01-05T17:51:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Google-Photos-Remix-copy.jpg",
+      "summary": "Google TV will let you generate and watch AI content on the big screen.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "smart tvs",
+        "tech"
+      ]
+    },
     {
       "title": "“Streaming stops feeling infinite”: What subscribers can expect in 2026",
       "link": "https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/",
@@ -1148,23 +1164,6 @@
         "pebble",
         "tech",
         "wearables"
-      ]
-    },
-    {
-      "title": "Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover",
-      "link": "https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/",
-      "published": "Mon, 08 Dec 2025 18:36:16 +0000",
-      "published_parsed": "2025-12-08T18:36:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Paramount has already proven it can get a controversial merger done.",
-      "tags": [
-        "acquisition",
-        "hbo max",
-        "paramount",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {
