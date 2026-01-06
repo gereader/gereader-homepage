@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-01-06T02:58:02.420760+00:00",
-  "article_count": 1409,
+  "last_updated": "2026-01-06T07:28:30.944507+00:00",
+  "article_count": 1411,
   "articles": [
+    {
+      "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
+      "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
+      "published": "Tue, 06 Jan 2026 03:45:49 +0000",
+      "published_parsed": "2026-01-06T03:45:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot_2026-01-05_at_8.37.12_PM-1024x1014.jpeg",
+      "summary": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
+      "tags": [
+        "gaming",
+        "intel",
+        "intel core ultra",
+        "intel core ultra 3",
+        "panther lake",
+        "tech"
+      ]
+    },
+    {
+      "title": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
+      "link": "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/",
+      "published": "Tue, 06 Jan 2026 03:30:30 +0000",
+      "published_parsed": "2026-01-06T03:30:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ryzen-400-04-2-1024x576.jpeg",
+      "summary": "But it may become slightly cheaper to buy AMD's fastest integrated Radeon GPUs.",
+      "tags": [
+        "amd",
+        "amd ryzen",
+        "ces",
+        "ces 2026",
+        "gaming",
+        "gpus",
+        "intel",
+        "nvidia",
+        "radeon",
+        "rdna3",
+        "ryzen",
+        "ryzen ai",
+        "tech"
+      ]
+    },
     {
       "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
       "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",

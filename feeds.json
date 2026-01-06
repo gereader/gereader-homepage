@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-06T02:58:02.439142+00:00",
-  "article_count": 117,
+  "last_updated": "2026-01-06T07:28:30.963040+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -44,6 +44,7 @@
     "amazon",
     "amazon alexa",
     "amd",
+    "amd ryzen",
     "andrej karpathy",
     "ansible",
     "anthropic",
@@ -65,9 +66,9 @@
     "bob iger",
     "bridging",
     "browser extensions",
-    "cable",
     "california",
     "certifications",
+    "ces",
     "ces 2026",
     "character.ai",
     "chatbots",
@@ -135,6 +136,7 @@
     "gps",
     "gpt-5",
     "gpt-5.2",
+    "gpus",
     "hacking",
     "hbo max",
     "high availability",
@@ -145,6 +147,8 @@
     "image synthesis",
     "infrahub",
     "intel",
+    "intel core ultra",
+    "intel core ultra 3",
     "intellectual property",
     "interference",
     "internet",
@@ -156,10 +160,6 @@
     "ise",
     "jamming",
     "jinja",
-    "kindle",
-    "kindle colorsoft",
-    "kindle scribe",
-    "kindle scribe colorsoft",
     "lan",
     "large language models",
     "larry ellison",
@@ -209,6 +209,7 @@
     "overlay networks",
     "oxford",
     "palo alto",
+    "panther lake",
     "paramount plus",
     "paramount skydance",
     "pay or consent",
@@ -226,13 +227,17 @@
     "projectors",
     "python",
     "qos",
+    "radeon",
     "rc4",
+    "rdna3",
     "react server components",
     "retrocomputing",
     "retrotech",
     "reviews",
     "riot games",
     "roomba",
+    "ryzen",
+    "ryzen ai",
     "sam altman",
     "samsung",
     "san",
@@ -300,6 +305,47 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
+      "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
+      "published": "Tue, 06 Jan 2026 03:45:49 +0000",
+      "published_parsed": "2026-01-06T03:45:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot_2026-01-05_at_8.37.12_PM-1024x1014.jpeg",
+      "summary": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
+      "tags": [
+        "gaming",
+        "intel",
+        "intel core ultra",
+        "intel core ultra 3",
+        "panther lake",
+        "tech"
+      ]
+    },
+    {
+      "title": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
+      "link": "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/",
+      "published": "Tue, 06 Jan 2026 03:30:30 +0000",
+      "published_parsed": "2026-01-06T03:30:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ryzen-400-04-2-1024x576.jpeg",
+      "summary": "But it may become slightly cheaper to buy AMD's fastest integrated Radeon GPUs.",
+      "tags": [
+        "amd",
+        "amd ryzen",
+        "ces",
+        "ces 2026",
+        "gaming",
+        "gpus",
+        "intel",
+        "nvidia",
+        "radeon",
+        "rdna3",
+        "ryzen",
+        "ryzen ai",
+        "tech"
+      ]
+    },
     {
       "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
       "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
@@ -1136,37 +1182,6 @@
         "software engineering",
         "swe-bench",
         "vibe coding"
-      ]
-    },
-    {
-      "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
-      "link": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
-      "published": "Wed, 10 Dec 2025 20:07:47 +0000",
-      "published_parsed": "2025-12-10T20:07:47+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Sports and YouTube TV played big roles, MoffettNathanson report says.",
-      "tags": [
-        "cable",
-        "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader",
-      "link": "https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/",
-      "published": "Wed, 10 Dec 2025 18:40:58 +0000",
-      "published_parsed": "2025-12-10T18:40:58+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon has added color e-ink to its devices more slowly than its competitors.",
-      "tags": [
-        "amazon",
-        "kindle",
-        "kindle colorsoft",
-        "kindle scribe",
-        "kindle scribe colorsoft",
-        "tech"
       ]
     },
     {
@@ -2088,18 +2103,6 @@
       "summary": "An engineer reading my multi-pod EVPN article asked an interesting question: How do you handle troubleshooting when VTEPs cannot reach each other across pods? The ancient Romans already knew the rough answer: divide and conquer. In this particular case, the “divide” part starts with a simple...",
       "tags": [
         "evpn",
-        "networking"
-      ]
-    },
-    {
-      "title": "Changes in ipSpace.net RSS Feeds",
-      "link": "https://blog.ipspace.net/2025/10/changes-rss-feeds/?utm_source=atom_feed",
-      "published": "2025-10-08T06:40:00+02:00",
-      "published_parsed": "2025-10-08T06:40:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "TL&DR: You shouldn’t see any immediate impact of this change, but I’ll eventually clean up old stuff, so you might want to check the URLs if you use RSS/Atom feeds to get the list of ipSpace.net blog posts or podcast episodes. The (hopefully) final URLs are listed on this page . Executive Summary:...",
-      "tags": [
         "networking"
       ]
     }
