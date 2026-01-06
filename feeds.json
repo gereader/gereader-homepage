@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T18:36:16.538405+00:00",
+  "last_updated": "2026-01-06T23:24:03.070305+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -73,7 +73,6 @@
     "character.ai",
     "chatbots",
     "chatgpt",
-    "children",
     "chrome",
     "cisco",
     "claude",
@@ -94,20 +93,22 @@
     "courts",
     "cumulus linux",
     "dario amodei",
-    "dark web",
     "data brokers",
     "data center",
     "data centers",
-    "data leaks",
     "data theft",
     "datacenters",
     "deepfakes",
     "deepseek",
+    "dell",
     "design",
     "dhcp",
     "dictionaries",
     "disney",
     "dji",
+    "dlss",
+    "dlss 4",
+    "dlss 4.5",
     "dmvpn",
     "dns",
     "docker",
@@ -127,6 +128,8 @@
     "firewalls",
     "gaming",
     "gary kildall",
+    "geforce",
+    "geforce 50-series",
     "gemini",
     "gemini 3",
     "generative ai",
@@ -143,6 +146,7 @@
     "history",
     "hollywood",
     "homelab",
+    "hp",
     "imac",
     "image synthesis",
     "infrahub",
@@ -160,7 +164,9 @@
     "ise",
     "jamming",
     "jinja",
+    "keyboards",
     "lan",
+    "laptops",
     "large language models",
     "larry ellison",
     "ldp",
@@ -228,6 +234,7 @@
     "python",
     "qos",
     "radeon",
+    "raspberry pi",
     "rc4",
     "rdna3",
     "react server components",
@@ -252,7 +259,6 @@
     "simon willison",
     "simulated reasoning",
     "slop",
-    "smart home",
     "smart tvs",
     "smartphones",
     "snmp",
@@ -305,6 +311,59 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
+      "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
+      "published": "Tue, 06 Jan 2026 22:40:08 +0000",
+      "published_parsed": "2026-01-06T22:40:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/500-hero-front-2048x1372-1-640x429.jpg",
+      "summary": "The most familiar, full-fledged PC experience you can get from a keyboard.",
+      "tags": [
+        "ces 2026",
+        "hp",
+        "keyboards",
+        "raspberry pi",
+        "tech"
+      ]
+    },
+    {
+      "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
+      "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
+      "published": "Tue, 06 Jan 2026 21:56:18 +0000",
+      "published_parsed": "2026-01-06T21:56:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Nvidia's only GeForce announcements this year were about software improvements.",
+      "tags": [
+        "ces 2026",
+        "dlss",
+        "dlss 4",
+        "dlss 4.5",
+        "gaming",
+        "geforce",
+        "geforce 50-series",
+        "nvidia",
+        "tech"
+      ]
+    },
+    {
+      "title": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
+      "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
+      "published": "Tue, 06 Jan 2026 19:55:25 +0000",
+      "published_parsed": "2026-01-06T19:55:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Dell moves from pushing \"AI PCs\" and back to what matters in laptops.",
+      "tags": [
+        "ai",
+        "ces 2026",
+        "dell",
+        "generative ai",
+        "laptops",
+        "tech"
+      ]
+    },
     {
       "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
       "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
@@ -934,23 +993,6 @@
       ]
     },
     {
-      "title": "Google will end dark web reports that alerted users to leaked data",
-      "link": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/",
-      "published": "Mon, 15 Dec 2025 18:13:24 +0000",
-      "published_parsed": "2025-12-15T18:13:24+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google says the reports lacked \"helpful next steps.\"",
-      "tags": [
-        "dark web",
-        "data leaks",
-        "google",
-        "privacy",
-        "security",
-        "tech"
-      ]
-    },
-    {
       "title": "Roomba maker iRobot swept into bankruptcy",
       "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
       "published": "Mon, 15 Dec 2025 15:24:41 +0000",
@@ -1018,40 +1060,6 @@
         "simon willison",
         "software development",
         "vibe coding"
-      ]
-    },
-    {
-      "title": "How to break free from smart TV ads and tracking",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "published": "Fri, 12 Dec 2025 12:30:22 +0000",
-      "published_parsed": "2025-12-12T12:30:22+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Sick of smart TVs? Here are your best options.",
-      "tags": [
-        "ads",
-        "features",
-        "streaming",
-        "tech",
-        "tvs"
-      ]
-    },
-    {
-      "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
-      "link": "https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/",
-      "published": "Fri, 12 Dec 2025 12:15:02 +0000",
-      "published_parsed": "2025-12-12T12:15:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"... AI toys shouldn’t be capable of having sexually explicit conversations, period.\"",
-      "tags": [
-        "ai",
-        "chatbots",
-        "children",
-        "generative ai",
-        "openai",
-        "smart home",
-        "tech"
       ]
     },
     {
