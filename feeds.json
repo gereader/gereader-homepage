@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-07T02:58:06.794869+00:00",
-  "article_count": 116,
+  "last_updated": "2026-01-07T07:28:13.456506+00:00",
+  "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2096,19 +2096,6 @@
       "summary": "netlab release 25.10 includes: Support for container version of Cisco 8000v emulator (finally a reasonable IOS-XR platform) Support for vJunosEVO (vPTX) release 24+ (it needs UEFI BIOS), thanks to Aleksey Popov and Stefano Sasso Wildcards or regular expressions in group- or as_list members....",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Troubleshooting Multi-Pod EVPN",
-      "link": "https://blog.ipspace.net/2025/10/troubleshoot-multi-pod-evpn/?utm_source=atom_feed",
-      "published": "2025-10-09T08:27:00+02:00",
-      "published_parsed": "2025-10-09T08:27:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "An engineer reading my multi-pod EVPN article asked an interesting question: How do you handle troubleshooting when VTEPs cannot reach each other across pods? The ancient Romans already knew the rough answer: divide and conquer. In this particular case, the “divide” part starts with a simple...",
-      "tags": [
-        "evpn",
         "networking"
       ]
     }
