@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T18:37:42.820506+00:00",
+  "last_updated": "2026-01-07T23:23:54.068808+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,7 +15,6 @@
     "2025 year end",
     "abandonment",
     "aci",
-    "ads",
     "agentic ai",
     "ai",
     "ai agents",
@@ -55,6 +54,7 @@
     "arp",
     "artificial intelligence",
     "asml",
+    "audio",
     "automation",
     "aws",
     "azure",
@@ -63,6 +63,7 @@
     "biz & it",
     "blog",
     "bob iger",
+    "bose",
     "bridging",
     "browser extensions",
     "california",
@@ -173,7 +174,9 @@
     "licensing",
     "lisp",
     "load balancing",
+    "logitech",
     "machine learning",
+    "macos",
     "marvel",
     "merriam-webster",
     "meta",
@@ -190,7 +193,6 @@
     "multimodal ai",
     "musk",
     "nat",
-    "nbcuniversal",
     "netconf",
     "netdevops",
     "netflix",
@@ -219,7 +221,6 @@
     "paramount skydance",
     "pay or consent",
     "pbs",
-    "peacock",
     "performance",
     "personal information",
     "picea",
@@ -258,6 +259,7 @@
     "simon willison",
     "simulated reasoning",
     "slop",
+    "smart home",
     "smart tvs",
     "smartphones",
     "snmp",
@@ -267,6 +269,7 @@
     "software gone wild",
     "sora",
     "spam",
+    "speakers",
     "sr models",
     "star wars",
     "stewart cheifet",
@@ -310,6 +313,37 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
+      "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
+      "published": "Wed, 07 Jan 2026 18:51:37 +0000",
+      "published_parsed": "2026-01-07T18:51:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "If companies insist on bricking gadgets, this is a better way to do it.",
+      "tags": [
+        "audio",
+        "bose",
+        "smart home",
+        "speakers",
+        "tech"
+      ]
+    },
+    {
+      "title": "Expired certificate completely breaks macOS Logitech apps, user customizations",
+      "link": "https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/",
+      "published": "Wed, 07 Jan 2026 18:15:27 +0000",
+      "published_parsed": "2026-01-07T18:15:27+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Even with a fix available, broken apps won't be able to update themselves.",
+      "tags": [
+        "apple",
+        "logitech",
+        "macos",
+        "tech"
+      ]
+    },
     {
       "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
       "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
@@ -833,38 +867,6 @@
         "google",
         "tech",
         "youtube"
-      ]
-    },
-    {
-      "title": "Peacock showing ads upon launch opens the door for more disruptive streaming ads",
-      "link": "https://arstechnica.com/gadgets/2025/12/peacock-showing-ads-upon-launch-opens-the-door-for-more-disruptive-streaming-ads/",
-      "published": "Thu, 18 Dec 2025 22:18:21 +0000",
-      "published_parsed": "2025-12-18T22:18:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Subscribers will start seeing ads when selecting a user next year.",
-      "tags": [
-        "ads",
-        "nbcuniversal",
-        "peacock",
-        "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "RAM and SSD prices are still climbing—here’s our best advice for PC builders",
-      "link": "https://arstechnica.com/gadgets/2025/12/for-just-a-couple-of-months-in-the-middle-of-2025-it-was-an-ok-time-to-build-a-pc/",
-      "published": "Thu, 18 Dec 2025 21:31:03 +0000",
-      "published_parsed": "2025-12-18T21:31:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "I would avoid building a PC right now, but if you can't, here's our best advice.",
-      "tags": [
-        "amd",
-        "gaming",
-        "intel",
-        "nvidia",
-        "tech"
       ]
     },
     {

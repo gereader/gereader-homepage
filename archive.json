@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-01-07T18:37:42.801776+00:00",
-  "article_count": 1415,
+  "last_updated": "2026-01-07T23:23:54.050410+00:00",
+  "article_count": 1417,
   "articles": [
+    {
+      "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
+      "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
+      "published": "Wed, 07 Jan 2026 18:51:37 +0000",
+      "published_parsed": "2026-01-07T18:51:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "If companies insist on bricking gadgets, this is a better way to do it.",
+      "tags": [
+        "audio",
+        "bose",
+        "smart home",
+        "speakers",
+        "tech"
+      ]
+    },
+    {
+      "title": "Expired certificate completely breaks macOS Logitech apps, user customizations",
+      "link": "https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/",
+      "published": "Wed, 07 Jan 2026 18:15:27 +0000",
+      "published_parsed": "2026-01-07T18:15:27+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Even with a fix available, broken apps won't be able to update themselves.",
+      "tags": [
+        "apple",
+        "logitech",
+        "macos",
+        "tech"
+      ]
+    },
     {
       "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
       "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
