@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T23:24:03.070305+00:00",
+  "last_updated": "2026-01-07T02:58:06.794869+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -51,7 +51,6 @@
     "anti-cheat",
     "api",
     "apple",
-    "apple silicon",
     "arista",
     "arp",
     "artificial intelligence",
@@ -126,6 +125,7 @@
     "features",
     "firewall",
     "firewalls",
+    "foldables",
     "gaming",
     "gary kildall",
     "geforce",
@@ -147,7 +147,6 @@
     "hollywood",
     "homelab",
     "hp",
-    "imac",
     "image synthesis",
     "infrahub",
     "intel",
@@ -174,9 +173,7 @@
     "licensing",
     "lisp",
     "load balancing",
-    "mac",
     "machine learning",
-    "macos 26 tahoe",
     "marvel",
     "merriam-webster",
     "meta",
@@ -184,6 +181,8 @@
     "mistral",
     "mistral ai",
     "monitors",
+    "motorola",
+    "motorola razr fold",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -311,6 +310,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
+      "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
+      "published": "Wed, 07 Jan 2026 01:00:06 +0000",
+      "published_parsed": "2026-01-07T01:00:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Motorola is light on details but heavy on hype for its first book-style foldable.",
+      "tags": [
+        "foldables",
+        "motorola",
+        "motorola razr fold",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
       "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
@@ -919,23 +934,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Software leaks point to the first Apple Silicon “iMac Pro,” among other devices",
-      "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/",
-      "published": "Tue, 16 Dec 2025 18:52:43 +0000",
-      "published_parsed": "2025-12-16T18:52:43+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Resurrected high-end all-in-one could be a worthy successor to 2017's iMac Pro.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "imac",
-        "mac",
-        "macos 26 tahoe",
-        "tech"
       ]
     },
     {
