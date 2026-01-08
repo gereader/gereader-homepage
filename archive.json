@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-01-08T14:28:26.582968+00:00",
-  "article_count": 1418,
+  "last_updated": "2026-01-08T18:33:35.606049+00:00",
+  "article_count": 1420,
   "articles": [
+    {
+      "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "published": "Thu, 08 Jan 2026 18:00:52 +0000",
+      "published_parsed": "2026-01-08T18:00:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New feature will allow users to link medical and wellness records to AI chatbot.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai confabulation",
+        "ai hallucination",
+        "ai health",
+        "biz & it",
+        "chatgpt",
+        "confabulations",
+        "fidji simo",
+        "healthcare",
+        "machine learning",
+        "medical advice",
+        "openai",
+        "sam altman",
+        "sfgate"
+      ]
+    },
+    {
+      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "published": "Thu, 08 Jan 2026 14:00:07 +0000",
+      "published_parsed": "2026-01-08T14:00:07+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "chatbots",
+        "data exfiltration",
+        "prompt injections",
+        "security"
+      ]
+    },
     {
       "title": "Samsung’s Ballie home robot, once promised for summer 2025, gets grim update",
       "link": "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/",

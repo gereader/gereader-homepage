@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T14:28:26.601509+00:00",
+  "last_updated": "2026-01-08T18:33:35.624975+00:00",
   "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
@@ -24,10 +24,12 @@
     "ai benchmarks",
     "ai bot",
     "ai coding",
+    "ai confabulation",
     "ai criticism",
     "ai development tools",
     "ai ethics",
     "ai hallucination",
+    "ai health",
     "ai image generator",
     "ai image generators",
     "ai infrastructure",
@@ -83,19 +85,18 @@
     "computer history",
     "conde nast",
     "confabulation",
+    "confabulations",
     "containerlab",
     "containers",
     "context windows",
-    "contractors",
     "copilot",
     "copyright",
-    "courts",
     "cumulus linux",
     "dario amodei",
     "data brokers",
     "data center",
     "data centers",
-    "data theft",
+    "data exfiltration",
     "datacenters",
     "deepfakes",
     "deepseek",
@@ -118,11 +119,11 @@
     "esim",
     "eu",
     "evpn",
-    "exploits",
     "fabric",
     "facebook",
     "fcc",
     "features",
+    "fidji simo",
     "firewall",
     "firewalls",
     "foldables",
@@ -142,6 +143,7 @@
     "gpus",
     "hacking",
     "hbo max",
+    "healthcare",
     "high availability",
     "history",
     "hollywood",
@@ -177,6 +179,7 @@
     "machine learning",
     "macos",
     "marvel",
+    "medical advice",
     "merriam-webster",
     "meta",
     "microsoft",
@@ -230,13 +233,13 @@
     "privacy",
     "programming",
     "projectors",
+    "prompt injections",
     "python",
     "qos",
     "radeon",
     "raspberry pi",
     "rc4",
     "rdna3",
-    "react server components",
     "retrocomputing",
     "retrotech",
     "reviews",
@@ -255,6 +258,7 @@
     "security",
     "segment routing",
     "service providers",
+    "sfgate",
     "signal messenger",
     "simon willison",
     "simulated reasoning",
@@ -297,7 +301,6 @@
     "vintage computing",
     "virtualization",
     "vpn",
-    "vulnerabilities",
     "vxlan",
     "wan",
     "warner bros. discovery",
@@ -312,6 +315,49 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "published": "Thu, 08 Jan 2026 18:00:52 +0000",
+      "published_parsed": "2026-01-08T18:00:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New feature will allow users to link medical and wellness records to AI chatbot.",
+      "tags": [
+        "ai",
+        "ai assistants",
+        "ai confabulation",
+        "ai hallucination",
+        "ai health",
+        "biz & it",
+        "chatgpt",
+        "confabulations",
+        "fidji simo",
+        "healthcare",
+        "machine learning",
+        "medical advice",
+        "openai",
+        "sam altman",
+        "sfgate"
+      ]
+    },
+    {
+      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "published": "Thu, 08 Jan 2026 14:00:07 +0000",
+      "published_parsed": "2026-01-08T14:00:07+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "chatbots",
+        "data exfiltration",
+        "prompt injections",
+        "security"
+      ]
+    },
     {
       "title": "Samsung’s Ballie home robot, once promised for summer 2025, gets grim update",
       "link": "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/",
@@ -1277,22 +1323,6 @@
       ]
     },
     {
-      "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
-      "link": "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/",
-      "published": "Thu, 04 Dec 2025 21:51:36 +0000",
-      "published_parsed": "2025-12-04T21:51:36+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Defendants were convicted of similar crimes a decade ago. How were they cleared again?",
-      "tags": [
-        "ai",
-        "biz & it",
-        "contractors",
-        "courts",
-        "data theft"
-      ]
-    },
-    {
       "title": "Technical Writing: Lower Your Expectations",
       "link": "https://blog.ipspace.net/2025/12/worth-reading-technical-writing/?utm_source=atom_feed",
       "published": "2025-12-04T07:24:00+01:00",
@@ -1303,22 +1333,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Admins and defenders gird themselves against maximum-severity server vuln",
-      "link": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
-      "published": "Wed, 03 Dec 2025 23:16:03 +0000",
-      "published_parsed": "2025-12-03T23:16:03+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Open source React executes malicious code with malformed HTML—no authentication needed.",
-      "tags": [
-        "biz & it",
-        "exploits",
-        "react server components",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
