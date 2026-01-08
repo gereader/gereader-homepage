@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-01-08T18:33:35.606049+00:00",
-  "article_count": 1420,
+  "last_updated": "2026-01-08T23:20:53.584038+00:00",
+  "article_count": 1421,
   "articles": [
+    {
+      "title": "High RAM prices mean record-setting profits for Samsung and other memory makers",
+      "link": "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/",
+      "published": "Thu, 08 Jan 2026 20:36:37 +0000",
+      "published_parsed": "2026-01-08T20:36:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "SK Hynix and Micron are also riding high on the AI industry's demand for RAM.",
+      "tags": [
+        "ram",
+        "samsung",
+        "ssd",
+        "tech"
+      ]
+    },
     {
       "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",

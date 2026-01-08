@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T18:33:35.624975+00:00",
+  "last_updated": "2026-01-08T23:20:53.604256+00:00",
   "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
@@ -49,7 +49,6 @@
     "andrej karpathy",
     "ansible",
     "anthropic",
-    "anti-cheat",
     "api",
     "apple",
     "arista",
@@ -237,13 +236,13 @@
     "python",
     "qos",
     "radeon",
+    "ram",
     "raspberry pi",
     "rc4",
     "rdna3",
     "retrocomputing",
     "retrotech",
     "reviews",
-    "riot games",
     "robots",
     "roomba",
     "ryzen",
@@ -275,6 +274,7 @@
     "spam",
     "speakers",
     "sr models",
+    "ssd",
     "star wars",
     "stewart cheifet",
     "streaming",
@@ -293,8 +293,6 @@
     "unmanned aircraft systems",
     "user accounts",
     "user privacy",
-    "valorant",
-    "vanguard",
     "vibe coding",
     "video",
     "video synthesis",
@@ -315,6 +313,21 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "High RAM prices mean record-setting profits for Samsung and other memory makers",
+      "link": "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/",
+      "published": "Thu, 08 Jan 2026 20:36:37 +0000",
+      "published_parsed": "2026-01-08T20:36:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "SK Hynix and Micron are also riding high on the AI industry's demand for RAM.",
+      "tags": [
+        "ram",
+        "samsung",
+        "ssd",
+        "tech"
+      ]
+    },
     {
       "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
@@ -879,25 +892,6 @@
         "samsung",
         "tech",
         "tvs"
-      ]
-    },
-    {
-      "title": "Riot Games is making an anti-cheat change that could be rough on older PCs",
-      "link": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/",
-      "published": "Fri, 19 Dec 2025 20:27:36 +0000",
-      "published_parsed": "2025-12-19T20:27:36+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "BIOS checks will only affect a limited subset of Valorant players for now.",
-      "tags": [
-        "amd",
-        "anti-cheat",
-        "gaming",
-        "intel",
-        "riot games",
-        "tech",
-        "valorant",
-        "vanguard"
       ]
     },
     {
