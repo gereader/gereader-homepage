@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T23:23:54.068808+00:00",
+  "last_updated": "2026-01-08T02:57:58.902955+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -52,7 +52,6 @@
     "apple",
     "arista",
     "arp",
-    "artificial intelligence",
     "asml",
     "audio",
     "automation",
@@ -242,6 +241,7 @@
     "retrotech",
     "reviews",
     "riot games",
+    "robots",
     "roomba",
     "ryzen",
     "ryzen ai",
@@ -309,10 +309,25 @@
     "windows 11 25h2",
     "windows server",
     "word of the year",
-    "worth reading",
-    "youtube"
+    "worth reading"
   ],
   "articles": [
+    {
+      "title": "Samsung’s Ballie home robot, once promised for summer 2025, gets grim update",
+      "link": "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/",
+      "published": "Wed, 07 Jan 2026 22:50:10 +0000",
+      "published_parsed": "2026-01-07T22:50:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Six years after its CES debut, Samsung has demoted Ballie to internal use.",
+      "tags": [
+        "ces 2026",
+        "robots",
+        "samsung",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
       "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
@@ -850,23 +865,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "YouTube bans two popular channels that created fake AI movie trailers",
-      "link": "https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/",
-      "published": "Thu, 18 Dec 2025 22:39:54 +0000",
-      "published_parsed": "2025-12-18T22:39:54+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google loves AI content, except when it doesn't.",
-      "tags": [
-        "ai",
-        "ai video",
-        "artificial intelligence",
-        "google",
-        "tech",
-        "youtube"
       ]
     },
     {
