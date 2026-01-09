@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-09T07:28:23.776277+00:00",
-  "article_count": 114,
+  "last_updated": "2026-01-09T14:27:45.683496+00:00",
+  "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2078,19 +2078,6 @@
       "summary": "A few days ago, I described how you can use the new config.inline functionality to apply additional configuration commands to individual devices in a netlab -powered lab. However, sometimes you have to apply the same set of commands to several devices. Although you could use device groups to do...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Netpicker NetBox Plugin and Automation",
-      "link": "https://www.packetswitch.co.uk/netpicker-netbox-plugin-and-automation/",
-      "published": "Sat, 11 Oct 2025 09:58:58 GMT",
-      "published_parsed": "2025-10-11T09:58:58+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/10/netpicker-2-.png",
-      "summary": "In this post, we'll focus on Netpicker Automation and how to use the Netpicker plugin with Netbox. This post assumes you already have a functioning Netpicker",
-      "tags": [
-        "netdevops",
         "networking"
       ]
     }
