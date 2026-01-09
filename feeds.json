@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-09T18:36:58.941965+00:00",
-  "article_count": 113,
+  "last_updated": "2026-01-09T23:23:35.494204+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1661,6 +1661,20 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/11/Human-AI-Twin-Circle-300x300.png",
       "summary": "Artificial Intelligence promises a self-healing, autonomous network. For today’s NetOps teams, that promise often feels hollow. The reality is that most AI tools are bolted on – built on a...",
       "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "Automating NetBox with Ansible",
+      "link": "https://www.packetswitch.co.uk/automating-netbox-with-ansible/",
+      "published": "Thu, 06 Nov 2025 18:16:00 GMT",
+      "published_parsed": "2025-11-06T18:16:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2024/03/netbox-ansible.png",
+      "summary": "In this post, we're diving into automating NetBox with Ansible. We'll explore how to leverage Ansible's modules to fully automate setting up NetBox.",
+      "tags": [
+        "ansible",
+        "netdevops",
         "networking"
       ]
     },
