@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T03:08:39.029428+00:00",
-  "article_count": 114,
+  "last_updated": "2026-01-11T07:23:26.977816+00:00",
+  "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2080,19 +2080,6 @@
         "netdevops",
         "networking",
         "python"
-      ]
-    },
-    {
-      "title": "netlab: Embed Configuration Templates in a Lab Topology File",
-      "link": "https://blog.ipspace.net/2025/10/netlab-configlets/?utm_source=atom_feed",
-      "published": "2025-10-13T08:30:00+02:00",
-      "published_parsed": "2025-10-13T08:30:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A few days ago, I described how you can use the new config.inline functionality to apply additional configuration commands to individual devices in a netlab -powered lab. However, sometimes you have to apply the same set of commands to several devices. Although you could use device groups to do...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
