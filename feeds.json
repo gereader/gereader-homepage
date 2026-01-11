@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T18:33:02.053469+00:00",
-  "article_count": 113,
+  "last_updated": "2026-01-11T23:22:20.981576+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2066,20 +2066,6 @@
       "tags": [
         "networking",
         "training"
-      ]
-    },
-    {
-      "title": "Python OOP - Method vs Function and the Mystery of ‘self’",
-      "link": "https://www.packetswitch.co.uk/python-oop-methods-functions-and-the-mystery-of-self/",
-      "published": "Mon, 13 Oct 2025 21:12:00 GMT",
-      "published_parsed": "2025-10-13T21:12:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2024/08/functions--methods-and-self.png",
-      "summary": "I just realized how much I didn't understand about Python Object-Oriented Programming. I thought I knew the basics, but a few days ago, while going through a Python course, I found out I was wrong.",
-      "tags": [
-        "netdevops",
-        "networking",
-        "python"
       ]
     }
   ]
