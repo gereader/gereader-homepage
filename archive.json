@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-01-12T18:37:14.754175+00:00",
-  "article_count": 1424,
+  "last_updated": "2026-01-12T23:19:27.206624+00:00",
+  "article_count": 1426,
   "articles": [
+    {
+      "title": "Google removes some AI health summaries after investigation finds “dangerous” flaws",
+      "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+      "published": "Mon, 12 Jan 2026 21:47:32 +0000",
+      "published_parsed": "2026-01-12T21:47:32+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AI Overviews provided false liver test information experts called alarming.",
+      "tags": [
+        "ai",
+        "ai hallucination",
+        "ai overviews",
+        "biz & it",
+        "generative ai",
+        "google",
+        "health",
+        "machine learning",
+        "misinformation",
+        "search engines",
+        "the guardian"
+      ]
+    },
+    {
+      "title": "Apps like Grok are explicitly banned under Google’s rules—why is it still in the Play Store?",
+      "link": "https://arstechnica.com/google/2026/01/apps-like-grok-are-explicitly-banned-under-googles-rules-why-is-it-still-in-the-play-store/",
+      "published": "Mon, 12 Jan 2026 19:36:17 +0000",
+      "published_parsed": "2026-01-12T19:36:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google describes apps exactly like Grok and says they are banned from Google Play.",
+      "tags": [
+        "ai",
+        "ai nudes",
+        "google",
+        "google play",
+        "grok",
+        "nudify apps",
+        "tech",
+        "xai"
+      ]
+    },
     {
       "title": "Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri",
       "link": "https://arstechnica.com/apple/2026/01/apple-says-its-new-ai-powered-siri-will-use-googles-gemini-language-models/",
