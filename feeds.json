@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-12T03:06:33.662440+00:00",
-  "article_count": 112,
+  "last_updated": "2026-01-12T07:30:10.006459+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2053,19 +2053,6 @@
         "netlab",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Why Can't We Have Good Documentation",
-      "link": "https://blog.ipspace.net/2025/10/shoddy-documentation/?utm_source=atom_feed",
-      "published": "2025-10-14T07:51:00+02:00",
-      "published_parsed": "2025-10-14T07:51:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Daniel Dib asked a sad question on LinkedIn : Where did all the great documentation go? In more detail: There was a time when documentation answered almost all questions: What is the thing? What does the thing do? Why would you use the thing? How do you configure the thing? I’ve seen the same thing...",
-      "tags": [
-        "networking",
-        "training"
       ]
     }
   ]
