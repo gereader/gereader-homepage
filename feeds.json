@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T07:30:10.006459+00:00",
+  "last_updated": "2026-01-12T14:29:08.903675+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -88,7 +88,6 @@
     "containerlab",
     "containers",
     "context windows",
-    "copilot",
     "copyright",
     "cumulus linux",
     "dario amodei",
@@ -170,7 +169,6 @@
     "large language models",
     "larry ellison",
     "ldp",
-    "lg",
     "licensing",
     "lisp",
     "load balancing",
@@ -288,7 +286,6 @@
     "trademark",
     "traffic engineering",
     "training",
-    "tvs",
     "twitter",
     "unmanned aircraft systems",
     "user accounts",
@@ -313,6 +310,21 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "The most fascinating monitors at CES 2026",
+      "link": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/",
+      "published": "Mon, 12 Jan 2026 11:30:06 +0000",
+      "published_parsed": "2026-01-12T11:30:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Dell-UltraSharp-52-Thunderbolt-Hub-Monitor-2-640x338.jpeg",
+      "summary": "Big sizes, big resolution, and big ideas.",
+      "tags": [
+        "ces 2026",
+        "features",
+        "monitors",
+        "tech"
+      ]
+    },
     {
       "title": "High RAM prices mean record-setting profits for Samsung and other memory makers",
       "link": "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/",
@@ -872,26 +884,6 @@
         "projectors",
         "reviews",
         "tech"
-      ]
-    },
-    {
-      "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
-      "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
-      "published": "Fri, 19 Dec 2025 21:18:07 +0000",
-      "published_parsed": "2025-12-19T21:18:07+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "LG says it'll let people delete the Copilot icon. But TV chatbots aren't going away.",
-      "tags": [
-        "ai",
-        "chatbots",
-        "copilot",
-        "generative ai",
-        "lg",
-        "microsoft",
-        "samsung",
-        "tech",
-        "tvs"
       ]
     },
     {

@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-01-12T07:30:09.987713+00:00",
-  "article_count": 1422,
+  "last_updated": "2026-01-12T14:29:08.886076+00:00",
+  "article_count": 1423,
   "articles": [
+    {
+      "title": "The most fascinating monitors at CES 2026",
+      "link": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/",
+      "published": "Mon, 12 Jan 2026 11:30:06 +0000",
+      "published_parsed": "2026-01-12T11:30:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Dell-UltraSharp-52-Thunderbolt-Hub-Monitor-2-640x338.jpeg",
+      "summary": "Big sizes, big resolution, and big ideas.",
+      "tags": [
+        "ces 2026",
+        "features",
+        "monitors",
+        "tech"
+      ]
+    },
     {
       "title": "High RAM prices mean record-setting profits for Samsung and other memory makers",
       "link": "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/",
