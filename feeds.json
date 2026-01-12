@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T14:29:08.903675+00:00",
+  "last_updated": "2026-01-12T18:37:14.772993+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -229,7 +229,6 @@
     "policy",
     "privacy",
     "programming",
-    "projectors",
     "prompt injections",
     "python",
     "qos",
@@ -240,7 +239,6 @@
     "rdna3",
     "retrocomputing",
     "retrotech",
-    "reviews",
     "robots",
     "roomba",
     "ryzen",
@@ -259,6 +257,7 @@
     "signal messenger",
     "simon willison",
     "simulated reasoning",
+    "siri",
     "slop",
     "smart home",
     "smart tvs",
@@ -310,6 +309,24 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri",
+      "link": "https://arstechnica.com/apple/2026/01/apple-says-its-new-ai-powered-siri-will-use-googles-gemini-language-models/",
+      "published": "Mon, 12 Jan 2026 17:57:32 +0000",
+      "published_parsed": "2026-01-12T17:57:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple goes with Google's tech despite using OpenAI's ChatGPT elsewhere in iOS.",
+      "tags": [
+        "ai",
+        "apple",
+        "gemini",
+        "google",
+        "openai",
+        "siri",
+        "tech"
+      ]
+    },
     {
       "title": "The most fascinating monitors at CES 2026",
       "link": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/",
@@ -869,21 +886,6 @@
         "policy",
         "tech",
         "unmanned aircraft systems"
-      ]
-    },
-    {
-      "title": "The Splay is a subpar monitor but an exciting portable projector",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/",
-      "published": "Tue, 23 Dec 2025 12:30:06 +0000",
-      "published_parsed": "2025-12-23T12:30:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Splay can be a monitor and takes a lot of the stress out of projectors, too.",
-      "tags": [
-        "monitors",
-        "projectors",
-        "reviews",
-        "tech"
       ]
     },
     {
