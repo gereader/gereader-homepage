@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-01-12T23:19:27.206624+00:00",
-  "article_count": 1426,
+  "last_updated": "2026-01-13T02:57:13.733464+00:00",
+  "article_count": 1428,
   "articles": [
+    {
+      "title": "Paramount sues WBD over Netflix deal. WBD says Paramount’s price is still inadequate.",
+      "link": "https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/",
+      "published": "Mon, 12 Jan 2026 22:49:31 +0000",
+      "published_parsed": "2026-01-12T22:49:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "WBD calls Paramount's lawsuit \"meritless\" and its offer deficient.",
+      "tags": [
+        "cable",
+        "merger",
+        "netflix",
+        "paramount",
+        "policy",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
+    {
+      "title": "Even Linus Torvalds is trying his hand at vibe coding (but just a little)",
+      "link": "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/",
+      "published": "Mon, 12 Jan 2026 22:27:50 +0000",
+      "published_parsed": "2026-01-12T22:27:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"But then I cut out the middle man—me.\"",
+      "tags": [
+        "ai",
+        "coding",
+        "github",
+        "google antigravity",
+        "linus torvalds",
+        "llm",
+        "open source",
+        "programming",
+        "tech",
+        "vibe coding",
+        "windsurf"
+      ]
+    },
     {
       "title": "Google removes some AI health summaries after investigation finds “dangerous” flaws",
       "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
