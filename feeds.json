@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-13T07:27:49.901057+00:00",
-  "article_count": 111,
+  "last_updated": "2026-01-13T14:28:46.487716+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -2048,19 +2048,6 @@
       "tags": [
         "networking",
         "python"
-      ]
-    },
-    {
-      "title": "An Introduction to the Netpicker Network Automation Platform",
-      "link": "https://www.packetcoders.io/an-introduction-to-the-netpicker-network-automation-platform/",
-      "published": "Wed, 15 Oct 2025 12:38:31 GMT",
-      "published_parsed": "2025-10-15T12:38:31+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/10/Heading--15-.png",
-      "summary": "Within this post, we are going to explore the network automation platform Netpicker . Netpicker is a Python-powered network automation platform that provides various features to allow you to configure, back up, and perform compliance testing across 150+ vendors . Because it’s built using...",
-      "tags": [
-        "blog",
-        "networking"
       ]
     }
   ]
