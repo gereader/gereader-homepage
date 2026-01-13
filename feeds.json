@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T02:57:13.752241+00:00",
+  "last_updated": "2026-01-13T07:27:49.901057+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -312,6 +312,19 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "netlab 26.01: EVPN for VXLAN-over-IPv6, Netscaler",
+      "link": "https://blog.ipspace.net/2026/01/netlab-26-01/?utm_source=atom_feed",
+      "published": "2026-01-13T07:19:00+01:00",
+      "published_parsed": "2026-01-13T07:19:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I completely rewrote netlab’s device configuration file generation during the New Year break. netlab Release 26.01 no longer uses Ansible Jinja2 functionality and works with Ansible releases 12/13, which are used solely for configuration deployment. I had to break a few eggs to get there; if you...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Paramount sues WBD over Netflix deal. WBD says Paramount’s price is still inadequate.",
       "link": "https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/",
@@ -2048,22 +2061,6 @@
       "tags": [
         "blog",
         "networking"
-      ]
-    },
-    {
-      "title": "EVPN Designs: Multi-Pod with IP-Only WAN Routers",
-      "link": "https://blog.ipspace.net/2025/10/evpn-designs-inter-as-c/?utm_source=atom_feed",
-      "published": "2025-10-15T08:12:00+02:00",
-      "published_parsed": "2025-10-15T08:12:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In the multi-pod EVPN design , I described a simple way to merge two EVPN fabrics into a single end-to-end fabric. Here are a few highlights of that design: Each fabric is running OSPF and IBGP, with core (spine) devices being route reflectors There’s an EBGP session between the WAN edge routers...",
-      "tags": [
-        "design",
-        "evpn",
-        "netlab",
-        "networking",
-        "vxlan"
       ]
     }
   ]
