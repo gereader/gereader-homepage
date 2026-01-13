@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T14:28:46.487716+00:00",
+  "last_updated": "2026-01-13T18:35:30.103777+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -1024,7 +1024,7 @@
       "published_parsed": "2025-12-16T08:28:00+01:00",
       "source": "ipSpace Blog",
       "image": null,
-      "summary": "A month ago, I described how Ansible release 12 broke the network device configuration modules , the little engines ( that could ) that brought us from the dark days of copy-and-paste into the more-survivable land of configuration templates. Three releases later (they just released 13.1), the same...",
+      "summary": "A month ago, I described how Ansible release 12 broke the network device configuration modules , the little engines ( that could ) that brought us from the dark days of copy-and-paste into the more-survivable land of configuration templates. In the meantime, the Ansible networking team fixed the...",
       "tags": [
         "ansible",
         "networking"
