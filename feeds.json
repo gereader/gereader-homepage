@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T18:37:34.801816+00:00",
+  "last_updated": "2026-01-14T23:20:28.397694+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -104,6 +104,7 @@
     "deepseek",
     "dell",
     "department of defense",
+    "department of labor",
     "design",
     "desktops",
     "dhcp",
@@ -252,7 +253,6 @@
     "sam altman",
     "samsung",
     "san",
-    "sandisk",
     "satellites",
     "sd-wan",
     "sdn",
@@ -300,7 +300,6 @@
     "wan",
     "warner bros. discovery",
     "water use",
-    "western digital",
     "windows server",
     "windsurf",
     "word of the year",
@@ -308,6 +307,32 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "Federal data underscores meteoric rise of streaming subscription prices in 2025",
+      "link": "https://arstechnica.com/gadgets/2026/01/federal-data-underscores-meteoric-rise-of-streaming-subscription-prices-in-2025/",
+      "published": "Wed, 14 Jan 2026 19:56:30 +0000",
+      "published_parsed": "2026-01-14T19:56:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Streaming services played a big role in 2025 inflation.",
+      "tags": [
+        "department of labor",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Operating Model to Cut Network Downtime Every Year",
+      "link": "https://www.netbraintech.com/blog/cut-downtime-every-year/",
+      "published": "2026-01-14T18:51:58Z",
+      "published_parsed": "2026-01-14T18:51:58+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Data is not the problem. What you do with it is. For years, network teams have lacked insight into downtime even with… More telemetry. More dashboards. More alerts. … And...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Bandcamp bans purely AI-generated music from its platform",
       "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
@@ -857,21 +882,6 @@
         "amazon alexa",
         "generative ai",
         "tech"
-      ]
-    },
-    {
-      "title": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new “Optimus” drives",
-      "link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/",
-      "published": "Mon, 05 Jan 2026 19:32:28 +0000",
-      "published_parsed": "2026-01-05T19:32:28+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
-      "tags": [
-        "ces 2026",
-        "sandisk",
-        "tech",
-        "western digital"
       ]
     },
     {
@@ -2016,18 +2026,6 @@
       "tags": [
         "is-is",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "The Era of Proactive Network Operations",
-      "link": "https://www.netbraintech.com/blog/proactive-network-operations/",
-      "published": "2025-10-16T20:11:46Z",
-      "published_parsed": "2025-10-16T20:11:46+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "For decades, network teams have been fighting fires with limited visibility. We can see devices, interfaces, and links, but we’ve been missing the most critical piece: understanding what the network...",
-      "tags": [
         "networking"
       ]
     }

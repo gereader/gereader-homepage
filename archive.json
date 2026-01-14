@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-14T18:37:34.783369+00:00",
-  "article_count": 1436,
+  "last_updated": "2026-01-14T23:20:28.378673+00:00",
+  "article_count": 1438,
   "articles": [
+    {
+      "title": "Federal data underscores meteoric rise of streaming subscription prices in 2025",
+      "link": "https://arstechnica.com/gadgets/2026/01/federal-data-underscores-meteoric-rise-of-streaming-subscription-prices-in-2025/",
+      "published": "Wed, 14 Jan 2026 19:56:30 +0000",
+      "published_parsed": "2026-01-14T19:56:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Streaming services played a big role in 2025 inflation.",
+      "tags": [
+        "department of labor",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Operating Model to Cut Network Downtime Every Year",
+      "link": "https://www.netbraintech.com/blog/cut-downtime-every-year/",
+      "published": "2026-01-14T18:51:58Z",
+      "published_parsed": "2026-01-14T18:51:58+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Data is not the problem. What you do with it is. For years, network teams have lacked insight into downtime even with… More telemetry. More dashboards. More alerts. … And...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Bandcamp bans purely AI-generated music from its platform",
       "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
