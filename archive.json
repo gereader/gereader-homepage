@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-01-14T14:28:33.152556+00:00",
-  "article_count": 1435,
+  "last_updated": "2026-01-14T18:37:34.783369+00:00",
+  "article_count": 1436,
   "articles": [
+    {
+      "title": "Bandcamp bans purely AI-generated music from its platform",
+      "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
+      "published": "Wed, 14 Jan 2026 17:46:19 +0000",
+      "published_parsed": "2026-01-14T17:46:19+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Indie music store says it wants fans to have confidence music was largely made by humans.",
+      "tags": [
+        "ai",
+        "ai music",
+        "ai policy",
+        "audio synthesis",
+        "bandcamp",
+        "biz & it",
+        "generative ai",
+        "independent music",
+        "machine learning",
+        "music industry",
+        "music synthesis",
+        "spotify",
+        "streaming"
+      ]
+    },
     {
       "title": "Do You Need IS-IS Areas?",
       "link": "https://blog.ipspace.net/2026/01/is-is-areas/?utm_source=atom_feed",
