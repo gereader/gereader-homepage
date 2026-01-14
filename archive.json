@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-14T07:28:15.861716+00:00",
-  "article_count": 1434,
+  "last_updated": "2026-01-14T14:28:33.152556+00:00",
+  "article_count": 1435,
   "articles": [
+    {
+      "title": "Do You Need IS-IS Areas?",
+      "link": "https://blog.ipspace.net/2026/01/is-is-areas/?utm_source=atom_feed",
+      "published": "2026-01-14T08:45:00+01:00",
+      "published_parsed": "2026-01-14T08:45:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR : Most probably not, but if you do, you’d better not rely on random blogs for professional advice #justSaying 😜 Here’s an interesting question I got from a reader in the midst of an OSPF-to-IS-IS migration: Why should one bother with different [IS-IS] areas when the routing hierarchy is...",
+      "tags": [
+        "is-is",
+        "networking"
+      ]
+    },
     {
       "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
       "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
