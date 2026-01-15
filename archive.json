@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-01-15T18:40:35.765631+00:00",
-  "article_count": 1442,
+  "last_updated": "2026-01-15T23:24:25.251642+00:00",
+  "article_count": 1444,
   "articles": [
+    {
+      "title": "Spotify’s 3rd price hike in 2.5 years hints at potential new normal",
+      "link": "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/",
+      "published": "Thu, 15 Jan 2026 19:22:07 +0000",
+      "published_parsed": "2026-01-15T19:22:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Spotify claims the higher fees will help \"benefit artists.\"",
+      "tags": [
+        "apps",
+        "music",
+        "spotify",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Are people avoiding iOS 26 because of Liquid Glass? It’s complicated.",
+      "link": "https://arstechnica.com/gadgets/2026/01/are-people-avoiding-ios-26-because-of-liquid-glass-its-complicated/",
+      "published": "Thu, 15 Jan 2026 18:37:34 +0000",
+      "published_parsed": "2026-01-15T18:37:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Liquid Glass is controversial, but adoption rates aren't as low as they seem.",
+      "tags": [
+        "apple",
+        "ios 18",
+        "ios 26",
+        "tech"
+      ]
+    },
     {
       "title": "Researchers reveal “WhisperPair” attack to eavesdrop on Google Fast Pair headphones",
       "link": "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/",
