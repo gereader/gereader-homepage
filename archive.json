@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-01-14T23:20:28.378673+00:00",
-  "article_count": 1438,
+  "last_updated": "2026-01-15T02:59:14.452624+00:00",
+  "article_count": 1439,
   "articles": [
+    {
+      "title": "A single click mounted a covert, multistage attack against Copilot",
+      "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
+      "published": "Wed, 14 Jan 2026 22:03:11 +0000",
+      "published_parsed": "2026-01-14T22:03:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Exploit exfiltrating data from chat histories worked even after users closed chat windows.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "copilot",
+        "data exfiltration",
+        "llms",
+        "prompt injections",
+        "security"
+      ]
+    },
     {
       "title": "Federal data underscores meteoric rise of streaming subscription prices in 2025",
       "link": "https://arstechnica.com/gadgets/2026/01/federal-data-underscores-meteoric-rise-of-streaming-subscription-prices-in-2025/",
