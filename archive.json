@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-15T02:59:14.452624+00:00",
-  "article_count": 1439,
+  "last_updated": "2026-01-15T07:27:59.618494+00:00",
+  "article_count": 1440,
   "articles": [
+    {
+      "title": "Using netlab to Set Up Demos",
+      "link": "https://blog.ipspace.net/2026/01/using-netlab-demos/?utm_source=atom_feed",
+      "published": "2026-01-15T08:15:00+01:00",
+      "published_parsed": "2026-01-15T08:15:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "David Gee was time-pressed to set up a demo network to showcase his network automation solution and found that a Ubuntu VM running netlab to orchestrate Arista cEOS containers on his Apple Silicon laptop was exactly what he needed. I fixed a few blog posts based on his feedback (I can’t tell you...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "A single click mounted a covert, multistage attack against Copilot",
       "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",

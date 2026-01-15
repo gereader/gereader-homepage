@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T02:59:14.472013+00:00",
+  "last_updated": "2026-01-15T07:27:59.637588+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -302,6 +302,19 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "Using netlab to Set Up Demos",
+      "link": "https://blog.ipspace.net/2026/01/using-netlab-demos/?utm_source=atom_feed",
+      "published": "2026-01-15T08:15:00+01:00",
+      "published_parsed": "2026-01-15T08:15:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "David Gee was time-pressed to set up a demo network to showcase his network automation solution and found that a Ubuntu VM running netlab to orchestrate Arista cEOS containers on his Apple Silicon laptop was exactly what he needed. I fixed a few blog posts based on his feedback (I can’t tell you...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "A single click mounted a covert, multistage attack against Copilot",
       "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
@@ -1984,20 +1997,6 @@
       "image": null,
       "summary": "Today, I’ll focus on another feature of the new files plugin – you can use it to embed any (hopefully small) file in a lab topology ( configlets are just a special case in which the plugin creates the relative file path from the configlets dictionary data). You could use this functionality to...",
       "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Hide Transit Subnets in IS-IS Networks",
-      "link": "https://blog.ipspace.net/2025/10/isis-lab-hide-transit/?utm_source=atom_feed",
-      "published": "2025-10-17T07:46:00+02:00",
-      "published_parsed": "2025-10-17T07:46:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://isis.bgplabs.net/feature/topology-hide-transit.png",
-      "summary": "Sometimes you want to assign IPv4/IPv6 subnets to transit links in your network (for example, to identify interfaces in traceroute outputs), but don’t need to have those subnets in the IP routing tables throughout the whole network. Like OSPF, IS-IS has a nerd knob you can use to exclude transit...",
-      "tags": [
-        "is-is",
         "netlab",
         "networking"
       ]
