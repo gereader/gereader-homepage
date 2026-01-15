@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T14:27:53.682127+00:00",
+  "last_updated": "2026-01-15T18:40:35.785175+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -41,9 +41,9 @@
     "ai slop",
     "ai sycophancy",
     "ai training",
+    "ai training data",
     "ai work",
     "amazon",
-    "amazon alexa",
     "amd",
     "amd ryzen",
     "ansible",
@@ -58,10 +58,10 @@
     "aws",
     "azure",
     "bandcamp",
-    "bankrupt",
     "bgp",
     "biz & it",
     "blog",
+    "bluetooth",
     "bose",
     "brad smith",
     "bridging",
@@ -158,10 +158,10 @@
     "internet archive",
     "ip routing",
     "ipv6",
-    "irobot",
     "is-is",
     "ise",
     "jamming",
+    "jimmy wales",
     "jinja",
     "keyboards",
     "lan",
@@ -185,6 +185,7 @@
     "meta",
     "microsoft",
     "misinformation",
+    "mistral ai",
     "monitors",
     "motorola",
     "motorola razr fold",
@@ -206,6 +207,7 @@
     "networking",
     "networking fundamentals",
     "nfv",
+    "non-profit",
     "nsx",
     "nudify apps",
     "nvidia",
@@ -222,9 +224,9 @@
     "pbs",
     "pentagon",
     "performance",
+    "perplexity",
     "personal information",
     "pete hegseth",
-    "picea",
     "pixelmator",
     "podcast",
     "policy",
@@ -242,7 +244,6 @@
     "retrocomputing",
     "retrotech",
     "robots",
-    "roomba",
     "ryzen",
     "ryzen ai",
     "sam altman",
@@ -277,7 +278,6 @@
     "streaming",
     "supply chain attacks",
     "switching",
-    "syndication",
     "tcp",
     "tech",
     "the guardian",
@@ -295,6 +295,9 @@
     "wan",
     "warner bros. discovery",
     "water use",
+    "wikimedia enterprise",
+    "wikimedia foundation",
+    "wikipedia",
     "windows server",
     "windsurf",
     "word of the year",
@@ -302,6 +305,50 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "Researchers reveal “WhisperPair” attack to eavesdrop on Google Fast Pair headphones",
+      "link": "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/",
+      "published": "Thu, 15 Jan 2026 17:46:40 +0000",
+      "published_parsed": "2026-01-15T17:46:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Even Google's own earbuds are vulnerable to the Fast Pair hack.",
+      "tags": [
+        "bluetooth",
+        "google",
+        "security",
+        "tech"
+      ]
+    },
+    {
+      "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+      "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
+      "published": "Thu, 15 Jan 2026 15:25:52 +0000",
+      "published_parsed": "2026-01-15T15:25:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Wikimedia Enterprise signs Microsoft, Meta, Amazon, Perplexity, and Mistral AI to paid deals.",
+      "tags": [
+        "ai",
+        "ai infrastructure",
+        "ai training data",
+        "amazon",
+        "biz & it",
+        "generative ai",
+        "google",
+        "jimmy wales",
+        "large language models",
+        "machine learning",
+        "meta",
+        "microsoft",
+        "mistral ai",
+        "non-profit",
+        "perplexity",
+        "wikimedia enterprise",
+        "wikimedia foundation",
+        "wikipedia"
+      ]
+    },
     {
       "title": "Using netlab to Set Up Demos",
       "link": "https://blog.ipspace.net/2026/01/using-netlab-demos/?utm_source=atom_feed",
@@ -895,22 +942,6 @@
       ]
     },
     {
-      "title": "Amazon Alexa+ released to the general public via an early access website",
-      "link": "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/",
-      "published": "Mon, 05 Jan 2026 20:01:12 +0000",
-      "published_parsed": "2026-01-05T20:01:12+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon brings back browser-based Alexa but will eventually add a paywall.",
-      "tags": [
-        "ai",
-        "amazon",
-        "amazon alexa",
-        "generative ai",
-        "tech"
-      ]
-    },
-    {
       "title": "You're Not Alone: Business Cases, AI, and Real Conversations",
       "link": "https://networkautomation.forum/blog/autocon-4-in-review-what-you-told-us",
       "published": "Wed, 31 Dec 2025 18:13:42 +0000",
@@ -1217,23 +1248,6 @@
         "rc4",
         "security",
         "windows server"
-      ]
-    },
-    {
-      "title": "Roomba maker iRobot swept into bankruptcy",
-      "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
-      "published": "Mon, 15 Dec 2025 15:24:41 +0000",
-      "published_parsed": "2025-12-15T15:24:41+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Shenzhen-based Picea Robotics, its lender and primary supplier, will acquire all of iRobot’s shares.",
-      "tags": [
-        "bankrupt",
-        "biz & it",
-        "irobot",
-        "picea",
-        "roomba",
-        "syndication"
       ]
     },
     {

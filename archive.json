@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-01-15T14:27:53.663278+00:00",
-  "article_count": 1440,
+  "last_updated": "2026-01-15T18:40:35.765631+00:00",
+  "article_count": 1442,
   "articles": [
+    {
+      "title": "Researchers reveal “WhisperPair” attack to eavesdrop on Google Fast Pair headphones",
+      "link": "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/",
+      "published": "Thu, 15 Jan 2026 17:46:40 +0000",
+      "published_parsed": "2026-01-15T17:46:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Even Google's own earbuds are vulnerable to the Fast Pair hack.",
+      "tags": [
+        "bluetooth",
+        "google",
+        "security",
+        "tech"
+      ]
+    },
+    {
+      "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+      "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
+      "published": "Thu, 15 Jan 2026 15:25:52 +0000",
+      "published_parsed": "2026-01-15T15:25:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Wikimedia Enterprise signs Microsoft, Meta, Amazon, Perplexity, and Mistral AI to paid deals.",
+      "tags": [
+        "ai",
+        "ai infrastructure",
+        "ai training data",
+        "amazon",
+        "biz & it",
+        "generative ai",
+        "google",
+        "jimmy wales",
+        "large language models",
+        "machine learning",
+        "meta",
+        "microsoft",
+        "mistral ai",
+        "non-profit",
+        "perplexity",
+        "wikimedia enterprise",
+        "wikimedia foundation",
+        "wikipedia"
+      ]
+    },
     {
       "title": "Using netlab to Set Up Demos",
       "link": "https://blog.ipspace.net/2026/01/using-netlab-demos/?utm_source=atom_feed",
