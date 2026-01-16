@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T14:27:14.282460+00:00",
+  "last_updated": "2026-01-16T18:37:21.649839+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,6 +21,7 @@
     "ai and work",
     "ai assistants",
     "ai bot",
+    "ai chips",
     "ai coding",
     "ai confabulation",
     "ai criticism",
@@ -50,6 +51,7 @@
     "apple",
     "apps",
     "arista",
+    "arizona",
     "arp",
     "audio",
     "audio synthesis",
@@ -65,6 +67,7 @@
     "brad smith",
     "bridging",
     "browser extensions",
+    "c.c. wei",
     "cable",
     "california",
     "censorship",
@@ -113,7 +116,6 @@
     "eigrp",
     "electricity",
     "elon musk",
-    "encryption",
     "evpn",
     "fabric",
     "features",
@@ -232,7 +234,6 @@
     "qos",
     "ram",
     "raspberry pi",
-    "rc4",
     "robots",
     "sam altman",
     "samsung",
@@ -243,6 +244,7 @@
     "search engines",
     "security",
     "segment routing",
+    "semiconductors",
     "service providers",
     "sfgate",
     "signal messenger",
@@ -265,12 +267,14 @@
     "streaming",
     "supply chain attacks",
     "switching",
+    "taiwan",
     "tcp",
     "tech",
     "the guardian",
     "tips",
     "traffic engineering",
     "training",
+    "tsmc",
     "user accounts",
     "user privacy",
     "vibe coding",
@@ -284,13 +288,38 @@
     "wikimedia enterprise",
     "wikimedia foundation",
     "wikipedia",
-    "windows server",
     "windsurf",
     "word of the year",
     "worth reading",
     "xai"
   ],
   "articles": [
+    {
+      "title": "TSMC says AI demand is “endless” after record Q4 earnings",
+      "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+      "published": "Fri, 16 Jan 2026 16:55:08 +0000",
+      "published_parsed": "2026-01-16T16:55:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Amid fears of bubble, world's top chipmaker TSMC says customers just keep asking for more.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai infrastructure",
+        "amazon",
+        "arizona",
+        "biz & it",
+        "c.c. wei",
+        "datacenters",
+        "google",
+        "machine learning",
+        "microsoft",
+        "nvidia",
+        "semiconductors",
+        "taiwan",
+        "tsmc"
+      ]
+    },
     {
       "title": "Infrahub with Damien Garros",
       "link": "https://blog.ipspace.net/2026/01/infrahub-damien-garros/?utm_source=atom_feed",
@@ -359,7 +388,7 @@
       "published_parsed": "2026-01-15T15:25:52+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
-      "summary": "Wikimedia Enterprise signs Microsoft, Meta, Amazon, Perplexity, and Mistral AI to paid deals.",
+      "summary": "Wikimedia Enterprise signs Microsoft, Meta, Amazon, Perplexity, and Mistral to API access deals.",
       "tags": [
         "ai",
         "ai infrastructure",
@@ -1216,22 +1245,6 @@
         "social media",
         "spam",
         "word of the year"
-      ]
-    },
-    {
-      "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
-      "link": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
-      "published": "Mon, 15 Dec 2025 21:15:55 +0000",
-      "published_parsed": "2025-12-15T21:15:55+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
-      "tags": [
-        "biz & it",
-        "encryption",
-        "rc4",
-        "security",
-        "windows server"
       ]
     },
     {

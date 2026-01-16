@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-16T14:27:14.263794+00:00",
-  "article_count": 1445,
+  "last_updated": "2026-01-16T18:37:21.630925+00:00",
+  "article_count": 1446,
   "articles": [
+    {
+      "title": "TSMC says AI demand is “endless” after record Q4 earnings",
+      "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+      "published": "Fri, 16 Jan 2026 16:55:08 +0000",
+      "published_parsed": "2026-01-16T16:55:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Amid fears of bubble, world's top chipmaker TSMC says customers just keep asking for more.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai infrastructure",
+        "amazon",
+        "arizona",
+        "biz & it",
+        "c.c. wei",
+        "datacenters",
+        "google",
+        "machine learning",
+        "microsoft",
+        "nvidia",
+        "semiconductors",
+        "taiwan",
+        "tsmc"
+      ]
+    },
     {
       "title": "Infrahub with Damien Garros",
       "link": "https://blog.ipspace.net/2026/01/infrahub-damien-garros/?utm_source=atom_feed",
