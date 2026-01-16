@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-16T02:59:45.285355+00:00",
-  "article_count": 109,
+  "last_updated": "2026-01-16T07:27:35.280054+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -291,6 +291,21 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "Infrahub with Damien Garros",
+      "link": "https://blog.ipspace.net/2026/01/infrahub-damien-garros/?utm_source=atom_feed",
+      "published": "2026-01-16T07:47:00+01:00",
+      "published_parsed": "2026-01-16T07:47:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Why do we need Infrahub , another network automation tool? What does it bring to the table, who should be using it, and why is it using a graph database internally? I discussed these questions with Damien Garros , the driving force behind Infrahub, the founder of OpsMill (the company developing...",
+      "tags": [
+        "automation",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "Spotify’s 3rd price hike in 2.5 years hints at potential new normal",
       "link": "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/",
