@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T18:37:21.649839+00:00",
+  "last_updated": "2026-01-16T23:23:20.371109+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -45,6 +45,7 @@
     "ai training data",
     "ai work",
     "amazon",
+    "amd",
     "ansible",
     "anthropic",
     "api",
@@ -146,9 +147,6 @@
     "image synthesis",
     "independent music",
     "infrahub",
-    "intel",
-    "intel core ultra",
-    "intel core ultra 3",
     "interference",
     "internet",
     "ios 18",
@@ -216,7 +214,6 @@
     "overlay networks",
     "oxford",
     "palo alto",
-    "panther lake",
     "paramount",
     "pentagon",
     "performance",
@@ -232,15 +229,19 @@
     "property taxes",
     "python",
     "qos",
+    "radeon",
     "ram",
+    "ram shortage",
     "raspberry pi",
     "robots",
     "sam altman",
     "samsung",
     "san",
+    "sandisk",
     "satellites",
     "sd-wan",
     "sdn",
+    "seagate",
     "search engines",
     "security",
     "segment routing",
@@ -264,6 +265,7 @@
     "spotify",
     "sr models",
     "ssd",
+    "ssds",
     "streaming",
     "supply chain attacks",
     "switching",
@@ -285,6 +287,7 @@
     "wan",
     "warner bros. discovery",
     "water use",
+    "western digital",
     "wikimedia enterprise",
     "wikimedia foundation",
     "wikipedia",
@@ -294,6 +297,28 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives",
+      "link": "https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/",
+      "published": "Fri, 16 Jan 2026 19:56:33 +0000",
+      "published_parsed": "2026-01-16T19:56:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "GPU makers may prioritize more profitable models; large SSDs are harder to find.",
+      "tags": [
+        "amd",
+        "geforce",
+        "nvidia",
+        "radeon",
+        "ram shortage",
+        "samsung",
+        "sandisk",
+        "seagate",
+        "ssds",
+        "tech",
+        "western digital"
+      ]
+    },
     {
       "title": "TSMC says AI demand is “endless” after record Q4 earnings",
       "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
@@ -382,7 +407,7 @@
       ]
     },
     {
-      "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+      "title": "Wikipedia signs major AI firms to new priority data access deals",
       "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
       "published": "Thu, 15 Jan 2026 15:25:52 +0000",
       "published_parsed": "2026-01-15T15:25:52+00:00",
@@ -916,23 +941,6 @@
         "dell",
         "generative ai",
         "laptops",
-        "tech"
-      ]
-    },
-    {
-      "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
-      "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
-      "published": "Tue, 06 Jan 2026 03:45:49 +0000",
-      "published_parsed": "2026-01-06T03:45:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot_2026-01-05_at_8.37.12_PM-1024x1014.jpeg",
-      "summary": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
-      "tags": [
-        "gaming",
-        "intel",
-        "intel core ultra",
-        "intel core ultra 3",
-        "panther lake",
         "tech"
       ]
     },

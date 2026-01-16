@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-01-16T18:37:21.630925+00:00",
-  "article_count": 1446,
+  "last_updated": "2026-01-16T23:23:20.352130+00:00",
+  "article_count": 1447,
   "articles": [
+    {
+      "title": "RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives",
+      "link": "https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/",
+      "published": "Fri, 16 Jan 2026 19:56:33 +0000",
+      "published_parsed": "2026-01-16T19:56:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "GPU makers may prioritize more profitable models; large SSDs are harder to find.",
+      "tags": [
+        "amd",
+        "geforce",
+        "nvidia",
+        "radeon",
+        "ram shortage",
+        "samsung",
+        "sandisk",
+        "seagate",
+        "ssds",
+        "tech",
+        "western digital"
+      ]
+    },
     {
       "title": "TSMC says AI demand is “endless” after record Q4 earnings",
       "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
