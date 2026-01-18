@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T14:20:57.636638+00:00",
-  "article_count": 109,
+  "last_updated": "2026-01-18T18:32:05.724724+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -992,6 +992,19 @@
         "geforce 50-series",
         "nvidia",
         "tech"
+      ]
+    },
+    {
+      "title": "Setting up Proxmox Backup Server",
+      "link": "https://www.packetswitch.co.uk/setting-up-proxmox-backup-server/",
+      "published": "Tue, 06 Jan 2026 10:01:00 GMT",
+      "published_parsed": "2026-01-06T10:01:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/01/pbs-1-.png",
+      "summary": "In this post, we’ll go through the process of setting up Proxmox Backup Server and backing up all the VMs from my Proxmox server to this backup server. So, let’s get to it.",
+      "tags": [
+        "homelab",
+        "networking"
       ]
     },
     {

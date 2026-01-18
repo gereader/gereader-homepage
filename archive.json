@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T14:20:57.617738+00:00",
-  "article_count": 1451,
+  "last_updated": "2026-01-18T18:32:05.705441+00:00",
+  "article_count": 1452,
   "articles": [
     {
       "title": "Meta’s layoffs leave Supernatural fitness users in mourning",
@@ -720,6 +720,19 @@
         "generative ai",
         "laptops",
         "tech"
+      ]
+    },
+    {
+      "title": "Setting up Proxmox Backup Server",
+      "link": "https://www.packetswitch.co.uk/setting-up-proxmox-backup-server/",
+      "published": "Tue, 06 Jan 2026 10:01:00 GMT",
+      "published_parsed": "2026-01-06T10:01:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2025/01/pbs-1-.png",
+      "summary": "In this post, we’ll go through the process of setting up Proxmox Backup Server and backing up all the VMs from my Proxmox server to this backup server. So, let’s get to it.",
+      "tags": [
+        "homelab",
+        "networking"
       ]
     },
     {
