@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T18:32:05.724724+00:00",
-  "article_count": 110,
+  "last_updated": "2026-01-18T23:22:14.192948+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1987,19 +1987,6 @@
       "tags": [
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Docker Networking (Bridge, Host and None Drivers)",
-      "link": "https://www.packetswitch.co.uk/docker-series-networking-and-ip-addresses/",
-      "published": "Mon, 20 Oct 2025 18:42:00 GMT",
-      "published_parsed": "2025-10-20T18:42:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/03/docker-series.png",
-      "summary": "In this post, we will focus on the bridge, host and none Docker Network Drivers. Containers have networking enabled by default, and they can make outgoing connections.",
-      "tags": [
-        "docker",
-        "networking"
       ]
     }
   ]
