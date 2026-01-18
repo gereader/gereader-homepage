@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T07:22:42.366301+00:00",
-  "article_count": 110,
+  "last_updated": "2026-01-18T14:20:57.636638+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1986,19 +1986,6 @@
       "summary": "In this post, we will focus on the bridge, host and none Docker Network Drivers. Containers have networking enabled by default, and they can make outgoing connections.",
       "tags": [
         "docker",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab: Embed Files in a Lab Topology",
-      "link": "https://blog.ipspace.net/2025/10/netlab-embedded-files/?utm_source=atom_feed",
-      "published": "2025-10-20T09:45:00+02:00",
-      "published_parsed": "2025-10-20T09:45:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Today, I’ll focus on another feature of the new files plugin – you can use it to embed any (hopefully small) file in a lab topology ( configlets are just a special case in which the plugin creates the relative file path from the configlets dictionary data). You could use this functionality to...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
