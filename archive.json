@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-01-19T18:36:35.464402+00:00",
-  "article_count": 1454,
+  "last_updated": "2026-01-19T23:23:53.609096+00:00",
+  "article_count": 1456,
   "articles": [
+    {
+      "title": "Signs point to a sooner-rather-than-later M5 MacBook Pro refresh",
+      "link": "https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/",
+      "published": "Mon, 19 Jan 2026 19:52:22 +0000",
+      "published_parsed": "2026-01-19T19:52:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Delayed shipping times for current models sometimes means an update is imminent.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "macbook air",
+        "macbook pro",
+        "tech"
+      ]
+    },
+    {
+      "title": "Asus confirms its smartphone business is on indefinite hiatus",
+      "link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+      "published": "Mon, 19 Jan 2026 18:24:49 +0000",
+      "published_parsed": "2026-01-19T18:24:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Asus chairman Jonney Shih sees AI applications as the company's main focus going forward.",
+      "tags": [
+        "android",
+        "asus",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "10 things I learned from burning myself out with AI coding agents",
       "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",

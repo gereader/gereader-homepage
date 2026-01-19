@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T18:36:35.483787+00:00",
+  "last_updated": "2026-01-19T23:23:53.628361+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -44,13 +44,16 @@
     "ai training data",
     "amazon",
     "amd",
+    "android",
     "ansible",
     "anthropic",
     "apple",
+    "apple m5",
     "apps",
     "arista",
     "arizona",
     "arp",
+    "asus",
     "audio",
     "audio synthesis",
     "automation",
@@ -101,9 +104,6 @@
     "design",
     "desktops",
     "dhcp",
-    "dlss",
-    "dlss 4",
-    "dlss 4.5",
     "dmvpn",
     "dns",
     "docker",
@@ -122,7 +122,6 @@
     "foldables",
     "gaming",
     "geforce",
-    "geforce 50-series",
     "gemini",
     "generative ai",
     "github",
@@ -138,7 +137,6 @@
     "high availability",
     "history",
     "homelab",
-    "hp",
     "idc",
     "independent music",
     "infrahub",
@@ -153,7 +151,6 @@
     "jamming",
     "jimmy wales",
     "jinja",
-    "keyboards",
     "lan",
     "laptops",
     "large language models",
@@ -166,6 +163,8 @@
     "load balancing",
     "logic pro",
     "logitech",
+    "macbook air",
+    "macbook pro",
     "machine learning",
     "macos",
     "malware",
@@ -229,7 +228,6 @@
     "radeon",
     "ram",
     "ram shortage",
-    "raspberry pi",
     "robots",
     "sam altman",
     "samsung",
@@ -290,6 +288,37 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "Signs point to a sooner-rather-than-later M5 MacBook Pro refresh",
+      "link": "https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/",
+      "published": "Mon, 19 Jan 2026 19:52:22 +0000",
+      "published_parsed": "2026-01-19T19:52:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Delayed shipping times for current models sometimes means an update is imminent.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "macbook air",
+        "macbook pro",
+        "tech"
+      ]
+    },
+    {
+      "title": "Asus confirms its smartphone business is on indefinite hiatus",
+      "link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+      "published": "Mon, 19 Jan 2026 18:24:49 +0000",
+      "published_parsed": "2026-01-19T18:24:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Asus chairman Jonney Shih sees AI applications as the company's main focus going forward.",
+      "tags": [
+        "android",
+        "asus",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "10 things I learned from burning myself out with AI coding agents",
       "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
@@ -990,42 +1019,6 @@
         "motorola",
         "motorola razr fold",
         "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
-      "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
-      "published": "Tue, 06 Jan 2026 22:40:08 +0000",
-      "published_parsed": "2026-01-06T22:40:08+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/500-hero-front-2048x1372-1-640x429.jpg",
-      "summary": "The most familiar, full-fledged PC experience you can get from a keyboard.",
-      "tags": [
-        "ces 2026",
-        "hp",
-        "keyboards",
-        "raspberry pi",
-        "tech"
-      ]
-    },
-    {
-      "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
-      "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
-      "published": "Tue, 06 Jan 2026 21:56:18 +0000",
-      "published_parsed": "2026-01-06T21:56:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Nvidia's only GeForce announcements this year were about software improvements.",
-      "tags": [
-        "ces 2026",
-        "dlss",
-        "dlss 4",
-        "dlss 4.5",
-        "gaming",
-        "geforce",
-        "geforce 50-series",
-        "nvidia",
         "tech"
       ]
     },
