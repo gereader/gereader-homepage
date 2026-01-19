@@ -1,7 +1,30 @@
 {
-  "last_updated": "2026-01-19T07:31:44.691490+00:00",
-  "article_count": 1453,
+  "last_updated": "2026-01-19T14:30:48.310718+00:00",
+  "article_count": 1454,
   "articles": [
+    {
+      "title": "10 things I learned from burning myself out with AI coding agents",
+      "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+      "published": "Mon, 19 Jan 2026 12:00:45 +0000",
+      "published_parsed": "2026-01-19T12:00:45+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Opinion: As software power tools, AI agents may make people busier than ever before.",
+      "tags": [
+        "ai",
+        "ai coding",
+        "ai coding tools",
+        "biz & it",
+        "claude code",
+        "claude opus",
+        "coding agent",
+        "features",
+        "gaming",
+        "large language models",
+        "opus 4.5",
+        "vibe coding"
+      ]
+    },
     {
       "title": "How Moving Away from Ansible Made netlab Faster",
       "link": "https://blog.ipspace.net/2026/01/netlab-faster-without-ansible/?utm_source=atom_feed",

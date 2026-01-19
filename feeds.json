@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-19T07:31:44.710608+00:00",
-  "article_count": 109,
+  "last_updated": "2026-01-19T14:30:48.329995+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -17,13 +17,13 @@
     "advertising",
     "agentic ai",
     "ai",
-    "ai agents",
     "ai alignment",
     "ai and work",
     "ai assistants",
     "ai bubble",
     "ai chips",
     "ai coding",
+    "ai coding tools",
     "ai confabulation",
     "ai criticism",
     "ai ethics",
@@ -42,7 +42,6 @@
     "ai sycophancy",
     "ai training",
     "ai training data",
-    "ai work",
     "amazon",
     "amd",
     "ansible",
@@ -77,16 +76,16 @@
     "chatgtp",
     "cisco",
     "claude code",
+    "claude opus",
     "cloud",
-    "codex",
     "coding",
+    "coding agent",
     "community development",
     "conde nast",
     "confabulation",
     "confabulations",
     "containerlab",
     "containers",
-    "context windows",
     "copilot",
     "cumulus linux",
     "dario amodei",
@@ -206,6 +205,7 @@
     "open source",
     "openai",
     "openflow",
+    "opus 4.5",
     "ospf",
     "overlay networks",
     "palo alto",
@@ -252,7 +252,6 @@
     "smart home",
     "smartphones",
     "snmp",
-    "software development",
     "software gone wild",
     "speakers",
     "spotify",
@@ -291,6 +290,29 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "10 things I learned from burning myself out with AI coding agents",
+      "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+      "published": "Mon, 19 Jan 2026 12:00:45 +0000",
+      "published_parsed": "2026-01-19T12:00:45+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Opinion: As software power tools, AI agents may make people busier than ever before.",
+      "tags": [
+        "ai",
+        "ai coding",
+        "ai coding tools",
+        "biz & it",
+        "claude code",
+        "claude opus",
+        "coding agent",
+        "features",
+        "gaming",
+        "large language models",
+        "opus 4.5",
+        "vibe coding"
+      ]
+    },
     {
       "title": "How Moving Away from Ansible Made netlab Faster",
       "link": "https://blog.ipspace.net/2026/01/netlab-faster-without-ansible/?utm_source=atom_feed",
@@ -1171,33 +1193,6 @@
       ]
     },
     {
-      "title": "How AI coding agents work—and what to remember if you use them",
-      "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
-      "published": "Wed, 24 Dec 2025 12:00:27 +0000",
-      "published_parsed": "2025-12-24T12:00:27+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "From compression tricks to multi-agent teamwork, here's what makes them tick.",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "ai agents",
-        "ai coding",
-        "ai work",
-        "anthropic",
-        "biz & it",
-        "claude code",
-        "codex",
-        "context windows",
-        "large language models",
-        "machine learning",
-        "openai",
-        "programming",
-        "software development",
-        "vibe coding"
-      ]
-    },
-    {
       "title": "Arista Radius Administrator Login with Cisco ISE",
       "link": "https://www.packetswitch.co.uk/arista-radius-administrator-login-with-cisco-ise/",
       "published": "Wed, 24 Dec 2025 12:00:19 GMT",
@@ -1974,19 +1969,6 @@
       "summary": "The first half of the Graph Algorithms in Networks webinar by Rachel Traylor is now available without a valid ipSpace.net account; it discusses algorithms dealing with trees, paths, and finding centers of graphs. Enjoy! Explore",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "pyATS - How to Disable Default Connection Commands",
-      "link": "https://www.packetcoders.io/pyats-how-to-disable-default-connection-commands/",
-      "published": "Tue, 21 Oct 2025 10:21:13 GMT",
-      "published_parsed": "2025-10-21T10:21:13+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/10/Untitled-design--93--1-1.webp",
-      "summary": "pyATS Tip! By default, pyATS runs several exec/config commands and logs to stdout when connecting. You can disable these using the parameters in the example below: device.connect( init_exec_commands=[], # Disable default exec commands init_config_commands=[], # Disable default config commands...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
