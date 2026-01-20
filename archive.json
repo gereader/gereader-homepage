@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-01-20T18:42:01.933507+00:00",
-  "article_count": 1457,
+  "last_updated": "2026-01-20T23:25:50.400179+00:00",
+  "article_count": 1459,
   "articles": [
+    {
+      "title": "Google temporarily disabled YouTube's advanced captions without warning",
+      "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
+      "published": "Tue, 20 Jan 2026 22:17:02 +0000",
+      "published_parsed": "2026-01-20T22:17:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says SRV3 was causing playback errors, so it has \"temporarily\" disabled them.",
+      "tags": [
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Sony is giving TCL control over its high-end Bravia TVs",
+      "link": "https://arstechnica.com/gadgets/2026/01/tcl-to-gain-majority-ownership-over-sonys-bravia-tvs/",
+      "published": "Tue, 20 Jan 2026 18:58:22 +0000",
+      "published_parsed": "2026-01-20T18:58:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "TCL will own 51 percent of the high-end TVs.",
+      "tags": [
+        "sony",
+        "tcl",
+        "tech",
+        "tvs"
+      ]
+    },
     {
       "title": "On MPLS Paths, Tunnels and Interfaces",
       "link": "https://blog.ipspace.net/2026/01/mpls-paths-tunnels-interfaces/?utm_source=atom_feed",

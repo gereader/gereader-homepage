@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20T18:42:01.954361+00:00",
+  "last_updated": "2026-01-20T23:25:50.419385+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -119,7 +119,6 @@
     "final cut pro",
     "firewall",
     "firewalls",
-    "foldables",
     "gaming",
     "geforce",
     "gemini",
@@ -163,11 +162,9 @@
     "llms",
     "load balancing",
     "logic pro",
-    "logitech",
     "macbook air",
     "macbook pro",
     "machine learning",
-    "macos",
     "malware",
     "medical advice",
     "merger",
@@ -177,8 +174,6 @@
     "misinformation",
     "mistral ai",
     "monitors",
-    "motorola",
-    "motorola razr fold",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -252,6 +247,7 @@
     "smartphones",
     "snmp",
     "software gone wild",
+    "sony",
     "speakers",
     "spotify",
     "sr models",
@@ -262,6 +258,7 @@
     "switching",
     "syndication",
     "taiwan",
+    "tcl",
     "tcp",
     "tech",
     "the guardian",
@@ -269,6 +266,7 @@
     "traffic engineering",
     "training",
     "tsmc",
+    "tvs",
     "user accounts",
     "user privacy",
     "vibe coding",
@@ -286,9 +284,39 @@
     "wikipedia",
     "windsurf",
     "worth reading",
-    "xai"
+    "xai",
+    "youtube"
   ],
   "articles": [
+    {
+      "title": "Google temporarily disabled YouTube's advanced captions without warning",
+      "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
+      "published": "Tue, 20 Jan 2026 22:17:02 +0000",
+      "published_parsed": "2026-01-20T22:17:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says SRV3 was causing playback errors, so it has \"temporarily\" disabled them.",
+      "tags": [
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Sony is giving TCL control over its high-end Bravia TVs",
+      "link": "https://arstechnica.com/gadgets/2026/01/tcl-to-gain-majority-ownership-over-sonys-bravia-tvs/",
+      "published": "Tue, 20 Jan 2026 18:58:22 +0000",
+      "published_parsed": "2026-01-20T18:58:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "TCL will own 51 percent of the high-end TVs.",
+      "tags": [
+        "sony",
+        "tcl",
+        "tech",
+        "tvs"
+      ]
+    },
     {
       "title": "On MPLS Paths, Tunnels and Interfaces",
       "link": "https://blog.ipspace.net/2026/01/mpls-paths-tunnels-interfaces/?utm_source=atom_feed",
@@ -1004,37 +1032,6 @@
         "bose",
         "smart home",
         "speakers",
-        "tech"
-      ]
-    },
-    {
-      "title": "Expired certificate completely breaks macOS Logitech apps, user customizations",
-      "link": "https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/",
-      "published": "Wed, 07 Jan 2026 18:15:27 +0000",
-      "published_parsed": "2026-01-07T18:15:27+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Even with a fix available, broken apps won't be able to update themselves.",
-      "tags": [
-        "apple",
-        "logitech",
-        "macos",
-        "tech"
-      ]
-    },
-    {
-      "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
-      "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
-      "published": "Wed, 07 Jan 2026 01:00:06 +0000",
-      "published_parsed": "2026-01-07T01:00:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Motorola is light on details but heavy on hype for its first book-style foldable.",
-      "tags": [
-        "foldables",
-        "motorola",
-        "motorola razr fold",
-        "smartphones",
         "tech"
       ]
     },
