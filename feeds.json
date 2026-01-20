@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20T03:01:45.112265+00:00",
+  "last_updated": "2026-01-20T07:31:02.348605+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -129,6 +129,7 @@
     "google antigravity",
     "google play",
     "gps",
+    "gre",
     "grok",
     "hacking",
     "hashes",
@@ -288,6 +289,21 @@
     "xai"
   ],
   "articles": [
+    {
+      "title": "On MPLS Paths, Tunnels and Interfaces",
+      "link": "https://blog.ipspace.net/2026/01/mpls-paths-tunnels-interfaces/?utm_source=atom_feed",
+      "published": "2026-01-20T07:29:00+01:00",
+      "published_parsed": "2026-01-20T07:29:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "One of my readers attempted to implement a multi-vendor multicast VPN over MPLS but failed. As a good network engineer, he tried various duct tapes but found that the only working one was a GRE tunnel within a VRF, resulting in considerable frustration. In his own words: How is a GRE tunnel...",
+      "tags": [
+        "gre",
+        "mpls",
+        "networking",
+        "networking fundamentals"
+      ]
+    },
     {
       "title": "Signs point to a sooner-rather-than-later M5 MacBook Pro refresh",
       "link": "https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/",
@@ -1949,18 +1965,6 @@
       "tags": [
         "is-is",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Public Videos: Graph Algorithms in Networks (Part 1)",
-      "link": "https://blog.ipspace.net/2025/10/video-trees-paths-centers/?utm_source=atom_feed",
-      "published": "2025-10-22T08:09:00+02:00",
-      "published_parsed": "2025-10-22T08:09:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2024/05/dalle-graph-math.jpeg",
-      "summary": "The first half of the Graph Algorithms in Networks webinar by Rachel Traylor is now available without a valid ipSpace.net account; it discusses algorithms dealing with trees, paths, and finding centers of graphs. Enjoy! Explore",
-      "tags": [
         "networking"
       ]
     }
