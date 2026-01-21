@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T18:48:42.437165+00:00",
+  "last_updated": "2026-01-21T23:28:32.763656+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -58,7 +58,6 @@
     "arizona",
     "arp",
     "asus",
-    "audio",
     "audio synthesis",
     "automation",
     "aws",
@@ -68,7 +67,6 @@
     "biz & it",
     "blog",
     "bluetooth",
-    "bose",
     "brad smith",
     "bridging",
     "c.c. wei",
@@ -153,6 +151,7 @@
     "ise",
     "jimmy wales",
     "jinja",
+    "kioxia",
     "lan",
     "laptops",
     "large language models",
@@ -169,6 +168,7 @@
     "machine learning",
     "malware",
     "medical advice",
+    "memory shortage",
     "merger",
     "meta",
     "meta vr",
@@ -249,7 +249,6 @@
     "snmp",
     "software gone wild",
     "sony",
-    "speakers",
     "spotify",
     "sr models",
     "ssd",
@@ -289,6 +288,21 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
+      "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
+      "published": "Wed, 21 Jan 2026 20:37:00 +0000",
+      "published_parsed": "2026-01-21T20:37:00+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Kioxia is spinning up more manufacturing capacity, but relief will come slowly.",
+      "tags": [
+        "kioxia",
+        "memory shortage",
+        "ssds",
+        "tech"
+      ]
+    },
     {
       "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
       "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
@@ -1057,22 +1071,6 @@
         "robots",
         "samsung",
         "smart home",
-        "tech"
-      ]
-    },
-    {
-      "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
-      "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
-      "published": "Wed, 07 Jan 2026 18:51:37 +0000",
-      "published_parsed": "2026-01-07T18:51:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "If companies insist on bricking gadgets, this is a better way to do it.",
-      "tags": [
-        "audio",
-        "bose",
-        "smart home",
-        "speakers",
         "tech"
       ]
     },
