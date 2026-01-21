@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-21T07:31:44.513060+00:00",
-  "article_count": 1460,
+  "last_updated": "2026-01-21T14:34:41.403522+00:00",
+  "article_count": 1461,
   "articles": [
+    {
+      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+      "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+      "published": "Wed, 21 Jan 2026 12:15:23 +0000",
+      "published_parsed": "2026-01-21T12:15:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
+      "tags": [
+        "ai",
+        "ai detection",
+        "ai detectors",
+        "ai slop",
+        "ai writing",
+        "anthropic",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "chatgtp",
+        "claude",
+        "generative ai",
+        "large language models",
+        "machine learning",
+        "wikipedia"
+      ]
+    },
     {
       "title": "Lab: Distributing Level-2 IS-IS Routes into Level-1 Areas",
       "link": "https://blog.ipspace.net/2026/01/isis-inter-area-routes/?utm_source=atom_feed",

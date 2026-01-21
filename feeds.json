@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T07:31:44.532133+00:00",
+  "last_updated": "2026-01-21T14:34:41.422682+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -26,6 +26,8 @@
     "ai coding tools",
     "ai confabulation",
     "ai criticism",
+    "ai detection",
+    "ai detectors",
     "ai ethics",
     "ai hallucination",
     "ai health",
@@ -39,9 +41,11 @@
     "ai regulation",
     "ai research",
     "ai security",
+    "ai slop",
     "ai sycophancy",
     "ai training",
     "ai training data",
+    "ai writing",
     "amazon",
     "amd",
     "android",
@@ -78,6 +82,7 @@
     "chatgpt",
     "chatgtp",
     "cisco",
+    "claude",
     "claude code",
     "claude opus",
     "cloud",
@@ -127,7 +132,6 @@
     "google",
     "google antigravity",
     "google play",
-    "gps",
     "gre",
     "grok",
     "hacking",
@@ -140,7 +144,6 @@
     "idc",
     "independent music",
     "infrahub",
-    "interference",
     "internet",
     "ios 18",
     "ios 26",
@@ -148,7 +151,6 @@
     "ipv6",
     "is-is",
     "ise",
-    "jamming",
     "jimmy wales",
     "jinja",
     "lan",
@@ -229,7 +231,6 @@
     "samsung",
     "san",
     "sandisk",
-    "satellites",
     "sd-wan",
     "sdn",
     "seagate",
@@ -288,6 +289,32 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+      "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+      "published": "Wed, 21 Jan 2026 12:15:23 +0000",
+      "published_parsed": "2026-01-21T12:15:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
+      "tags": [
+        "ai",
+        "ai detection",
+        "ai detectors",
+        "ai slop",
+        "ai writing",
+        "anthropic",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "chatgtp",
+        "claude",
+        "generative ai",
+        "large language models",
+        "machine learning",
+        "wikipedia"
+      ]
+    },
     {
       "title": "Lab: Distributing Level-2 IS-IS Routes into Level-1 Areas",
       "link": "https://blog.ipspace.net/2026/01/isis-inter-area-routes/?utm_source=atom_feed",
@@ -1167,22 +1194,6 @@
         "hacking",
         "user accounts",
         "user privacy"
-      ]
-    },
-    {
-      "title": "GPS is vulnerable to jamming—here’s how we might fix it",
-      "link": "https://arstechnica.com/information-technology/2025/12/gps-is-vulnerable-to-jamming-heres-how-we-might-fix-it/",
-      "published": "Mon, 29 Dec 2025 15:10:16 +0000",
-      "published_parsed": "2025-12-29T15:10:16+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "GPS jamming has gotten cheap and easy, but there are potential solutions.",
-      "tags": [
-        "biz & it",
-        "gps",
-        "interference",
-        "jamming",
-        "satellites"
       ]
     },
     {
