@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T03:00:42.507484+00:00",
+  "last_updated": "2026-01-21T07:31:44.532133+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -289,13 +289,27 @@
   ],
   "articles": [
     {
+      "title": "Lab: Distributing Level-2 IS-IS Routes into Level-1 Areas",
+      "link": "https://blog.ipspace.net/2026/01/isis-inter-area-routes/?utm_source=atom_feed",
+      "published": "2026-01-21T08:06:00+01:00",
+      "published_parsed": "2026-01-21T08:06:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "One of the major differences between OSPF and IS-IS is their handling of inter-area routes. Non-backbone OSPF intra-area routes are copied into the backbone area and later (after the backbone SPF run) copied into other areas. IS-IS does not copy level-2 routes into level-1 areas; level-1 areas (by...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
+    {
       "title": "Google temporarily disabled YouTube's advanced captions without warning",
       "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
       "published": "Tue, 20 Jan 2026 22:17:02 +0000",
       "published_parsed": "2026-01-20T22:17:02+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
-      "summary": "Google says SRV3 was causing playback errors, so it has \"temporarily\" disabled them.",
+      "summary": "Google says SRV3 captions were causing playback errors, so it has \"temporarily\" disabled them.",
       "tags": [
         "google",
         "tech",
@@ -1948,20 +1962,6 @@
       "image": null,
       "summary": "I love well-organized small conferences, so it wasn’t hard to persuade me to have another talk at the DEEP Conference in Zadar, Croatia. This time, I talked about the role of digital twins in disaster recovery/avoidance testing. You might know my take on networking digital twins ; after that, I...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Drain Traffic From an IS-IS Node Before Starting Maintenance",
-      "link": "https://blog.ipspace.net/2025/10/isis-lab-overload-maintenance/?utm_source=atom_feed",
-      "published": "2025-10-23T07:09:00+02:00",
-      "published_parsed": "2025-10-23T07:09:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Here’s a cool feature every routing protocol should have: a flag that tells everyone a node is going down, giving them time to adjust their routing tables before disrupting traffic flow. OSPF never had such a feature; common implementations set the cost of all interfaces to a very high value to...",
-      "tags": [
-        "is-is",
-        "netlab",
         "networking"
       ]
     }
