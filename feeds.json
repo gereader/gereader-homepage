@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T23:28:32.763656+00:00",
+  "last_updated": "2026-01-22T03:05:33.264643+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -59,6 +59,7 @@
     "arp",
     "asus",
     "audio synthesis",
+    "authentication links",
     "automation",
     "aws",
     "azure",
@@ -87,7 +88,6 @@
     "coding",
     "coding agent",
     "community development",
-    "conde nast",
     "confabulation",
     "confabulations",
     "containerlab",
@@ -132,7 +132,6 @@
     "google play",
     "gre",
     "grok",
-    "hacking",
     "hashes",
     "health",
     "healthcare",
@@ -246,6 +245,7 @@
     "skilled trades",
     "smart home",
     "smartphones",
+    "sms messages",
     "snmp",
     "software gone wild",
     "sony",
@@ -267,8 +267,6 @@
     "training",
     "tsmc",
     "tvs",
-    "user accounts",
-    "user privacy",
     "vibe coding",
     "video",
     "virtualization",
@@ -288,6 +286,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Millions of people imperiled through sign-in links sent by SMS",
+      "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+      "published": "Wed, 21 Jan 2026 23:22:14 +0000",
+      "published_parsed": "2026-01-21T23:22:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Even well-known services with millions of users are exposing sensitive data.",
+      "tags": [
+        "authentication links",
+        "biz & it",
+        "policy",
+        "privacy",
+        "security",
+        "sms messages"
+      ]
+    },
     {
       "title": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
       "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
@@ -1176,22 +1191,6 @@
         "sam altman",
         "simulated reasoning",
         "sr models"
-      ]
-    },
-    {
-      "title": "Condé Nast user database reportedly breached, Ars unaffected",
-      "link": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
-      "published": "Tue, 30 Dec 2025 18:45:54 +0000",
-      "published_parsed": "2025-12-30T18:45:54+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A serious data breach has occurred, but Ars users have nothing to worry about.",
-      "tags": [
-        "biz & it",
-        "conde nast",
-        "hacking",
-        "user accounts",
-        "user privacy"
       ]
     },
     {
