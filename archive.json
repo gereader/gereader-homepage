@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-22T03:05:33.245090+00:00",
-  "article_count": 1463,
+  "last_updated": "2026-01-22T07:30:07.076598+00:00",
+  "article_count": 1464,
   "articles": [
+    {
+      "title": "Why Doesn't netlab Use X for Device Configuration Templates?",
+      "link": "https://blog.ipspace.net/2026/01/netlab-not-using-vendor-templates/?utm_source=atom_feed",
+      "published": "2026-01-22T08:14:00+01:00",
+      "published_parsed": "2026-01-22T08:14:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Petr Ankudinov made an interesting remark when I complained about how much time I wasted waiting for Cisco 8000v to boot when developing netlab device configuration templates: For Arista part - just use AVD with all templates included and ANTA for testing. I was always wondering why netlab is not...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Millions of people imperiled through sign-in links sent by SMS",
       "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T03:05:33.264643+00:00",
+  "last_updated": "2026-01-22T07:30:07.095894+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -286,6 +286,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Why Doesn't netlab Use X for Device Configuration Templates?",
+      "link": "https://blog.ipspace.net/2026/01/netlab-not-using-vendor-templates/?utm_source=atom_feed",
+      "published": "2026-01-22T08:14:00+01:00",
+      "published_parsed": "2026-01-22T08:14:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Petr Ankudinov made an interesting remark when I complained about how much time I wasted waiting for Cisco 8000v to boot when developing netlab device configuration templates: For Arista part - just use AVD with all templates included and ANTA for testing. I was always wondering why netlab is not...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Millions of people imperiled through sign-in links sent by SMS",
       "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
@@ -1957,18 +1970,6 @@
       "source": "NetBrain Blog",
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "Cisco SmartNet is a 24/7 support and hardware replacement service. Also known as SmartNet Total Care (SNTC), it provides expert help, software updates, and fast hardware replacement so you can...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "DEEP Is Still a Must-Attend Boutique Conference",
-      "link": "https://blog.ipspace.net/2025/10/deep-conference-2025/?utm_source=atom_feed",
-      "published": "2025-10-24T07:54:00+02:00",
-      "published_parsed": "2025-10-24T07:54:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I love well-organized small conferences, so it wasn’t hard to persuade me to have another talk at the DEEP Conference in Zadar, Croatia. This time, I talked about the role of digital twins in disaster recovery/avoidance testing. You might know my take on networking digital twins ; after that, I...",
       "tags": [
         "networking"
       ]
