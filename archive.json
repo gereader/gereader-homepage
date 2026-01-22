@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-01-22T14:33:46.421020+00:00",
-  "article_count": 1464,
+  "last_updated": "2026-01-22T18:38:02.279471+00:00",
+  "article_count": 1465,
   "articles": [
+    {
+      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+      "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
+      "published": "Thu, 22 Jan 2026 15:56:33 +0000",
+      "published_parsed": "2026-01-22T15:56:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform.",
+      "tags": [
+        "agentic ai",
+        "agentic commerce",
+        "ai",
+        "ai agents",
+        "ai shopping",
+        "amazon",
+        "anthropic",
+        "arbitration",
+        "biz & it",
+        "chatgpt",
+        "ebay",
+        "ecommerce",
+        "etsy",
+        "google",
+        "large language models",
+        "machine learning",
+        "openai",
+        "perplexity",
+        "shopify",
+        "user agreements",
+        "web scraping"
+      ]
+    },
     {
       "title": "Why Doesn't netlab Use X for Device Configuration Templates?",
       "link": "https://blog.ipspace.net/2026/01/netlab-not-using-vendor-templates/?utm_source=atom_feed",
