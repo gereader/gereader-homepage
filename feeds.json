@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-23T18:38:43.297608+00:00",
-  "article_count": 109,
+  "last_updated": "2026-01-23T23:24:19.384339+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,6 +11,7 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "18a",
     "aci",
     "advertising",
     "agentic ai",
@@ -53,6 +54,7 @@
     "arista",
     "arizona",
     "arp",
+    "asd",
     "asus",
     "audio synthesis",
     "authentication links",
@@ -88,6 +90,7 @@
     "containerlab",
     "containers",
     "copilot",
+    "core ultra series 3",
     "cumulus linux",
     "data brokers",
     "data center",
@@ -137,6 +140,8 @@
     "idc",
     "independent music",
     "infrahub",
+    "intel",
+    "intel 18a",
     "internet",
     "ios 18",
     "ios 26",
@@ -175,6 +180,7 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
+    "multicast",
     "music",
     "music industry",
     "music synthesis",
@@ -200,7 +206,7 @@
     "opus 4.5",
     "ospf",
     "overlay networks",
-    "palo alto",
+    "panther lake",
     "paramount",
     "password cracking",
     "pentagon",
@@ -219,9 +225,7 @@
     "qos",
     "rackspace",
     "radeon",
-    "ram",
     "ram shortage",
-    "robots",
     "sam altman",
     "samsung",
     "san",
@@ -239,14 +243,12 @@
     "siri",
     "skilled trades",
     "slop",
-    "smart home",
     "smartphones",
     "sms messages",
     "snmp",
     "software gone wild",
     "sony",
     "spotify",
-    "ssd",
     "ssds",
     "streaming",
     "switching",
@@ -282,6 +284,50 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Multicast Introduction (I)",
+      "link": "https://www.packetswitch.co.uk/multicast-introduction-1/",
+      "published": "Fri, 23 Jan 2026 21:07:29 GMT",
+      "published_parsed": "2026-01-23T21:07:29+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast.png",
+      "summary": "With multicast, the source sends only a single copy of the traffic into the network. As that traffic moves through the network, it is replicated",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
+    {
+      "title": "Demand for Intel's processors is apparently there, but the supply is not",
+      "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+      "published": "Fri, 23 Jan 2026 20:48:46 +0000",
+      "published_parsed": "2026-01-23T20:48:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Intel is allocating more of its own production to its money-making server chips.",
+      "tags": [
+        "18a",
+        "core ultra series 3",
+        "intel",
+        "intel 18a",
+        "panther lake",
+        "tech"
+      ]
+    },
+    {
+      "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
+      "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
+      "published": "Fri, 23 Jan 2026 18:32:42 +0000",
+      "published_parsed": "2026-01-23T18:32:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The LA startup said it would ship \"millions\" of TVs by 2024.",
+      "tags": [
+        "asd",
+        "tech",
+        "tvs"
+      ]
+    },
     {
       "title": "MUST WATCH: BGP: the First 18 Years",
       "link": "https://blog.ipspace.net/2026/01/worth-reading-bgp-first-18-years/?utm_source=atom_feed",
@@ -460,13 +506,13 @@
       ]
     },
     {
-      "title": "How NetOps Can Prepare for Agentic AI",
-      "link": "https://www.netbraintech.com/blog/how-netops-prepare-for-agentic-ai/",
+      "title": "From Scripts to Agents: How Evolution of Automation Made AI Inevitable in NetOps",
+      "link": "https://www.netbraintech.com/blog/evolution-of-automation/",
       "published": "2026-01-20T17:38:00Z",
       "published_parsed": "2026-01-20T17:38:00+00:00",
       "source": "NetBrain Blog",
       "image": null,
-      "summary": "If you manage a network, your world is about to change. For over a decade, the GUI dashboard has been your primary interface—your window into switches, firewalls, and cloud connections....",
+      "summary": "Broadband, Wi-Fi, and early smartphones pushed enterprise network traffic past the breaking point by 2004. MPLS VPNs suddenly spanned more sites than any engineer could mentally map. Outages crossed multiple...",
       "tags": [
         "networking"
       ]
@@ -1100,21 +1146,6 @@
       ]
     },
     {
-      "title": "High RAM prices mean record-setting profits for Samsung and other memory makers",
-      "link": "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/",
-      "published": "Thu, 08 Jan 2026 20:36:37 +0000",
-      "published_parsed": "2026-01-08T20:36:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "SK Hynix and Micron are also riding high on the AI industry's demand for RAM.",
-      "tags": [
-        "ram",
-        "samsung",
-        "ssd",
-        "tech"
-      ]
-    },
-    {
       "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
       "published": "Thu, 08 Jan 2026 18:00:52 +0000",
@@ -1155,22 +1186,6 @@
         "data exfiltration",
         "prompt injections",
         "security"
-      ]
-    },
-    {
-      "title": "Samsung’s Ballie home robot, once promised for summer 2025, gets grim update",
-      "link": "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/",
-      "published": "Wed, 07 Jan 2026 22:50:10 +0000",
-      "published_parsed": "2026-01-07T22:50:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Six years after its CES debut, Samsung has demoted Ballie to internal use.",
-      "tags": [
-        "ces 2026",
-        "robots",
-        "samsung",
-        "smart home",
-        "tech"
       ]
     },
     {

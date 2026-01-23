@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-01-23T18:38:43.277777+00:00",
-  "article_count": 1468,
+  "last_updated": "2026-01-23T23:24:19.365039+00:00",
+  "article_count": 1472,
   "articles": [
+    {
+      "title": "Multicast Introduction (I)",
+      "link": "https://www.packetswitch.co.uk/multicast-introduction-1/",
+      "published": "Fri, 23 Jan 2026 21:07:29 GMT",
+      "published_parsed": "2026-01-23T21:07:29+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast.png",
+      "summary": "With multicast, the source sends only a single copy of the traffic into the network. As that traffic moves through the network, it is replicated",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
+    {
+      "title": "Demand for Intel's processors is apparently there, but the supply is not",
+      "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+      "published": "Fri, 23 Jan 2026 20:48:46 +0000",
+      "published_parsed": "2026-01-23T20:48:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Intel is allocating more of its own production to its money-making server chips.",
+      "tags": [
+        "18a",
+        "core ultra series 3",
+        "intel",
+        "intel 18a",
+        "panther lake",
+        "tech"
+      ]
+    },
+    {
+      "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
+      "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
+      "published": "Fri, 23 Jan 2026 18:32:42 +0000",
+      "published_parsed": "2026-01-23T18:32:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The LA startup said it would ship \"millions\" of TVs by 2024.",
+      "tags": [
+        "asd",
+        "tech",
+        "tvs"
+      ]
+    },
     {
       "title": "MUST WATCH: BGP: the First 18 Years",
       "link": "https://blog.ipspace.net/2026/01/worth-reading-bgp-first-18-years/?utm_source=atom_feed",
@@ -187,6 +231,18 @@
       "source": "NetBrain Blog",
       "image": null,
       "summary": "If you manage a network, your world is about to change. For over a decade, the GUI dashboard has been your primary interface—your window into switches, firewalls, and cloud connections....",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "From Scripts to Agents: How Evolution of Automation Made AI Inevitable in NetOps",
+      "link": "https://www.netbraintech.com/blog/evolution-of-automation/",
+      "published": "2026-01-20T17:38:00Z",
+      "published_parsed": "2026-01-20T17:38:00+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Broadband, Wi-Fi, and early smartphones pushed enterprise network traffic past the breaking point by 2004. MPLS VPNs suddenly spanned more sites than any engineer could mentally map. Outages crossed multiple...",
       "tags": [
         "networking"
       ]
