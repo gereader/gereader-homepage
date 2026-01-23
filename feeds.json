@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-23T03:01:01.563419+00:00",
-  "article_count": 108,
+  "last_updated": "2026-01-23T07:28:22.780694+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -282,6 +282,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "MUST WATCH: BGP: the First 18 Years",
+      "link": "https://blog.ipspace.net/2026/01/worth-reading-bgp-first-18-years/?utm_source=atom_feed",
+      "published": "2026-01-23T08:17:00+01:00",
+      "published_parsed": "2026-01-23T08:17:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "If you’re at all interested in the history of networking, you simply MUST watch the BGP at 18: Lessons In Protocol Design lecture by Dr. Yakov Rekhter recorded in 2007 (as you can probably guess from the awful video quality) (HT: Berislav Todorovic via LinkedIn).",
+      "tags": [
+        "bgp",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
       "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
