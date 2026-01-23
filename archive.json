@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-01-22T23:25:05.922622+00:00",
-  "article_count": 1465,
+  "last_updated": "2026-01-23T03:01:01.543959+00:00",
+  "article_count": 1467,
   "articles": [
+    {
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "published": "Thu, 22 Jan 2026 22:46:30 +0000",
+      "published_parsed": "2026-01-22T22:46:30+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "bug bounties",
+        "llms",
+        "security",
+        "slop"
+      ]
+    },
     {
       "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
       "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
@@ -146,6 +163,18 @@
         "tcl",
         "tech",
         "tvs"
+      ]
+    },
+    {
+      "title": "How NetOps Can Prepare for Agentic AI",
+      "link": "https://www.netbraintech.com/blog/how-netops-prepare-for-agentic-ai/",
+      "published": "2026-01-20T17:38:00Z",
+      "published_parsed": "2026-01-20T17:38:00+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "If you manage a network, your world is about to change. For over a decade, the GUI dashboard has been your primary interface—your window into switches, firewalls, and cloud connections....",
+      "tags": [
+        "networking"
       ]
     },
     {

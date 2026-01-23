@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T23:25:05.941792+00:00",
+  "last_updated": "2026-01-23T03:01:01.563419+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "2025 year end",
     "aci",
     "advertising",
     "agentic ai",
@@ -67,6 +66,7 @@
     "bluetooth",
     "brad smith",
     "bridging",
+    "bug bounties",
     "c.c. wei",
     "cable",
     "california",
@@ -236,9 +236,9 @@
     "service providers",
     "sfgate",
     "shopify",
-    "signal messenger",
     "siri",
     "skilled trades",
+    "slop",
     "smart home",
     "smartphones",
     "sms messages",
@@ -249,7 +249,6 @@
     "ssd",
     "ssds",
     "streaming",
-    "supply chain attacks",
     "switching",
     "syndication",
     "taiwan",
@@ -283,6 +282,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "published": "Thu, 22 Jan 2026 22:46:30 +0000",
+      "published_parsed": "2026-01-22T22:46:30+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "bug bounties",
+        "llms",
+        "security",
+        "slop"
+      ]
+    },
     {
       "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
       "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
@@ -427,6 +443,18 @@
         "tcl",
         "tech",
         "tvs"
+      ]
+    },
+    {
+      "title": "How NetOps Can Prepare for Agentic AI",
+      "link": "https://www.netbraintech.com/blog/how-netops-prepare-for-agentic-ai/",
+      "published": "2026-01-20T17:38:00Z",
+      "published_parsed": "2026-01-20T17:38:00+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "If you manage a network, your world is about to change. For over a decade, the GUI dashboard has been your primary interface—your window into switches, firewalls, and cloud connections....",
+      "tags": [
+        "networking"
       ]
     },
     {
@@ -1172,25 +1200,6 @@
       "summary": "AutoCon 4 descended on Austin, Texas the week before Thanksgiving, and based on the post-event survey results, the community showed up in force and left energized. Over 700 people attended the main conference and 250+ participated in the pre-event workshops. We asked everyone to tell us what they...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-      "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-      "published": "Wed, 31 Dec 2025 13:15:40 +0000",
-      "published_parsed": "2025-12-31T13:15:40+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
-      "tags": [
-        "2025 year end",
-        "ai",
-        "apple",
-        "biz & it",
-        "cloud",
-        "security",
-        "signal messenger",
-        "supply chain attacks"
       ]
     },
     {
@@ -1946,18 +1955,6 @@
       "tags": [
         "homelab",
         "network",
-        "networking"
-      ]
-    },
-    {
-      "title": "How to Simplify Cisco SmartNet Renewals",
-      "link": "https://www.netbraintech.com/blog/cisco-smartnet-renewals/",
-      "published": "2025-10-25T22:31:17Z",
-      "published_parsed": "2025-10-25T22:31:17+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
-      "summary": "Cisco SmartNet is a 24/7 support and hardware replacement service. Also known as SmartNet Total Care (SNTC), it provides expert help, software updates, and fast hardware replacement so you can...",
-      "tags": [
         "networking"
       ]
     }
