@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-24T07:22:41.555321+00:00",
-  "article_count": 110,
+  "last_updated": "2026-01-24T14:22:34.145492+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1970,20 +1970,6 @@
       "summary": "netlab does not support a Syslog server (yet), but it’s really easy to add one to your lab topology, primarily thanks to the Rsyslog team publishing a ready-to-run container. Let’s do it ;) Adding a Syslog Server Rsyslog is an open-source implementation of a Syslog server (with many bells and...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Network Labs on a Budget",
-      "link": "https://www.packetswitch.co.uk/network-labs-on-a-budget/",
-      "published": "Sun, 26 Oct 2025 13:11:04 GMT",
-      "published_parsed": "2025-10-26T13:11:04+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/10/labs-budget-1-.png",
-      "summary": "In this post, I’ll go over some budget-friendly options and a few tools you can use to build your own network lab without spending too much.",
-      "tags": [
-        "homelab",
-        "network",
         "networking"
       ]
     }
