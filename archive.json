@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-25T18:34:10.818376+00:00",
-  "article_count": 1472,
+  "last_updated": "2026-01-25T23:23:31.984740+00:00",
+  "article_count": 1473,
   "articles": [
+    {
+      "title": "Multicast IGMP - Internet Group Management Protocol (II)",
+      "link": "https://www.packetswitch.co.uk/multicast-internet-group-management-protocol-igmp/",
+      "published": "Sun, 25 Jan 2026 19:10:13 GMT",
+      "published_parsed": "2026-01-25T19:10:13+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-3-.png",
+      "summary": "IGMP is the protocol used by receivers to signal their interest in multicast traffic. When a host wants to receive a multicast stream, it sends",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
     {
       "title": "Multicast Introduction (I)",
       "link": "https://www.packetswitch.co.uk/multicast-introduction-1/",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-25T18:34:10.839751+00:00",
-  "article_count": 108,
+  "last_updated": "2026-01-25T23:23:32.004242+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -139,7 +139,6 @@
     "homelab",
     "idc",
     "independent music",
-    "infrahub",
     "intel",
     "intel 18a",
     "internet",
@@ -284,6 +283,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Multicast IGMP - Internet Group Management Protocol (II)",
+      "link": "https://www.packetswitch.co.uk/multicast-internet-group-management-protocol-igmp/",
+      "published": "Sun, 25 Jan 2026 19:10:13 GMT",
+      "published_parsed": "2026-01-25T19:10:13+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-3-.png",
+      "summary": "IGMP is the protocol used by receivers to signal their interest in multicast traffic. When a host wants to receive a multicast stream, it sends",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
     {
       "title": "Multicast Introduction (I)",
       "link": "https://www.packetswitch.co.uk/multicast-introduction-1/",
