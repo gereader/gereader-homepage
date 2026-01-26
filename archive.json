@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-01-26T18:40:32.365908+00:00",
-  "article_count": 1474,
+  "last_updated": "2026-01-26T23:26:11.806108+00:00",
+  "article_count": 1477,
   "articles": [
+    {
+      "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+      "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
+      "published": "Mon, 26 Jan 2026 21:02:26 +0000",
+      "published_parsed": "2026-01-26T21:02:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.",
+      "tags": [
+        "biz & it",
+        "example.com",
+        "internet routing",
+        "microsoft",
+        "security"
+      ]
+    },
+    {
+      "title": "Apple's AirTag 2 is easier to find thanks to new chip",
+      "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
+      "published": "Mon, 26 Jan 2026 20:18:02 +0000",
+      "published_parsed": "2026-01-26T20:18:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This is the first major upgrade since Apple introduced AirTags five years ago.",
+      "tags": [
+        "airtag",
+        "apple",
+        "bluetooth",
+        "location tracker",
+        "tech"
+      ]
+    },
+    {
+      "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
+      "link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/",
+      "published": "Mon, 26 Jan 2026 18:29:08 +0000",
+      "published_parsed": "2026-01-26T18:29:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Storing recovery keys with Microsoft allows the company to unlock your disk.",
+      "tags": [
+        "bitlocker",
+        "security",
+        "tech",
+        "windows 10",
+        "windows 11"
+      ]
+    },
     {
       "title": "Deploy Partially-Configured Training Labs with netlab",
       "link": "https://blog.ipspace.net/2026/01/netlab-partial-configuration/?utm_source=atom_feed",

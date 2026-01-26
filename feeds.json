@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26T18:40:32.381553+00:00",
+  "last_updated": "2026-01-26T23:26:11.825722+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -42,6 +42,7 @@
     "ai training",
     "ai training data",
     "ai writing",
+    "airtag",
     "amazon",
     "amd",
     "android",
@@ -63,6 +64,7 @@
     "azure",
     "bandcamp",
     "bgp",
+    "bitlocker",
     "biz & it",
     "blog",
     "bluetooth",
@@ -71,10 +73,8 @@
     "bug bounties",
     "c.c. wei",
     "cable",
-    "california",
     "censorship",
     "certifications",
-    "ces 2026",
     "chatbots",
     "chatgpt",
     "chatgtp",
@@ -92,7 +92,6 @@
     "copilot",
     "core ultra series 3",
     "cumulus linux",
-    "data brokers",
     "data center",
     "data exfiltration",
     "datacenters",
@@ -115,6 +114,7 @@
     "email",
     "etsy",
     "evpn",
+    "example.com",
     "fabric",
     "features",
     "fidji simo",
@@ -142,6 +142,7 @@
     "intel",
     "intel 18a",
     "internet",
+    "internet routing",
     "ios 18",
     "ios 26",
     "ip routing",
@@ -161,6 +162,7 @@
     "llm",
     "llms",
     "load balancing",
+    "location tracker",
     "logic pro",
     "macbook air",
     "macbook pro",
@@ -174,7 +176,6 @@
     "microsoft",
     "misinformation",
     "mistral ai",
-    "monitors",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -211,7 +212,6 @@
     "pentagon",
     "performance",
     "perplexity",
-    "personal information",
     "pete hegseth",
     "pixelmator",
     "podcast",
@@ -239,7 +239,6 @@
     "service providers",
     "sfgate",
     "shopify",
-    "siri",
     "skilled trades",
     "slop",
     "smartphones",
@@ -277,12 +276,62 @@
     "wikimedia enterprise",
     "wikimedia foundation",
     "wikipedia",
+    "windows 10",
+    "windows 11",
     "windsurf",
     "worth reading",
     "xai",
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+      "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
+      "published": "Mon, 26 Jan 2026 21:02:26 +0000",
+      "published_parsed": "2026-01-26T21:02:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.",
+      "tags": [
+        "biz & it",
+        "example.com",
+        "internet routing",
+        "microsoft",
+        "security"
+      ]
+    },
+    {
+      "title": "Apple's AirTag 2 is easier to find thanks to new chip",
+      "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
+      "published": "Mon, 26 Jan 2026 20:18:02 +0000",
+      "published_parsed": "2026-01-26T20:18:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This is the first major upgrade since Apple introduced AirTags five years ago.",
+      "tags": [
+        "airtag",
+        "apple",
+        "bluetooth",
+        "location tracker",
+        "tech"
+      ]
+    },
+    {
+      "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
+      "link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/",
+      "published": "Mon, 26 Jan 2026 18:29:08 +0000",
+      "published_parsed": "2026-01-26T18:29:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Storing recovery keys with Microsoft allows the company to unlock your disk.",
+      "tags": [
+        "bitlocker",
+        "security",
+        "tech",
+        "windows 10",
+        "windows 11"
+      ]
+    },
     {
       "title": "Deploy Partially-Configured Training Labs with netlab",
       "link": "https://blog.ipspace.net/2026/01/netlab-partial-configuration/?utm_source=atom_feed",
@@ -1138,39 +1187,6 @@
       ]
     },
     {
-      "title": "Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri",
-      "link": "https://arstechnica.com/apple/2026/01/apple-says-its-new-ai-powered-siri-will-use-googles-gemini-language-models/",
-      "published": "Mon, 12 Jan 2026 17:57:32 +0000",
-      "published_parsed": "2026-01-12T17:57:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple goes with Google's tech despite using OpenAI's ChatGPT elsewhere in iOS.",
-      "tags": [
-        "ai",
-        "apple",
-        "gemini",
-        "google",
-        "openai",
-        "siri",
-        "tech"
-      ]
-    },
-    {
-      "title": "The most fascinating monitors at CES 2026",
-      "link": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/",
-      "published": "Mon, 12 Jan 2026 11:30:06 +0000",
-      "published_parsed": "2026-01-12T11:30:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Dell-UltraSharp-52-Thunderbolt-Hub-Monitor-2-640x338.jpeg",
-      "summary": "Big sizes, big resolution, and big ideas.",
-      "tags": [
-        "ces 2026",
-        "features",
-        "monitors",
-        "tech"
-      ]
-    },
-    {
       "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
       "published": "Thu, 08 Jan 2026 18:00:52 +0000",
@@ -1224,24 +1240,6 @@
       "tags": [
         "homelab",
         "networking"
-      ]
-    },
-    {
-      "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
-      "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
-      "published": "Mon, 05 Jan 2026 21:42:14 +0000",
-      "published_parsed": "2026-01-05T21:42:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Californians can now submit demands requiring 500 brokers to delete their data.",
-      "tags": [
-        "biz & it",
-        "california",
-        "data brokers",
-        "personal information",
-        "policy",
-        "privacy",
-        "security"
       ]
     },
     {
