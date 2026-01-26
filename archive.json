@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-26T03:14:39.618448+00:00",
-  "article_count": 1473,
+  "last_updated": "2026-01-26T07:30:39.125549+00:00",
+  "article_count": 1474,
   "articles": [
+    {
+      "title": "Deploy Partially-Configured Training Labs with netlab",
+      "link": "https://blog.ipspace.net/2026/01/netlab-partial-configuration/?utm_source=atom_feed",
+      "published": "2026-01-26T07:53:00+01:00",
+      "published_parsed": "2026-01-26T07:53:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Imagine you want to use netlab to build training labs, like the free BGP labs I created. Sometimes, you want to give students a device to work on while the other lab devices are already configured, just waiting for the students to get their job done. My BGP labs were designed for self-study. You...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Multicast IGMP - Internet Group Management Protocol (II)",
       "link": "https://www.packetswitch.co.uk/multicast-internet-group-management-protocol-igmp/",
