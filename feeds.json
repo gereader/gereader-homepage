@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26T14:31:58.524348+00:00",
+  "last_updated": "2026-01-26T18:40:32.381553+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -1483,7 +1483,7 @@
       ]
     },
     {
-      "title": "Multi-Pod EVPN Troubleshooting (Part 3)",
+      "title": "Multi-Pod EVPN Troubleshooting: Extended BGP Communities",
       "link": "https://blog.ipspace.net/2025/12/evpn-multi-pod-tshoot-xc/?utm_source=atom_feed",
       "published": "2025-12-02T07:47:00+02:00",
       "published_parsed": "2025-12-02T07:47:00+02:00",
@@ -1577,7 +1577,7 @@
       ]
     },
     {
-      "title": "Multi-Pod EVPN Troubleshooting (Route Targets)",
+      "title": "Multi-Pod EVPN Troubleshooting: Route Targets",
       "link": "https://blog.ipspace.net/2025/11/evpn-multi-pod-tshoot-rt/?utm_source=atom_feed",
       "published": "2025-11-25T07:49:00+02:00",
       "published_parsed": "2025-11-25T07:49:00+02:00",
