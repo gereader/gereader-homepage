@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-01-27T14:33:56.299877+00:00",
-  "article_count": 1479,
+  "last_updated": "2026-01-27T18:43:18.675969+00:00",
+  "article_count": 1480,
   "articles": [
+    {
+      "title": "Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working",
+      "link": "https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/",
+      "published": "Tue, 27 Jan 2026 15:49:53 +0000",
+      "published_parsed": "2026-01-27T15:49:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple renews certificates for old iOS versions to keep the lights on longer.",
+      "tags": [
+        "apple",
+        "ios 12",
+        "ios 15",
+        "ios 16",
+        "ios 18",
+        "tech"
+      ]
+    },
     {
       "title": "Lab: VXLAN Bridging with EVPN Control Plane",
       "link": "https://blog.ipspace.net/2026/01/lab-evpn-bridging/?utm_source=atom_feed",
