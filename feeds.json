@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T03:06:10.258882+00:00",
+  "last_updated": "2026-01-27T07:30:52.906811+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -290,6 +290,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Lab: VXLAN Bridging with EVPN Control Plane",
+      "link": "https://blog.ipspace.net/2026/01/lab-evpn-bridging/?utm_source=atom_feed",
+      "published": "2026-01-27T07:59:00+01:00",
+      "published_parsed": "2026-01-27T07:59:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In the previous VXLAN labs , we covered the basics of Ethernet bridging over VXLAN and a more complex scenario with multiple VLANs . Now let’s add the EVPN control plane into the mix . The data plane (VLANs mapped into VXLAN-over-IPv4) will remain unchanged, but we’ll use EVPN (a BGP address...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "OpenAI spills technical details about how its AI coding agent works",
       "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
@@ -1969,20 +1983,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Worth Reading: AI for Network Managers",
-      "link": "https://blog.ipspace.net/2025/10/worth-reading-ai-network-managers/?utm_source=atom_feed",
-      "published": "2025-10-29T07:34:00+01:00",
-      "published_parsed": "2025-10-29T07:34:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Pat Allen wrote an interesting guide for managers of networking teams dealing with the onslaught of AI (HT: PacketPushers newsletter). The leitmotif: use AI to generate a rough solution, then review and improve it. That makes perfect sense and works as long as we don’t forget we can’t trust AI,...",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
       ]
     }
   ]

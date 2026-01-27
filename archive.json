@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-01-27T03:06:10.239394+00:00",
-  "article_count": 1478,
+  "last_updated": "2026-01-27T07:30:52.887531+00:00",
+  "article_count": 1479,
   "articles": [
+    {
+      "title": "Lab: VXLAN Bridging with EVPN Control Plane",
+      "link": "https://blog.ipspace.net/2026/01/lab-evpn-bridging/?utm_source=atom_feed",
+      "published": "2026-01-27T07:59:00+01:00",
+      "published_parsed": "2026-01-27T07:59:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In the previous VXLAN labs , we covered the basics of Ethernet bridging over VXLAN and a more complex scenario with multiple VLANs . Now let’s add the EVPN control plane into the mix . The data plane (VLANs mapped into VXLAN-over-IPv4) will remain unchanged, but we’ll use EVPN (a BGP address...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "OpenAI spills technical details about how its AI coding agent works",
       "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
