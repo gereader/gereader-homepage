@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-26T23:26:11.806108+00:00",
-  "article_count": 1477,
+  "last_updated": "2026-01-27T03:06:10.239394+00:00",
+  "article_count": 1478,
   "articles": [
+    {
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "published": "Mon, 26 Jan 2026 23:05:17 +0000",
+      "published_parsed": "2026-01-26T23:05:17+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai development tools",
+        "api",
+        "biz & it",
+        "code agents",
+        "codex",
+        "developer tools",
+        "large language models",
+        "machine learning",
+        "openai",
+        "programming",
+        "prompt caching"
+      ]
+    },
     {
       "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
       "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",

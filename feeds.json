@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26T23:26:11.825722+00:00",
+  "last_updated": "2026-01-27T03:06:10.258882+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -26,6 +26,7 @@
     "ai confabulation",
     "ai detection",
     "ai detectors",
+    "ai development tools",
     "ai hallucination",
     "ai health",
     "ai image generator",
@@ -48,6 +49,7 @@
     "android",
     "ansible",
     "anthropic",
+    "api",
     "apple",
     "apple m5",
     "apps",
@@ -83,6 +85,8 @@
     "claude code",
     "claude opus",
     "cloud",
+    "code agents",
+    "codex",
     "coding",
     "coding agent",
     "community development",
@@ -101,6 +105,7 @@
     "department of labor",
     "design",
     "desktops",
+    "developer tools",
     "dhcp",
     "dmvpn",
     "dns",
@@ -218,6 +223,7 @@
     "policy",
     "privacy",
     "programming",
+    "prompt caching",
     "prompt injections",
     "property taxes",
     "python",
@@ -284,6 +290,32 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "published": "Mon, 26 Jan 2026 23:05:17 +0000",
+      "published_parsed": "2026-01-26T23:05:17+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai development tools",
+        "api",
+        "biz & it",
+        "code agents",
+        "codex",
+        "developer tools",
+        "large language models",
+        "machine learning",
+        "openai",
+        "programming",
+        "prompt caching"
+      ]
+    },
     {
       "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
       "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
@@ -1210,23 +1242,6 @@
         "openai",
         "sam altman",
         "sfgate"
-      ]
-    },
-    {
-      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
-      "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "published": "Thu, 08 Jan 2026 14:00:07 +0000",
-      "published_parsed": "2026-01-08T14:00:07+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "chatbots",
-        "data exfiltration",
-        "prompt injections",
-        "security"
       ]
     },
     {
