@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-28T03:03:40.675577+00:00",
-  "article_count": 1482,
+  "last_updated": "2026-01-28T07:29:33.259790+00:00",
+  "article_count": 1483,
   "articles": [
+    {
+      "title": "Worth Reading: A Tech Career in 2026",
+      "link": "https://blog.ipspace.net/2026/01/worth-reading-tech-career-2026/?utm_source=atom_feed",
+      "published": "2026-01-28T08:22:00+01:00",
+      "published_parsed": "2026-01-28T08:22:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "There’s no “ networking in 20xx ” video this year, so this insightful article by Anil Dash will have to do ;) He seems to be based in Silicon Valley, so keep in mind the Three IT Geographies , but one cannot beat advice like this: So much opportunity, inspiration, creativity, and possibility lies...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "There's a rash of scam spam coming from a real Microsoft address",
       "link": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
