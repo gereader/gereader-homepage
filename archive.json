@@ -1,7 +1,54 @@
 {
-  "last_updated": "2026-01-28T14:34:24.605680+00:00",
-  "article_count": 1485,
+  "last_updated": "2026-01-28T18:41:23.731383+00:00",
+  "article_count": 1487,
   "articles": [
+    {
+      "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+      "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+      "published": "Wed, 28 Jan 2026 17:21:29 +0000",
+      "published_parsed": "2026-01-28T17:21:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Over 400,000 H200 chips coming to tech giants as China tries to balance tech needs with self-reliance.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai gpu",
+        "ai infrastructure",
+        "alibaba",
+        "biz & it",
+        "bytedance",
+        "china",
+        "datacenters",
+        "jensen huang",
+        "machine learning",
+        "nvidia",
+        "semiconductors",
+        "tencent",
+        "us-china relations"
+      ]
+    },
+    {
+      "title": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+      "link": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
+      "published": "Wed, 28 Jan 2026 16:41:40 +0000",
+      "published_parsed": "2026-01-28T16:41:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The tradeoffs for the $499 9850X3D make it hard to get excited about.",
+      "tags": [
+        "3d v-cache",
+        "am5",
+        "amd",
+        "amd ryzen",
+        "features",
+        "gaming",
+        "ryzen",
+        "socket am5",
+        "tech",
+        "zen 5"
+      ]
+    },
     {
       "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
       "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
