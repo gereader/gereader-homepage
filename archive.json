@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-01-29T18:52:59.978295+00:00",
-  "article_count": 1494,
+  "last_updated": "2026-01-29T23:29:51.079971+00:00",
+  "article_count": 1495,
   "articles": [
+    {
+      "title": "People complaining about Windows 11 hasn't stopped it from hitting 1 billion users",
+      "link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/",
+      "published": "Thu, 29 Jan 2026 22:46:59 +0000",
+      "published_parsed": "2026-01-29T22:46:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Windows 11 clears a milestone as Windows 10 continues its slow fade.",
+      "tags": [
+        "microsoft",
+        "tech",
+        "windows 10",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
     {
       "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
       "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
