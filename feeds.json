@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T07:41:32.413830+00:00",
-  "article_count": 110,
+  "last_updated": "2026-01-29T14:39:40.942845+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -79,7 +79,6 @@
     "chatgpt",
     "chatgtp",
     "china",
-    "cisco",
     "claude",
     "claude code",
     "claude opus",
@@ -277,6 +276,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Multicast PIM Dense Mode (III)",
+      "link": "https://www.packetswitch.co.uk/multicast-pim-dense-mode/",
+      "published": "Thu, 29 Jan 2026 08:05:53 GMT",
+      "published_parsed": "2026-01-29T08:05:53+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-4-.png",
+      "summary": "PIM Dense mode assumes that every subnet in the network has interested receivers, so it floods multicast traffic everywhere first. Routers that",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
     {
       "title": "Opinion: Impact of AI on Networking Engineers",
       "link": "https://blog.ipspace.net/2026/01/ai-impact-networking-engineers/?utm_source=atom_feed",
