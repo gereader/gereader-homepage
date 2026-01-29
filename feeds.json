@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T03:27:28.500451+00:00",
-  "article_count": 109,
+  "last_updated": "2026-01-29T07:41:32.413830+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -277,6 +277,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Opinion: Impact of AI on Networking Engineers",
+      "link": "https://blog.ipspace.net/2026/01/ai-impact-networking-engineers/?utm_source=atom_feed",
+      "published": "2026-01-29T08:04:00+01:00",
+      "published_parsed": "2026-01-29T08:04:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A friend of mine sent me a series of questions that might also be on your mind (unless you’re lucky enough to live under a rock or on a different planet): I wanted to ask you how you think AI will affect networking jobs. What’s real and what’s hype? Before going into the details, let’s make a few...",
+      "tags": [
+        "ai",
+        "networking"
+      ]
+    },
     {
       "title": "Site catering to online criminals has been seized by the FBI",
       "link": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/",
