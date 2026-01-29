@@ -1,7 +1,56 @@
 {
-  "last_updated": "2026-01-29T14:39:40.923235+00:00",
-  "article_count": 1492,
+  "last_updated": "2026-01-29T18:52:59.978295+00:00",
+  "article_count": 1494,
   "articles": [
+    {
+      "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+      "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+      "published": "Thu, 29 Jan 2026 18:30:52 +0000",
+      "published_parsed": "2026-01-29T18:30:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began.",
+      "tags": [
+        "biz & it",
+        "courts",
+        "defamation",
+        "penetration testing",
+        "policy",
+        "security"
+      ]
+    },
+    {
+      "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+      "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+      "published": "Thu, 29 Jan 2026 15:19:56 +0000",
+      "published_parsed": "2026-01-29T15:19:56+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
+      "tags": [
+        "ai",
+        "ai alignment",
+        "ai anthropomorphism",
+        "ai behavior",
+        "ai consciousness",
+        "ai ethics",
+        "ai psychosis",
+        "ai sycophancy",
+        "ai welfare",
+        "amanda askell",
+        "anthropic",
+        "anthropic claude",
+        "biz & it",
+        "chatbots",
+        "claude",
+        "constitutional ai",
+        "dario amodei",
+        "features",
+        "large language models",
+        "machine learning",
+        "rlhf"
+      ]
+    },
     {
       "title": "Multicast PIM Dense Mode (III)",
       "link": "https://www.packetswitch.co.uk/multicast-pim-dense-mode/",
