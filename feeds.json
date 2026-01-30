@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-30T03:27:59.063445+00:00",
-  "article_count": 111,
+  "last_updated": "2026-01-30T07:41:54.555564+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -285,6 +285,18 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Public Videos: Network Observability",
+      "link": "https://blog.ipspace.net/2026/01/video-network-observability/?utm_source=atom_feed",
+      "published": "2026-01-30T08:14:00+02:00",
+      "published_parsed": "2026-01-30T08:14:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/01/openai-observation.png",
+      "summary": "The videos from the Network Observability webinar with Dinesh Dutt are now available without a valid ipSpace.net account . Enjoy! Explore",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "People complaining about Windows 11 hasn't stopped it from hitting 1 billion users",
       "link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/",
