@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-30T14:38:04.845458+00:00",
-  "article_count": 112,
+  "last_updated": "2026-01-30T18:49:21.685146+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1996,18 +1996,6 @@
       "source": "NetBrain Blog",
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "Modern network security is facing more complex and sophisticated threats. Automated incident response is the tool enterprise networks need to ensure business continuity. Automation solutions provide the intelligence and agility...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "What Is Zero Trust Security?",
-      "link": "https://www.netbraintech.com/blog/zero-trust-security/",
-      "published": "2025-11-01T17:27:37Z",
-      "published_parsed": "2025-11-01T17:27:37+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2023/08/What-Is-Zero-Trust-Architecture.jpg",
-      "summary": "Cybersecurity threats change quickly. Thankfully, security measures can also quickly evolve to keep up with new threats online. Zero Trust security is a key update that every company needs to...",
       "tags": [
         "networking"
       ]
