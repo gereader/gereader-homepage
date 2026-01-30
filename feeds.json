@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-30T18:49:21.685146+00:00",
-  "article_count": 111,
+  "last_updated": "2026-01-30T23:28:32.523596+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1985,18 +1985,6 @@
       "summary": "What if I told you that all it takes to build a simple BGP lab with two eBGP peers is a single YAML file? No need to add nodes, connect links",
       "tags": [
         "bgp",
-        "networking"
-      ]
-    },
-    {
-      "title": "Transform Network Security With Automated Incident Response",
-      "link": "https://www.netbraintech.com/blog/automated-incident-response/",
-      "published": "2025-11-01T21:04:52Z",
-      "published_parsed": "2025-11-01T21:04:52+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
-      "summary": "Modern network security is facing more complex and sophisticated threats. Automated incident response is the tool enterprise networks need to ensure business continuity. Automation solutions provide the intelligence and agility...",
-      "tags": [
         "networking"
       ]
     }
