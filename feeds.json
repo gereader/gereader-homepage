@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T07:31:10.382387+00:00",
-  "article_count": 110,
+  "last_updated": "2026-01-31T14:27:36.164422+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -13,6 +13,7 @@
   "tags": [
     "18a",
     "3d v-cache",
+    "8k",
     "aci",
     "advertising",
     "agentic ai",
@@ -20,6 +21,7 @@
     "ai",
     "ai agents",
     "ai alignment",
+    "ai and work",
     "ai anthropomorphism",
     "ai assistants",
     "ai behavior",
@@ -34,8 +36,6 @@
     "ai ethics",
     "ai gpu",
     "ai infrastructure",
-    "ai music",
-    "ai policy",
     "ai psychosis",
     "ai security",
     "ai shopping",
@@ -68,12 +68,10 @@
     "asd",
     "asus",
     "audio",
-    "audio synthesis",
     "authentication links",
     "automation",
     "aws",
     "azure",
-    "bandcamp",
     "bgp",
     "bitlocker",
     "biz & it",
@@ -99,14 +97,12 @@
     "constitutional ai",
     "containerlab",
     "containers",
-    "copilot",
     "core ultra series 3",
     "courts",
     "crime",
     "cumulus linux",
     "dario amodei",
     "data center",
-    "data exfiltration",
     "datacenters",
     "defamation",
     "design",
@@ -133,13 +129,13 @@
     "geforce",
     "gemini",
     "generative ai",
+    "github copilot",
     "google",
     "gre",
     "hashes",
     "high availability",
     "history",
     "homelab",
-    "independent music",
     "intel",
     "intel 18a",
     "internet",
@@ -148,7 +144,6 @@
     "ios 15",
     "ios 16",
     "ios 18",
-    "ios 26",
     "ip routing",
     "ipv6",
     "is-is",
@@ -176,6 +171,8 @@
     "meta vr",
     "microsoft",
     "mistral ai",
+    "moltbook",
+    "moltbot",
     "monitors",
     "mpls",
     "mpls vpn",
@@ -183,8 +180,6 @@
     "mtu",
     "multicast",
     "music",
-    "music industry",
-    "music synthesis",
     "nat",
     "netconf",
     "netdevops",
@@ -202,6 +197,8 @@
     "nvidia",
     "open source",
     "openai",
+    "openai codex",
+    "openclaw",
     "openflow",
     "opus 4.5",
     "ospf",
@@ -218,7 +215,7 @@
     "privacy",
     "programming",
     "prompt caching",
-    "prompt injections",
+    "prompt injection",
     "python",
     "qos",
     "rackspace",
@@ -245,7 +242,9 @@
     "smartphones",
     "sms messages",
     "snmp",
+    "social media",
     "socket am5",
+    "software development",
     "software gone wild",
     "sony",
     "spam",
@@ -287,6 +286,77 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "The TV industry finally concedes that the future may not be in 8K",
+      "link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
+      "published": "Fri, 30 Jan 2026 23:09:03 +0000",
+      "published_parsed": "2026-01-30T23:09:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot-2026-01-30-163419-640x230.jpg",
+      "summary": "With virtually no content and limited benefits, 8K TVs were doomed.",
+      "tags": [
+        "8k",
+        "lg",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+      "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+      "published": "Fri, 30 Jan 2026 22:12:26 +0000",
+      "published_parsed": "2026-01-30T22:12:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai behavior",
+        "ai consciousness",
+        "ai ethics",
+        "ai security",
+        "anthropic",
+        "biz & it",
+        "machine learning",
+        "moltbook",
+        "moltbot",
+        "open source",
+        "openclaw",
+        "peter steinberger",
+        "prompt injection",
+        "social media"
+      ]
+    },
+    {
+      "title": "Developers say AI coding tools work—and that's precisely what worries them",
+      "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+      "published": "Fri, 30 Jan 2026 19:04:15 +0000",
+      "published_parsed": "2026-01-30T19:04:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Ars spoke to several software devs about AI and found enthusiasm tempered by unease.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "ai and work",
+        "ai coding",
+        "anthropic",
+        "biz & it",
+        "claude",
+        "claude code",
+        "github copilot",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "openai",
+        "openai codex",
+        "programming",
+        "software development",
+        "vibe coding"
+      ]
+    },
     {
       "title": "Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever",
       "link": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
@@ -1187,21 +1257,6 @@
       ]
     },
     {
-      "title": "Are people avoiding iOS 26 because of Liquid Glass? It’s complicated.",
-      "link": "https://arstechnica.com/gadgets/2026/01/are-people-avoiding-ios-26-because-of-liquid-glass-its-complicated/",
-      "published": "Thu, 15 Jan 2026 18:37:34 +0000",
-      "published_parsed": "2026-01-15T18:37:34+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Liquid Glass is controversial, but adoption rates aren't as low as they seem.",
-      "tags": [
-        "apple",
-        "ios 18",
-        "ios 26",
-        "tech"
-      ]
-    },
-    {
       "title": "Wikipedia signs major AI firms to new priority data access deals",
       "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
       "published": "Thu, 15 Jan 2026 15:25:52 +0000",
@@ -1244,24 +1299,6 @@
       ]
     },
     {
-      "title": "A single click mounted a covert, multistage attack against Copilot",
-      "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "published": "Wed, 14 Jan 2026 22:03:11 +0000",
-      "published_parsed": "2026-01-14T22:03:11+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Exploit exfiltrating data from chat histories worked even after users closed chat windows.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "copilot",
-        "data exfiltration",
-        "llms",
-        "prompt injections",
-        "security"
-      ]
-    },
-    {
       "title": "The Operating Model to Cut Network Downtime Every Year",
       "link": "https://www.netbraintech.com/blog/cut-downtime-every-year/",
       "published": "2026-01-14T18:51:58Z",
@@ -1271,30 +1308,6 @@
       "summary": "Data is not the problem. What you do with it is. For years, network teams have lacked insight into downtime even with… More telemetry. More dashboards. More alerts. … And...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Bandcamp bans purely AI-generated music from its platform",
-      "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
-      "published": "Wed, 14 Jan 2026 17:46:19 +0000",
-      "published_parsed": "2026-01-14T17:46:19+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Indie music store says it wants fans to have confidence music was largely made by humans.",
-      "tags": [
-        "ai",
-        "ai music",
-        "ai policy",
-        "audio synthesis",
-        "bandcamp",
-        "biz & it",
-        "generative ai",
-        "independent music",
-        "machine learning",
-        "music industry",
-        "music synthesis",
-        "spotify",
-        "streaming"
       ]
     },
     {
@@ -1972,19 +1985,6 @@
       "image": null,
       "summary": "RAG is revolutionizing AI by blending generative creativity with real-time data precision—delivering accurate, reliable solutions for complex business challenges.",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Build BGP Labs in Minutes, Not Hours with Netlab",
-      "link": "https://www.packetswitch.co.uk/build-bgp-labs-in-minutes-not-hours-with-netlab/",
-      "published": "Sun, 02 Nov 2025 13:29:43 GMT",
-      "published_parsed": "2025-11-02T13:29:43+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/11/bgp-labs.png",
-      "summary": "What if I told you that all it takes to build a simple BGP lab with two eBGP peers is a single YAML file? No need to add nodes, connect links",
-      "tags": [
-        "bgp",
         "networking"
       ]
     }

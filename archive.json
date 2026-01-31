@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-01-31T07:31:10.362675+00:00",
-  "article_count": 1497,
+  "last_updated": "2026-01-31T14:27:36.144834+00:00",
+  "article_count": 1500,
   "articles": [
+    {
+      "title": "The TV industry finally concedes that the future may not be in 8K",
+      "link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
+      "published": "Fri, 30 Jan 2026 23:09:03 +0000",
+      "published_parsed": "2026-01-30T23:09:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot-2026-01-30-163419-640x230.jpg",
+      "summary": "With virtually no content and limited benefits, 8K TVs were doomed.",
+      "tags": [
+        "8k",
+        "lg",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+      "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+      "published": "Fri, 30 Jan 2026 22:12:26 +0000",
+      "published_parsed": "2026-01-30T22:12:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai behavior",
+        "ai consciousness",
+        "ai ethics",
+        "ai security",
+        "anthropic",
+        "biz & it",
+        "machine learning",
+        "moltbook",
+        "moltbot",
+        "open source",
+        "openclaw",
+        "peter steinberger",
+        "prompt injection",
+        "social media"
+      ]
+    },
+    {
+      "title": "Developers say AI coding tools work—and that's precisely what worries them",
+      "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+      "published": "Fri, 30 Jan 2026 19:04:15 +0000",
+      "published_parsed": "2026-01-30T19:04:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Ars spoke to several software devs about AI and found enthusiasm tempered by unease.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "ai and work",
+        "ai coding",
+        "anthropic",
+        "biz & it",
+        "claude",
+        "claude code",
+        "github copilot",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "openai",
+        "openai codex",
+        "programming",
+        "software development",
+        "vibe coding"
+      ]
+    },
     {
       "title": "Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever",
       "link": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
