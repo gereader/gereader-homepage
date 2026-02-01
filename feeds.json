@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T03:49:12.573164+00:00",
-  "article_count": 109,
+  "last_updated": "2026-02-01T07:38:30.446995+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -376,7 +376,7 @@
       "published_parsed": "2026-01-30T12:00:35+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
-      "summary": "\"Selfishly a little bit, we built Shield for ourselves.\"",
+      "summary": "\"Selfishly, a little bit, we built Shield for ourselves.\"",
       "tags": [
         "android",
         "android tv",
@@ -1973,19 +1973,6 @@
         "netlab",
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Ansible Release 12: the Windows Vista Moment",
-      "link": "https://blog.ipspace.net/2025/11/ansible-12-different/?utm_source=atom_feed",
-      "published": "2025-11-03T07:44:00+01:00",
-      "published_parsed": "2025-11-03T07:44:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "My first encounter with Ansible release 12 wasn’t exactly encouraging. We were using a few Ansible Jinja2 filters ( ipaddr and hwaddr ) in internal netlab templates, and all of a sudden those templates started crashing due to some weird behavior of attributes starting with underscore. We...",
-      "tags": [
-        "ansible",
-        "networking"
       ]
     }
   ]
