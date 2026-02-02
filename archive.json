@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-02T03:41:15.269559+00:00",
-  "article_count": 1501,
+  "last_updated": "2026-02-02T07:52:32.071604+00:00",
+  "article_count": 1502,
   "articles": [
+    {
+      "title": "Fast FRR Container Configuration",
+      "link": "https://blog.ipspace.net/2026/02/netlab-frr-configuration/?utm_source=atom_feed",
+      "published": "2026-02-02T07:47:00+01:00",
+      "published_parsed": "2026-02-02T07:47:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After creating the infrastructure that generates the device configuration files within netlab (not in an Ansible playbook), it was time to try to apply it to something else, not just Linux containers. FRR containers were the obvious next target. netlab uses two different mechanisms to configure FRR...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Network Automation Newsletter #062 - January 2026",
       "link": "https://www.packetcoders.io/network-automation-newsletter-062-january-2026/",
