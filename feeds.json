@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-02T07:52:32.091808+00:00",
-  "article_count": 108,
+  "last_updated": "2026-02-02T14:43:42.013790+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1959,19 +1959,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Improve Python Code Readability by Enforcing Named Arguments",
-      "link": "https://www.packetcoders.io/improve-python-code-readability-by-enforcing-named-arguments-2/",
-      "published": "Tue, 04 Nov 2025 11:22:14 GMT",
-      "published_parsed": "2025-11-04T11:22:14+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/10/Untitled-design--93--1.webp",
-      "summary": "🐍 Python Tip: Improve code readability by enforcing named arguments. To enforce all arguments to be named, start your parameter list with * . Here’s an example: def add_vlan(*, vlan_id, name): print(f\"VLAN ID: {vlan_id}\") print(f\"Name: {name}\") add_vlan(vlan_",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
