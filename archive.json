@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-02-03T07:45:12.606110+00:00",
-  "article_count": 1507,
+  "last_updated": "2026-02-03T14:47:49.493754+00:00",
+  "article_count": 1508,
   "articles": [
+    {
+      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+      "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+      "published": "Tue, 03 Feb 2026 12:00:01 +0000",
+      "published_parsed": "2026-02-03T12:00:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai alignment",
+        "ai ethics",
+        "ai safety",
+        "ai security",
+        "ai self-preservation",
+        "biz & it",
+        "cryptocurrency",
+        "machine learning",
+        "moltbook",
+        "moltbot",
+        "moltbunker",
+        "openclaw",
+        "p2p",
+        "peter steinberger",
+        "prompt injection",
+        "prompt worm",
+        "security"
+      ]
+    },
     {
       "title": "Interface MAC Address in IOS Layer-2 Images",
       "link": "https://blog.ipspace.net/2026/02/ios-layer2-mac-address/?utm_source=atom_feed",
