@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-03T03:34:25.103708+00:00",
-  "article_count": 1506,
+  "last_updated": "2026-02-03T07:45:12.606110+00:00",
+  "article_count": 1507,
   "articles": [
+    {
+      "title": "Interface MAC Address in IOS Layer-2 Images",
+      "link": "https://blog.ipspace.net/2026/02/ios-layer2-mac-address/?utm_source=atom_feed",
+      "published": "2026-02-03T08:08:00+01:00",
+      "published_parsed": "2026-02-03T08:08:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Here’s another “You can’t make this up, but it sounds too crazy to be true” story: Cisco IOS layer-2 images change the interface MAC address when you change the interface switchport status. Let me start with a bit of background: IOL Layer 2 image starts with interfaces enabled and in bridged (...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
       "link": "https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/",
