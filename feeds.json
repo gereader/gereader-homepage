@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T18:55:32.748583+00:00",
+  "last_updated": "2026-02-04T23:31:39.088768+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,15 +16,18 @@
     "8k",
     "aci",
     "acquisition",
+    "adobe",
     "agentic ai",
     "agentic commerce",
     "ai",
+    "ai advertising",
     "ai agents",
     "ai alignment",
     "ai and work",
     "ai anthropomorphism",
     "ai assistants",
     "ai behavior",
+    "ai business models",
     "ai chips",
     "ai coding",
     "ai coding tools",
@@ -115,7 +118,6 @@
     "ebay",
     "ecommerce",
     "eigrp",
-    "email",
     "etsy",
     "evpn",
     "example.com",
@@ -226,7 +228,6 @@
     "ps2",
     "python",
     "qos",
-    "rackspace",
     "ransomware",
     "raspberry pi",
     "raspberry pi 4",
@@ -249,6 +250,7 @@
     "snmp",
     "social media",
     "socket am5",
+    "software",
     "software development",
     "software gone wild",
     "sony",
@@ -260,7 +262,6 @@
     "supply chain attacks",
     "switching",
     "tags: machine learning",
-    "tcl",
     "tcp",
     "tech",
     "tencent",
@@ -287,6 +288,43 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Should AI chatbots have ads? Anthropic says no.",
+      "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+      "published": "Wed, 04 Feb 2026 21:15:07 +0000",
+      "published_parsed": "2026-02-04T21:15:07+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+      "tags": [
+        "ai",
+        "ai advertising",
+        "ai assistants",
+        "ai business models",
+        "anthropic",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "claude",
+        "machine learning",
+        "openai",
+        "sam altman"
+      ]
+    },
+    {
+      "title": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
+      "link": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
+      "published": "Wed, 04 Feb 2026 17:55:13 +0000",
+      "published_parsed": "2026-02-04T17:55:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Despite the about-face, some customers think \"the damage is done.\"",
+      "tags": [
+        "adobe",
+        "software",
+        "tech"
+      ]
+    },
     {
       "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
       "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
@@ -1233,21 +1271,6 @@
       ]
     },
     {
-      "title": "Sony is giving TCL control over its high-end Bravia TVs",
-      "link": "https://arstechnica.com/gadgets/2026/01/tcl-to-gain-majority-ownership-over-sonys-bravia-tvs/",
-      "published": "Tue, 20 Jan 2026 18:58:22 +0000",
-      "published_parsed": "2026-01-20T18:58:22+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "TCL will own 51 percent of the high-end TVs.",
-      "tags": [
-        "sony",
-        "tcl",
-        "tech",
-        "tvs"
-      ]
-    },
-    {
       "title": "From Scripts to Agents: How Evolution of Automation Made AI Inevitable in NetOps",
       "link": "https://www.netbraintech.com/blog/evolution-of-automation/",
       "published": "2026-01-20T17:38:00Z",
@@ -1308,21 +1331,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Rackspace customers grapple with “devastating” email hosting price hike",
-      "link": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
-      "published": "Fri, 16 Jan 2026 23:15:27 +0000",
-      "published_parsed": "2026-01-16T23:15:27+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Reseller says Rackspace plans to charge it 706 percent more.",
-      "tags": [
-        "biz & it",
-        "cloud",
-        "email",
-        "rackspace"
       ]
     },
     {
