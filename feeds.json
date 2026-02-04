@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T07:45:56.679787+00:00",
+  "last_updated": "2026-02-04T14:42:28.431786+00:00",
   "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,7 +16,6 @@
     "8k",
     "aci",
     "acquisitions",
-    "advertising",
     "agentic ai",
     "agentic commerce",
     "ai",
@@ -26,7 +25,6 @@
     "ai anthropomorphism",
     "ai assistants",
     "ai behavior",
-    "ai bubble",
     "ai chips",
     "ai coding",
     "ai coding tools",
@@ -66,6 +64,7 @@
     "arbitration",
     "arista",
     "arp",
+    "artificial inteligence",
     "asd",
     "audio",
     "authentication links",
@@ -85,6 +84,7 @@
     "certifications",
     "chatbots",
     "chatgpt",
+    "chatgpt codex",
     "chatgtp",
     "china",
     "claude",
@@ -122,7 +122,6 @@
     "fabric",
     "fbi",
     "features",
-    "fidji simo",
     "final cut pro",
     "firewall",
     "firewalls",
@@ -131,6 +130,7 @@
     "generative ai",
     "github copilot",
     "google",
+    "gpt codex",
     "gpu",
     "gre",
     "groq",
@@ -161,6 +161,7 @@
     "ldp",
     "lg",
     "lisp",
+    "llm",
     "llms",
     "load balancing",
     "location tracker",
@@ -284,6 +285,31 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+      "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+      "published": "Wed, 04 Feb 2026 12:00:37 +0000",
+      "published_parsed": "2026-02-04T12:00:37+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial inteligence",
+        "biz & it",
+        "chatgpt",
+        "chatgpt codex",
+        "claude",
+        "claude code",
+        "codex",
+        "features",
+        "gpt codex",
+        "llm",
+        "openai",
+        "vibe coding"
+      ]
+    },
     {
       "title": "OMG, After a Decade, VXLAN Is Still Insecure",
       "link": "https://blog.ipspace.net/2026/02/worth-reading-omg-vxlan-still-insecure/?utm_source=atom_feed",
@@ -1292,31 +1318,6 @@
         "cloud",
         "email",
         "rackspace"
-      ]
-    },
-    {
-      "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-      "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-      "published": "Fri, 16 Jan 2026 21:20:03 +0000",
-      "published_parsed": "2026-01-16T21:20:03+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Ads coming to free tier and new $8/month ChatGPT Go plan in US.",
-      "tags": [
-        "advertising",
-        "ai",
-        "ai assistants",
-        "ai bubble",
-        "biz & it",
-        "chatbots",
-        "chatgpt",
-        "chatgtp",
-        "fidji simo",
-        "generative ai",
-        "google",
-        "machine learning",
-        "openai",
-        "sam altman"
       ]
     },
     {

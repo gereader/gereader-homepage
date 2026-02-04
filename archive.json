@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-02-04T07:45:56.658763+00:00",
-  "article_count": 1512,
+  "last_updated": "2026-02-04T14:42:28.411733+00:00",
+  "article_count": 1513,
   "articles": [
+    {
+      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+      "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+      "published": "Wed, 04 Feb 2026 12:00:37 +0000",
+      "published_parsed": "2026-02-04T12:00:37+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial inteligence",
+        "biz & it",
+        "chatgpt",
+        "chatgpt codex",
+        "claude",
+        "claude code",
+        "codex",
+        "features",
+        "gpt codex",
+        "llm",
+        "openai",
+        "vibe coding"
+      ]
+    },
     {
       "title": "OMG, After a Decade, VXLAN Is Still Insecure",
       "link": "https://blog.ipspace.net/2026/02/worth-reading-omg-vxlan-still-insecure/?utm_source=atom_feed",
