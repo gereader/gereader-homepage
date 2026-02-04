@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T03:32:15.140276+00:00",
+  "last_updated": "2026-02-04T07:45:56.679787+00:00",
   "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
@@ -284,6 +284,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "OMG, After a Decade, VXLAN Is Still Insecure",
+      "link": "https://blog.ipspace.net/2026/02/worth-reading-omg-vxlan-still-insecure/?utm_source=atom_feed",
+      "published": "2026-02-04T07:22:00+01:00",
+      "published_parsed": "2026-02-04T07:22:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In 2017 (over eight years ago), I was making fun of the fact that “ VXLAN is insecure ” was news to some people. Obviously, the message needed to be repeated, as the same author gave a very similar presentation two years later at a security conference. Unfortunately, it seems that everything old is...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
       "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
@@ -1943,18 +1956,6 @@
       "tags": [
         "ansible",
         "netdevops",
-        "networking"
-      ]
-    },
-    {
-      "title": "Presentation: Testing Disaster Recovery Designs",
-      "link": "https://blog.ipspace.net/2025/11/testing-dr-designs/?utm_source=atom_feed",
-      "published": "2025-11-06T08:09:00+01:00",
-      "published_parsed": "2025-11-06T08:09:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Someone asked for my DEEP 2025 presentation (Testing Disaster Recovery Designs). You can download it here (no strings attached). I hope you’ll find it interesting. The organizers plan to make the recorded videos public after a few months. Of course, I’ll post a link when they do that.",
-      "tags": [
         "networking"
       ]
     }
