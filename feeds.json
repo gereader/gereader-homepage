@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-04T14:42:28.431786+00:00",
-  "article_count": 107,
+  "last_updated": "2026-02-04T18:55:32.748583+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -15,7 +15,7 @@
     "3d v-cache",
     "8k",
     "aci",
-    "acquisitions",
+    "acquisition",
     "agentic ai",
     "agentic commerce",
     "ai",
@@ -168,6 +168,7 @@
     "logic pro",
     "machine learning",
     "memory shortage",
+    "mergers",
     "microsoft",
     "moltbook",
     "moltbot",
@@ -275,6 +276,7 @@
     "vpn",
     "vxlan",
     "wan",
+    "warner bros. discovery",
     "web scraping",
     "wikipedia",
     "windows 10",
@@ -330,14 +332,17 @@
       "published_parsed": "2026-02-03T23:41:39+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
-      "summary": "80 percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+      "summary": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
       "tags": [
+        "acquisition",
         "hbo max",
+        "mergers",
         "netflix",
         "paramount plus",
         "paramount skydance",
         "streaming",
-        "tech"
+        "tech",
+        "warner bros. discovery"
       ]
     },
     {
@@ -440,7 +445,7 @@
       "image": null,
       "summary": "Sony has made streaming anime pricier since buying Crunchyroll.",
       "tags": [
-        "acquisitions",
+        "acquisition",
         "anime",
         "sony",
         "streaming",
@@ -1931,32 +1936,6 @@
       "tags": [
         "is-is",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Teaching AI to Understand Your Network by Decoding Its DNA",
-      "link": "https://www.netbraintech.com/blog/teaching-ai-to-understand-your-network/",
-      "published": "2025-11-06T18:30:27Z",
-      "published_parsed": "2025-11-06T18:30:27+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2025/11/Human-AI-Twin-Circle-300x300.png",
-      "summary": "Artificial Intelligence promises a self-healing, autonomous network. For today’s NetOps teams, that promise often feels hollow. The reality is that most AI tools are bolted on – built on a...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Automating NetBox with Ansible",
-      "link": "https://www.packetswitch.co.uk/automating-netbox-with-ansible/",
-      "published": "Thu, 06 Nov 2025 18:16:00 GMT",
-      "published_parsed": "2025-11-06T18:16:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2024/03/netbox-ansible.png",
-      "summary": "In this post, we're diving into automating NetBox with Ansible. We'll explore how to leverage Ansible's modules to fully automate setting up NetBox.",
-      "tags": [
-        "ansible",
-        "netdevops",
         "networking"
       ]
     }
