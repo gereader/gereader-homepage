@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-02-03T23:31:06.624538+00:00",
-  "article_count": 1509,
+  "last_updated": "2026-02-04T03:32:15.120230+00:00",
+  "article_count": 1511,
   "articles": [
+    {
+      "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
+      "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+      "published": "Tue, 03 Feb 2026 23:41:39 +0000",
+      "published_parsed": "2026-02-03T23:41:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "80 percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+      "tags": [
+        "hbo max",
+        "netflix",
+        "paramount plus",
+        "paramount skydance",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+      "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+      "published": "Tue, 03 Feb 2026 22:44:15 +0000",
+      "published_parsed": "2026-02-03T22:44:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Two AI giants shake market confidence after investment fails to materialize.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "ai infrastructure",
+        "ai investment",
+        "amd",
+        "biz & it",
+        "cerebras",
+        "gpu",
+        "groq",
+        "inference",
+        "jensen huang",
+        "nvidia",
+        "openai",
+        "sam altman",
+        "semiconductors",
+        "tags: machine learning"
+      ]
+    },
     {
       "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
       "link": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
