@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T03:33:06.260187+00:00",
+  "last_updated": "2026-02-05T07:50:58.419812+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -287,6 +287,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "On MPLS Forwarding Performance Myths",
+      "link": "https://blog.ipspace.net/2026/02/mpls-forwarding-performance/?utm_source=atom_feed",
+      "published": "2026-02-05T08:20:00+01:00",
+      "published_parsed": "2026-02-05T08:20:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Whenever I claim that the initial use case for MPLS was improved forwarding performance (using the RFC that matches the IETF MPLS BoF slides as supporting evidence), someone inevitably comes up with a source claiming something along these lines: The idea of speeding up the lookup operation on an IP...",
+      "tags": [
+        "mpls",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
       "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
@@ -1922,20 +1935,6 @@
       "image": null,
       "summary": "Imagine you have an IPv4-only network 1 and want to try out how to deploy a routing protocol for IPv6. netlab is a pretty good tool for the job as it: Creates an addressing scheme for you Designs a routing protocol deployment ( OSPF , IS-IS ) based on just a few bits of information Deploys...",
       "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Adjust IS-IS Timers",
-      "link": "https://blog.ipspace.net/2025/11/isis-lab-timers/?utm_source=atom_feed",
-      "published": "2025-11-07T07:37:00+01:00",
-      "published_parsed": "2025-11-07T07:37:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://isis.bgplabs.net/feature/topology-timers.png",
-      "summary": "Like any other routing protocol, IS-IS has several timers you can tweak to improve the convergence speed of your network, or make your network unstable (eventually breaking it completely) if you reduce them too much (if you care about fast convergence, you REALLY SHOULD use BFD). You’ll find more...",
-      "tags": [
-        "is-is",
         "netlab",
         "networking"
       ]

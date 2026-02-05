@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-05T03:33:06.240135+00:00",
-  "article_count": 1516,
+  "last_updated": "2026-02-05T07:50:58.397805+00:00",
+  "article_count": 1517,
   "articles": [
+    {
+      "title": "On MPLS Forwarding Performance Myths",
+      "link": "https://blog.ipspace.net/2026/02/mpls-forwarding-performance/?utm_source=atom_feed",
+      "published": "2026-02-05T08:20:00+01:00",
+      "published_parsed": "2026-02-05T08:20:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Whenever I claim that the initial use case for MPLS was improved forwarding performance (using the RFC that matches the IETF MPLS BoF slides as supporting evidence), someone inevitably comes up with a source claiming something along these lines: The idea of speeding up the lookup operation on an IP...",
+      "tags": [
+        "mpls",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
       "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
