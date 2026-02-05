@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-02-05T14:46:37.921410+00:00",
-  "article_count": 1517,
+  "last_updated": "2026-02-05T18:54:28.689979+00:00",
+  "article_count": 1519,
   "articles": [
+    {
+      "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
+      "link": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
+      "published": "Thu, 05 Feb 2026 14:22:41 +0000",
+      "published_parsed": "2026-02-05T14:22:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Valve says it still hopes to ship both devices \"in the first half of the year.\"",
+      "tags": [
+        "gaming",
+        "steam frame",
+        "steam machine",
+        "steamos",
+        "tech",
+        "valve"
+      ]
+    },
+    {
+      "title": "Increase of AI bots on the Internet sparks arms race",
+      "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "published": "Thu, 05 Feb 2026 14:21:20 +0000",
+      "published_parsed": "2026-02-05T14:21:20+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Publishers are rolling out more aggressive defenses.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "biz & it",
+        "syndication"
+      ]
+    },
     {
       "title": "On MPLS Forwarding Performance Myths",
       "link": "https://blog.ipspace.net/2026/02/mpls-forwarding-performance/?utm_source=atom_feed",
