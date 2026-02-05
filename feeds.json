@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T18:54:28.710152+00:00",
+  "last_updated": "2026-02-05T23:26:35.292044+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -17,6 +17,7 @@
     "aci",
     "acquisition",
     "adobe",
+    "advertising",
     "agentic ai",
     "agentic commerce",
     "ai",
@@ -43,6 +44,7 @@
     "ai shopping",
     "ai sycophancy",
     "ai welfare",
+    "airdrop",
     "airtag",
     "alibaba",
     "am5",
@@ -66,7 +68,6 @@
     "artificial inteligence",
     "asd",
     "audio",
-    "authentication links",
     "automation",
     "aws",
     "azure",
@@ -117,6 +118,7 @@
     "fabric",
     "fbi",
     "features",
+    "file sharing",
     "final cut pro",
     "firewall",
     "firewalls",
@@ -127,6 +129,7 @@
     "gpt codex",
     "gpu",
     "gre",
+    "greg brockman",
     "groq",
     "hbo max",
     "high availability",
@@ -142,14 +145,15 @@
     "ios 16",
     "ios 18",
     "ip routing",
+    "iphone",
     "ipv6",
     "is-is",
     "ise",
     "iwork",
     "jensen huang",
     "jinja",
+    "kate rouch",
     "keynote",
-    "kioxia",
     "lan",
     "large language models",
     "ldp",
@@ -161,7 +165,6 @@
     "location tracker",
     "logic pro",
     "machine learning",
-    "memory shortage",
     "mergers",
     "microsoft",
     "moltbook",
@@ -212,7 +215,6 @@
     "peter steinberger",
     "podcast",
     "policy",
-    "privacy",
     "programming",
     "prompt caching",
     "prompt injection",
@@ -239,7 +241,6 @@
     "set-top boxes",
     "shopify",
     "slop",
-    "sms messages",
     "snmp",
     "social media",
     "socket am5",
@@ -249,12 +250,12 @@
     "sony",
     "sony playstation 2",
     "spam",
-    "ssds",
     "steam frame",
     "steam machine",
     "steamos",
     "streaming",
     "subscriptions",
+    "super bowl",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -284,6 +285,52 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
+      "link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
+      "published": "Thu, 05 Feb 2026 18:06:56 +0000",
+      "published_parsed": "2026-02-05T18:06:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026.",
+      "tags": [
+        "airdrop",
+        "android",
+        "file sharing",
+        "google",
+        "iphone",
+        "tech"
+      ]
+    },
+    {
+      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+      "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+      "published": "Thu, 05 Feb 2026 17:46:59 +0000",
+      "published_parsed": "2026-02-05T17:46:59+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+      "tags": [
+        "advertising",
+        "ai",
+        "ai assistants",
+        "ai behavior",
+        "ai ethics",
+        "ai sycophancy",
+        "anthropic",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "claude",
+        "dario amodei",
+        "greg brockman",
+        "kate rouch",
+        "machine learning",
+        "openai",
+        "sam altman",
+        "super bowl"
+      ]
+    },
     {
       "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
       "link": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
@@ -1240,38 +1287,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Millions of people imperiled through sign-in links sent by SMS",
-      "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
-      "published": "Wed, 21 Jan 2026 23:22:14 +0000",
-      "published_parsed": "2026-01-21T23:22:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Even well-known services with millions of users are exposing sensitive data.",
-      "tags": [
-        "authentication links",
-        "biz & it",
-        "policy",
-        "privacy",
-        "security",
-        "sms messages"
-      ]
-    },
-    {
-      "title": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
-      "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
-      "published": "Wed, 21 Jan 2026 20:37:00 +0000",
-      "published_parsed": "2026-01-21T20:37:00+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Kioxia is spinning up more manufacturing capacity, but relief will come slowly.",
-      "tags": [
-        "kioxia",
-        "memory shortage",
-        "ssds",
-        "tech"
       ]
     },
     {
