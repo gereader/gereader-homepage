@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-04T23:31:39.062820+00:00",
-  "article_count": 1515,
+  "last_updated": "2026-02-05T03:33:06.240135+00:00",
+  "article_count": 1516,
   "articles": [
+    {
+      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+      "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
+      "published": "Wed, 04 Feb 2026 23:08:04 +0000",
+      "published_parsed": "2026-02-04T23:08:04+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The window to patch vulnerabilities is shrinking rapidly.",
+      "tags": [
+        "apt28",
+        "biz & it",
+        "microsoft",
+        "office",
+        "russia",
+        "security"
+      ]
+    },
     {
       "title": "Should AI chatbots have ads? Anthropic says no.",
       "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",

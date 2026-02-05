@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T23:31:39.088768+00:00",
+  "last_updated": "2026-02-05T03:33:06.260187+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -30,7 +30,6 @@
     "ai business models",
     "ai chips",
     "ai coding",
-    "ai coding tools",
     "ai consciousness",
     "ai detection",
     "ai detectors",
@@ -64,6 +63,7 @@
     "api",
     "apple",
     "apple creator studio",
+    "apt28",
     "arbitration",
     "arista",
     "arp",
@@ -92,11 +92,9 @@
     "china",
     "claude",
     "claude code",
-    "claude opus",
     "cloud",
     "code agents",
     "codex",
-    "coding agent",
     "constitutional ai",
     "containerlab",
     "containers",
@@ -200,13 +198,13 @@
     "nsx",
     "numbers",
     "nvidia",
+    "office",
     "open source",
     "open source software",
     "openai",
     "openai codex",
     "openclaw",
     "openflow",
-    "opus 4.5",
     "ospf",
     "overlay networks",
     "p2p",
@@ -233,6 +231,7 @@
     "raspberry pi 4",
     "raspberry pi 5",
     "rlhf",
+    "russia",
     "ryzen",
     "sam altman",
     "san",
@@ -288,6 +287,23 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+      "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
+      "published": "Wed, 04 Feb 2026 23:08:04 +0000",
+      "published_parsed": "2026-02-04T23:08:04+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The window to patch vulnerabilities is shrinking rapidly.",
+      "tags": [
+        "apt28",
+        "biz & it",
+        "microsoft",
+        "office",
+        "russia",
+        "security"
+      ]
+    },
     {
       "title": "Should AI chatbots have ads? Anthropic says no.",
       "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
@@ -1295,29 +1311,6 @@
         "mpls",
         "networking",
         "networking fundamentals"
-      ]
-    },
-    {
-      "title": "10 things I learned from burning myself out with AI coding agents",
-      "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
-      "published": "Mon, 19 Jan 2026 12:00:45 +0000",
-      "published_parsed": "2026-01-19T12:00:45+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Opinion: As software power tools, AI agents may make people busier than ever before.",
-      "tags": [
-        "ai",
-        "ai coding",
-        "ai coding tools",
-        "biz & it",
-        "claude code",
-        "claude opus",
-        "coding agent",
-        "features",
-        "gaming",
-        "large language models",
-        "opus 4.5",
-        "vibe coding"
       ]
     },
     {
