@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-06T18:55:45.722332+00:00",
-  "article_count": 1523,
+  "last_updated": "2026-02-06T23:29:25.957506+00:00",
+  "article_count": 1524,
   "articles": [
+    {
+      "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
+      "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
+      "published": "Fri, 06 Feb 2026 22:16:51 +0000",
+      "published_parsed": "2026-02-06T22:16:51+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
+      "tags": [
+        "biz & it",
+        "cryptocurrency exchanges",
+        "malware",
+        "open source",
+        "security",
+        "supply chain attack"
+      ]
+    },
     {
       "title": "Lab: Routing Between VXLAN Segments",
       "link": "https://blog.ipspace.net/2026/02/lab-vxlan-irb/?utm_source=atom_feed",

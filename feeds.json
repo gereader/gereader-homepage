@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T18:55:45.742706+00:00",
+  "last_updated": "2026-02-06T23:29:25.977414+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -75,7 +75,6 @@
     "bluetooth",
     "bridging",
     "browser agent",
-    "bug bounties",
     "bytedance",
     "cerebras",
     "certifications",
@@ -97,6 +96,7 @@
     "courts",
     "crime",
     "cryptocurrency",
+    "cryptocurrency exchanges",
     "cumulus linux",
     "dario amodei",
     "data center",
@@ -158,11 +158,11 @@
     "lg",
     "lisp",
     "llm",
-    "llms",
     "load balancing",
     "location tracker",
     "logic pro",
     "machine learning",
+    "malware",
     "mergers",
     "microsoft",
     "moltbook",
@@ -236,7 +236,6 @@
     "semiconductors",
     "service providers",
     "set-top boxes",
-    "slop",
     "snmp",
     "social media",
     "socket am5",
@@ -252,6 +251,7 @@
     "streaming",
     "subscriptions",
     "super bowl",
+    "supply chain attack",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -279,6 +279,23 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
+      "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
+      "published": "Fri, 06 Feb 2026 22:16:51 +0000",
+      "published_parsed": "2026-02-06T22:16:51+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
+      "tags": [
+        "biz & it",
+        "cryptocurrency exchanges",
+        "malware",
+        "open source",
+        "security",
+        "supply chain attack"
+      ]
+    },
     {
       "title": "Lab: Routing Between VXLAN Segments",
       "link": "https://blog.ipspace.net/2026/02/lab-vxlan-irb/?utm_source=atom_feed",
@@ -1267,23 +1284,6 @@
         "bgp",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-      "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-      "published": "Thu, 22 Jan 2026 22:46:30 +0000",
-      "published_parsed": "2026-01-22T22:46:30+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "bug bounties",
-        "llms",
-        "security",
-        "slop"
       ]
     },
     {
