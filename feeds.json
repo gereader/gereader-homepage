@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-06T03:31:55.995528+00:00",
-  "article_count": 105,
+  "last_updated": "2026-02-06T07:49:05.446677+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -279,6 +279,20 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Lab: Routing Between VXLAN Segments",
+      "link": "https://blog.ipspace.net/2026/02/lab-vxlan-irb/?utm_source=atom_feed",
+      "published": "2026-02-06T07:59:00+01:00",
+      "published_parsed": "2026-02-06T07:59:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://evpn.bgplabs.net/vxlan/topology-irb.png",
+      "summary": "In the previous EVPN/VXLAN lab exercises , we covered the basics of Ethernet bridging over VXLAN and the use of the EVPN control plane to build layer-2 segments. It’s time to move up the protocol stack. Let’s see how you can route between VXLAN segments, this time using unique unicast IP addresses...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "AI companies want you to stop chatting with bots and start managing them",
       "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
