@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-02-05T23:26:35.271883+00:00",
-  "article_count": 1521,
+  "last_updated": "2026-02-06T03:31:55.975515+00:00",
+  "article_count": 1522,
   "articles": [
+    {
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+      "published": "Thu, 05 Feb 2026 22:47:54 +0000",
+      "published_parsed": "2026-02-05T22:47:54+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai and work",
+        "ai assistants",
+        "ai benchmarks",
+        "ai coding",
+        "ai development tools",
+        "ai security",
+        "anthropic",
+        "biz & it",
+        "chatbots",
+        "claude code",
+        "claude opus",
+        "claude opus 4.6",
+        "code agents",
+        "codex",
+        "generative ai",
+        "gpt-5.3-codex",
+        "large language models",
+        "machine learning",
+        "openai",
+        "sam altman"
+      ]
+    },
     {
       "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
       "link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
