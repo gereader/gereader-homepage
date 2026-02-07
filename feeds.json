@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T23:29:25.977414+00:00",
+  "last_updated": "2026-02-07T03:25:29.550471+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -37,7 +37,9 @@
     "ai gpu",
     "ai infrastructure",
     "ai investment",
+    "ai programming",
     "ai psychosis",
+    "ai research",
     "ai safety",
     "ai security",
     "ai self-preservation",
@@ -89,6 +91,7 @@
     "cloud",
     "code agents",
     "codex",
+    "compilers",
     "constitutional ai",
     "containerlab",
     "containers",
@@ -110,7 +113,6 @@
     "docker",
     "eigrp",
     "evpn",
-    "example.com",
     "fabric",
     "fbi",
     "features",
@@ -137,7 +139,6 @@
     "intel",
     "intel 18a",
     "internet",
-    "internet routing",
     "ios 12",
     "ios 15",
     "ios 16",
@@ -185,6 +186,7 @@
     "networking",
     "networking fundamentals",
     "nfv",
+    "nicholas carlini",
     "nintendo",
     "nintendo ds",
     "nintendo switch",
@@ -279,6 +281,33 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Sixteen Claude AI agents working together created a new C compiler",
+      "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+      "published": "Fri, 06 Feb 2026 23:40:58 +0000",
+      "published_parsed": "2026-02-06T23:40:58+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai development tools",
+        "ai programming",
+        "ai research",
+        "anthropic",
+        "biz & it",
+        "claude code",
+        "code agents",
+        "compilers",
+        "large language models",
+        "machine learning",
+        "nicholas carlini",
+        "open source"
+      ]
+    },
     {
       "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
       "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
@@ -1152,22 +1181,6 @@
         "openai",
         "programming",
         "prompt caching"
-      ]
-    },
-    {
-      "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
-      "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
-      "published": "Mon, 26 Jan 2026 21:02:26 +0000",
-      "published_parsed": "2026-01-26T21:02:26+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.",
-      "tags": [
-        "biz & it",
-        "example.com",
-        "internet routing",
-        "microsoft",
-        "security"
       ]
     },
     {
