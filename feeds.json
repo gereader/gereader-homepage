@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T07:33:46.035616+00:00",
-  "article_count": 106,
+  "last_updated": "2026-02-07T14:29:25.862974+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -93,7 +93,6 @@
     "codex",
     "compilers",
     "constitutional ai",
-    "containerlab",
     "containers",
     "core ultra series 3",
     "courts",
@@ -281,6 +280,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Multicast PIM Sparse Mode (IV)",
+      "link": "https://www.packetswitch.co.uk/multicast-pim-sparse-mode/",
+      "published": "Sat, 07 Feb 2026 12:54:18 GMT",
+      "published_parsed": "2026-02-07T12:54:18+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-5-.png",
+      "summary": "Sparse Mode only sends traffic to parts of the network that explicitly request it. Routers with interested receivers send Join messages toward",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
       "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
