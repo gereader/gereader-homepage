@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-08T03:54:28.362212+00:00",
-  "article_count": 107,
+  "last_updated": "2026-02-08T07:40:25.207145+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1961,19 +1961,6 @@
       "summary": "In September 2024, I described how you can build One-Arm Hub-and-Spoke VPN with MPLS/VPN . In that blog post, I mentioned that the solution doesn’t work on Arista EOS because it allocates MPLS labels to whole VRFs ( per-VRF label allocation ). In early September, I received an email from Daniel...",
       "tags": [
         "design",
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab: Test IPv6 IGP Deployment",
-      "link": "https://blog.ipspace.net/2025/11/netlab-igp-ipv6-deployment/?utm_source=atom_feed",
-      "published": "2025-11-10T07:45:00+01:00",
-      "published_parsed": "2025-11-10T07:45:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Imagine you have an IPv4-only network 1 and want to try out how to deploy a routing protocol for IPv6. netlab is a pretty good tool for the job as it: Creates an addressing scheme for you Designs a routing protocol deployment ( OSPF , IS-IS ) based on just a few bits of information Deploys...",
-      "tags": [
         "netlab",
         "networking"
       ]
