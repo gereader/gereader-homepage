@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T14:54:59.832016+00:00",
+  "last_updated": "2026-02-09T19:19:37.523608+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -65,7 +65,6 @@
     "arista",
     "arp",
     "artificial inteligence",
-    "asd",
     "audio",
     "automation",
     "aws",
@@ -143,7 +142,11 @@
     "ios 16",
     "ios 18",
     "ip routing",
+    "ipad",
+    "ipad air",
     "iphone",
+    "iphone 16e",
+    "iphone 17e",
     "ipv6",
     "is-is",
     "ise",
@@ -161,6 +164,8 @@
     "load balancing",
     "location tracker",
     "logic pro",
+    "mac",
+    "macbook pro",
     "machine learning",
     "malware",
     "mergers",
@@ -280,6 +285,26 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e",
+      "link": "https://arstechnica.com/gadgets/2026/02/report-imminent-apple-hardware-updates-include-macbook-pro-ipads-and-iphone-17e/",
+      "published": "Mon, 09 Feb 2026 15:28:40 +0000",
+      "published_parsed": "2026-02-09T15:28:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "High-end Macs and less-expensive iPhones and iPads are all on the docket.",
+      "tags": [
+        "apple",
+        "ipad",
+        "ipad air",
+        "iphone",
+        "iphone 16e",
+        "iphone 17e",
+        "mac",
+        "macbook pro",
+        "tech"
+      ]
+    },
     {
       "title": "Fast Arista cEOS Container Configuration",
       "link": "https://blog.ipspace.net/2026/02/netlab-eos-configuration/?utm_source=atom_feed",
@@ -1294,20 +1319,6 @@
         "intel 18a",
         "panther lake",
         "tech"
-      ]
-    },
-    {
-      "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
-      "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
-      "published": "Fri, 23 Jan 2026 18:32:42 +0000",
-      "published_parsed": "2026-01-23T18:32:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The LA startup said it would ship \"millions\" of TVs by 2024.",
-      "tags": [
-        "asd",
-        "tech",
-        "tvs"
       ]
     },
     {
