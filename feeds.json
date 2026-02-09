@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T03:43:56.177475+00:00",
+  "last_updated": "2026-02-09T07:57:58.092106+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -280,6 +280,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Fast Arista cEOS Container Configuration",
+      "link": "https://blog.ipspace.net/2026/02/netlab-eos-configuration/?utm_source=atom_feed",
+      "published": "2026-02-09T07:23:00+01:00",
+      "published_parsed": "2026-02-09T07:23:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After the enormous speedup I achieved with the FRR containers , I tried to do something similar with the Arista cEOS ones. After all, Arista’s pretty open about running its software on standard Linux, so it should be possible to map host-side configuration files into container-side scripts and...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Multicast PIM Sparse Mode (IV)",
       "link": "https://www.packetswitch.co.uk/multicast-pim-sparse-mode/",
@@ -1949,20 +1962,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "One-Arm Hub-and-Spoke VPN on Arista EOS",
-      "link": "https://blog.ipspace.net/2025/11/one-arm-hub-spoke-vpn-arista-eos/?utm_source=atom_feed",
-      "published": "2025-11-11T07:28:00+01:00",
-      "published_parsed": "2025-11-11T07:28:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In September 2024, I described how you can build One-Arm Hub-and-Spoke VPN with MPLS/VPN . In that blog post, I mentioned that the solution doesn’t work on Arista EOS because it allocates MPLS labels to whole VRFs ( per-VRF label allocation ). In early September, I received an email from Daniel...",
-      "tags": [
-        "design",
-        "netlab",
-        "networking"
       ]
     }
   ]
