@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-10T03:51:10.144983+00:00",
-  "article_count": 106,
+  "last_updated": "2026-02-10T07:59:26.862122+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -285,6 +285,32 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Open-Source Network Simulators (2026 Edition)",
+      "link": "https://blog.ipspace.net/2026/02/worth-reading-opensource-network-simulators/?utm_source=atom_feed",
+      "published": "2026-02-10T08:09:00+01:00",
+      "published_parsed": "2026-02-10T08:09:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Brian Linkletter published an updated overview of open-source network simulators and emulators . containerlab and GNS3 are clear leaders (no surprise there) with the original vrnetlab becoming abandonware (fortunately, we have Roman Dodin’s fork ), which makes me think we should focus on using...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
+    {
+      "title": "Multicast PIM Auto RP (V)",
+      "link": "https://www.packetswitch.co.uk/multicast-pim-auto-rp/",
+      "published": "Tue, 10 Feb 2026 07:19:45 GMT",
+      "published_parsed": "2026-02-10T07:19:45+00:00",
+      "source": "Packet Switch",
+      "image": "https://www.packetswitch.co.uk/content/images/2026/02/multicast-6-.png",
+      "summary": "AutoRP solves this problem by allowing routers to dynamically learn the RP address. Instead of manually configuring the RP on each router",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
     {
       "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e",
       "link": "https://arstechnica.com/gadgets/2026/02/report-imminent-apple-hardware-updates-include-macbook-pro-ipads-and-iphone-17e/",
@@ -1959,20 +1985,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: The Majority AI View",
-      "link": "https://blog.ipspace.net/2025/11/worth-reading-majority-ai-view/?utm_source=atom_feed",
-      "published": "2025-11-12T08:06:00+01:00",
-      "published_parsed": "2025-11-12T08:06:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Many engineers who tried out (or use) various AI products would agree that they’re useful when used correctly, but way overhyped. However, as Anil Dash explains in his Majority AI View article, we rarely hear that opinion: What’s amazing is the reality that virtually 100% of tech experts I talk to...",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
       ]
     }
   ]
