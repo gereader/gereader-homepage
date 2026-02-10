@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-10T07:59:26.862122+00:00",
-  "article_count": 107,
+  "last_updated": "2026-02-10T15:01:27.102204+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -815,18 +815,6 @@
       "summary": "After creating the infrastructure that generates the device configuration files within netlab (not in an Ansible playbook), it was time to try to apply it to something else, not just Linux containers. FRR containers were the obvious next target. netlab uses two different mechanisms to configure FRR...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Network Automation Newsletter #062 - January 2026",
-      "link": "https://www.packetcoders.io/network-automation-newsletter-062-january-2026/",
-      "published": "Sat, 31 Jan 2026 21:15:18 GMT",
-      "published_parsed": "2026-01-31T21:15:18+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/06/Summary-screenshot.png",
-      "summary": "Welcome to the January 2026 edition of the Packet Coders: Network Automation Newsletter! Let’s dive in... 🚀 Packet Coders Updates ✨ Here are the latest updates and additions to our Packet Coders training library: Modern Network Telemetry - Fully Live The telemetry course is now fully live and",
-      "tags": [
         "networking"
       ]
     },
