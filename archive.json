@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-11T07:56:08.560972+00:00",
-  "article_count": 1533,
+  "last_updated": "2026-02-11T14:56:17.907559+00:00",
+  "article_count": 1534,
   "articles": [
+    {
+      "title": "netlab 26.02: KinD support, more EVPN/VXLAN",
+      "link": "https://blog.ipspace.net/2026/02/netlab-26-02/?utm_source=atom_feed",
+      "published": "2026-02-11T10:15:00+01:00",
+      "published_parsed": "2026-02-11T10:15:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.02 is out, including the usual potpourri of goodies: Support for Kubernetes (KinD) clusters based on work by @wnagele Layer-2 EVPN/VXLAN support on Cat8000v, IOL, and IOLL2 netlab graph command can create graphs from a subset of nodes or links You can specify the parameters of...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft sounds the alarm about Secure Boot certificates expiring later this year",
       "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",

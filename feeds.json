@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T07:56:08.581040+00:00",
+  "last_updated": "2026-02-11T14:56:17.927715+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -286,6 +286,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "netlab 26.02: KinD support, more EVPN/VXLAN",
+      "link": "https://blog.ipspace.net/2026/02/netlab-26-02/?utm_source=atom_feed",
+      "published": "2026-02-11T10:15:00+01:00",
+      "published_parsed": "2026-02-11T10:15:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.02 is out, including the usual potpourri of goodies: Support for Kubernetes (KinD) clusters based on work by @wnagele Layer-2 EVPN/VXLAN support on Cat8000v, IOL, and IOLL2 netlab graph command can create graphs from a subset of nodes or links You can specify the parameters of...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Windows' original Secure Boot certificates expire in June—here's what you need to do",
       "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
@@ -1964,19 +1977,6 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
       "summary": "NetOps shapes how organizations expand, innovate, and protect their digital ecosystems. Informed by DevOps, NetOps combines hybrid architectures, distributed workloads, and artificial intelligence (AI) powered data centers into fast, adaptable,...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 25.11: SRv6 on IOS/XE, Streamlined Graphs and Reports",
-      "link": "https://blog.ipspace.net/2025/11/netlab-25-11/?utm_source=atom_feed",
-      "published": "2025-11-13T10:02:00+01:00",
-      "published_parsed": "2025-11-13T10:02:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I managed to push out netlab release 25.11 yesterday. Here are the highlights: SRv6 on IOS/XE. It works with Catalyst 8000v, IOL, and IOL layer-2 image, and can be used to build L3VPNs (the IOS/XE image I have supports no other service on top of SRv6) RIPv2/RIPng on OpenBSD A more streamlined way...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
