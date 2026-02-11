@@ -1,7 +1,125 @@
 {
-  "last_updated": "2026-02-11T19:07:17.562033+00:00",
-  "article_count": 1534,
+  "last_updated": "2026-02-11T23:35:35.537414+00:00",
+  "article_count": 1540,
   "articles": [
+    {
+      "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
+      "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
+      "published": "Wed, 11 Feb 2026 21:51:33 +0000",
+      "published_parsed": "2026-02-11T21:51:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "He became one of the first to visualize personal computing by painting vivid cover art.",
+      "tags": [
+        "art",
+        "byte magazine",
+        "computer history",
+        "illustration",
+        "magazines",
+        "media",
+        "obituaries",
+        "obituary",
+        "personal computing",
+        "retrocomputing",
+        "retrotech",
+        "robert tinney",
+        "tech",
+        "vintage computing"
+      ]
+    },
+    {
+      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+      "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+      "published": "Wed, 11 Feb 2026 20:44:19 +0000",
+      "published_parsed": "2026-02-11T20:44:19+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
+      "tags": [
+        "advertising",
+        "ai",
+        "ai behavior",
+        "ai ethics",
+        "ai sycophancy",
+        "anthropic",
+        "biz & it",
+        "chatbots",
+        "chatgpt",
+        "generative ai",
+        "machine learning",
+        "openai",
+        "sam altman",
+        "sycophancy"
+      ]
+    },
+    {
+      "title": "\"Windows 11 26H1\" is a special version of Windows exclusively for new Arm PCs",
+      "link": "https://arstechnica.com/gadgets/2026/02/windows-11-26h1-is-a-special-version-of-windows-exclusively-for-new-arm-pcs/",
+      "published": "Wed, 11 Feb 2026 20:28:35 +0000",
+      "published_parsed": "2026-02-11T20:28:35+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Arm PCs have enjoyed special treatment from Microsoft for the past two years.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2",
+        "windows 11 26h1"
+      ]
+    },
+    {
+      "title": "Google recovers \"deleted\" Nest video in high-profile abduction case",
+      "link": "https://arstechnica.com/google/2026/02/google-recovers-deleted-nest-video-in-high-profile-abduction-case/",
+      "published": "Wed, 11 Feb 2026 20:15:54 +0000",
+      "published_parsed": "2026-02-11T20:15:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Users only get three hours of free Nest video storage, but Google can retrieve videos much later.",
+      "tags": [
+        "google",
+        "nest",
+        "privacy",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices",
+      "link": "https://arstechnica.com/gadgets/2026/02/apple-releases-ios-26-3-with-updates-that-mainly-benefit-non-apple-devices/",
+      "published": "Wed, 11 Feb 2026 19:49:13 +0000",
+      "published_parsed": "2026-02-11T19:49:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's getting a little easier to move from iOS to Android, if that's your thing.",
+      "tags": [
+        "apple",
+        "ios 26",
+        "ipados 26",
+        "macos 26 tahoe",
+        "tech",
+        "watchos 26"
+      ]
+    },
+    {
+      "title": "Smart home PSA: Apple's \"new architecture\" for Home app becomes mandatory today",
+      "link": "https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/",
+      "published": "Wed, 11 Feb 2026 18:18:17 +0000",
+      "published_parsed": "2026-02-11T18:18:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Updated Home app is required for Matter support and some types of accessories.",
+      "tags": [
+        "apple",
+        "homekit",
+        "ios",
+        "ios 16",
+        "ios 17",
+        "ios 18",
+        "ios 26",
+        "matter",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.02: KinD support, more EVPN/VXLAN",
       "link": "https://blog.ipspace.net/2026/02/netlab-26-02/?utm_source=atom_feed",
