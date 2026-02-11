@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-11T14:56:17.927715+00:00",
-  "article_count": 106,
+  "last_updated": "2026-02-11T19:07:17.582102+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1966,18 +1966,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "The Future of NetOps",
-      "link": "https://www.netbraintech.com/blog/the-future-of-netops/",
-      "published": "2025-11-13T17:09:55Z",
-      "published_parsed": "2025-11-13T17:09:55+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2018/08/request-demo.png",
-      "summary": "NetOps shapes how organizations expand, innovate, and protect their digital ecosystems. Informed by DevOps, NetOps combines hybrid architectures, distributed workloads, and artificial intelligence (AI) powered data centers into fast, adaptable,...",
-      "tags": [
-        "networking"
       ]
     }
   ]
