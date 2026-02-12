@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-02-11T23:35:35.537414+00:00",
-  "article_count": 1540,
+  "last_updated": "2026-02-12T03:43:20.572864+00:00",
+  "article_count": 1541,
   "articles": [
+    {
+      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+      "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
+      "published": "Wed, 11 Feb 2026 22:11:40 +0000",
+      "published_parsed": "2026-02-11T22:11:40+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
+      "tags": [
+        "biz & it",
+        "castleloader",
+        "clickfix",
+        "infostealer",
+        "lumma",
+        "malware",
+        "security"
+      ]
+    },
     {
       "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
       "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
