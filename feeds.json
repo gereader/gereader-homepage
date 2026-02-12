@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T03:43:20.593063+00:00",
+  "last_updated": "2026-02-12T07:54:40.699152+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -289,6 +289,19 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "EVPN on Cisco IOS/XE: Configuration Notes",
+      "link": "https://blog.ipspace.net/2026/02/evpn-cisco-ios/?utm_source=atom_feed",
+      "published": "2026-02-12T07:41:00+01:00",
+      "published_parsed": "2026-02-12T07:41:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After reading the L2 Vxlan On Catalyst blog post, I decided to add EVPN configuration templates to netlab -supported Cisco IOS/XE devices. It wasn’t the easiest EVPN implementation I encountered; here’s what I learned (hoping you’ll find it helpful ). Starting with the trivial hiccups: Read more …",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
       "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
@@ -1957,21 +1970,6 @@
       "tags": [
         "ai",
         "networking"
-      ]
-    },
-    {
-      "title": "Using netlab for Classroom Training with Sander Steffann",
-      "link": "https://blog.ipspace.net/2025/11/using-netlab-ipv6-training/?utm_source=atom_feed",
-      "published": "2025-11-14T07:17:00+01:00",
-      "published_parsed": "2025-11-14T07:17:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In March 2024, I received my first PR from an airplane: Sander Steffann was flying to South Africa to deliver an Ansible training and fixed a minor annoyance in the then-new multilab feature. Of course, I wanted to know more about his setup, but it took us over a year and a half till we managed to...",
-      "tags": [
-        "netlab",
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
