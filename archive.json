@@ -1,7 +1,93 @@
 {
-  "last_updated": "2026-02-12T19:06:31.271070+00:00",
-  "article_count": 1542,
+  "last_updated": "2026-02-12T23:33:10.364546+00:00",
+  "article_count": 1546,
   "articles": [
+    {
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "published": "Thu, 12 Feb 2026 22:56:02 +0000",
+      "published_parsed": "2026-02-12T22:56:02+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "ai chips",
+        "ai coding",
+        "ai development tools",
+        "ai speed",
+        "biz & it",
+        "cerebras",
+        "code agents",
+        "machine learning",
+        "nvidia",
+        "openai",
+        "sam altman",
+        "tokens"
+      ]
+    },
+    {
+      "title": "DIY PC maker Framework has needed monthly price hikes to navigate the RAM shortage",
+      "link": "https://arstechnica.com/gadgets/2026/02/frameworks-ram-prices-climbing-on-a-monthly-cadence-with-more-hikes-to-come/",
+      "published": "Thu, 12 Feb 2026 20:03:58 +0000",
+      "published_parsed": "2026-02-12T20:03:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "And Framework expects things to get worse before they get better.",
+      "tags": [
+        "framework",
+        "framework desktop",
+        "framework laptop",
+        "tech"
+      ]
+    },
+    {
+      "title": "It took two years, but Google released a YouTube app on Vision Pro",
+      "link": "https://arstechnica.com/gadgets/2026/02/it-took-two-years-but-google-released-a-youtube-app-on-vision-pro/",
+      "published": "Thu, 12 Feb 2026 19:53:05 +0000",
+      "published_parsed": "2026-02-12T19:53:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "App arrives months after Google requested takedowns of third-party options.",
+      "tags": [
+        "apple",
+        "apple vision pro",
+        "google",
+        "mixed reality",
+        "tech",
+        "vision pro",
+        "visionos",
+        "xr",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+      "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+      "published": "Thu, 12 Feb 2026 19:42:08 +0000",
+      "published_parsed": "2026-02-12T19:42:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+      "tags": [
+        "ai",
+        "ai language models",
+        "ai security",
+        "biz & it",
+        "chatgpt",
+        "chatgtp",
+        "deepseek",
+        "distillation",
+        "gemini",
+        "google",
+        "google gemini",
+        "large language models",
+        "llms",
+        "machine learning",
+        "openai"
+      ]
+    },
     {
       "title": "EVPN on Cisco IOS/XE: Configuration Notes",
       "link": "https://blog.ipspace.net/2026/02/evpn-cisco-ios/?utm_source=atom_feed",
