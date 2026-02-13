@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-13T03:40:54.111611+00:00",
-  "article_count": 1546,
+  "last_updated": "2026-02-13T07:51:14.353943+00:00",
+  "article_count": 1547,
   "articles": [
+    {
+      "title": "Lab: Build an SR-MPLS Network with IS-IS",
+      "link": "https://blog.ipspace.net/2026/02/isis-sr-mpls/?utm_source=atom_feed",
+      "published": "2026-02-13T08:02:00+01:00",
+      "published_parsed": "2026-02-13T08:02:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://isis.bgplabs.net/advanced/topology-sr-mpls.png",
+      "summary": "Want to spend an hour or two configuring some cool stuff this weekend? How about getting SR-MPLS to work with IS-IS and building a BGP-free core with it ? If you already set up your own netlab environment, you probably know what to do (or you can get the details here ). Alternatively, you can click...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
       "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
