@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T18:55:15.630772+00:00",
+  "last_updated": "2026-02-13T23:34:17.924841+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "8k",
     "aci",
     "acquisition",
     "adobe",
@@ -49,6 +48,7 @@
     "amanda askell",
     "amd",
     "android",
+    "android 17",
     "anime",
     "ansible",
     "anthropic",
@@ -158,7 +158,6 @@
     "lan",
     "large language models",
     "ldp",
-    "lg",
     "lisp",
     "llm",
     "llms",
@@ -250,6 +249,7 @@
     "segment routing",
     "semiconductors",
     "service providers",
+    "smartphones",
     "snmp",
     "social media",
     "software",
@@ -274,7 +274,6 @@
     "tokens",
     "traffic engineering",
     "training",
-    "tvs",
     "valve",
     "vibe coding",
     "video",
@@ -298,6 +297,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "The first Android 17 beta is now available on Pixel devices",
+      "link": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+      "published": "Fri, 13 Feb 2026 20:58:25 +0000",
+      "published_parsed": "2026-02-13T20:58:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Don't expect big changes yet.",
+      "tags": [
+        "android",
+        "android 17",
+        "google",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Lab: Build an SR-MPLS Network with IS-IS",
       "link": "https://blog.ipspace.net/2026/02/isis-sr-mpls/?utm_source=atom_feed",
@@ -1144,21 +1159,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "The TV industry finally concedes that the future may not be in 8K",
-      "link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
-      "published": "Fri, 30 Jan 2026 23:09:03 +0000",
-      "published_parsed": "2026-01-30T23:09:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot-2026-01-30-163419-640x230.jpg",
-      "summary": "With virtually no content and limited benefits, 8K TVs were doomed.",
-      "tags": [
-        "8k",
-        "lg",
-        "tech",
-        "tvs"
       ]
     },
     {
