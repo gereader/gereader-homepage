@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T03:42:10.954762+00:00",
-  "article_count": 106,
+  "last_updated": "2026-02-15T07:39:07.564608+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1984,19 +1984,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "AI Enshittification: Swiss Airlines Edition",
-      "link": "https://blog.ipspace.net/2025/11/swiss-airlines-ai-enshittification/?utm_source=atom_feed",
-      "published": "2025-11-17T08:00:00+01:00",
-      "published_parsed": "2025-11-17T08:00:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Remember the vendor consultants who persuasively told you how to use their gear to build a disaster recovery solution with stretched VLANs, even though the only disaster recovery they ever experienced was the frantic attempt to restart their PowerPoint slide deck? Fortunately, I was only involved...",
-      "tags": [
-        "ai",
-        "networking"
       ]
     }
   ]
