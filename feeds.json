@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T18:40:24.299936+00:00",
+  "last_updated": "2026-02-15T23:30:32.749899+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -29,6 +29,7 @@
     "ai chips",
     "ai coding",
     "ai consciousness",
+    "ai criticism",
     "ai development tools",
     "ai ethics",
     "ai infrastructure",
@@ -89,7 +90,6 @@
     "constitutional ai",
     "containers",
     "courts",
-    "crime",
     "cryptocurrency",
     "cryptocurrency exchanges",
     "cumulus linux",
@@ -107,7 +107,6 @@
     "eigrp",
     "evpn",
     "fabric",
-    "fbi",
     "features",
     "file sharing",
     "firewall",
@@ -230,7 +229,6 @@
     "ps2",
     "python",
     "qos",
-    "ransomware",
     "raspberry pi",
     "raspberry pi 4",
     "raspberry pi 5",
@@ -573,6 +571,28 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "published": "Tue, 10 Feb 2026 19:40:21 +0000",
+      "published_parsed": "2026-02-10T19:40:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "This story has been retracted",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai criticism",
+        "biz & it",
+        "code agents",
+        "machine learning",
+        "open source",
+        "openclaw",
+        "vibe coding"
       ]
     },
     {
@@ -1302,22 +1322,6 @@
       "tags": [
         "ai",
         "networking"
-      ]
-    },
-    {
-      "title": "Site catering to online criminals has been seized by the FBI",
-      "link": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/",
-      "published": "Wed, 28 Jan 2026 22:06:41 +0000",
-      "published_parsed": "2026-01-28T22:06:41+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "One of the last holdouts for ransomware discussions, RAMP is taken down.",
-      "tags": [
-        "biz & it",
-        "crime",
-        "fbi",
-        "ransomware",
-        "security"
       ]
     },
     {

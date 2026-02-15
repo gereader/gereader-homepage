@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T18:40:24.279255+00:00",
-  "article_count": 1548,
+  "last_updated": "2026-02-15T23:30:32.728812+00:00",
+  "article_count": 1549,
   "articles": [
     {
       "title": "The first Android 17 beta is now available on Pixel devices",
@@ -278,6 +278,28 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "published": "Tue, 10 Feb 2026 19:40:21 +0000",
+      "published_parsed": "2026-02-10T19:40:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "This story has been retracted",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai criticism",
+        "biz & it",
+        "code agents",
+        "machine learning",
+        "open source",
+        "openclaw",
+        "vibe coding"
       ]
     },
     {
