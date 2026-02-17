@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-17T14:49:49.655687+00:00",
-  "article_count": 1551,
+  "last_updated": "2026-02-17T19:01:08.322353+00:00",
+  "article_count": 1553,
   "articles": [
     {
       "title": "Worth Reading: Modern Forwarding Architectures",
@@ -25,6 +25,30 @@
       "summary": "Apart from IP multicast and QoS, netlab can configure commonly used networking technologies across dozens of devices from most networking vendors. Why don’t you use all that embedded knowledge (supported by hundreds of integration tests ) to help you configure unfamiliar devices? You don’t have to...",
       "tags": [
         "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "What Is Intent-Based Networking?",
+      "link": "https://www.netbraintech.com/blog/what-is-intent-based-networking/",
+      "published": "2026-02-13T21:15:30Z",
+      "published_parsed": "2026-02-13T21:15:30+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Modern networks are expected to do more than stay online. They must support cloud workloads, remote users, security controls, and business-critical applications simultaneously. For many IT teams, this creates daily...",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "Closed-Loop Automation: From Detection to Verified Remediation",
+      "link": "https://www.netbraintech.com/blog/closed-loop-automation/",
+      "published": "2026-02-13T21:10:09Z",
+      "published_parsed": "2026-02-13T21:10:09+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbraintech.com/wp-content/uploads/2026/02/02-using-a-network-digital-twin.jpg",
+      "summary": "The combination of hybrid networks and manual network operations creates a high risk of service disruption due to the increased chance of human error and configuration drift. Closed-loop automation, from...",
+      "tags": [
         "networking"
       ]
     },
