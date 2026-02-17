@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T03:36:45.234972+00:00",
+  "last_updated": "2026-02-17T07:51:27.991744+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -295,6 +295,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Modern Forwarding Architectures",
+      "link": "https://blog.ipspace.net/2026/02/worth-reading-modern-forwarding-architectures/?utm_source=atom_feed",
+      "published": "2026-02-17T07:55:00+01:00",
+      "published_parsed": "2026-02-17T07:55:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Ignoring the obligatory misguided mention of OpenFlow and a few other unicorns, I found this article to be a nice introduction to modern forwarding architectures, including networking infrastructure for AI clusters and distributed cell-based fabrics.",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Explore Configurations of Unfamiliar Devices with netlab",
       "link": "https://blog.ipspace.net/2026/02/netlab-device-configs/?utm_source=atom_feed",
@@ -1961,19 +1974,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Interesting: an MCP Agent for Link-State Routing Protocols",
-      "link": "https://blog.ipspace.net/2025/11/mcp-agent-link-state-protocols/?utm_source=atom_feed",
-      "published": "2025-11-19T07:15:00+01:00",
-      "published_parsed": "2025-11-19T07:15:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Vadim Semenov created a nice demo that allows you to use an LLM to query the collected link-state graphs through an MCP agent ( SuzieQ would probably be faster and easier to deploy, but hey, AI). If you want to kick the tires, you’ll find the source code on GitHub ( Network AI assistant , MCP...",
-      "tags": [
-        "ai",
-        "networking"
       ]
     }
   ]
