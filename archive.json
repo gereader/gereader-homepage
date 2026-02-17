@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-02-17T19:01:08.322353+00:00",
-  "article_count": 1553,
+  "last_updated": "2026-02-17T23:32:41.481105+00:00",
+  "article_count": 1556,
   "articles": [
+    {
+      "title": "Password managers' promise that they can't see your vaults isn't always true",
+      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+      "published": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "published_parsed": "2026-02-17T20:43:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Contrary to what password managers say, a server compromise can mean game over.",
+      "tags": [
+        "biz & it",
+        "end to end encryption",
+        "features",
+        "password managers",
+        "security",
+        "zero knowledge"
+      ]
+    },
+    {
+      "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+      "link": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+      "published": "Tue, 17 Feb 2026 18:38:10 +0000",
+      "published_parsed": "2026-02-17T18:38:10+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "vmware"
+      ]
+    },
+    {
+      "title": "RAM shortage hits Valve's four-year-old Steam Deck, now available \"intermittently\"",
+      "link": "https://arstechnica.com/gadgets/2026/02/valves-steam-deck-intermittently-out-of-stock-as-ram-shortage-drags-on/",
+      "published": "Tue, 17 Feb 2026 17:56:14 +0000",
+      "published_parsed": "2026-02-17T17:56:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Forget launching new stuff—Valve is even having problems with existing hardware.",
+      "tags": [
+        "gaming",
+        "ram shortage",
+        "steam deck",
+        "steamos",
+        "tech",
+        "valve"
+      ]
+    },
     {
       "title": "Worth Reading: Modern Forwarding Architectures",
       "link": "https://blog.ipspace.net/2026/02/worth-reading-modern-forwarding-architectures/?utm_source=atom_feed",
