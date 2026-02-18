@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-02-18T14:49:07.300898+00:00",
-  "article_count": 1557,
+  "last_updated": "2026-02-18T18:59:32.300126+00:00",
+  "article_count": 1558,
   "articles": [
+    {
+      "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
+      "link": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
+      "published": "Wed, 18 Feb 2026 15:00:34 +0000",
+      "published_parsed": "2026-02-18T15:00:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new budget phone is here, but don't expect a big upgrade.",
+      "tags": [
+        "android",
+        "google",
+        "pixel 10a",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "EVPN IP-VRFs on Cisco IOS/XE: Configuration Notes",
       "link": "https://blog.ipspace.net/2026/02/evpn-cisco-l3vpn/?utm_source=atom_feed",

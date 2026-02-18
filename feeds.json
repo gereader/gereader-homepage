@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T14:49:07.321795+00:00",
+  "last_updated": "2026-02-18T18:59:32.321082+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -212,6 +212,7 @@
     "performance",
     "personal computing",
     "peter steinberger",
+    "pixel 10a",
     "podcast",
     "privacy",
     "programming",
@@ -221,9 +222,6 @@
     "python",
     "qos",
     "ram shortage",
-    "raspberry pi",
-    "raspberry pi 4",
-    "raspberry pi 5",
     "retrocomputing",
     "retrotech",
     "robert tinney",
@@ -289,6 +287,22 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
+      "link": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
+      "published": "Wed, 18 Feb 2026 15:00:34 +0000",
+      "published_parsed": "2026-02-18T15:00:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new budget phone is here, but don't expect a big upgrade.",
+      "tags": [
+        "android",
+        "google",
+        "pixel 10a",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "EVPN IP-VRFs on Cisco IOS/XE: Configuration Notes",
       "link": "https://blog.ipspace.net/2026/02/evpn-cisco-l3vpn/?utm_source=atom_feed",
@@ -414,6 +428,28 @@
         "google",
         "smartphones",
         "tech"
+      ]
+    },
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "published": "Fri, 13 Feb 2026 19:40:21 +0000",
+      "published_parsed": "2026-02-13T19:40:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "This story has been retracted",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "ai agents",
+        "ai coding",
+        "ai criticism",
+        "biz & it",
+        "code agents",
+        "machine learning",
+        "open source",
+        "openclaw",
+        "vibe coding"
       ]
     },
     {
@@ -676,28 +712,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-      "published": "Tue, 10 Feb 2026 19:40:21 +0000",
-      "published_parsed": "2026-02-10T19:40:21+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "This story has been retracted",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "ai agents",
-        "ai coding",
-        "ai criticism",
-        "biz & it",
-        "code agents",
-        "machine learning",
-        "open source",
-        "openclaw",
-        "vibe coding"
       ]
     },
     {
@@ -1241,21 +1255,6 @@
         "open source software",
         "security",
         "supply chain attacks"
-      ]
-    },
-    {
-      "title": "Ongoing RAM crisis prompts Raspberry Pi's second price hike in two months",
-      "link": "https://arstechnica.com/gadgets/2026/02/ongoing-ram-crisis-prompts-raspberry-pis-second-price-hike-in-two-months/",
-      "published": "Mon, 02 Feb 2026 19:52:32 +0000",
-      "published_parsed": "2026-02-02T19:52:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The more RAM the Pi board has, the more its price is increasing.",
-      "tags": [
-        "raspberry pi",
-        "raspberry pi 4",
-        "raspberry pi 5",
-        "tech"
       ]
     },
     {
