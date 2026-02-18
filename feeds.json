@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T18:59:32.321082+00:00",
+  "last_updated": "2026-02-18T23:33:35.413302+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -46,7 +46,6 @@
     "amd",
     "android",
     "android 17",
-    "anime",
     "ansible",
     "anthropic",
     "apple",
@@ -287,6 +286,22 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
+      "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
+      "published": "Wed, 18 Feb 2026 19:28:26 +0000",
+      "published_parsed": "2026-02-18T19:28:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The 26.3 updates were mostly invisible; these changes are more significant.",
+      "tags": [
+        "apple",
+        "ios 26",
+        "ipados 26",
+        "macos 26 tahoe",
+        "tech"
+      ]
+    },
     {
       "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
       "link": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
@@ -1223,22 +1238,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
-      "link": "https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/",
-      "published": "Mon, 02 Feb 2026 22:31:46 +0000",
-      "published_parsed": "2026-02-02T22:31:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Sony has made streaming anime pricier since buying Crunchyroll.",
-      "tags": [
-        "acquisition",
-        "anime",
-        "sony",
-        "streaming",
-        "tech"
       ]
     },
     {
