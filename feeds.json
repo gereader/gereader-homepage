@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T18:55:19.334632+00:00",
+  "last_updated": "2026-02-19T23:33:05.988019+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -186,10 +186,6 @@
     "networking fundamentals",
     "nfv",
     "nicholas carlini",
-    "nintendo",
-    "nintendo ds",
-    "nintendo switch",
-    "nintendo switch 2",
     "notepad",
     "nsx",
     "nvidia",
@@ -217,13 +213,15 @@
     "programming",
     "prompt injection",
     "prompt worm",
-    "ps2",
+    "puzzles",
     "python",
     "qos",
     "ram shortage",
     "retrocomputing",
     "retrotech",
+    "reviews",
     "robert tinney",
+    "rubik's cube",
     "russia",
     "sam altman",
     "san",
@@ -241,8 +239,6 @@
     "software",
     "software development",
     "software gone wild",
-    "sony",
-    "sony playstation 2",
     "steam deck",
     "steam frame",
     "steam machine",
@@ -259,6 +255,7 @@
     "tech",
     "tips",
     "tokens",
+    "toys",
     "traffic engineering",
     "training",
     "valve",
@@ -286,6 +283,22 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube",
+      "link": "https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/",
+      "published": "Thu, 19 Feb 2026 21:30:02 +0000",
+      "published_parsed": "2026-02-19T21:30:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Technology is a double-edged sword in the $399 Rubik's Cube-inspired toy.",
+      "tags": [
+        "puzzles",
+        "reviews",
+        "rubik's cube",
+        "tech",
+        "toys"
+      ]
+    },
     {
       "title": "Cisco IOS/XR OSPFv2 Not-So-Passive Interfaces",
       "link": "https://blog.ipspace.net/2026/02/iosxr-ospfv2-not-so-passive/?utm_source=atom_feed",
@@ -1187,26 +1200,6 @@
         "sam altman",
         "semiconductors",
         "tags: machine learning"
-      ]
-    },
-    {
-      "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
-      "link": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
-      "published": "Tue, 03 Feb 2026 18:56:20 +0000",
-      "published_parsed": "2026-02-03T18:56:20+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
-      "tags": [
-        "gaming",
-        "nintendo",
-        "nintendo ds",
-        "nintendo switch",
-        "nintendo switch 2",
-        "ps2",
-        "sony",
-        "sony playstation 2",
-        "tech"
       ]
     },
     {

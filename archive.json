@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-02-19T18:55:19.313730+00:00",
-  "article_count": 1560,
+  "last_updated": "2026-02-19T23:33:05.967526+00:00",
+  "article_count": 1561,
   "articles": [
+    {
+      "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube",
+      "link": "https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/",
+      "published": "Thu, 19 Feb 2026 21:30:02 +0000",
+      "published_parsed": "2026-02-19T21:30:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Technology is a double-edged sword in the $399 Rubik's Cube-inspired toy.",
+      "tags": [
+        "puzzles",
+        "reviews",
+        "rubik's cube",
+        "tech",
+        "toys"
+      ]
+    },
     {
       "title": "Cisco IOS/XR OSPFv2 Not-So-Passive Interfaces",
       "link": "https://blog.ipspace.net/2026/02/iosxr-ospfv2-not-so-passive/?utm_source=atom_feed",
