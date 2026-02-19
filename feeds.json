@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T03:37:36.642092+00:00",
+  "last_updated": "2026-02-19T07:50:27.194940+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -286,6 +286,19 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Cisco IOS/XR OSPFv2 Not-So-Passive Interfaces",
+      "link": "https://blog.ipspace.net/2026/02/iosxr-ospfv2-not-so-passive/?utm_source=atom_feed",
+      "published": "2026-02-19T07:46:00+01:00",
+      "published_parsed": "2026-02-19T07:46:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "What’s wrong with me? Why do I have to uncover another weirdness every single time I run netlab integration tests on a new platform? Today, it’s Cisco IOS/XR (release 25.2.1) and its understanding of what “passive” means. According to the corresponding documentation , the passive interface...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
       "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
@@ -1960,19 +1973,6 @@
         "netlab",
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Public Videos: Bridging with EVPN",
-      "link": "https://blog.ipspace.net/2025/11/video-evpn-bridging/?utm_source=atom_feed",
-      "published": "2025-11-21T08:09:00+02:00",
-      "published_parsed": "2025-11-21T08:09:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2024/03/dalle-evpn-fabric.jpg",
-      "summary": "The EVPN in the Data Center and Bridging with EVPN parts of the EVPN webinar , featuring Dinesh Dutt , are now available without a valid ipSpace.net account. Enjoy! Explore",
-      "tags": [
-        "evpn",
-        "networking"
       ]
     }
   ]
