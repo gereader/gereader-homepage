@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-02-20T03:33:30.839891+00:00",
-  "article_count": 1561,
+  "last_updated": "2026-02-20T07:49:41.331098+00:00",
+  "article_count": 1562,
   "articles": [
+    {
+      "title": "Public Videos: EVPN in MPLS-Based Environments",
+      "link": "https://blog.ipspace.net/2026/02/evpn-mpls-videos/?utm_source=atom_feed",
+      "published": "2026-02-20T07:36:00+01:00",
+      "published_parsed": "2026-02-20T07:36:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2025/01/dalle-leaf-spine-design.png",
+      "summary": "While we’re mostly discussing EVPN in conjunction with VXLAN encapsulation, its initial use case was as an alternate control plane for MPLS networks. Krzysztof Szarkowicz had a great presentation describing the specifics of EVPN in MPLS-Based Environments a few years ago. Those videos (part of the...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube",
       "link": "https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/",
