@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-02-20T18:53:29.442022+00:00",
-  "article_count": 1562,
+  "last_updated": "2026-02-20T23:31:35.689230+00:00",
+  "article_count": 1563,
   "articles": [
+    {
+      "title": "Meta's flagship metaverse service leaves VR behind",
+      "link": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
+      "published": "Fri, 20 Feb 2026 21:49:22 +0000",
+      "published_parsed": "2026-02-20T21:49:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The company asserts it will continue to make VR headsets, though.",
+      "tags": [
+        "gaming",
+        "horizon worlds",
+        "meta",
+        "metaverse",
+        "mixed reality",
+        "quest",
+        "tech",
+        "vr"
+      ]
+    },
     {
       "title": "Public Videos: EVPN in MPLS-Based Environments",
       "link": "https://blog.ipspace.net/2026/02/evpn-mpls-videos/?utm_source=atom_feed",

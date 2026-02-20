@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T18:53:29.462486+00:00",
+  "last_updated": "2026-02-20T23:31:35.709799+00:00",
   "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,7 +12,6 @@
   ],
   "tags": [
     "aci",
-    "acquisition",
     "adobe",
     "advertising",
     "agentic ai",
@@ -119,11 +118,11 @@
     "gre",
     "greg brockman",
     "groq",
-    "hbo max",
     "high availability",
     "history",
     "homekit",
     "homelab",
+    "horizon worlds",
     "illustration",
     "inference",
     "infostealer",
@@ -162,7 +161,8 @@
     "malware",
     "matter",
     "media",
-    "mergers",
+    "meta",
+    "metaverse",
     "microsoft",
     "mixed reality",
     "moltbook",
@@ -177,7 +177,6 @@
     "nest",
     "netconf",
     "netdevops",
-    "netflix",
     "netlab",
     "network",
     "network automation",
@@ -201,8 +200,6 @@
     "ospf",
     "overlay networks",
     "p2p",
-    "paramount plus",
-    "paramount skydance",
     "password managers",
     "performance",
     "personal computing",
@@ -216,6 +213,7 @@
     "puzzles",
     "python",
     "qos",
+    "quest",
     "ram shortage",
     "retrocomputing",
     "retrotech",
@@ -243,7 +241,6 @@
     "steam frame",
     "steam machine",
     "steamos",
-    "streaming",
     "super bowl",
     "supply chain attack",
     "supply chain attacks",
@@ -267,9 +264,9 @@
     "visionos",
     "vmware",
     "vpn",
+    "vr",
     "vxlan",
     "wan",
-    "warner bros. discovery",
     "watchos 26",
     "windows 10",
     "windows 10 22h2",
@@ -283,6 +280,25 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Meta's flagship metaverse service leaves VR behind",
+      "link": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
+      "published": "Fri, 20 Feb 2026 21:49:22 +0000",
+      "published_parsed": "2026-02-20T21:49:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The company asserts it will continue to make VR headsets, though.",
+      "tags": [
+        "gaming",
+        "horizon worlds",
+        "meta",
+        "metaverse",
+        "mixed reality",
+        "quest",
+        "tech",
+        "vr"
+      ]
+    },
     {
       "title": "Public Videos: EVPN in MPLS-Based Environments",
       "link": "https://blog.ipspace.net/2026/02/evpn-mpls-videos/?utm_source=atom_feed",
@@ -1165,26 +1181,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
-      "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
-      "published": "Tue, 03 Feb 2026 23:41:39 +0000",
-      "published_parsed": "2026-02-03T23:41:39+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
-      "tags": [
-        "acquisition",
-        "hbo max",
-        "mergers",
-        "netflix",
-        "paramount plus",
-        "paramount skydance",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {
