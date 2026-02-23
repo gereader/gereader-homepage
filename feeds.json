@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T03:41:09.659856+00:00",
+  "last_updated": "2026-02-23T07:56:38.380784+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -280,6 +280,19 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "netlab: The Caveats of Using Startup Configurations",
+      "link": "https://blog.ipspace.net/2026/02/netlab-startup-config-caveats/?utm_source=atom_feed",
+      "published": "2026-02-23T07:23:00+01:00",
+      "published_parsed": "2026-02-23T07:23:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Petr Ankudinov wrote an excellent comment about netlab Fast cEOS Configuration implementation. Paraphrasing the original comment : If the use case is the initial lab deployment, why don’t you use containerlab startup-config option to change the device’s startup configuration? I have to admit, I’m...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Meta's flagship metaverse service leaves VR behind",
       "link": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
@@ -1946,20 +1959,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Multi-Pod EVPN Troubleshooting: Route Targets",
-      "link": "https://blog.ipspace.net/2025/11/evpn-multi-pod-tshoot-rt/?utm_source=atom_feed",
-      "published": "2025-11-25T07:49:00+02:00",
-      "published_parsed": "2025-11-25T07:49:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Last week, we fixed the incorrect BGP next hops in our sample multi-pod EVPN fabric . With that fixed, every PE device should see every other PE device as a remote VTEP for ingress replication purposes. However, that’s not the case; let’s see why and fix it. Note: This is the fourth blog post in...",
-      "tags": [
-        "evpn",
-        "netlab",
-        "networking"
       ]
     }
   ]

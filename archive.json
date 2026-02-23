@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-23T03:41:09.639119+00:00",
-  "article_count": 1563,
+  "last_updated": "2026-02-23T07:56:38.360000+00:00",
+  "article_count": 1564,
   "articles": [
+    {
+      "title": "netlab: The Caveats of Using Startup Configurations",
+      "link": "https://blog.ipspace.net/2026/02/netlab-startup-config-caveats/?utm_source=atom_feed",
+      "published": "2026-02-23T07:23:00+01:00",
+      "published_parsed": "2026-02-23T07:23:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Petr Ankudinov wrote an excellent comment about netlab Fast cEOS Configuration implementation. Paraphrasing the original comment : If the use case is the initial lab deployment, why don’t you use containerlab startup-config option to change the device’s startup configuration? I have to admit, I’m...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Meta's flagship metaverse service leaves VR behind",
       "link": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
