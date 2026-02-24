@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T03:37:09.619533+00:00",
+  "last_updated": "2026-02-24T07:51:49.022524+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -280,6 +280,19 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Interesting: Open Space Events",
+      "link": "https://blog.ipspace.net/2026/02/worth-reading-open-space-conferences/?utm_source=atom_feed",
+      "published": "2026-02-24T07:45:00+01:00",
+      "published_parsed": "2026-02-24T07:45:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Following a link in another Martin Fowler’s blog post , I stumbled upon his thoughts on Open Space events – a way to set up self-organizing events. I’m not sure I’m brave (or young) enough to try it out, but if you’re planning to organize a small gathering (like a local Network Operator Group),...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Panasonic, the former plasma king, will no longer make its own TVs",
       "link": "https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/",
@@ -1945,20 +1958,6 @@
       "tags": [
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Testing IP Multicast with netlab",
-      "link": "https://blog.ipspace.net/2025/11/worth-reading-netlab-multicast/?utm_source=atom_feed",
-      "published": "2025-11-26T07:56:00+01:00",
-      "published_parsed": "2025-11-26T07:56:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2025/11/multicast-topo.jpg",
-      "summary": "Aleksandr Albin built a large (almost 20-router) lab topology (based on an example from Jeff Doyle’s Routing TCP/IP Volume 2) that he uses to practice inter-AS IP multicast. He also published the topology file (and additional configuration templates) on GitHub and documented his experience in a...",
-      "tags": [
-        "netlab",
-        "networking",
-        "worth reading"
       ]
     }
   ]
