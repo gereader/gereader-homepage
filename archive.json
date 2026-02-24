@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-02-24T14:53:35.831451+00:00",
-  "article_count": 1566,
+  "last_updated": "2026-02-24T19:06:41.175802+00:00",
+  "article_count": 1567,
   "articles": [
+    {
+      "title": "Meta could end up owning 10% of AMD in new chip deal",
+      "link": "https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/",
+      "published": "Tue, 24 Feb 2026 14:10:13 +0000",
+      "published_parsed": "2026-02-24T14:10:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AMD will supply 6 gigawatts' worth of chips to buttress Meta's AI efforts.",
+      "tags": [
+        "ai",
+        "amd",
+        "meta",
+        "syndication",
+        "tech"
+      ]
+    },
     {
       "title": "Interesting: Open Space Events",
       "link": "https://blog.ipspace.net/2026/02/worth-reading-open-space-conferences/?utm_source=atom_feed",
