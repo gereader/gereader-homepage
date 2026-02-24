@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T19:06:41.197109+00:00",
+  "last_updated": "2026-02-24T23:35:25.205330+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -39,7 +39,6 @@
     "ai self-preservation",
     "ai speed",
     "ai sycophancy",
-    "airdrop",
     "alphabet",
     "amd",
     "android",
@@ -91,15 +90,17 @@
     "design",
     "dhcp",
     "distillation",
+    "dji",
     "dmvpn",
     "dns",
     "docker",
+    "drones",
     "eigrp",
     "end to end encryption",
     "evpn",
     "fabric",
+    "fcc",
     "features",
-    "file sharing",
     "firewall",
     "firewalls",
     "framework",
@@ -206,6 +207,7 @@
     "peter steinberger",
     "pixel 10a",
     "podcast",
+    "policy",
     "privacy",
     "programming",
     "prompt injection",
@@ -253,6 +255,7 @@
     "traffic engineering",
     "training",
     "tvs",
+    "unnmanned aircraft systems",
     "valve",
     "vibe coding",
     "video",
@@ -278,6 +281,23 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "DJI sues the FCC for “carelessly” restricting its drones",
+      "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+      "published": "Tue, 24 Feb 2026 21:15:26 +0000",
+      "published_parsed": "2026-02-24T21:15:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "DJI lawsuit says company has been \"severely harmed by the FCC’s ruling.\"",
+      "tags": [
+        "dji",
+        "drones",
+        "fcc",
+        "policy",
+        "tech",
+        "unnmanned aircraft systems"
+      ]
+    },
     {
       "title": "Meta could end up owning 10% of AMD in new chip deal",
       "link": "https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/",
@@ -1052,23 +1072,6 @@
         "machine learning",
         "openai",
         "sam altman"
-      ]
-    },
-    {
-      "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
-      "link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
-      "published": "Thu, 05 Feb 2026 18:06:56 +0000",
-      "published_parsed": "2026-02-05T18:06:56+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026.",
-      "tags": [
-        "airdrop",
-        "android",
-        "file sharing",
-        "google",
-        "iphone",
-        "tech"
       ]
     },
     {
