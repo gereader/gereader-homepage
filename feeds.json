@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-25T19:10:41.418068+00:00",
-  "article_count": 107,
+  "last_updated": "2026-02-25T23:30:42.030890+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -40,7 +40,6 @@
     "ai self-preservation",
     "ai speed",
     "ai sycophancy",
-    "alphabet",
     "amd",
     "android",
     "android 17",
@@ -86,9 +85,9 @@
     "cumulus linux",
     "dario amodei",
     "data center",
-    "debt",
     "deepseek",
     "design",
+    "desktops",
     "dhcp",
     "distillation",
     "dji",
@@ -107,6 +106,7 @@
     "framework",
     "framework desktop",
     "framework laptop",
+    "galaxy s26",
     "gaming",
     "gemini",
     "generative ai",
@@ -125,6 +125,7 @@
     "homekit",
     "homelab",
     "horizon worlds",
+    "hp",
     "illustration",
     "inference",
     "infostealer",
@@ -143,6 +144,7 @@
     "jinja",
     "kate rouch",
     "lan",
+    "laptops",
     "large language models",
     "ldp",
     "lisp",
@@ -214,6 +216,7 @@
     "python",
     "qos",
     "quest",
+    "ram",
     "ram shortage",
     "retrocomputing",
     "retrotech",
@@ -222,10 +225,10 @@
     "rubik's cube",
     "russia",
     "sam altman",
+    "samsung",
     "san",
     "sd-wan",
     "sdn",
-    "search",
     "secure boot",
     "security",
     "segment routing",
@@ -281,6 +284,51 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
+      "link": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
+      "published": "Wed, 25 Feb 2026 21:41:27 +0000",
+      "published_parsed": "2026-02-25T21:41:27+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Samsung's Galaxy S26 series is available for preorder today and ships on March 11.",
+      "tags": [
+        "ai",
+        "android",
+        "galaxy s26",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "NetBrain Certified for Infoblox NIOS Integration",
+      "link": "https://www.netbraintech.com/blog/infoblox-integration/",
+      "published": "2026-02-25T19:55:26Z",
+      "published_parsed": "2026-02-25T19:55:26+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "For customers evaluating how to expand network operations beyond legacy configuration management, NetBrain is now officially recognized in the Infoblox Ecosystem as a Certified Partner for Infoblox NIOS integration. This...",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "published": "Wed, 25 Feb 2026 18:21:38 +0000",
+      "published_parsed": "2026-02-25T18:21:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "RAM represented about 15 to 18 percent of PC costs last quarter, HP said.",
+      "tags": [
+        "desktops",
+        "hp",
+        "laptops",
+        "ram",
+        "tech"
+      ]
+    },
     {
       "title": "On AI Agents Speaking BGP",
       "link": "https://blog.ipspace.net/2026/02/ai-speaking-bgp/?utm_source=atom_feed",
@@ -921,38 +969,6 @@
         "windows 11",
         "windows 11 24h2",
         "windows 11 25h2"
-      ]
-    },
-    {
-      "title": "Upgraded Google safety tools can now find and remove more of your personal info",
-      "link": "https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/",
-      "published": "Tue, 10 Feb 2026 16:59:25 +0000",
-      "published_parsed": "2026-02-10T16:59:25+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The Results About You tool is getting an upgrade.",
-      "tags": [
-        "google",
-        "privacy",
-        "search",
-        "tech"
-      ]
-    },
-    {
-      "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
-      "link": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
-      "published": "Tue, 10 Feb 2026 14:44:52 +0000",
-      "published_parsed": "2026-02-10T14:44:52+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.",
-      "tags": [
-        "ai",
-        "alphabet",
-        "debt",
-        "google",
-        "syndication",
-        "tech"
       ]
     },
     {
