@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T23:35:25.205330+00:00",
-  "article_count": 106,
+  "last_updated": "2026-02-25T03:36:54.767932+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -12,6 +12,7 @@
   ],
   "tags": [
     "aci",
+    "acquisitions",
     "advertising",
     "agentic ai",
     "ai",
@@ -118,6 +119,7 @@
     "gre",
     "greg brockman",
     "groq",
+    "hbo max",
     "high availability",
     "history",
     "homekit",
@@ -133,12 +135,7 @@
     "ios 18",
     "ios 26",
     "ip routing",
-    "ipad",
-    "ipad air",
     "ipados 26",
-    "iphone",
-    "iphone 16e",
-    "iphone 17e",
     "ipv6",
     "is-is",
     "ise",
@@ -153,14 +150,13 @@
     "llms",
     "load balancing",
     "lumma",
-    "mac",
-    "macbook pro",
     "machine learning",
     "macos 26 tahoe",
     "magazines",
     "malware",
     "matter",
     "media",
+    "mergers",
     "meta",
     "metaverse",
     "microsoft",
@@ -177,6 +173,7 @@
     "nest",
     "netconf",
     "netdevops",
+    "netflix",
     "netlab",
     "network",
     "network automation",
@@ -201,6 +198,7 @@
     "overlay networks",
     "p2p",
     "panasonic",
+    "paramount skydance",
     "password managers",
     "performance",
     "personal computing",
@@ -240,6 +238,7 @@
     "software gone wild",
     "steam deck",
     "steamos",
+    "streaming",
     "super bowl",
     "supply chain attack",
     "supply chain attacks",
@@ -268,6 +267,7 @@
     "vr",
     "vxlan",
     "wan",
+    "warner bros. discovery",
     "watchos 26",
     "windows 10",
     "windows 10 22h2",
@@ -281,6 +281,37 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
+      "link": "https://www.netbraintech.com/blog/turning-operational-truth-into-shared-insight/",
+      "published": "2026-02-25T02:41:40Z",
+      "published_parsed": "2026-02-25T02:41:40+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Modern network environments don’t live in a single system. Network teams operate in real time. Hardware and facilities teams manage physical infrastructure. Platform and operations teams need dashboards they can trust without giving every...",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "WBD says Paramount’s new, higher offer could be “superior” to Netflix's",
+      "link": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+      "published": "Tue, 24 Feb 2026 22:52:52 +0000",
+      "published_parsed": "2026-02-24T22:52:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "WBD's board is still reviewing the offer.",
+      "tags": [
+        "acquisitions",
+        "hbo max",
+        "mergers",
+        "netflix",
+        "paramount skydance",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "DJI sues the FCC for “carelessly” restricting its drones",
       "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
@@ -934,26 +965,6 @@
       "tags": [
         "multicast",
         "networking"
-      ]
-    },
-    {
-      "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e",
-      "link": "https://arstechnica.com/gadgets/2026/02/report-imminent-apple-hardware-updates-include-macbook-pro-ipads-and-iphone-17e/",
-      "published": "Mon, 09 Feb 2026 15:28:40 +0000",
-      "published_parsed": "2026-02-09T15:28:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "High-end Macs and less-expensive iPhones and iPads are all on the docket.",
-      "tags": [
-        "apple",
-        "ipad",
-        "ipad air",
-        "iphone",
-        "iphone 16e",
-        "iphone 17e",
-        "mac",
-        "macbook pro",
-        "tech"
       ]
     },
     {
