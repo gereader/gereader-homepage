@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-25T03:36:54.746253+00:00",
-  "article_count": 1570,
+  "last_updated": "2026-02-25T07:53:45.706824+00:00",
+  "article_count": 1571,
   "articles": [
+    {
+      "title": "On AI Agents Speaking BGP",
+      "link": "https://blog.ipspace.net/2026/02/ai-speaking-bgp/?utm_source=atom_feed",
+      "published": "2026-02-25T07:39:00+01:00",
+      "published_parsed": "2026-02-25T07:39:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I guess your LinkedIn feed is as full of AI nonsense as mine is, so I usually just skip all that posturing. However, every now and then, I stumble upon an idea that makes sense… until you start to dig deeper into it. There was this post about AI agents speaking BGP with an associated GitHub repo ,...",
+      "tags": [
+        "ai",
+        "bgp",
+        "networking"
+      ]
+    },
     {
       "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
       "link": "https://www.netbraintech.com/blog/turning-operational-truth-into-shared-insight/",
