@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-26T14:50:52.933505+00:00",
-  "article_count": 1575,
+  "last_updated": "2026-02-26T18:56:28.475324+00:00",
+  "article_count": 1576,
   "articles": [
+    {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "published": "Thu, 26 Feb 2026 15:45:18 +0000",
+      "published_parsed": "2026-02-26T15:45:18+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "tags": [
+        "biz & it",
+        "encryption",
+        "features",
+        "networking",
+        "security",
+        "wi-fi"
+      ]
+    },
     {
       "title": "Configuring 6PE Route Reflector on Cisco IOS",
       "link": "https://blog.ipspace.net/2026/02/ios-6pe-route-reflector/?utm_source=atom_feed",

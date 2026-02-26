@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T14:50:52.954273+00:00",
+  "last_updated": "2026-02-26T18:56:28.496354+00:00",
   "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
@@ -96,6 +96,7 @@
     "docker",
     "drones",
     "eigrp",
+    "encryption",
     "end to end encryption",
     "evpn",
     "fabric",
@@ -110,7 +111,6 @@
     "gaming",
     "gemini",
     "generative ai",
-    "github copilot",
     "google",
     "google gemini",
     "gpt codex",
@@ -193,7 +193,6 @@
     "open source",
     "open source software",
     "openai",
-    "openai codex",
     "openclaw",
     "openflow",
     "ospf",
@@ -209,7 +208,6 @@
     "podcast",
     "policy",
     "privacy",
-    "programming",
     "prompt injection",
     "prompt worm",
     "puzzles",
@@ -237,7 +235,6 @@
     "smartphones",
     "snmp",
     "social media",
-    "software development",
     "software gone wild",
     "steam deck",
     "steamos",
@@ -272,6 +269,7 @@
     "wan",
     "warner bros. discovery",
     "watchos 26",
+    "wi-fi",
     "windows 10",
     "windows 10 22h2",
     "windows 11",
@@ -284,6 +282,23 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "published": "Thu, 26 Feb 2026 15:45:18 +0000",
+      "published_parsed": "2026-02-26T15:45:18+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "tags": [
+        "biz & it",
+        "encryption",
+        "features",
+        "networking",
+        "security",
+        "wi-fi"
+      ]
+    },
     {
       "title": "Configuring 6PE Route Reflector on Cisco IOS",
       "link": "https://blog.ipspace.net/2026/02/ios-6pe-route-reflector/?utm_source=atom_feed",
@@ -1389,34 +1404,6 @@
         "peter steinberger",
         "prompt injection",
         "social media"
-      ]
-    },
-    {
-      "title": "Developers say AI coding tools work—and that's precisely what worries them",
-      "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
-      "published": "Fri, 30 Jan 2026 19:04:15 +0000",
-      "published_parsed": "2026-01-30T19:04:15+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Ars spoke to several software devs about AI and found enthusiasm tempered by unease.",
-      "tags": [
-        "ai",
-        "ai agents",
-        "ai and work",
-        "ai coding",
-        "anthropic",
-        "biz & it",
-        "claude",
-        "claude code",
-        "github copilot",
-        "large language models",
-        "machine learning",
-        "microsoft",
-        "openai",
-        "openai codex",
-        "programming",
-        "software development",
-        "vibe coding"
       ]
     },
     {
