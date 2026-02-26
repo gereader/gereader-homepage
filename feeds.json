@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T07:52:08.496547+00:00",
-  "article_count": 108,
+  "last_updated": "2026-02-26T14:50:52.954273+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1972,19 +1972,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "AutoCon4 Takeaway: Flock9 Announced",
-      "link": "https://www.packetcoders.io/autocon4-takeaway-flock9-announced/",
-      "published": "Fri, 28 Nov 2025 10:00:55 GMT",
-      "published_parsed": "2025-11-28T10:00:55+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/11/Landing_image_flock9-1.png",
-      "summary": "One of the big announcements from AutoCon4 last week came from the team behind Netpicker and Slurpit. They have now released major upgrades, and have aligned the product catalog under the umbrella of the Flock9 platform, bringing Netpicker and Slurpit even closer together. The TL;DR Netpicker AI...",
-      "tags": [
-        "blog",
-        "networking"
       ]
     }
   ]
