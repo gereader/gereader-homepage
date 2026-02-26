@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T18:56:28.496354+00:00",
+  "last_updated": "2026-02-26T23:33:51.902949+00:00",
   "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
@@ -52,11 +52,11 @@
     "arp",
     "art",
     "artificial inteligence",
+    "artificial intelligence",
     "automation",
     "aws",
     "azure",
     "bgp",
-    "bitlocker",
     "biz & it",
     "blog",
     "bridging",
@@ -171,6 +171,7 @@
     "mpls-te",
     "mtu",
     "multicast",
+    "nano banana",
     "nat",
     "nest",
     "netconf",
@@ -227,7 +228,6 @@
     "san",
     "sd-wan",
     "sdn",
-    "secure boot",
     "security",
     "segment routing",
     "semiconductors",
@@ -270,8 +270,6 @@
     "warner bros. discovery",
     "watchos 26",
     "wi-fi",
-    "windows 10",
-    "windows 10 22h2",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
@@ -282,6 +280,23 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+      "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
+      "published": "Thu, 26 Feb 2026 17:12:10 +0000",
+      "published_parsed": "2026-02-26T17:12:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new image model replaces the previous versions immediately.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "generative ai",
+        "google",
+        "nano banana",
+        "tech"
+      ]
+    },
     {
       "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
       "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
@@ -976,27 +991,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Windows' original Secure Boot certificates expire in June—here's what you need to do",
-      "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
-      "published": "Tue, 10 Feb 2026 18:04:01 +0000",
-      "published_parsed": "2026-02-10T18:04:01+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "PCs without the new certificates could eventually have trouble booting new OSes.",
-      "tags": [
-        "bitlocker",
-        "microsoft",
-        "secure boot",
-        "security",
-        "tech",
-        "windows 10",
-        "windows 10 22h2",
-        "windows 11",
-        "windows 11 24h2",
-        "windows 11 25h2"
       ]
     },
     {
