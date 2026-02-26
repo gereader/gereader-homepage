@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-26T03:33:59.286774+00:00",
-  "article_count": 1574,
+  "last_updated": "2026-02-26T07:52:08.475948+00:00",
+  "article_count": 1575,
   "articles": [
+    {
+      "title": "Configuring 6PE Route Reflector on Cisco IOS",
+      "link": "https://blog.ipspace.net/2026/02/ios-6pe-route-reflector/?utm_source=atom_feed",
+      "published": "2026-02-26T08:19:00+01:00",
+      "published_parsed": "2026-02-26T08:19:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Imagine you want to deploy a BGP route reflector for MPLS 6PE or L3VPN service. Both services run over MPLS LSPs, use IPv4 BGP sessions, and use IPv4 next hops for BGP routes. There’s absolutely no reason to need IPv6 routing on a node that handles solely the control-plane activity (it never...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
       "link": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
