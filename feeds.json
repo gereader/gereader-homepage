@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T03:30:51.497536+00:00",
-  "article_count": 107,
+  "last_updated": "2026-02-27T07:48:46.522296+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
       "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
       "published": "Thu, 26 Feb 2026 15:45:18 +0000",
       "published_parsed": "2026-02-26T15:45:18+00:00",
@@ -1940,19 +1940,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Fun Reading: From XML to LLMs",
-      "link": "https://blog.ipspace.net/2025/11/worth-reading-xml-to-llm/?utm_source=atom_feed",
-      "published": "2025-11-29T07:53:00+01:00",
-      "published_parsed": "2025-11-29T07:53:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In his latest blog post ( Systems design 3: LLMs and the semantic revolution ), Avery Pennarun claims that LLMs might solve the problem we consistently failed to solve on a large scale for the last 60 (or so) years – the automated B2B data exchange. You might agree with him or not (for example, an...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
