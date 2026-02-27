@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-27T07:48:46.500990+00:00",
-  "article_count": 1577,
+  "last_updated": "2026-02-27T14:40:54.935888+00:00",
+  "article_count": 1578,
   "articles": [
+    {
+      "title": "Lab: More Complex EVPN/VXLAN Bridging Scenario",
+      "link": "https://blog.ipspace.net/2026/02/lab-evpn-bridging-complex/?utm_source=atom_feed",
+      "published": "2026-02-27T09:13:00+01:00",
+      "published_parsed": "2026-02-27T09:13:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://evpn.bgplabs.net/evpn/topology-complex.png",
+      "summary": "In the first EVPN/VXLAN lab, we added the EVPN control plane to bridging over VXLAN . Now, let’s try out a more complex scenario: several EVPN MAC-VRFs mapped to different VLAN segments on individual PE-devices. Explore the lab exercise You can run the lab on your own netlab -enabled infrastructure...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
       "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
