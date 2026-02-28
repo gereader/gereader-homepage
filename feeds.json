@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T18:37:19.791219+00:00",
+  "last_updated": "2026-02-28T23:25:40.401754+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -286,7 +286,7 @@
   ],
   "articles": [
     {
-      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
       "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
       "published": "Sat, 28 Feb 2026 01:26:41 +0000",
       "published_parsed": "2026-02-28T01:26:41+00:00",
