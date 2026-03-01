@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T03:41:37.515561+00:00",
-  "article_count": 108,
+  "last_updated": "2026-03-01T07:34:53.007588+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1965,19 +1965,6 @@
       "summary": "Last week, we fixed the mismatched route targets in our sample multi-pod EVPN fabric . With that fixed, every PE device should see every other PE device as a remote VTEP for ingress replication purposes. We got that to work on Site-A (AS 65001), but not on Site-B (AS 65002); let’s see what else is...",
       "tags": [
         "evpn",
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab as the Universal Configuration Translator",
-      "link": "https://blog.ipspace.net/2025/12/netlab-configuration-translator/?utm_source=atom_feed",
-      "published": "2025-12-01T07:30:00+01:00",
-      "published_parsed": "2025-12-01T07:30:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Dan Partelly , a heavy netlab user (and an active contributor ), sent me this interesting perspective on how one might want to use netlab without ever building a lab with it. All I added was a bit of AI-assisted editing; my comments are on a grey background. In all podcasts and interviews I...",
-      "tags": [
         "netlab",
         "networking"
       ]
