@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T03:31:11.934190+00:00",
-  "article_count": 107,
+  "last_updated": "2026-03-02T07:50:33.522802+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1953,20 +1953,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Multi-Pod EVPN Troubleshooting: Extended BGP Communities",
-      "link": "https://blog.ipspace.net/2025/12/evpn-multi-pod-tshoot-xc/?utm_source=atom_feed",
-      "published": "2025-12-02T07:47:00+02:00",
-      "published_parsed": "2025-12-02T07:47:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Last week, we fixed the mismatched route targets in our sample multi-pod EVPN fabric . With that fixed, every PE device should see every other PE device as a remote VTEP for ingress replication purposes. We got that to work on Site-A (AS 65001), but not on Site-B (AS 65002); let’s see what else is...",
-      "tags": [
-        "evpn",
-        "netlab",
-        "networking"
       ]
     }
   ]
