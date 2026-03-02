@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:50:33.522802+00:00",
+  "last_updated": "2026-03-02T14:44:56.559072+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -50,7 +50,6 @@
     "apt28",
     "arista",
     "arp",
-    "art",
     "artificial inteligence",
     "artificial intelligence",
     "automation",
@@ -61,7 +60,6 @@
     "blog",
     "bridging",
     "broadcom",
-    "byte magazine",
     "cable",
     "castleloader",
     "cerebras",
@@ -80,7 +78,6 @@
     "code agents",
     "codex",
     "compilers",
-    "computer history",
     "containers",
     "cryptocurrency",
     "cryptocurrency exchanges",
@@ -128,7 +125,6 @@
     "horizon worlds",
     "hp",
     "https",
-    "illustration",
     "imac",
     "inference",
     "infostealer",
@@ -164,9 +160,7 @@
     "macos 15 sequoia",
     "macos 26",
     "macos 26 tahoe",
-    "magazines",
     "malware",
-    "media",
     "mergers",
     "merkle trees",
     "meta",
@@ -197,8 +191,6 @@
     "notepad",
     "nsx",
     "nvidia",
-    "obituaries",
-    "obituary",
     "office",
     "open source",
     "open source software",
@@ -214,7 +206,6 @@
     "paramount skydance",
     "password managers",
     "performance",
-    "personal computing",
     "peter steinberger",
     "pixel 10a",
     "podcast",
@@ -227,12 +218,11 @@
     "quest",
     "ram",
     "ram shortage",
-    "retrocomputing",
-    "retrotech",
     "reviews",
-    "robert tinney",
     "rubik's cube",
     "russia",
+    "ryzen",
+    "ryzen ai",
     "sam altman",
     "samsung",
     "san",
@@ -268,7 +258,6 @@
     "valve",
     "vibe coding",
     "video",
-    "vintage computing",
     "virtualization",
     "vision pro",
     "visionos",
@@ -285,6 +274,35 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "netlab: Using L3VPN (MPLS/VPN) with SR-MPLS Core",
+      "link": "https://blog.ipspace.net/2026/03/netlab-sr-mpls-l3vpn/?utm_source=atom_feed",
+      "published": "2026-03-02T10:39:01+00:00",
+      "published_parsed": "2026-03-02T10:39:01+00:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/03/sr-vpnv4.png",
+      "summary": "Someone recently asked me whether it’s possible to use netlab to build an MPLS/VPN (technically, BGP/MPLS IP VPN ) lab with SR-MPLS core. Of course, let’s build a simple lab using Arista EOS and Linux containers to implement this topology: Lab topology Here’s the lab topology we’ll use (also...",
+      "tags": [
+        "mpls vpn",
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
+      "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "published": "Mon, 02 Mar 2026 08:00:29 +0000",
+      "published_parsed": "2026-03-02T08:00:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
+      "tags": [
+        "amd",
+        "ryzen",
+        "ryzen ai",
+        "tech"
+      ]
+    },
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
       "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
@@ -996,31 +1014,6 @@
         "lumma",
         "malware",
         "security"
-      ]
-    },
-    {
-      "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
-      "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
-      "published": "Wed, 11 Feb 2026 21:51:33 +0000",
-      "published_parsed": "2026-02-11T21:51:33+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "He became one of the first to visualize personal computing by painting vivid cover art.",
-      "tags": [
-        "art",
-        "byte magazine",
-        "computer history",
-        "illustration",
-        "magazines",
-        "media",
-        "obituaries",
-        "obituary",
-        "personal computing",
-        "retrocomputing",
-        "retrotech",
-        "robert tinney",
-        "tech",
-        "vintage computing"
       ]
     },
     {
@@ -1940,19 +1933,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Validate Environment Variables with Pydantic",
-      "link": "https://www.packetcoders.io/validate-environment-variables-with-pydantic/",
-      "published": "Tue, 02 Dec 2025 08:00:19 GMT",
-      "published_parsed": "2025-12-02T08:00:19+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/11/Tips-logo.webp",
-      "summary": "Tip! Validate your env vars from your .env files before they hit your application by using Pydantic. This also eliminates the need to call python-dotenv manually. Here's an example: # uv add pydantic pydantic-settings python-dotenv from pydantic import Field, AnyHttpUrl, ValidationError from...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]

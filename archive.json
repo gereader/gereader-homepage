@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-03-02T07:50:33.501721+00:00",
-  "article_count": 1584,
+  "last_updated": "2026-03-02T14:44:56.538258+00:00",
+  "article_count": 1586,
   "articles": [
+    {
+      "title": "netlab: Using L3VPN (MPLS/VPN) with SR-MPLS Core",
+      "link": "https://blog.ipspace.net/2026/03/netlab-sr-mpls-l3vpn/?utm_source=atom_feed",
+      "published": "2026-03-02T10:39:01+00:00",
+      "published_parsed": "2026-03-02T10:39:01+00:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/03/sr-vpnv4.png",
+      "summary": "Someone recently asked me whether it’s possible to use netlab to build an MPLS/VPN (technically, BGP/MPLS IP VPN ) lab with SR-MPLS core. Of course, let’s build a simple lab using Arista EOS and Linux containers to implement this topology: Lab topology Here’s the lab topology we’ll use (also...",
+      "tags": [
+        "mpls vpn",
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
+      "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "published": "Mon, 02 Mar 2026 08:00:29 +0000",
+      "published_parsed": "2026-03-02T08:00:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
+      "tags": [
+        "amd",
+        "ryzen",
+        "ryzen ai",
+        "tech"
+      ]
+    },
     {
       "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
       "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
