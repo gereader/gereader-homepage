@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T18:55:53.066107+00:00",
+  "last_updated": "2026-03-03T23:30:55.607422+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,14 +11,15 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "accenture",
     "aci",
+    "acquisition",
     "acquisitions",
     "advertising",
     "agentic ai",
     "ai",
     "ai advertising",
     "ai agents",
-    "ai alignment",
     "ai and work",
     "ai assistants",
     "ai behavior",
@@ -34,9 +35,7 @@
     "ai language models",
     "ai programming",
     "ai research",
-    "ai safety",
     "ai security",
-    "ai self-preservation",
     "ai speed",
     "ai sycophancy",
     "aiops",
@@ -46,6 +45,8 @@
     "anthropic",
     "apple",
     "apple m5",
+    "apple m5 max",
+    "apple m5 pro",
     "apple silicon",
     "apt28",
     "arista",
@@ -81,7 +82,6 @@
     "codex",
     "compilers",
     "containers",
-    "cryptocurrency",
     "cryptocurrency exchanges",
     "cumulus linux",
     "dario amodei",
@@ -174,9 +174,6 @@
     "metaverse",
     "microsoft",
     "mixed reality",
-    "moltbook",
-    "moltbot",
-    "moltbunker",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -209,19 +206,15 @@
     "openflow",
     "ospf",
     "overlay networks",
-    "p2p",
     "panasonic",
     "paramount",
     "paramount plus",
     "paramount skydance",
     "password managers",
     "performance",
-    "peter steinberger",
     "podcast",
     "policy",
     "privacy",
-    "prompt injection",
-    "prompt worm",
     "puzzles",
     "python",
     "qos",
@@ -276,6 +269,38 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
+      "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+      "published": "Tue, 03 Mar 2026 22:20:06 +0000",
+      "published_parsed": "2026-03-03T22:20:06+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
+      "tags": [
+        "accenture",
+        "acquisition",
+        "biz & it",
+        "mergers"
+      ]
+    },
+    {
+      "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+      "link": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+      "published": "Tue, 03 Mar 2026 18:41:29 +0000",
+      "published_parsed": "2026-03-03T18:41:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple is using more chiplets and three types of CPU cores to make the M5 family.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple m5 max",
+        "apple m5 pro",
+        "apple silicon",
+        "tech"
+      ]
+    },
     {
       "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
       "link": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
@@ -820,22 +845,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
-      "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
-      "published": "Wed, 18 Feb 2026 19:28:26 +0000",
-      "published_parsed": "2026-02-18T19:28:26+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The 26.3 updates were mostly invisible; these changes are more significant.",
-      "tags": [
-        "apple",
-        "ios 26",
-        "ipados 26",
-        "macos 26 tahoe",
-        "tech"
       ]
     },
     {
@@ -1392,37 +1401,6 @@
         "sam altman",
         "semiconductors",
         "tags: machine learning"
-      ]
-    },
-    {
-      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-      "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
-      "published": "Tue, 03 Feb 2026 12:00:01 +0000",
-      "published_parsed": "2026-02-03T12:00:01+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "ai agents",
-        "ai alignment",
-        "ai ethics",
-        "ai safety",
-        "ai security",
-        "ai self-preservation",
-        "biz & it",
-        "cryptocurrency",
-        "machine learning",
-        "moltbook",
-        "moltbot",
-        "moltbunker",
-        "openclaw",
-        "p2p",
-        "peter steinberger",
-        "prompt injection",
-        "prompt worm",
-        "security"
       ]
     },
     {

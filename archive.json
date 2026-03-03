@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-03T18:55:53.044856+00:00",
-  "article_count": 1593,
+  "last_updated": "2026-03-03T23:30:55.586255+00:00",
+  "article_count": 1595,
   "articles": [
+    {
+      "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
+      "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+      "published": "Tue, 03 Mar 2026 22:20:06 +0000",
+      "published_parsed": "2026-03-03T22:20:06+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
+      "tags": [
+        "accenture",
+        "acquisition",
+        "biz & it",
+        "mergers"
+      ]
+    },
+    {
+      "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+      "link": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+      "published": "Tue, 03 Mar 2026 18:41:29 +0000",
+      "published_parsed": "2026-03-03T18:41:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple is using more chiplets and three types of CPU cores to make the M5 family.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple m5 max",
+        "apple m5 pro",
+        "apple silicon",
+        "tech"
+      ]
+    },
     {
       "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
       "link": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
