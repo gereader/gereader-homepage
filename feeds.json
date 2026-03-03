@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T03:33:45.527307+00:00",
-  "article_count": 106,
+  "last_updated": "2026-03-03T07:44:06.236105+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -39,6 +39,7 @@
     "ai self-preservation",
     "ai speed",
     "ai sycophancy",
+    "aiops",
     "amd",
     "android",
     "android 17",
@@ -51,6 +52,7 @@
     "arp",
     "artificial inteligence",
     "artificial intelligence",
+    "automated troubleshooting",
     "automation",
     "aws",
     "azure",
@@ -64,6 +66,7 @@
     "cerebras",
     "certificate transparency",
     "certifications",
+    "change management",
     "chatbots",
     "chatgpt",
     "chatgpt codex",
@@ -179,13 +182,18 @@
     "multicast",
     "nano banana",
     "nat",
+    "navigation blog",
     "netconf",
     "netdevops",
     "netflix",
     "netlab",
     "network",
+    "network assessment",
     "network automation",
     "network management",
+    "network observability",
+    "network security",
+    "network visibility",
     "networking",
     "networking fundamentals",
     "nfv",
@@ -272,6 +280,19 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Faster than Dijkstra?",
+      "link": "https://blog.ipspace.net/2026/03/worth-reading-faster-than-dijkstra/?utm_source=atom_feed",
+      "published": "2026-03-03T07:43:00+01:00",
+      "published_parsed": "2026-03-03T07:43:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Bruce Davie published a nice article explaining why it makes little sense to use an algorithm that’s supposedly faster than Dijkstra’s in link-state routing protocols. Other interesting data points from the article (and linked presentations): People are running (a few) thousands of routers in a...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
       "link": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
@@ -1891,6 +1912,14 @@
       "image": "https://www.netbraintech.com/wp-content/uploads/2025/12/thumnail-Abru-210x300.webp",
       "summary": "Network teams are under pressure from all sides. They must keep complex hybrid networks available and secure, but lack true end‑to‑end visibility, so outages, performance issues, and security gaps can...",
       "tags": [
+        "aiops",
+        "automated troubleshooting",
+        "change management",
+        "navigation blog",
+        "network assessment",
+        "network observability",
+        "network security",
+        "network visibility",
         "networking"
       ]
     },

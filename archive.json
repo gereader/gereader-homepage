@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-03T03:33:45.506174+00:00",
-  "article_count": 1588,
+  "last_updated": "2026-03-03T07:44:06.215220+00:00",
+  "article_count": 1589,
   "articles": [
+    {
+      "title": "Worth Reading: Faster than Dijkstra?",
+      "link": "https://blog.ipspace.net/2026/03/worth-reading-faster-than-dijkstra/?utm_source=atom_feed",
+      "published": "2026-03-03T07:43:00+01:00",
+      "published_parsed": "2026-03-03T07:43:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Bruce Davie published a nice article explaining why it makes little sense to use an algorithm that’s supposedly faster than Dijkstra’s in link-state routing protocols. Other interesting data points from the article (and linked presentations): People are running (a few) thousands of routers in a...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
       "link": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
