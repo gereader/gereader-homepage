@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-03-03T14:46:41.884840+00:00",
-  "article_count": 1591,
+  "last_updated": "2026-03-03T18:55:53.044856+00:00",
+  "article_count": 1593,
   "articles": [
+    {
+      "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
+      "link": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
+      "published": "Tue, 03 Mar 2026 15:58:55 +0000",
+      "published_parsed": "2026-03-03T15:58:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New Airs leave more room underneath for the rumored low-cost MacBook.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple silicon",
+        "macbook air",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+      "published": "Tue, 03 Mar 2026 15:19:43 +0000",
+      "published_parsed": "2026-03-03T15:19:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New laptops come with more storage but also higher starting prices.",
+      "tags": [
+        "apple",
+        "macbook pro",
+        "studio display",
+        "tech"
+      ]
+    },
     {
       "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
       "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
