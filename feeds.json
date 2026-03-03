@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T07:44:06.236105+00:00",
-  "article_count": 107,
+  "last_updated": "2026-03-03T14:46:41.905797+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -42,7 +42,6 @@
     "aiops",
     "amd",
     "android",
-    "android 17",
     "ansible",
     "anthropic",
     "apple",
@@ -86,9 +85,11 @@
     "cumulus linux",
     "dario amodei",
     "data center",
+    "deanonymization",
     "deepseek",
     "design",
     "desktops",
+    "developer verification",
     "dhcp",
     "distillation",
     "dji",
@@ -198,12 +199,10 @@
     "networking fundamentals",
     "nfv",
     "nicholas carlini",
-    "notepad",
     "nsx",
     "nvidia",
     "office",
     "open source",
-    "open source software",
     "openai",
     "openclaw",
     "openflow",
@@ -220,6 +219,7 @@
     "pixel 10a",
     "podcast",
     "policy",
+    "privacy",
     "prompt injection",
     "prompt worm",
     "puzzles",
@@ -251,7 +251,6 @@
     "streaming",
     "super bowl",
     "supply chain attack",
-    "supply chain attacks",
     "switching",
     "sycophancy",
     "syndication",
@@ -280,6 +279,42 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "published": "Tue, 03 Mar 2026 12:30:24 +0000",
+      "published_parsed": "2026-03-03T12:30:24+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "deanonymization",
+        "llms",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
+      "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
+      "published": "Tue, 03 Mar 2026 12:00:30 +0000",
+      "published_parsed": "2026-03-03T12:00:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
+      "tags": [
+        "android",
+        "developer verification",
+        "features",
+        "google",
+        "malware",
+        "privacy",
+        "security",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: Faster than Dijkstra?",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-faster-than-dijkstra/?utm_source=atom_feed",
@@ -903,22 +938,6 @@
       ]
     },
     {
-      "title": "The first Android 17 beta is now available on Pixel devices",
-      "link": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
-      "published": "Fri, 13 Feb 2026 20:58:25 +0000",
-      "published_parsed": "2026-02-13T20:58:25+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Don't expect big changes yet.",
-      "tags": [
-        "android",
-        "android 17",
-        "google",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
       "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
       "published": "Fri, 13 Feb 2026 19:40:21 +0000",
@@ -1422,22 +1441,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Notepad++ users take note: It's time to check if you're hacked",
-      "link": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
-      "published": "Mon, 02 Feb 2026 20:30:56 +0000",
-      "published_parsed": "2026-02-02T20:30:56+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Suspected China-state hackers used update infrastructure to deliver backdoored version.",
-      "tags": [
-        "biz & it",
-        "notepad",
-        "open source software",
-        "security",
-        "supply chain attacks"
       ]
     },
     {
@@ -1945,19 +1948,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "Sean Goedecke published an excellent set of recommendations for good technical writing , including: Keep it short Try to make your point in the first sentence Details matter less than you think. Based on some emails I received in the past (and the lack of response to the lengthy emails I sent), we...",
-      "tags": [
-        "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "Worth Watching: AI/ML Data Center Design",
-      "link": "https://blog.ipspace.net/2025/12/worth-reading-ai-ml-data-center-design/?utm_source=atom_feed",
-      "published": "2025-12-03T10:30:00+01:00",
-      "published_parsed": "2025-12-03T10:30:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "What could be better than watching 0x02 Jeffs discuss networking? How about having Petr Lapukhov of the RFC 7938 fame as a guest discussing AI/ML Data Center Design ? Note: Petr disappeared into the information black hole called Facebook over a decade ago, so I wondered how they allowed him to chat...",
       "tags": [
         "networking",
         "worth reading"

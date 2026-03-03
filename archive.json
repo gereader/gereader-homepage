@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-03-03T07:44:06.215220+00:00",
-  "article_count": 1589,
+  "last_updated": "2026-03-03T14:46:41.884840+00:00",
+  "article_count": 1591,
   "articles": [
+    {
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "published": "Tue, 03 Mar 2026 12:30:24 +0000",
+      "published_parsed": "2026-03-03T12:30:24+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "deanonymization",
+        "llms",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
+      "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
+      "published": "Tue, 03 Mar 2026 12:00:30 +0000",
+      "published_parsed": "2026-03-03T12:00:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
+      "tags": [
+        "android",
+        "developer verification",
+        "features",
+        "google",
+        "malware",
+        "privacy",
+        "security",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: Faster than Dijkstra?",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-faster-than-dijkstra/?utm_source=atom_feed",
