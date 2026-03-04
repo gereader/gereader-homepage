@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T07:39:15.231139+00:00",
+  "last_updated": "2026-03-04T14:39:11.423034+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -215,13 +215,10 @@
     "podcast",
     "policy",
     "privacy",
-    "puzzles",
     "python",
     "qos",
     "quest",
     "ram",
-    "reviews",
-    "rubik's cube",
     "russia",
     "ryzen",
     "ryzen ai",
@@ -250,7 +247,6 @@
     "tech",
     "tips",
     "tokens",
-    "toys",
     "traffic engineering",
     "training",
     "tvs",
@@ -270,6 +266,22 @@
   ],
   "articles": [
     {
+      "title": "The $599 MacBook Neo is Apple's long-awaited, colorful, lower-cost MacBook",
+      "link": "https://arstechnica.com/gadgets/2026/03/the-599-macbook-neo-is-apples-long-awaited-colorful-lower-cost-macbook/",
+      "published": "Wed, 04 Mar 2026 14:18:55 +0000",
+      "published_parsed": "2026-03-04T14:18:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cute, colorful laptop takes the place of the old $599 M1 MacBook Air.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "mac",
+        "macbook",
+        "tech"
+      ]
+    },
+    {
       "title": "The Tale of Two EVPN/MPLS Encapsulations",
       "link": "https://blog.ipspace.net/2026/03/tale-two-evpn-mpls-encapsulations/?utm_source=atom_feed",
       "published": "2026-03-04T08:09:00+01:00",
@@ -284,7 +296,7 @@
       ]
     },
     {
-      "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
+      "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
       "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
       "published": "Tue, 03 Mar 2026 22:20:06 +0000",
       "published_parsed": "2026-03-03T22:20:06+00:00",
@@ -830,22 +842,6 @@
       "summary": "While we’re mostly discussing EVPN in conjunction with VXLAN encapsulation, its initial use case was as an alternate control plane for MPLS networks. Krzysztof Szarkowicz had a great presentation describing the specifics of EVPN in MPLS-Based Environments a few years ago. Those videos (part of the...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube",
-      "link": "https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/",
-      "published": "Thu, 19 Feb 2026 21:30:02 +0000",
-      "published_parsed": "2026-02-19T21:30:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Technology is a double-edged sword in the $399 Rubik's Cube-inspired toy.",
-      "tags": [
-        "puzzles",
-        "reviews",
-        "rubik's cube",
-        "tech",
-        "toys"
       ]
     },
     {
