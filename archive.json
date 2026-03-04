@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-04T03:26:44.639225+00:00",
-  "article_count": 1595,
+  "last_updated": "2026-03-04T07:39:15.209925+00:00",
+  "article_count": 1596,
   "articles": [
+    {
+      "title": "The Tale of Two EVPN/MPLS Encapsulations",
+      "link": "https://blog.ipspace.net/2026/03/tale-two-evpn-mpls-encapsulations/?utm_source=atom_feed",
+      "published": "2026-03-04T08:09:00+01:00",
+      "published_parsed": "2026-03-04T08:09:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I decided it was high time to create EVPN/MPLS netlab integration tests and wanted to use the same approach I used for the EVPN/VXLAN ones: One of the PE-devices is the device we want to test The other PE-device is a device that is known to work (ideally, an FRRouting container). Bonus points if...",
+      "tags": [
+        "evpn",
+        "mpls",
+        "networking"
+      ]
+    },
     {
       "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
       "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
