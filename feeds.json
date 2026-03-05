@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T03:29:53.770726+00:00",
-  "article_count": 106,
+  "last_updated": "2026-03-05T07:43:55.583131+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1908,20 +1908,6 @@
         "network security",
         "network visibility",
         "networking"
-      ]
-    },
-    {
-      "title": "Lab: More Complex VXLAN Deployment Scenario",
-      "link": "https://blog.ipspace.net/2025/12/vxlan-complex/?utm_source=atom_feed",
-      "published": "2025-12-05T07:22:00+01:00",
-      "published_parsed": "2025-12-05T07:22:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In the first VXLAN lab , we covered the very basics. Now it’s time for a few essential concepts (before introducing the EVPN control plane or integrated routing and bridging): Each VXLAN segment could have a different set of VTEPs (used to build the BUM flooding list) While the VXLAN Network...",
-      "tags": [
-        "evpn",
-        "networking",
-        "vxlan"
       ]
     }
   ]
