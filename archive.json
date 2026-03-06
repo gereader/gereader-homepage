@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-05T23:53:02.087393+00:00",
-  "article_count": 1604,
+  "last_updated": "2026-03-06T03:27:25.311978+00:00",
+  "article_count": 1605,
   "articles": [
+    {
+      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+      "published": "Thu, 05 Mar 2026 23:36:04 +0000",
+      "published_parsed": "2026-03-05T23:36:04+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
+      "tags": [
+        "ai",
+        "ai privacy",
+        "lawsuit",
+        "meta",
+        "policy",
+        "privacy",
+        "ray-ban",
+        "smart glasses",
+        "tech"
+      ]
+    },
     {
       "title": "Amazon appears to be down, with over 20,000 reported problems",
       "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
