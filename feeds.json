@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T18:52:14.942915+00:00",
+  "last_updated": "2026-03-06T23:30:21.618765+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,13 +18,11 @@
     "advertising",
     "agentic ai",
     "ai",
-    "ai advertising",
     "ai agents",
     "ai and work",
     "ai assistants",
     "ai behavior",
     "ai benchmarks",
-    "ai business models",
     "ai chips",
     "ai coding",
     "ai criticism",
@@ -103,6 +101,7 @@
     "energy",
     "epic games",
     "evpn",
+    "exploits",
     "fabric",
     "features",
     "firewall",
@@ -134,6 +133,7 @@
     "iphone 16e",
     "iphone 17e",
     "iphone se",
+    "iphones",
     "ipv6",
     "is-is",
     "ise",
@@ -252,6 +252,7 @@
     "virtualization",
     "vmware",
     "vpn",
+    "vulnerabilities",
     "vxlan",
     "wan",
     "warner bros. discovery",
@@ -260,6 +261,24 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+      "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+      "published": "Fri, 06 Mar 2026 19:41:33 +0000",
+      "published_parsed": "2026-03-06T19:41:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "exploits",
+        "ios",
+        "iphones",
+        "security",
+        "vulnerabilities"
+      ]
+    },
     {
       "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
       "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
@@ -1353,29 +1372,6 @@
         "office",
         "russia",
         "security"
-      ]
-    },
-    {
-      "title": "Should AI chatbots have ads? Anthropic says no.",
-      "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
-      "published": "Wed, 04 Feb 2026 21:15:07 +0000",
-      "published_parsed": "2026-02-04T21:15:07+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
-      "tags": [
-        "ai",
-        "ai advertising",
-        "ai assistants",
-        "ai business models",
-        "anthropic",
-        "biz & it",
-        "chatbots",
-        "chatgpt",
-        "claude",
-        "machine learning",
-        "openai",
-        "sam altman"
       ]
     },
     {

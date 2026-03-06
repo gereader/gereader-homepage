@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-03-06T18:52:14.921715+00:00",
-  "article_count": 1606,
+  "last_updated": "2026-03-06T23:30:21.562715+00:00",
+  "article_count": 1607,
   "articles": [
+    {
+      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+      "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+      "published": "Fri, 06 Mar 2026 19:41:33 +0000",
+      "published_parsed": "2026-03-06T19:41:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "exploits",
+        "ios",
+        "iphones",
+        "security",
+        "vulnerabilities"
+      ]
+    },
     {
       "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
       "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
