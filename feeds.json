@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T14:39:39.945595+00:00",
-  "article_count": 105,
+  "last_updated": "2026-03-06T18:52:14.942915+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -53,7 +53,6 @@
     "apt28",
     "arista",
     "arp",
-    "artificial inteligence",
     "artificial intelligence",
     "automated troubleshooting",
     "automation",
@@ -72,7 +71,6 @@
     "change management",
     "chatbots",
     "chatgpt",
-    "chatgpt codex",
     "chatgtp",
     "claude",
     "claude code",
@@ -109,13 +107,11 @@
     "features",
     "firewall",
     "firewalls",
-    "galaxy s26",
     "gemini",
     "generative ai",
     "google",
     "google gemini",
     "google pixel",
-    "gpt codex",
     "gpt-5.3-codex",
     "gre",
     "greg brockman",
@@ -148,10 +144,11 @@
     "lawsuit",
     "ldp",
     "lisp",
-    "llm",
     "llms",
     "load balancing",
     "lumma",
+    "m3 ultra",
+    "m4 max",
     "m5 macbook pro",
     "mac",
     "mac mini",
@@ -203,6 +200,7 @@
     "openclaw",
     "openflow",
     "ospf",
+    "outage",
     "overlay networks",
     "paramount",
     "paramount plus",
@@ -216,6 +214,7 @@
     "privacy",
     "python",
     "qos",
+    "ram shortage",
     "ray-ban",
     "renewables",
     "reviews",
@@ -223,7 +222,6 @@
     "ryzen",
     "ryzen ai",
     "sam altman",
-    "samsung",
     "san",
     "sd-wan",
     "sdn",
@@ -263,6 +261,24 @@
   ],
   "articles": [
     {
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "published": "Fri, 06 Mar 2026 15:41:23 +0000",
+      "published_parsed": "2026-03-06T15:41:23+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Announcements this week were mostly business as usual, but Apple isn't immune.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "m3 ultra",
+        "m4 max",
+        "mac studio",
+        "ram shortage",
+        "tech"
+      ]
+    },
+    {
       "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
       "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
       "published": "Thu, 05 Mar 2026 23:36:04 +0000",
@@ -287,11 +303,13 @@
       "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
       "published": "Thu, 05 Mar 2026 21:06:05 +0000",
       "published_parsed": "2026-03-05T21:06:05+00:00",
-      "source": "Ars Technica - Gadgets",
+      "source": "Ars Technica - Tech",
       "image": null,
       "summary": "Problems viewing products and checking out.",
       "tags": [
         "amazon",
+        "biz & it",
+        "outage",
         "tech"
       ]
     },
@@ -778,23 +796,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
-      "link": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
-      "published": "Wed, 25 Feb 2026 21:41:27 +0000",
-      "published_parsed": "2026-02-25T21:41:27+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Samsung's Galaxy S26 series is available for preorder today and ships on March 11.",
-      "tags": [
-        "ai",
-        "android",
-        "galaxy s26",
-        "samsung",
-        "smartphones",
-        "tech"
       ]
     },
     {
@@ -1375,31 +1376,6 @@
         "machine learning",
         "openai",
         "sam altman"
-      ]
-    },
-    {
-      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
-      "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
-      "published": "Wed, 04 Feb 2026 12:00:37 +0000",
-      "published_parsed": "2026-02-04T12:00:37+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
-      "tags": [
-        "ai",
-        "anthropic",
-        "artificial inteligence",
-        "biz & it",
-        "chatgpt",
-        "chatgpt codex",
-        "claude",
-        "claude code",
-        "codex",
-        "features",
-        "gpt codex",
-        "llm",
-        "openai",
-        "vibe coding"
       ]
     },
     {
