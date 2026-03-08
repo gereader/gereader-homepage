@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T03:31:17.549510+00:00",
-  "article_count": 104,
+  "last_updated": "2026-03-08T07:32:28.327830+00:00",
+  "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1848,19 +1848,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "netlab 25.12: Cisco IOS/XR Configuration Modules, More VXLAN Goodies",
-      "link": "https://blog.ipspace.net/2025/12/netlab-25-12/?utm_source=atom_feed",
-      "published": "2025-12-08T07:16:00+01:00",
-      "published_parsed": "2025-12-08T07:16:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 25.12 (25.12.02 to be exact – I had a few PEBCAK moments) was published last Friday. Here are the highlights: Significantly improved Cisco IOS/XR support. With the netlab release 25.12, you can configure VLANs, VRFs, static routes, route redistribution, OSPF default routes, BGP...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
