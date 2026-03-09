@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T03:34:59.833297+00:00",
-  "article_count": 103,
+  "last_updated": "2026-03-09T07:50:44.948804+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -261,6 +261,20 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Automating netlab-Based Cisco SD-WAN Deployment",
+      "link": "https://blog.ipspace.net/2026/03/cisco-sdwan-netlab/?utm_source=atom_feed",
+      "published": "2026-03-09T08:29:00+01:00",
+      "published_parsed": "2026-03-09T08:29:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "We haven’t implemented support for Cisco SD-WAN in netlab yet, and we might never do so; after all, netlab isn’t meant to be a kitchen sink of vendor-specific features. However, having an open-source tool that uses input and output files with standardized encoding (JSON or YAML) makes it easy to...",
+      "tags": [
+        "netlab",
+        "networking",
+        "sd-wan"
+      ]
+    },
     {
       "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
       "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
