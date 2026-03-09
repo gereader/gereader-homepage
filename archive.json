@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-03-09T18:57:36.843253+00:00",
-  "article_count": 1608,
+  "last_updated": "2026-03-09T23:31:01.218201+00:00",
+  "article_count": 1609,
   "articles": [
+    {
+      "title": "Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new \"performance\" cores",
+      "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/",
+      "published": "Mon, 09 Mar 2026 20:00:21 +0000",
+      "published_parsed": "2026-03-09T20:00:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "M5 Pro Max's \"performance\" CPU cores definitely aren't just rebranded E-cores.",
+      "tags": [
+        "apple",
+        "apple m5",
+        "apple m5 max",
+        "apple m5 pro",
+        "apple silicon",
+        "tech"
+      ]
+    },
     {
       "title": "Automating netlab-Based Cisco SD-WAN Deployment",
       "link": "https://blog.ipspace.net/2026/03/cisco-sdwan-netlab/?utm_source=atom_feed",
