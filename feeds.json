@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T03:27:14.929281+00:00",
-  "article_count": 104,
+  "last_updated": "2026-03-10T07:42:38.137093+00:00",
+  "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1847,19 +1847,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "Evergreen: The Big Ball of Mud",
-      "link": "https://blog.ipspace.net/2025/12/worth-reading-big-ball-mud/?utm_source=atom_feed",
-      "published": "2025-12-10T08:07:00+01:00",
-      "published_parsed": "2025-12-10T08:07:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In 2007, Jeff Atwood published a legendary blog post summarizing a 1997 paper by Brian Foote and Joseph Yoder. Reading that blog post (or the original paper), the inevitable conclusion is that we haven’t made much progress in the last 20 years. Even worse, almost every single pathological...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
