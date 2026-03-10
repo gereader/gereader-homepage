@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T07:42:38.137093+00:00",
-  "article_count": 103,
+  "last_updated": "2026-03-10T14:52:42.138770+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -259,6 +259,50 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Apple MacBook Neo review: Can a Mac get by with an iPhone’s processor inside?",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
+      "published": "Tue, 10 Mar 2026 13:00:02 +0000",
+      "published_parsed": "2026-03-10T13:00:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "8GB of RAM is a bummer, but this $599 laptop cuts most of the right corners.",
+      "tags": [
+        "apple",
+        "apple a18 pro",
+        "apple silicon",
+        "features",
+        "macbook",
+        "macbook neo",
+        "tech"
+      ]
+    },
+    {
+      "title": "netlab 26.03: EVPN/MPLS, IOS XR Features",
+      "link": "https://blog.ipspace.net/2026/03/netlab-26-03/?utm_source=atom_feed",
+      "published": "2026-03-10T09:11:00+01:00",
+      "published_parsed": "2026-03-10T09:11:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.03 is out. Here are the highlights: New Cisco IOS XR features : SR-MPLS, MPLS/VPN, MPLS 6PE, EVPN over MPLS, VRRP, BGP session parameters, routing policies, prefix filters, AS-path filters, community filters, and static routes Juniper cRPD support (mostly by @leec-666 ) EVPN/VXLAN...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "NetBox Config Templates Tip: Query Objects Efficiently with .filter()",
+      "link": "https://www.packetcoders.io/netbox-config-templates-tip-query-objects-efficiently-with-filter/",
+      "published": "Tue, 10 Mar 2026 08:00:07 GMT",
+      "published_parsed": "2026-03-10T08:00:07+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2026/03/Tips-logo.webp",
+      "summary": "Use .filter() in Config Templates to query objects during lookups and conditional logic. This exposes the Django ORM QuerySet filter directly in your templates. Here's an example: {% for iface in device.interfaces.filter(enabled=True, name__startswith=\"ge-\") %} interface {{ iface.name }} {% endfor...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new \"performance\" cores",
       "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/",
@@ -765,23 +809,6 @@
         "macos 15 sequoia",
         "macos 26",
         "macos 26 tahoe",
-        "tech"
-      ]
-    },
-    {
-      "title": "Apple says it has \"a big week ahead.\" Here's what we expect to see.",
-      "link": "https://arstechnica.com/gadgets/2026/02/what-new-hardware-to-expect-from-apple-next-week/",
-      "published": "Fri, 27 Feb 2026 13:37:42 +0000",
-      "published_parsed": "2026-02-27T13:37:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple is taking an \"ain't broke/don't fix\" approach to most of its gadgets.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "ipad",
-        "iphone",
-        "macbook",
         "tech"
       ]
     },
