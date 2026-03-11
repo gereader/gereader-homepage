@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T18:57:13.299382+00:00",
+  "last_updated": "2026-03-11T23:29:43.036076+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,7 +14,6 @@
     "accenture",
     "aci",
     "acquisition",
-    "acquisitions",
     "advertising",
     "agentic ai",
     "ai",
@@ -48,9 +47,9 @@
     "apple m5 max",
     "apple m5 pro",
     "apple silicon",
-    "apt28",
     "arista",
     "arp",
+    "asus",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -58,9 +57,9 @@
     "bgp",
     "biz & it",
     "blog",
+    "botnets",
     "bridging",
     "broadcom",
-    "cable",
     "castleloader",
     "cerebras",
     "certificate transparency",
@@ -78,6 +77,7 @@
     "coal",
     "code agents",
     "codex",
+    "company news",
     "compilers",
     "containers",
     "cryptocurrency exchanges",
@@ -91,6 +91,7 @@
     "developer verification",
     "dhcp",
     "distillation",
+    "distributed hash tables",
     "dmvpn",
     "dns",
     "docker",
@@ -105,6 +106,7 @@
     "features",
     "firewall",
     "firewalls",
+    "gaming",
     "gemini",
     "generative ai",
     "google",
@@ -113,7 +115,6 @@
     "gpt-5.3-codex",
     "gre",
     "greg brockman",
-    "hbo max",
     "high availability",
     "history",
     "homelab",
@@ -172,7 +173,6 @@
     "navigation blog",
     "netconf",
     "netdevops",
-    "netflix",
     "netlab",
     "network",
     "network assessment",
@@ -188,7 +188,6 @@
     "nsx",
     "nuclear",
     "nvidia",
-    "office",
     "open source",
     "openai",
     "openclaw",
@@ -196,9 +195,6 @@
     "ospf",
     "outage",
     "overlay networks",
-    "paramount",
-    "paramount plus",
-    "paramount skydance",
     "password managers",
     "performance",
     "pixel 10a",
@@ -212,7 +208,8 @@
     "ray-ban",
     "renewables",
     "reviews",
-    "russia",
+    "rog xbox ally x",
+    "routers",
     "ryzen",
     "ryzen ai",
     "sam altman",
@@ -227,7 +224,6 @@
     "smartphones",
     "snmp",
     "software gone wild",
-    "streaming",
     "studio display",
     "super bowl",
     "supply chain attack",
@@ -249,12 +245,49 @@
     "vulnerabilities",
     "vxlan",
     "wan",
-    "warner bros. discovery",
     "wi-fi",
+    "windows 11",
     "worth reading",
+    "xbox",
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+      "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+      "published": "Wed, 11 Mar 2026 21:27:16 +0000",
+      "published_parsed": "2026-03-11T21:27:16+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Most of the devices are made by Asus and are located in the US.",
+      "tags": [
+        "asus",
+        "biz & it",
+        "botnets",
+        "distributed hash tables",
+        "malware",
+        "routers",
+        "security",
+        "tech"
+      ]
+    },
+    {
+      "title": "Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April",
+      "link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
+      "published": "Wed, 11 Mar 2026 20:55:50 +0000",
+      "published_parsed": "2026-03-11T20:55:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Running Windows on gaming handhelds is currently a blessing and a curse.",
+      "tags": [
+        "gaming",
+        "microsoft",
+        "rog xbox ally x",
+        "tech",
+        "windows 11",
+        "xbox"
+      ]
+    },
     {
       "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips",
       "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
@@ -267,6 +300,19 @@
         "intel",
         "intel core ultra",
         "tech"
+      ]
+    },
+    {
+      "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
+      "link": "https://www.netbraintech.com/blog/extending-with-netbox-and-grafana/",
+      "published": "2026-03-11T16:30:20Z",
+      "published_parsed": "2026-03-11T16:30:20+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Modern network environments don’t live in a single system. Network teams operate in real time. Hardware and facilities teams manage physical infrastructure. Platform and operations teams need dashboards they can...",
+      "tags": [
+        "company news",
+        "networking"
       ]
     },
     {
@@ -752,51 +798,6 @@
         "merkle trees",
         "security",
         "shor's algorithm"
-      ]
-    },
-    {
-      "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
-      "link": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
-      "published": "Fri, 27 Feb 2026 22:39:00 +0000",
-      "published_parsed": "2026-02-27T22:39:00+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Can two declining companies form a profitable one?",
-      "tags": [
-        "acquisitions",
-        "cable",
-        "hbo max",
-        "mergers",
-        "netflix",
-        "paramount plus",
-        "paramount skydance",
-        "policy",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
-      ]
-    },
-    {
-      "title": "Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”",
-      "link": "https://arstechnica.com/gadgets/2026/02/netflix-cedes-warner-bros-discovery-to-paramount-no-longer-financially-attractive/",
-      "published": "Fri, 27 Feb 2026 15:13:48 +0000",
-      "published_parsed": "2026-02-27T15:13:48+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Netflix shares jumped following the announcement.",
-      "tags": [
-        "acquisitions",
-        "cable",
-        "hbo max",
-        "mergers",
-        "netflix",
-        "paramount",
-        "paramount plus",
-        "paramount skydance",
-        "policy",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {
@@ -1395,23 +1396,6 @@
       "tags": [
         "mpls",
         "networking"
-      ]
-    },
-    {
-      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-      "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-      "published": "Wed, 04 Feb 2026 23:08:04 +0000",
-      "published_parsed": "2026-02-04T23:08:04+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The window to patch vulnerabilities is shrinking rapidly.",
-      "tags": [
-        "apt28",
-        "biz & it",
-        "microsoft",
-        "office",
-        "russia",
-        "security"
       ]
     },
     {
