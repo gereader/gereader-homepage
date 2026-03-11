@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T14:50:15.998442+00:00",
+  "last_updated": "2026-03-11T18:57:13.299382+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -118,8 +118,9 @@
     "history",
     "homelab",
     "https",
-    "imac",
     "infostealer",
+    "intel",
+    "intel core ultra",
     "internet",
     "ios",
     "ios 26",
@@ -150,17 +151,12 @@
     "m4 max",
     "m5 macbook pro",
     "mac",
-    "mac mini",
     "mac studio",
     "macbook",
     "macbook air",
     "macbook neo",
     "macbook pro",
     "machine learning",
-    "macos 15",
-    "macos 15 sequoia",
-    "macos 26",
-    "macos 26 tahoe",
     "malware",
     "mergers",
     "merkle trees",
@@ -259,6 +255,20 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips",
+      "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
+      "published": "Wed, 11 Mar 2026 17:21:25 +0000",
+      "published_parsed": "2026-03-11T17:21:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New CPUs are a bit faster and a bit cheaper than the ones they replace.",
+      "tags": [
+        "intel",
+        "intel core ultra",
+        "tech"
+      ]
+    },
     {
       "title": "Dynamic Path MTU Discovery in Cloudflare One Client",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-cloudflare-vpn-dynamic-mtu/?utm_source=atom_feed",
@@ -801,29 +811,6 @@
         "ai",
         "blog",
         "networking"
-      ]
-    },
-    {
-      "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
-      "link": "https://arstechnica.com/gadgets/2026/02/how-to-downgrade-from-macos-26-tahoe-on-a-new-mac/",
-      "published": "Fri, 27 Feb 2026 14:34:45 +0000",
-      "published_parsed": "2026-02-27T14:34:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Most new Macs can still be downgraded with few downsides. Here's what to know.",
-      "tags": [
-        "apple",
-        "imac",
-        "mac",
-        "mac mini",
-        "mac studio",
-        "macbook air",
-        "macbook pro",
-        "macos 15",
-        "macos 15 sequoia",
-        "macos 26",
-        "macos 26 tahoe",
-        "tech"
       ]
     },
     {

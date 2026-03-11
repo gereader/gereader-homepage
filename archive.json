@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-11T14:50:15.976678+00:00",
-  "article_count": 1613,
+  "last_updated": "2026-03-11T18:57:13.277576+00:00",
+  "article_count": 1614,
   "articles": [
+    {
+      "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips",
+      "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
+      "published": "Wed, 11 Mar 2026 17:21:25 +0000",
+      "published_parsed": "2026-03-11T17:21:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New CPUs are a bit faster and a bit cheaper than the ones they replace.",
+      "tags": [
+        "intel",
+        "intel core ultra",
+        "tech"
+      ]
+    },
     {
       "title": "Dynamic Path MTU Discovery in Cloudflare One Client",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-cloudflare-vpn-dynamic-mtu/?utm_source=atom_feed",
