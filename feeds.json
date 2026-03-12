@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T07:48:48.495043+00:00",
+  "last_updated": "2026-03-12T14:52:41.405071+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -36,7 +36,6 @@
     "ai sycophancy",
     "aiops",
     "amazon",
-    "amd",
     "android",
     "ansible",
     "anthropic",
@@ -111,6 +110,7 @@
     "generative ai",
     "google",
     "google gemini",
+    "google maps",
     "google pixel",
     "gpt-5.3-codex",
     "gre",
@@ -210,8 +210,6 @@
     "reviews",
     "rog xbox ally x",
     "routers",
-    "ryzen",
-    "ryzen ai",
     "sam altman",
     "san",
     "sd-wan",
@@ -252,6 +250,34 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Google Maps gets its biggest navigation redesign in a decade, plus more AI",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai/",
+      "published": "Thu, 12 Mar 2026 12:30:51 +0000",
+      "published_parsed": "2026-03-12T12:30:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google Maps is about to get more chatty and immersive.",
+      "tags": [
+        "gemini",
+        "google",
+        "google maps",
+        "tech"
+      ]
+    },
+    {
+      "title": "IPv4 ECMP Works on Arista cEOS Release 4.35.2F",
+      "link": "https://blog.ipspace.net/2026/03/ecmp-arista-ceos/?utm_source=atom_feed",
+      "published": "2026-03-12T10:09:00+01:00",
+      "published_parsed": "2026-03-12T10:09:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I wrote about the anycast-ECMP-in-MPLS behavior in 2011, I had to use Cisco IOS to prove that ECMP worked, since Arista cEOS (running the Linux kernel for IP forwarding) didn’t install more than one equal-cost path into the Linux forwarding table. Arista cEOS got better in the meantime; IPv4...",
+      "tags": [
+        "networking",
+        "switching"
+      ]
+    },
     {
       "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
       "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
@@ -765,21 +791,6 @@
         "mpls vpn",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
-      "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-      "published": "Mon, 02 Mar 2026 08:00:29 +0000",
-      "published_parsed": "2026-03-02T08:00:29+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
-      "tags": [
-        "amd",
-        "ryzen",
-        "ryzen ai",
-        "tech"
       ]
     },
     {
@@ -1828,20 +1839,6 @@
       "image": null,
       "summary": "I don’t know why I decided to allow underscores in netlab node names. Maybe it’s a leftover from the ancient days when some network devices refused to accept hyphens in hostnames, or perhaps it’s a programmer’s subconscious hatred of hyphens in identifiers (no programming language I’m aware of...",
       "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Multilevel IS-IS Deployments",
-      "link": "https://blog.ipspace.net/2025/12/multilevel-isis/?utm_source=atom_feed",
-      "published": "2025-12-12T11:45:00+01:00",
-      "published_parsed": "2025-12-12T11:45:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://isis.bgplabs.net/advanced/topology-multiarea.png",
-      "summary": "Like OSPF, IS-IS was designed when router memory was measured in megabytes and clock speeds in megahertz. Not surprisingly, it includes a scalability mechanism similar to OSPF areas. An IS-IS router could be a level-1 router (having in-area prefixes and a default route), a level-2 router (knowing...",
-      "tags": [
-        "is-is",
         "netlab",
         "networking"
       ]

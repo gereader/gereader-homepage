@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-03-12T07:48:48.474985+00:00",
-  "article_count": 1617,
+  "last_updated": "2026-03-12T14:52:41.385087+00:00",
+  "article_count": 1619,
   "articles": [
+    {
+      "title": "Google Maps gets its biggest navigation redesign in a decade, plus more AI",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai/",
+      "published": "Thu, 12 Mar 2026 12:30:51 +0000",
+      "published_parsed": "2026-03-12T12:30:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google Maps is about to get more chatty and immersive.",
+      "tags": [
+        "gemini",
+        "google",
+        "google maps",
+        "tech"
+      ]
+    },
+    {
+      "title": "IPv4 ECMP Works on Arista cEOS Release 4.35.2F",
+      "link": "https://blog.ipspace.net/2026/03/ecmp-arista-ceos/?utm_source=atom_feed",
+      "published": "2026-03-12T10:09:00+01:00",
+      "published_parsed": "2026-03-12T10:09:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I wrote about the anycast-ECMP-in-MPLS behavior in 2011, I had to use Cisco IOS to prove that ECMP worked, since Arista cEOS (running the Linux kernel for IP forwarding) didn’t install more than one equal-cost path into the Linux forwarding table. Arista cEOS got better in the meantime; IPv4...",
+      "tags": [
+        "networking",
+        "switching"
+      ]
+    },
     {
       "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
       "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
