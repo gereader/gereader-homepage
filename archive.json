@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-03-13T18:48:34.701670+00:00",
-  "article_count": 1625,
+  "last_updated": "2026-03-13T23:31:34.940726+00:00",
+  "article_count": 1627,
   "articles": [
+    {
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+      "published": "Fri, 13 Mar 2026 20:18:08 +0000",
+      "published_parsed": "2026-03-13T20:18:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "tags": [
+        "biz & it",
+        "public use areas",
+        "security",
+        "supply chain attacks",
+        "unicode"
+      ]
+    },
+    {
+      "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
+      "link": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
+      "published": "Fri, 13 Mar 2026 18:47:08 +0000",
+      "published_parsed": "2026-03-13T18:47:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Adobe says it will also give customers who \"qualify\" free services but is vague on details.",
+      "tags": [
+        "adobe",
+        "department of justice",
+        "subscriptions",
+        "tech"
+      ]
+    },
     {
       "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
       "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",

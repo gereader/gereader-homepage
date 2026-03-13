@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T18:48:34.723102+00:00",
+  "last_updated": "2026-03-13T23:31:34.966636+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,6 +15,7 @@
     "accenture",
     "aci",
     "acquisition",
+    "adobe",
     "ads",
     "advertising",
     "agentic ai",
@@ -69,7 +70,6 @@
     "chatbots",
     "chatgpt",
     "chatgtp",
-    "claude",
     "claude code",
     "claude opus",
     "claude opus 4.6",
@@ -83,11 +83,11 @@
     "containers",
     "cryptocurrency exchanges",
     "cumulus linux",
-    "dario amodei",
     "data center",
     "data centers",
     "deanonymization",
     "deepseek",
+    "department of justice",
     "design",
     "dhcp",
     "distillation",
@@ -115,7 +115,6 @@
     "google pixel",
     "gpt-5.3-codex",
     "gre",
-    "greg brockman",
     "hacktivism",
     "high availability",
     "history",
@@ -133,7 +132,6 @@
     "is-is",
     "ise",
     "jinja",
-    "kate rouch",
     "lan",
     "large language models",
     "lawsuit",
@@ -198,6 +196,7 @@
     "policy",
     "printers",
     "privacy",
+    "public use areas",
     "python",
     "qos",
     "ram shortage",
@@ -220,8 +219,9 @@
     "snmp",
     "software gone wild",
     "streaming",
-    "super bowl",
+    "subscriptions",
     "supply chain attack",
+    "supply chain attacks",
     "switching",
     "sycophancy",
     "tcp",
@@ -231,6 +231,7 @@
     "traffic engineering",
     "training",
     "trump administration",
+    "unicode",
     "vibe coding",
     "video",
     "virtualization",
@@ -247,6 +248,37 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+      "published": "Fri, 13 Mar 2026 20:18:08 +0000",
+      "published_parsed": "2026-03-13T20:18:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "tags": [
+        "biz & it",
+        "public use areas",
+        "security",
+        "supply chain attacks",
+        "unicode"
+      ]
+    },
+    {
+      "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
+      "link": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
+      "published": "Fri, 13 Mar 2026 18:47:08 +0000",
+      "published_parsed": "2026-03-13T18:47:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Adobe says it will also give customers who \"qualify\" free services but is vague on details.",
+      "tags": [
+        "adobe",
+        "department of justice",
+        "subscriptions",
+        "tech"
+      ]
+    },
     {
       "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
       "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",
@@ -752,22 +784,6 @@
         "apple m5 max",
         "apple m5 pro",
         "apple silicon",
-        "tech"
-      ]
-    },
-    {
-      "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
-      "link": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
-      "published": "Tue, 03 Mar 2026 15:58:55 +0000",
-      "published_parsed": "2026-03-03T15:58:55+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New Airs leave more room underneath for the rumored low-cost MacBook.",
-      "tags": [
-        "apple",
-        "apple m5",
-        "apple silicon",
-        "macbook air",
         "tech"
       ]
     },
@@ -1372,35 +1388,6 @@
         "machine learning",
         "openai",
         "sam altman"
-      ]
-    },
-    {
-      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-      "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
-      "published": "Thu, 05 Feb 2026 17:46:59 +0000",
-      "published_parsed": "2026-02-05T17:46:59+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
-      "tags": [
-        "advertising",
-        "ai",
-        "ai assistants",
-        "ai behavior",
-        "ai ethics",
-        "ai sycophancy",
-        "anthropic",
-        "biz & it",
-        "chatbots",
-        "chatgpt",
-        "claude",
-        "dario amodei",
-        "greg brockman",
-        "kate rouch",
-        "machine learning",
-        "openai",
-        "sam altman",
-        "super bowl"
       ]
     },
     {
