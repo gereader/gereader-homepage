@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T14:44:45.665745+00:00",
+  "last_updated": "2026-03-13T18:48:34.723102+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,9 +11,11 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "15-inch macbook air",
     "accenture",
     "aci",
     "acquisition",
+    "ads",
     "advertising",
     "agentic ai",
     "ai",
@@ -36,7 +38,7 @@
     "ai sycophancy",
     "aiops",
     "amazon",
-    "android",
+    "amazon prime video",
     "ansible",
     "anthropic",
     "app stores",
@@ -87,7 +89,6 @@
     "deanonymization",
     "deepseek",
     "design",
-    "developer verification",
     "dhcp",
     "distillation",
     "distributed hash tables",
@@ -143,13 +144,13 @@
     "lumma",
     "m3 ultra",
     "m4 max",
+    "m5 macbook air",
     "m5 macbook pro",
     "mac",
     "mac studio",
     "macbook",
     "macbook air",
     "macbook neo",
-    "macbook pro",
     "machine learning",
     "malware",
     "medical devices",
@@ -218,7 +219,7 @@
     "smartphones",
     "snmp",
     "software gone wild",
-    "studio display",
+    "streaming",
     "super bowl",
     "supply chain attack",
     "switching",
@@ -246,6 +247,41 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
+      "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",
+      "published": "Fri, 13 Mar 2026 17:16:58 +0000",
+      "published_parsed": "2026-03-13T17:16:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon says its service requires \"significant investment.\"",
+      "tags": [
+        "ads",
+        "amazon",
+        "amazon prime video",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
+      "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
+      "published": "Fri, 13 Mar 2026 16:31:29 +0000",
+      "published_parsed": "2026-03-13T16:31:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
+      "tags": [
+        "15-inch macbook air",
+        "apple",
+        "apple m5",
+        "apple silicon",
+        "features",
+        "m5 macbook air",
+        "macbook air",
+        "tech"
+      ]
+    },
     {
       "title": "Network Device Telemetry Protocols with Dinesh Dutt",
       "link": "https://blog.ipspace.net/2026/03/network-device-telemetry-protocols/?utm_source=atom_feed",
@@ -736,21 +772,6 @@
       ]
     },
     {
-      "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
-      "published": "Tue, 03 Mar 2026 15:19:43 +0000",
-      "published_parsed": "2026-03-03T15:19:43+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New laptops come with more storage but also higher starting prices.",
-      "tags": [
-        "apple",
-        "macbook pro",
-        "studio display",
-        "tech"
-      ]
-    },
-    {
       "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
       "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
       "published": "Tue, 03 Mar 2026 12:30:24 +0000",
@@ -765,25 +786,6 @@
         "llms",
         "privacy",
         "security"
-      ]
-    },
-    {
-      "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
-      "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
-      "published": "Tue, 03 Mar 2026 12:00:30 +0000",
-      "published_parsed": "2026-03-03T12:00:30+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
-      "tags": [
-        "android",
-        "developer verification",
-        "features",
-        "google",
-        "malware",
-        "privacy",
-        "security",
-        "tech"
       ]
     },
     {

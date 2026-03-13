@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-03-13T14:44:45.645961+00:00",
-  "article_count": 1623,
+  "last_updated": "2026-03-13T18:48:34.701670+00:00",
+  "article_count": 1625,
   "articles": [
+    {
+      "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
+      "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",
+      "published": "Fri, 13 Mar 2026 17:16:58 +0000",
+      "published_parsed": "2026-03-13T17:16:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon says its service requires \"significant investment.\"",
+      "tags": [
+        "ads",
+        "amazon",
+        "amazon prime video",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
+      "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
+      "published": "Fri, 13 Mar 2026 16:31:29 +0000",
+      "published_parsed": "2026-03-13T16:31:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
+      "tags": [
+        "15-inch macbook air",
+        "apple",
+        "apple m5",
+        "apple silicon",
+        "features",
+        "m5 macbook air",
+        "macbook air",
+        "tech"
+      ]
+    },
     {
       "title": "Network Device Telemetry Protocols with Dinesh Dutt",
       "link": "https://blog.ipspace.net/2026/03/network-device-telemetry-protocols/?utm_source=atom_feed",
