@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T23:31:34.966636+00:00",
-  "article_count": 106,
+  "last_updated": "2026-03-14T03:27:29.302572+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -78,7 +78,6 @@
     "coal",
     "code agents",
     "codex",
-    "company news",
     "compilers",
     "containers",
     "cryptocurrency exchanges",
@@ -450,19 +449,6 @@
         "intel",
         "intel core ultra",
         "tech"
-      ]
-    },
-    {
-      "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
-      "link": "https://www.netbraintech.com/blog/extending-with-netbox-and-grafana/",
-      "published": "2026-03-11T16:30:20Z",
-      "published_parsed": "2026-03-11T16:30:20+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Modern network environments don’t live in a single system. Network teams operate in real time. Hardware and facilities teams manage physical infrastructure. Platform and operations teams need dashboards they can...",
-      "tags": [
-        "company news",
-        "networking"
       ]
     },
     {
