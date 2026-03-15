@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T03:51:05.835035+00:00",
-  "article_count": 106,
+  "last_updated": "2026-03-15T07:47:33.482822+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -78,7 +78,6 @@
     "coal",
     "code agents",
     "codex",
-    "company news",
     "compilers",
     "containers",
     "cryptocurrency exchanges",
@@ -450,19 +449,6 @@
         "intel",
         "intel core ultra",
         "tech"
-      ]
-    },
-    {
-      "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
-      "link": "https://www.netbraintech.com/blog/extending-with-netbox-and-grafana/",
-      "published": "2026-03-11T16:30:20Z",
-      "published_parsed": "2026-03-11T16:30:20+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Modern network environments don’t live in a single system. Network teams operate in real time. Hardware and facilities teams manage physical infrastructure. Platform and operations teams need dashboards they can...",
-      "tags": [
-        "company news",
-        "networking"
       ]
     },
     {
@@ -1821,19 +1807,6 @@
       "summary": "A month ago, I described how Ansible release 12 broke the network device configuration modules , the little engines ( that could ) that brought us from the dark days of copy-and-paste into the more-survivable land of configuration templates. In the meantime, the Ansible networking team fixed the...",
       "tags": [
         "ansible",
-        "networking"
-      ]
-    },
-    {
-      "title": "Underscores (in Hostnames) Strike Again",
-      "link": "https://blog.ipspace.net/2025/12/underscores-strike-again/?utm_source=atom_feed",
-      "published": "2025-12-15T07:23:00+01:00",
-      "published_parsed": "2025-12-15T07:23:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I don’t know why I decided to allow underscores in netlab node names. Maybe it’s a leftover from the ancient days when some network devices refused to accept hyphens in hostnames, or perhaps it’s a programmer’s subconscious hatred of hyphens in identifiers (no programming language I’m aware of...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
