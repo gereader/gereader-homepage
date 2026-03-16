@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-03-16T15:02:56.382289+00:00",
-  "article_count": 1628,
+  "last_updated": "2026-03-16T19:06:34.246080+00:00",
+  "article_count": 1629,
   "articles": [
+    {
+      "title": "Apple’s AirPods Max 2 bring H2 chip, boosted ANC in April for $549",
+      "link": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
+      "published": "Mon, 16 Mar 2026 16:51:00 +0000",
+      "published_parsed": "2026-03-16T16:51:00+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large_2x-640x360.jpg",
+      "summary": "Apple's over-head headphones get an update after over five years.",
+      "tags": [
+        "airpods",
+        "airpods max",
+        "apple",
+        "audio",
+        "tech"
+      ]
+    },
     {
       "title": "netlab Graphs with Multi-Access Links",
       "link": "https://blog.ipspace.net/2026/03/netlab-graphs-multiaccess/?utm_source=atom_feed",
