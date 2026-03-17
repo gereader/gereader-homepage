@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-03-17T15:00:16.905718+00:00",
-  "article_count": 1631,
+  "last_updated": "2026-03-17T19:06:24.939349+00:00",
+  "article_count": 1635,
   "articles": [
+    {
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+      "published": "Tue, 17 Mar 2026 17:07:12 +0000",
+      "published_parsed": "2026-03-17T17:07:12+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "tags": [
+        "biz & it",
+        "ip kvms",
+        "networks",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "After three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold",
+      "link": "https://arstechnica.com/gadgets/2026/03/after-three-months-samsung-is-ending-sales-of-the-2899-galaxy-z-trifold/",
+      "published": "Tue, 17 Mar 2026 16:10:02 +0000",
+      "published_parsed": "2026-03-17T16:10:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Samsung didn't offer an explanation for its decision, but it's not exactly a surprise.",
+      "tags": [
+        "foldables",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
+      "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
+      "published": "Tue, 17 Mar 2026 15:11:28 +0000",
+      "published_parsed": "2026-03-17T15:11:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Switch games running at 720p can look worse on the Switch 2's 1080p display.",
+      "tags": [
+        "gaming",
+        "nintendo switch",
+        "nintendo switch 2",
+        "tech"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra review: Private and performant",
+      "link": "https://arstechnica.com/reviews/2026/03/samsung-galaxy-s26-ultra-review-private-and-performant/",
+      "published": "Tue, 17 Mar 2026 14:18:08 +0000",
+      "published_parsed": "2026-03-17T14:18:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "If you want to spend $1,300 on a phone, it might as well be this one.",
+      "tags": [
+        "android",
+        "artificial intelligence",
+        "features",
+        "galaxy s26",
+        "reviews",
+        "samrtphones",
+        "samsung",
+        "tech"
+      ]
+    },
     {
       "title": "Firefighting drones head to Aspen—can they suppress a blaze before humans arrive?",
       "link": "https://arstechnica.com/gadgets/2026/03/firefighting-drones-head-to-aspen-can-they-suppress-a-blaze-before-humans-arrive/",

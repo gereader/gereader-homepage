@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T15:00:16.927617+00:00",
+  "last_updated": "2026-03-17T19:06:24.960996+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,10 +21,7 @@
     "agentic ai",
     "ai",
     "ai agents",
-    "ai and work",
-    "ai assistants",
     "ai behavior",
-    "ai benchmarks",
     "ai chips",
     "ai coding",
     "ai criticism",
@@ -42,9 +39,9 @@
     "airpods max",
     "amazon",
     "amazon prime video",
+    "android",
     "ansible",
     "anthropic",
-    "app stores",
     "apple",
     "apple a18 pro",
     "apple m5",
@@ -53,6 +50,7 @@
     "apple silicon",
     "arista",
     "arp",
+    "artificial intelligence",
     "aspen",
     "asus",
     "audio",
@@ -75,13 +73,10 @@
     "chatgpt",
     "chatgtp",
     "claude code",
-    "claude opus",
-    "claude opus 4.6",
     "clickfix",
     "cloud",
     "coal",
     "code agents",
-    "codex",
     "colorado",
     "compilers",
     "containers",
@@ -104,7 +99,6 @@
     "encryption",
     "end to end encryption",
     "energy",
-    "epic games",
     "evpn",
     "exploits",
     "fabric",
@@ -112,14 +106,14 @@
     "fire",
     "firewall",
     "firewalls",
+    "foldables",
+    "galaxy s26",
     "gaming",
     "gemini",
     "generative ai",
     "google",
     "google gemini",
     "google maps",
-    "google pixel",
-    "gpt-5.3-codex",
     "gre",
     "hacktivism",
     "high availability",
@@ -132,6 +126,7 @@
     "intel core ultra",
     "internet",
     "ios",
+    "ip kvms",
     "ip routing",
     "iphones",
     "ipv6",
@@ -182,8 +177,11 @@
     "network visibility",
     "networking",
     "networking fundamentals",
+    "networks",
     "nfv",
     "nicholas carlini",
+    "nintendo switch",
+    "nintendo switch 2",
     "nsx",
     "nuclear",
     "nvidia",
@@ -196,8 +194,6 @@
     "overlay networks",
     "password managers",
     "performance",
-    "pixel 10a",
-    "play store",
     "podcast",
     "policy",
     "printers",
@@ -213,6 +209,8 @@
     "rog xbox ally x",
     "routers",
     "sam altman",
+    "samrtphones",
+    "samsung",
     "san",
     "sd-wan",
     "sdn",
@@ -254,6 +252,71 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+      "published": "Tue, 17 Mar 2026 17:07:12 +0000",
+      "published_parsed": "2026-03-17T17:07:12+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "tags": [
+        "biz & it",
+        "ip kvms",
+        "networks",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "After three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold",
+      "link": "https://arstechnica.com/gadgets/2026/03/after-three-months-samsung-is-ending-sales-of-the-2899-galaxy-z-trifold/",
+      "published": "Tue, 17 Mar 2026 16:10:02 +0000",
+      "published_parsed": "2026-03-17T16:10:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Samsung didn't offer an explanation for its decision, but it's not exactly a surprise.",
+      "tags": [
+        "foldables",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
+      "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
+      "published": "Tue, 17 Mar 2026 15:11:28 +0000",
+      "published_parsed": "2026-03-17T15:11:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Switch games running at 720p can look worse on the Switch 2's 1080p display.",
+      "tags": [
+        "gaming",
+        "nintendo switch",
+        "nintendo switch 2",
+        "tech"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra review: Private and performant",
+      "link": "https://arstechnica.com/reviews/2026/03/samsung-galaxy-s26-ultra-review-private-and-performant/",
+      "published": "Tue, 17 Mar 2026 14:18:08 +0000",
+      "published_parsed": "2026-03-17T14:18:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "If you want to spend $1,300 on a phone, it might as well be this one.",
+      "tags": [
+        "android",
+        "artificial intelligence",
+        "features",
+        "galaxy s26",
+        "reviews",
+        "samrtphones",
+        "samsung",
+        "tech"
+      ]
+    },
     {
       "title": "Firefighting drones head to Aspen—can they suppress a blaze before humans arrive?",
       "link": "https://arstechnica.com/gadgets/2026/03/firefighting-drones-head-to-aspen-can-they-suppress-a-blaze-before-humans-arrive/",
@@ -724,57 +787,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Google and Epic announce settlement to end app store antitrust case",
-      "link": "https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/",
-      "published": "Wed, 04 Mar 2026 20:48:16 +0000",
-      "published_parsed": "2026-03-04T20:48:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The era of the 30 percent app store cut has ended.",
-      "tags": [
-        "app stores",
-        "epic games",
-        "google",
-        "play store",
-        "tech"
-      ]
-    },
-    {
-      "title": "MacBook Neo hands-on: Apple build quality at a substantially lower price",
-      "link": "https://arstechnica.com/gadgets/2026/03/macbook-neo-hands-on-apple-build-quality-at-a-substantially-lower-price/",
-      "published": "Wed, 04 Mar 2026 18:44:43 +0000",
-      "published_parsed": "2026-03-04T18:44:43+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The Neo won't be for everyone, but Apple has managed to preserve a premium feel.",
-      "tags": [
-        "apple",
-        "apple a18 pro",
-        "apple silicon",
-        "mac",
-        "macbook neo",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google Pixel 10a review: The sidegrade",
-      "link": "https://arstechnica.com/gadgets/2026/03/the-sidegrade/",
-      "published": "Wed, 04 Mar 2026 17:00:10 +0000",
-      "published_parsed": "2026-03-04T17:00:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Meet the new boss, same as the old boss.",
-      "tags": [
-        "features",
-        "google",
-        "google pixel",
-        "pixel 10a",
-        "reviews",
-        "smartphones",
-        "tech"
       ]
     },
     {
@@ -1373,40 +1385,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "AI companies want you to stop chatting with bots and start managing them",
-      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-      "published": "Thu, 05 Feb 2026 22:47:54 +0000",
-      "published_parsed": "2026-02-05T22:47:54+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "ai agents",
-        "ai and work",
-        "ai assistants",
-        "ai benchmarks",
-        "ai coding",
-        "ai development tools",
-        "ai security",
-        "anthropic",
-        "biz & it",
-        "chatbots",
-        "claude code",
-        "claude opus",
-        "claude opus 4.6",
-        "code agents",
-        "codex",
-        "generative ai",
-        "gpt-5.3-codex",
-        "large language models",
-        "machine learning",
-        "openai",
-        "sam altman"
       ]
     },
     {
