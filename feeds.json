@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T03:34:17.422104+00:00",
-  "article_count": 104,
+  "last_updated": "2026-03-17T07:54:34.776900+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -81,6 +81,7 @@
     "coal",
     "code agents",
     "codex",
+    "company news",
     "compilers",
     "containers",
     "cryptocurrency exchanges",
@@ -250,6 +251,20 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "MANRS for Enterprise Customers",
+      "link": "https://blog.ipspace.net/2026/03/manrs-enterprise/?utm_source=atom_feed",
+      "published": "2026-03-17T08:13:00+01:00",
+      "published_parsed": "2026-03-17T08:13:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In October 2023, I was talking about Internet routing security at the DEEP conference in Zadar, Croatia. After explaining the (obvious) challenges and the initiatives aimed at making Internet routing more secure ( MANRS ), I made my usual recommendation: vote with your wallet. However, if you’re a...",
+      "tags": [
+        "internet",
+        "networking",
+        "security"
+      ]
+    },
     {
       "title": "Apple’s AirPods Max 2 bring H2 chip, boosted ANC in April for $549",
       "link": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
@@ -481,6 +496,19 @@
         "intel",
         "intel core ultra",
         "tech"
+      ]
+    },
+    {
+      "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
+      "link": "https://www.netbraintech.com/blog/extending-with-netbox-and-grafana/",
+      "published": "2026-03-11T16:30:20Z",
+      "published_parsed": "2026-03-11T16:30:20+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Modern network environments don’t live in a single system. Network teams operate in real time. Hardware and facilities teams manage physical infrastructure. Platform and operations teams need dashboards they can...",
+      "tags": [
+        "company news",
+        "networking"
       ]
     },
     {
