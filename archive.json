@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-18T03:41:21.208866+00:00",
-  "article_count": 1635,
+  "last_updated": "2026-03-18T07:54:59.900101+00:00",
+  "article_count": 1636,
   "articles": [
+    {
+      "title": "BGP Labs: Goodbye, Cumulus Linux",
+      "link": "https://blog.ipspace.net/2026/03/bgp-labs-goodbye-cumulus/?utm_source=atom_feed",
+      "published": "2026-03-18T07:30:00+02:00",
+      "published_parsed": "2026-03-18T07:30:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I started the Online BGP Labs project in mid-2023, Cumulus Linux still seemed like a good platform to use. You could run devices as virtual machines (we were still supporting VirtualBox) or in containers (containerlab was improving with every release), and it looked more polished than...",
+      "tags": [
+        "bgp",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
       "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
