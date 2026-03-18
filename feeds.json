@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T15:06:24.051148+00:00",
+  "last_updated": "2026-03-18T19:04:56.789442+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -80,7 +80,6 @@
     "colorado",
     "compilers",
     "containers",
-    "cryptocurrency exchanges",
     "cumulus linux",
     "data center",
     "data centers",
@@ -198,6 +197,7 @@
     "policy",
     "printers",
     "privacy",
+    "propublica",
     "public use areas",
     "python",
     "qos",
@@ -224,10 +224,10 @@
     "software gone wild",
     "streaming",
     "subscriptions",
-    "supply chain attack",
     "supply chain attacks",
     "switching",
     "sycophancy",
+    "syndication",
     "tcp",
     "tech",
     "tips",
@@ -252,6 +252,21 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+      "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+      "published": "Wed, 18 Mar 2026 17:36:40 +0000",
+      "published_parsed": "2026-03-18T17:36:40+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "One Microsoft product was approved despite years of concerns about its security.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "propublica",
+        "syndication"
+      ]
+    },
     {
       "title": "BGP Labs: Goodbye, Cumulus Linux",
       "link": "https://blog.ipspace.net/2026/03/bgp-labs-goodbye-cumulus/?utm_source=atom_feed",
@@ -1368,23 +1383,6 @@
         "machine learning",
         "nicholas carlini",
         "open source"
-      ]
-    },
-    {
-      "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
-      "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
-      "published": "Fri, 06 Feb 2026 22:16:51 +0000",
-      "published_parsed": "2026-02-06T22:16:51+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
-      "tags": [
-        "biz & it",
-        "cryptocurrency exchanges",
-        "malware",
-        "open source",
-        "security",
-        "supply chain attack"
       ]
     },
     {
