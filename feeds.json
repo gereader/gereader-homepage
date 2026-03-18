@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T07:54:59.921457+00:00",
-  "article_count": 105,
+  "last_updated": "2026-03-18T15:06:24.051148+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1794,19 +1794,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "How to Inject Host and Group Vars from Ansible into NetBox Config Templates",
-      "link": "https://www.packetcoders.io/how-to-inject-host-and-group-vars-from-ansible-into-netbox-config-templates/",
-      "published": "Thu, 18 Dec 2025 09:00:32 GMT",
-      "published_parsed": "2025-12-18T09:00:32+00:00",
-      "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2025/12/Tips-logo.webp",
-      "summary": "Ansible and NetBox Tip: Pass Ansible group_vars and host_vars into NetBox Config Templates by sending your Ansible vars, making them available directly within your Config Templates. Here is an example: # Ansible Playbook - name: Trigger NetBox to return rendered configuration ansible.builtin.uri:...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
