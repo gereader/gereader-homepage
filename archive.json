@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-19T03:41:17.178189+00:00",
-  "article_count": 1637,
+  "last_updated": "2026-03-19T07:48:51.103783+00:00",
+  "article_count": 1638,
   "articles": [
+    {
+      "title": "Arista EOS MPLS P/PE-router Behavior",
+      "link": "https://blog.ipspace.net/2026/03/arista-eos-mpls-behavior/?utm_source=atom_feed",
+      "published": "2026-03-19T08:03:00+01:00",
+      "published_parsed": "2026-03-19T08:03:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/03/ldp-lfib-topo.png",
+      "summary": "Something didn’t feel right as I tried to check whether the IPv4 ECMP I observed in the latest version of Arista cEOS containers works with my MPLS/anycast scenario . The forwarding tables seemed OK, but I wasn’t getting MPLS labels in the ICMP replies (see RFC 4950 for details), even though I know...",
+      "tags": [
+        "mpls",
+        "networking"
+      ]
+    },
     {
       "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
       "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
