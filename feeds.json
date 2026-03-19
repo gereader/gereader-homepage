@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T19:02:52.983391+00:00",
+  "last_updated": "2026-03-19T23:32:52.586341+00:00",
   "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,6 +15,7 @@
     "accenture",
     "aci",
     "acquisition",
+    "acquisitions",
     "adobe",
     "ads",
     "advertising",
@@ -28,8 +29,6 @@
     "ai development tools",
     "ai ethics",
     "ai language models",
-    "ai programming",
-    "ai research",
     "ai security",
     "ai speed",
     "ai sycophancy",
@@ -41,6 +40,7 @@
     "android",
     "ansible",
     "anthropic",
+    "antitrust",
     "app developers",
     "apple",
     "apple a18 pro",
@@ -72,14 +72,12 @@
     "chatbots",
     "chatgpt",
     "chatgtp",
-    "claude code",
     "clickfix",
     "cloud",
     "coal",
     "code agents",
     "colorado",
     "company news",
-    "compilers",
     "containers",
     "cumulus linux",
     "data center",
@@ -100,6 +98,7 @@
     "encryption",
     "end to end encryption",
     "energy",
+    "europe",
     "evpn",
     "exploits",
     "fabric",
@@ -120,6 +119,7 @@
     "high availability",
     "history",
     "homelab",
+    "horizon worlds",
     "hp",
     "https",
     "infostealer",
@@ -141,10 +141,7 @@
     "llms",
     "load balancing",
     "lumma",
-    "m3 ultra",
-    "m4 max",
     "m5 macbook air",
-    "mac studio",
     "macbook",
     "macbook air",
     "macbook neo",
@@ -153,6 +150,7 @@
     "medical devices",
     "mergers",
     "merkle trees",
+    "meta",
     "microsoft",
     "mpls",
     "mpls vpn",
@@ -176,7 +174,6 @@
     "networking fundamentals",
     "networks",
     "nfv",
-    "nicholas carlini",
     "nintendo switch",
     "nintendo switch 2",
     "nsx",
@@ -199,7 +196,6 @@
     "public use areas",
     "python",
     "qos",
-    "ram shortage",
     "renewables",
     "reviews",
     "right to repair",
@@ -239,6 +235,7 @@
     "virtualization",
     "vmware",
     "vpn",
+    "vr",
     "vulnerabilities",
     "vxlan",
     "wan",
@@ -250,6 +247,39 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+      "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+      "published": "Thu, 19 Mar 2026 21:29:53 +0000",
+      "published_parsed": "2026-03-19T21:29:53+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Broadcom says the group is misrepresenting market \"realities.\"",
+      "tags": [
+        "acquisitions",
+        "antitrust",
+        "biz & it",
+        "broadcom",
+        "europe",
+        "mergers",
+        "vmware"
+      ]
+    },
+    {
+      "title": "Meta decides not to kill Horizon Worlds VR after all",
+      "link": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
+      "published": "Thu, 19 Mar 2026 17:50:40 +0000",
+      "published_parsed": "2026-03-19T17:50:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "VR will be on life support while mobile remains the focus, though.",
+      "tags": [
+        "horizon worlds",
+        "meta",
+        "tech",
+        "vr"
+      ]
+    },
     {
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
@@ -771,24 +801,6 @@
         "iphones",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-      "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "published": "Fri, 06 Mar 2026 15:41:23 +0000",
-      "published_parsed": "2026-03-06T15:41:23+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Announcements this week were mostly business as usual, but Apple isn't immune.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "m3 ultra",
-        "m4 max",
-        "mac studio",
-        "ram shortage",
-        "tech"
       ]
     },
     {
@@ -1378,33 +1390,6 @@
       "tags": [
         "multicast",
         "networking"
-      ]
-    },
-    {
-      "title": "Sixteen Claude AI agents working together created a new C compiler",
-      "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-      "published": "Fri, 06 Feb 2026 23:40:58 +0000",
-      "published_parsed": "2026-02-06T23:40:58+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "ai agents",
-        "ai coding",
-        "ai development tools",
-        "ai programming",
-        "ai research",
-        "anthropic",
-        "biz & it",
-        "claude code",
-        "code agents",
-        "compilers",
-        "large language models",
-        "machine learning",
-        "nicholas carlini",
-        "open source"
       ]
     },
     {
