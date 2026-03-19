@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T14:51:48.405875+00:00",
-  "article_count": 104,
+  "last_updated": "2026-03-19T19:02:52.983391+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -28,7 +28,6 @@
     "ai development tools",
     "ai ethics",
     "ai language models",
-    "ai privacy",
     "ai programming",
     "ai research",
     "ai security",
@@ -42,6 +41,7 @@
     "android",
     "ansible",
     "anthropic",
+    "app developers",
     "apple",
     "apple a18 pro",
     "apple m5",
@@ -88,6 +88,7 @@
     "deepseek",
     "department of justice",
     "design",
+    "developer verification",
     "dhcp",
     "distillation",
     "distributed hash tables",
@@ -135,7 +136,6 @@
     "jinja",
     "lan",
     "large language models",
-    "lawsuit",
     "ldp",
     "lisp",
     "llms",
@@ -153,7 +153,6 @@
     "medical devices",
     "mergers",
     "merkle trees",
-    "meta",
     "microsoft",
     "mpls",
     "mpls vpn",
@@ -201,7 +200,6 @@
     "python",
     "qos",
     "ram shortage",
-    "ray-ban",
     "renewables",
     "reviews",
     "right to repair",
@@ -217,7 +215,6 @@
     "segment routing",
     "service providers",
     "shor's algorithm",
-    "smart glasses",
     "smartphones",
     "snmp",
     "software gone wild",
@@ -253,6 +250,37 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "published": "Thu, 19 Mar 2026 17:28:26 +0000",
+      "published_parsed": "2026-03-19T17:28:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
+      "tags": [
+        "android",
+        "app developers",
+        "developer verification",
+        "google",
+        "security",
+        "tech"
+      ]
+    },
+    {
+      "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
+      "published": "Thu, 19 Mar 2026 16:50:10 +0000",
+      "published_parsed": "2026-03-19T16:50:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"8GB unified memory is the minimum practical configuration.\"",
+      "tags": [
+        "apple",
+        "macbook neo",
+        "tech"
+      ]
+    },
     {
       "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
       "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
@@ -760,26 +788,6 @@
         "m4 max",
         "mac studio",
         "ram shortage",
-        "tech"
-      ]
-    },
-    {
-      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "published": "Thu, 05 Mar 2026 23:36:04 +0000",
-      "published_parsed": "2026-03-05T23:36:04+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-      "tags": [
-        "ai",
-        "ai privacy",
-        "lawsuit",
-        "meta",
-        "policy",
-        "privacy",
-        "ray-ban",
-        "smart glasses",
         "tech"
       ]
     },

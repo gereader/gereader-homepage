@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-03-19T14:51:48.385454+00:00",
-  "article_count": 1639,
+  "last_updated": "2026-03-19T19:02:52.961786+00:00",
+  "article_count": 1641,
   "articles": [
+    {
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "published": "Thu, 19 Mar 2026 17:28:26 +0000",
+      "published_parsed": "2026-03-19T17:28:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
+      "tags": [
+        "android",
+        "app developers",
+        "developer verification",
+        "google",
+        "security",
+        "tech"
+      ]
+    },
+    {
+      "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
+      "published": "Thu, 19 Mar 2026 16:50:10 +0000",
+      "published_parsed": "2026-03-19T16:50:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"8GB unified memory is the minimum practical configuration.\"",
+      "tags": [
+        "apple",
+        "macbook neo",
+        "tech"
+      ]
+    },
     {
       "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
       "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
