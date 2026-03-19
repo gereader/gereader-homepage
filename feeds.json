@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T07:48:51.125708+00:00",
-  "article_count": 105,
+  "last_updated": "2026-03-19T14:51:48.405875+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -144,8 +144,6 @@
     "m3 ultra",
     "m4 max",
     "m5 macbook air",
-    "m5 macbook pro",
-    "mac",
     "mac studio",
     "macbook",
     "macbook air",
@@ -229,6 +227,7 @@
     "switching",
     "sycophancy",
     "syndication",
+    "tcl",
     "tcp",
     "tech",
     "tips",
@@ -236,6 +235,7 @@
     "traffic engineering",
     "training",
     "trump administration",
+    "tvs",
     "unicode",
     "vibe coding",
     "video",
@@ -253,6 +253,21 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
+      "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
+      "published": "Thu, 19 Mar 2026 11:00:46 +0000",
+      "published_parsed": "2026-03-19T11:00:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"This is a serious warning shot.\"",
+      "tags": [
+        "samsung",
+        "tcl",
+        "tech",
+        "tvs"
+      ]
+    },
     {
       "title": "Arista EOS MPLS P/PE-router Behavior",
       "link": "https://blog.ipspace.net/2026/03/arista-eos-mpls-behavior/?utm_source=atom_feed",
@@ -801,22 +816,6 @@
         "policy",
         "renewables",
         "trump administration"
-      ]
-    },
-    {
-      "title": "macOS Tahoe 26.3.1 update will \"upgrade\" your M5's CPU to new \"super\" cores",
-      "link": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
-      "published": "Thu, 05 Mar 2026 13:28:43 +0000",
-      "published_parsed": "2026-03-05T13:28:43+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/26.3.1-activity-1024x640.jpeg",
-      "summary": "In otherwise minor software update, macOS now uses M5's new nomenclature.",
-      "tags": [
-        "apple",
-        "apple m5",
-        "m5 macbook pro",
-        "mac",
-        "tech"
       ]
     },
     {
@@ -1794,19 +1793,6 @@
         "arista",
         "ise",
         "networking"
-      ]
-    },
-    {
-      "title": "Happy Holidays and All the Best in 2026!",
-      "link": "https://blog.ipspace.net/2025/12/wrapup-2025/?utm_source=atom_feed",
-      "published": "2025-12-19T10:01:00+00:00",
-      "published_parsed": "2025-12-19T10:01:00+00:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "They say time goes faster as you get older, and it seems to be true. Another year has (almost) gone by. Try to disconnect from the crazy pace of the networking world, forget the “ vibe coding with AI will make engineers obsolete ” stupidities (hint: Fifth Generation Languages and Natural Language...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
