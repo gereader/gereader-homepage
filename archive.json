@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-03-20T18:54:51.359924+00:00",
-  "article_count": 1646,
+  "last_updated": "2026-03-20T23:32:19.294841+00:00",
+  "article_count": 1648,
   "articles": [
+    {
+      "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
+      "link": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+      "published": "Fri, 20 Mar 2026 21:26:50 +0000",
+      "published_parsed": "2026-03-20T21:26:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Reducing unnecessary Copilot entry points\" is one of Microsoft's action items.",
+      "tags": [
+        "microsoft",
+        "tech",
+        "windows",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+      "published": "Fri, 20 Mar 2026 20:50:46 +0000",
+      "published_parsed": "2026-03-20T20:50:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+      "tags": [
+        "biz & it",
+        "github",
+        "info stealers",
+        "security",
+        "supply chain attacks",
+        "trivy"
+      ]
+    },
     {
       "title": "Amazon is reportedly developing an AI-centric smartphone",
       "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
