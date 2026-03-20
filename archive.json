@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-20T03:30:51.406369+00:00",
-  "article_count": 1643,
+  "last_updated": "2026-03-20T07:48:22.660801+00:00",
+  "article_count": 1644,
   "articles": [
+    {
+      "title": "Lab: Anycast Gateways on VXLAN Segments",
+      "link": "https://blog.ipspace.net/2026/03/lab-vxlan-anycast/?utm_source=atom_feed",
+      "published": "2026-03-20T08:09:00+01:00",
+      "published_parsed": "2026-03-20T08:09:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://evpn.bgplabs.net/vxlan/topology-anycast.png",
+      "summary": "Most vendors “discovered” anycast gateways when they tried implementing routing between MAC-VRFs in an EVPN environment and hit all the usual tripwires (more about that later). A few exceptions (like Arista ) supported them on VLAN segments for over a decade, and it was a no-brainer to extend that...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
       "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
