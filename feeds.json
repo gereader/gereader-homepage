@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T14:45:04.518860+00:00",
+  "last_updated": "2026-03-20T18:54:51.405108+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -36,6 +36,7 @@
     "airpods",
     "airpods max",
     "amazon",
+    "amazon alexa",
     "amazon prime video",
     "android",
     "ansible",
@@ -43,10 +44,7 @@
     "antitrust",
     "app developers",
     "apple",
-    "apple a18 pro",
     "apple m5",
-    "apple m5 max",
-    "apple m5 pro",
     "apple silicon",
     "arista",
     "arp",
@@ -142,7 +140,6 @@
     "load balancing",
     "lumma",
     "m5 macbook air",
-    "macbook",
     "macbook air",
     "macbook neo",
     "machine learning",
@@ -214,6 +211,9 @@
     "smartphones",
     "snmp",
     "software gone wild",
+    "steam deck",
+    "steam machine",
+    "steamos",
     "streaming",
     "subscriptions",
     "supply chain attacks",
@@ -247,6 +247,37 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Amazon is reportedly developing an AI-centric smartphone",
+      "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
+      "published": "Fri, 20 Mar 2026 16:38:06 +0000",
+      "published_parsed": "2026-03-20T16:38:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon's second smartphone could forego an app store.",
+      "tags": [
+        "amazon",
+        "amazon alexa",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
+      "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
+      "published": "Fri, 20 Mar 2026 15:36:57 +0000",
+      "published_parsed": "2026-03-20T15:36:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Both AMD- and Intel-based hardware is getting better support in SteamOS 3.8.",
+      "tags": [
+        "gaming",
+        "steam deck",
+        "steam machine",
+        "steamos",
+        "tech"
+      ]
+    },
     {
       "title": "Lab: Anycast Gateways on VXLAN Segments",
       "link": "https://blog.ipspace.net/2026/03/lab-vxlan-anycast/?utm_source=atom_feed",
@@ -725,24 +756,6 @@
       ]
     },
     {
-      "title": "Apple MacBook Neo review: Can a Mac get by with an iPhone’s processor inside?",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
-      "published": "Tue, 10 Mar 2026 13:00:02 +0000",
-      "published_parsed": "2026-03-10T13:00:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "8GB of RAM is a bummer, but this $599 laptop cuts most of the right corners.",
-      "tags": [
-        "apple",
-        "apple a18 pro",
-        "apple silicon",
-        "features",
-        "macbook",
-        "macbook neo",
-        "tech"
-      ]
-    },
-    {
       "title": "netlab 26.03: EVPN/MPLS, IOS XR Features",
       "link": "https://blog.ipspace.net/2026/03/netlab-26-03/?utm_source=atom_feed",
       "published": "2026-03-10T09:11:00+01:00",
@@ -766,23 +779,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new \"performance\" cores",
-      "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/",
-      "published": "Mon, 09 Mar 2026 20:00:21 +0000",
-      "published_parsed": "2026-03-09T20:00:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "M5 Pro Max's \"performance\" CPU cores definitely aren't just rebranded E-cores.",
-      "tags": [
-        "apple",
-        "apple m5",
-        "apple m5 max",
-        "apple m5 pro",
-        "apple silicon",
-        "tech"
       ]
     },
     {
