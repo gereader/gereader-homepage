@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T23:32:14.301406+00:00",
+  "last_updated": "2026-03-23T03:44:09.495991+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -1026,7 +1026,7 @@
     },
     {
       "title": "NetBrain Certified for Infoblox NIOS Integration",
-      "link": "https://www.netbraintech.com/blog/infoblox-integration/",
+      "link": "https://www.netbrain.com/blog/infoblox-integration/",
       "published": "2026-02-25T19:55:26Z",
       "published_parsed": "2026-02-25T19:55:26+00:00",
       "source": "NetBrain Blog",
@@ -1053,7 +1053,7 @@
     },
     {
       "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
-      "link": "https://www.netbraintech.com/blog/turning-operational-truth-into-shared-insight/",
+      "link": "https://www.netbrain.com/blog/turning-operational-truth-into-shared-insight/",
       "published": "2026-02-25T02:41:40Z",
       "published_parsed": "2026-02-25T02:41:40+00:00",
       "source": "NetBrain Blog",
@@ -1186,7 +1186,7 @@
     },
     {
       "title": "What Is Intent-Based Networking?",
-      "link": "https://www.netbraintech.com/blog/what-is-intent-based-networking/",
+      "link": "https://www.netbrain.com/blog/what-is-intent-based-networking/",
       "published": "2026-02-13T21:15:30Z",
       "published_parsed": "2026-02-13T21:15:30+00:00",
       "source": "NetBrain Blog",
@@ -1198,11 +1198,11 @@
     },
     {
       "title": "Closed-Loop Automation: From Detection to Verified Remediation",
-      "link": "https://www.netbraintech.com/blog/closed-loop-automation/",
+      "link": "https://www.netbrain.com/blog/closed-loop-automation/",
       "published": "2026-02-13T21:10:09Z",
       "published_parsed": "2026-02-13T21:10:09+00:00",
       "source": "NetBrain Blog",
-      "image": "https://www.netbraintech.com/wp-content/uploads/2026/02/02-using-a-network-digital-twin.jpg",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/02/02-using-a-network-digital-twin.jpg",
       "summary": "The combination of hybrid networks and manual network operations creates a high risk of service disruption due to the increased chance of human error and configuration drift. Closed-loop automation, from...",
       "tags": [
         "networking"
@@ -1617,7 +1617,7 @@
     },
     {
       "title": "From Scripts to Agents: How Evolution of Automation Made AI Inevitable in NetOps",
-      "link": "https://www.netbraintech.com/blog/evolution-of-automation/",
+      "link": "https://www.netbrain.com/blog/evolution-of-automation/",
       "published": "2026-01-20T17:38:00Z",
       "published_parsed": "2026-01-20T17:38:00+00:00",
       "source": "NetBrain Blog",
@@ -1685,7 +1685,7 @@
     },
     {
       "title": "The Operating Model to Cut Network Downtime Every Year",
-      "link": "https://www.netbraintech.com/blog/cut-downtime-every-year/",
+      "link": "https://www.netbrain.com/blog/cut-downtime-every-year/",
       "published": "2026-01-14T18:51:58Z",
       "published_parsed": "2026-01-14T18:51:58+00:00",
       "source": "NetBrain Blog",
