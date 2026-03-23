@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-03-23T18:59:22.414451+00:00",
-  "article_count": 1659,
+  "last_updated": "2026-03-23T23:35:45.807912+00:00",
+  "article_count": 1661,
   "articles": [
+    {
+      "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
+      "link": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
+      "published": "Mon, 23 Mar 2026 20:29:09 +0000",
+      "published_parsed": "2026-03-23T20:29:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Dell XPS laptops will be the first to use the display tech that reaches up to 120 Hz.",
+      "tags": [
+        "laptops",
+        "lcd",
+        "lg",
+        "lg display",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple will talk iOS 27, macOS 27, and more at WWDC 2026 on June 8",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-will-talk-ios-27-macos-27-and-more-at-wwdc-2026-on-june-8/",
+      "published": "Mon, 23 Mar 2026 18:34:59 +0000",
+      "published_parsed": "2026-03-23T18:34:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "WWDC is often light on hardware, but it's where big software announcements happen.",
+      "tags": [
+        "apple",
+        "ios 27",
+        "ipados 27",
+        "macos 27",
+        "tech",
+        "wwdc",
+        "wwdc26"
+      ]
+    },
     {
       "title": "netlab: Switch to Lab Directory After an SSH Session Loss",
       "link": "https://blog.ipspace.net/2026/03/netlab-switch-lab-directory/?utm_source=atom_feed",
