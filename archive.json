@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-24T15:01:04.177625+00:00",
-  "article_count": 1663,
+  "last_updated": "2026-03-24T19:07:20.497268+00:00",
+  "article_count": 1664,
   "articles": [
+    {
+      "title": "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
+      "published": "Tue, 24 Mar 2026 18:04:00 +0000",
+      "published_parsed": "2026-03-24T18:04:00+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple Maps ads will look and work a bit like current App Store ads do.",
+      "tags": [
+        "apple",
+        "apple maps",
+        "tech"
+      ]
+    },
     {
       "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
       "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",

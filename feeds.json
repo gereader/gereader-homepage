@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T15:01:04.200311+00:00",
+  "last_updated": "2026-03-24T19:07:20.519678+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -40,6 +40,7 @@
     "app developers",
     "apple",
     "apple m5",
+    "apple maps",
     "apple silicon",
     "arista",
     "arp",
@@ -103,7 +104,6 @@
     "github",
     "google",
     "google gemini",
-    "google maps",
     "gre",
     "hacktivism",
     "high availability",
@@ -247,6 +247,20 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
+      "published": "Tue, 24 Mar 2026 18:04:00 +0000",
+      "published_parsed": "2026-03-24T18:04:00+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple Maps ads will look and work a bit like current App Store ads do.",
+      "tags": [
+        "apple",
+        "apple maps",
+        "tech"
+      ]
+    },
     {
       "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
       "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
@@ -769,21 +783,6 @@
         "apple",
         "macbook neo",
         "right to repair",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google Maps gets its biggest navigation redesign in a decade, plus more AI",
-      "link": "https://arstechnica.com/gadgets/2026/03/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai/",
-      "published": "Thu, 12 Mar 2026 12:30:51 +0000",
-      "published_parsed": "2026-03-12T12:30:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google Maps is about to get more chatty and immersive.",
-      "tags": [
-        "gemini",
-        "google",
-        "google maps",
         "tech"
       ]
     },
