@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-03-24T07:54:47.628164+00:00",
-  "article_count": 1662,
+  "last_updated": "2026-03-24T15:01:04.177625+00:00",
+  "article_count": 1663,
   "articles": [
+    {
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+      "published": "Tue, 24 Mar 2026 12:38:09 +0000",
+      "published_parsed": "2026-03-24T12:38:09+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Development houses: It's time to check your networks for infections.",
+      "tags": [
+        "biz & it",
+        "malware",
+        "security",
+        "teampcp",
+        "worm"
+      ]
+    },
     {
       "title": "Worth Reading: Why We've Tried to Replace Developers Every Decade",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-replacing-developers/?utm_source=atom_feed",

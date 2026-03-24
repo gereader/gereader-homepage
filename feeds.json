@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T07:54:47.650210+00:00",
-  "article_count": 109,
+  "last_updated": "2026-03-24T15:01:04.200311+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -57,14 +57,12 @@
     "botnets",
     "bridging",
     "broadcom",
-    "castleloader",
     "cerebras",
     "certificate transparency",
     "certifications",
     "change management",
     "chatgpt",
     "chatgtp",
-    "clickfix",
     "cloud",
     "coal",
     "code agents",
@@ -115,7 +113,6 @@
     "hp",
     "https",
     "info stealers",
-    "infostealer",
     "internet",
     "ios",
     "ios 27",
@@ -137,7 +134,6 @@
     "lisp",
     "llms",
     "load balancing",
-    "lumma",
     "m5 macbook air",
     "macbook air",
     "macbook neo",
@@ -220,6 +216,7 @@
     "syndication",
     "tcl",
     "tcp",
+    "teampcp",
     "tech",
     "tips",
     "tokens",
@@ -243,12 +240,29 @@
     "windows 11",
     "windows 11 25h2",
     "wipers",
+    "worm",
     "worth reading",
     "wwdc",
     "wwdc26",
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+      "published": "Tue, 24 Mar 2026 12:38:09 +0000",
+      "published_parsed": "2026-03-24T12:38:09+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Development houses: It's time to check your networks for infections.",
+      "tags": [
+        "biz & it",
+        "malware",
+        "security",
+        "teampcp",
+        "worm"
+      ]
+    },
     {
       "title": "Worth Reading: Why We've Tried to Replace Developers Every Decade",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-replacing-developers/?utm_source=atom_feed",
@@ -1359,24 +1373,6 @@
       ]
     },
     {
-      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
-      "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
-      "published": "Wed, 11 Feb 2026 22:11:40 +0000",
-      "published_parsed": "2026-02-11T22:11:40+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
-      "tags": [
-        "biz & it",
-        "castleloader",
-        "clickfix",
-        "infostealer",
-        "lumma",
-        "malware",
-        "security"
-      ]
-    },
-    {
       "title": "netlab 26.02: KinD support, more EVPN/VXLAN",
       "link": "https://blog.ipspace.net/2026/02/netlab-26-02/?utm_source=atom_feed",
       "published": "2026-02-11T10:15:00+01:00",
@@ -1819,20 +1815,6 @@
       "summary": "You can assign different admin profiles based on who is logging in, without creating local users on every firewall. In this post, we will look at",
       "tags": [
         "firewall",
-        "ise",
-        "networking"
-      ]
-    },
-    {
-      "title": "Arista Radius Administrator Login with Cisco ISE",
-      "link": "https://www.packetswitch.co.uk/arista-radius-administrator-login-with-cisco-ise/",
-      "published": "Wed, 24 Dec 2025 12:00:19 GMT",
-      "published_parsed": "2025-12-24T12:00:19+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/12/blog-banners-all.png",
-      "summary": "Arista comes with two built-in roles called network-admin and network-operator. ISE then responds with either access-accept or access-reject",
-      "tags": [
-        "arista",
         "ise",
         "networking"
       ]
