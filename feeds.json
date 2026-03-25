@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T18:59:45.619740+00:00",
-  "article_count": 106,
+  "last_updated": "2026-03-25T23:38:38.791004+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "15-inch macbook air",
     "accenture",
     "aci",
     "acquisition",
@@ -31,15 +30,12 @@
     "airpods max",
     "amazon",
     "amazon alexa",
-    "amazon prime video",
     "android",
     "ansible",
     "antitrust",
     "app developers",
     "apple",
-    "apple m5",
     "apple maps",
-    "apple silicon",
     "arista",
     "arp",
     "artificial intelligence",
@@ -54,6 +50,7 @@
     "biz & it",
     "blog",
     "botnets",
+    "bots",
     "bridging",
     "broadcom",
     "cerebras",
@@ -126,8 +123,6 @@
     "lisp",
     "llms",
     "load balancing",
-    "m5 macbook air",
-    "macbook air",
     "macbook neo",
     "machine learning",
     "macos 26 tahoe",
@@ -175,6 +170,7 @@
     "password managers",
     "performance",
     "podcast",
+    "police",
     "policy",
     "post quantum cryptography",
     "privacy",
@@ -183,6 +179,7 @@
     "python",
     "qos",
     "quantum computing",
+    "reddit",
     "renewables",
     "reviews",
     "routers",
@@ -198,11 +195,11 @@
     "shor's algorithm",
     "smartphones",
     "snmp",
+    "social media",
     "software gone wild",
     "steam deck",
     "steam machine",
     "steamos",
-    "streaming",
     "subscriptions",
     "supply chain attacks",
     "switching",
@@ -242,6 +239,36 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
+      "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "published": "Wed, 25 Mar 2026 21:12:03 +0000",
+      "published_parsed": "2026-03-25T21:12:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Company calls Guardian the \"most capable 911 response drone ever.”",
+      "tags": [
+        "drones",
+        "police",
+        "tech"
+      ]
+    },
+    {
+      "title": "Reddit will require \"fishy\" accounts to verify they are run by a human",
+      "link": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
+      "published": "Wed, 25 Mar 2026 20:04:57 +0000",
+      "published_parsed": "2026-03-25T20:04:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AI-generated content is still acceptable for now.",
+      "tags": [
+        "ai",
+        "bots",
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
@@ -734,41 +761,6 @@
         "adobe",
         "department of justice",
         "subscriptions",
-        "tech"
-      ]
-    },
-    {
-      "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
-      "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",
-      "published": "Fri, 13 Mar 2026 17:16:58 +0000",
-      "published_parsed": "2026-03-13T17:16:58+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon says its service requires \"significant investment.\"",
-      "tags": [
-        "ads",
-        "amazon",
-        "amazon prime video",
-        "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
-      "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
-      "published": "Fri, 13 Mar 2026 16:31:29 +0000",
-      "published_parsed": "2026-03-13T16:31:29+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
-      "tags": [
-        "15-inch macbook air",
-        "apple",
-        "apple m5",
-        "apple silicon",
-        "features",
-        "m5 macbook air",
-        "macbook air",
         "tech"
       ]
     },
@@ -1767,6 +1759,18 @@
       "summary": "In this post, we’ll go through the process of setting up Proxmox Backup Server and backing up all the VMs from my Proxmox server to this backup server. So, let’s get to it.",
       "tags": [
         "homelab",
+        "networking"
+      ]
+    },
+    {
+      "title": "You're Not Alone: Business Cases, AI, and Real Conversations",
+      "link": "https://networkautomation.forum/blog/autocon-4-in-review-what-you-told-us",
+      "published": "Wed, 31 Dec 2025 18:13:42 +0000",
+      "published_parsed": "2025-12-31T18:13:42+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "AutoCon 4 descended on Austin, Texas the week before Thanksgiving, and based on the post-event survey results, the community showed up in force and left energized. Over 700 people attended the main conference and 250+ participated in the pre-event workshops. We asked everyone to tell us what they...",
+      "tags": [
         "networking"
       ]
     },

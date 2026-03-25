@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-25T18:59:45.599412+00:00",
-  "article_count": 1667,
+  "last_updated": "2026-03-25T23:38:38.769243+00:00",
+  "article_count": 1669,
   "articles": [
+    {
+      "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
+      "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "published": "Wed, 25 Mar 2026 21:12:03 +0000",
+      "published_parsed": "2026-03-25T21:12:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Company calls Guardian the \"most capable 911 response drone ever.”",
+      "tags": [
+        "drones",
+        "police",
+        "tech"
+      ]
+    },
+    {
+      "title": "Reddit will require \"fishy\" accounts to verify they are run by a human",
+      "link": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
+      "published": "Wed, 25 Mar 2026 20:04:57 +0000",
+      "published_parsed": "2026-03-25T20:04:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AI-generated content is still acceptable for now.",
+      "tags": [
+        "ai",
+        "bots",
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
