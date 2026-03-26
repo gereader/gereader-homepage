@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T03:47:59.832684+00:00",
-  "article_count": 107,
+  "last_updated": "2026-03-26T08:02:57.757213+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -240,6 +240,19 @@
   ],
   "articles": [
     {
+      "title": "Worth Reading: Securing NTP and the Origins of Time",
+      "link": "https://blog.ipspace.net/2026/03/worth-reading-ntp-origins-time/?utm_source=atom_feed",
+      "published": "2026-03-26T07:54:00+01:00",
+      "published_parsed": "2026-03-26T07:54:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Geoff Huston published an article supposedly describing the challenge of securing NTP , but as is usually the case, he couldn’t skip the prior art going all the way back (almost) to the formation of Earth. Before coming to the how do we secure NTP section, you’ll learn everything about the wobbly...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
+    {
       "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
       "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
       "published": "Wed, 25 Mar 2026 21:12:03 +0000",
@@ -283,6 +296,19 @@
         "post quantum cryptography",
         "quantum computing",
         "security"
+      ]
+    },
+    {
+      "title": "Your AI is Only as Smart as the Network Context You Give it",
+      "link": "https://www.netbrain.com/blog/ai-intelligence-depends-on-network-context/",
+      "published": "2026-03-25T07:42:07Z",
+      "published_parsed": "2026-03-25T07:42:07+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "Ask an AI to help troubleshoot a voice quality complaint on your network. You’ll get an answer fast: check QoS policies, verify DSCP markings, review interface drops, and look at...",
+      "tags": [
+        "aiops",
+        "networking"
       ]
     },
     {
@@ -1265,6 +1291,7 @@
       "image": null,
       "summary": "Modern networks are expected to do more than stay online. They must support cloud workloads, remote users, security controls, and business-critical applications simultaneously. For many IT teams, this creates daily...",
       "tags": [
+        "company news",
         "networking"
       ]
     },
@@ -1277,6 +1304,12 @@
       "image": "https://www.netbrain.com/wp-content/uploads/2026/02/02-using-a-network-digital-twin.jpg",
       "summary": "The combination of hybrid networks and manual network operations creates a high risk of service disruption due to the increased chance of human error and configuration drift. Closed-loop automation, from...",
       "tags": [
+        "automated troubleshooting",
+        "change management",
+        "network assessment",
+        "network observability",
+        "network security",
+        "network visibility",
         "networking"
       ]
     },
@@ -1652,6 +1685,7 @@
       "image": null,
       "summary": "Broadband, Wi-Fi, and early smartphones pushed enterprise network traffic past the breaking point by 2004. MPLS VPNs suddenly spanned more sites than any engineer could mentally map. Outages crossed multiple...",
       "tags": [
+        "aiops",
         "networking"
       ]
     },
@@ -1720,6 +1754,12 @@
       "image": null,
       "summary": "Data is not the problem. What you do with it is. For years, network teams have lacked insight into downtime even with… More telemetry. More dashboards. More alerts. … And...",
       "tags": [
+        "aiops",
+        "automated troubleshooting",
+        "change management",
+        "network assessment",
+        "network observability",
+        "network visibility",
         "networking"
       ]
     },
