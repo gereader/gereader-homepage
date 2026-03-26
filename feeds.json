@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T15:07:14.679726+00:00",
+  "last_updated": "2026-03-26T19:11:53.079098+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,7 +15,6 @@
     "aci",
     "acquisition",
     "acquisitions",
-    "adobe",
     "ads",
     "agentic ai",
     "ai",
@@ -38,6 +37,7 @@
     "apple maps",
     "arista",
     "arp",
+    "arrow lake",
     "artificial intelligence",
     "aspen",
     "asus",
@@ -63,11 +63,12 @@
     "colorado",
     "company news",
     "containers",
+    "core ultra 200",
+    "core ultra 200s",
     "cumulus linux",
     "data center",
     "data centers",
     "deanonymization",
-    "department of justice",
     "design",
     "developer verification",
     "dhcp",
@@ -101,6 +102,7 @@
     "horizon worlds",
     "https",
     "info stealers",
+    "intel",
     "internet",
     "ios",
     "ios 26",
@@ -200,7 +202,6 @@
     "steam deck",
     "steam machine",
     "steamos",
-    "subscriptions",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -239,6 +240,23 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
+      "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
+      "published": "Thu, 26 Mar 2026 16:46:20 +0000",
+      "published_parsed": "2026-03-26T16:46:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
+      "tags": [
+        "arrow lake",
+        "core ultra 200",
+        "core ultra 200s",
+        "features",
+        "intel",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: Securing NTP and the Origins of Time",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-ntp-origins-time/?utm_source=atom_feed",
@@ -773,21 +791,6 @@
         "security",
         "supply chain attacks",
         "unicode"
-      ]
-    },
-    {
-      "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
-      "link": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
-      "published": "Fri, 13 Mar 2026 18:47:08 +0000",
-      "published_parsed": "2026-03-13T18:47:08+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Adobe says it will also give customers who \"qualify\" free services but is vague on details.",
-      "tags": [
-        "adobe",
-        "department of justice",
-        "subscriptions",
-        "tech"
       ]
     },
     {
