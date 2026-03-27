@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T18:59:46.146655+00:00",
+  "last_updated": "2026-03-27T23:36:18.650413+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -44,6 +44,7 @@
     "asus",
     "automated troubleshooting",
     "automation",
+    "av1",
     "aws",
     "azure",
     "bgp",
@@ -75,6 +76,7 @@
     "dmvpn",
     "dns",
     "docker",
+    "dolby",
     "drones",
     "eigrp",
     "encryption",
@@ -87,7 +89,6 @@
     "features",
     "firewall",
     "firewalls",
-    "foldables",
     "gaming",
     "github",
     "google",
@@ -115,6 +116,7 @@
     "jinja",
     "lan",
     "laptops",
+    "lawsuit",
     "lcd",
     "ldp",
     "lg",
@@ -197,6 +199,7 @@
     "service providers",
     "shor's algorithm",
     "smartphones",
+    "snapchat",
     "snmp",
     "social media",
     "software gone wild",
@@ -244,6 +247,23 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
+      "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
+      "published": "Fri, 27 Mar 2026 20:31:21 +0000",
+      "published_parsed": "2026-03-27T20:31:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Big Tech declaring AV1 royalty-free “doesn't mean that it is.\"",
+      "tags": [
+        "av1",
+        "dolby",
+        "lawsuit",
+        "policy",
+        "snapchat",
+        "tech"
+      ]
+    },
     {
       "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
       "link": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
@@ -738,21 +758,6 @@
         "networks",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "After three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold",
-      "link": "https://arstechnica.com/gadgets/2026/03/after-three-months-samsung-is-ending-sales-of-the-2899-galaxy-z-trifold/",
-      "published": "Tue, 17 Mar 2026 16:10:02 +0000",
-      "published_parsed": "2026-03-17T16:10:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Samsung didn't offer an explanation for its decision, but it's not exactly a surprise.",
-      "tags": [
-        "foldables",
-        "samsung",
-        "smartphones",
-        "tech"
       ]
     },
     {

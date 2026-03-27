@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-03-27T18:59:46.126127+00:00",
-  "article_count": 1676,
+  "last_updated": "2026-03-27T23:36:18.628150+00:00",
+  "article_count": 1677,
   "articles": [
+    {
+      "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
+      "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
+      "published": "Fri, 27 Mar 2026 20:31:21 +0000",
+      "published_parsed": "2026-03-27T20:31:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Big Tech declaring AV1 royalty-free “doesn't mean that it is.\"",
+      "tags": [
+        "av1",
+        "dolby",
+        "lawsuit",
+        "policy",
+        "snapchat",
+        "tech"
+      ]
+    },
     {
       "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
       "link": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
