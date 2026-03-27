@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T08:00:47.156551+00:00",
+  "last_updated": "2026-03-27T14:53:33.019194+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,6 +11,7 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "3d v-cache",
     "accenture",
     "aci",
     "acquisition",
@@ -27,6 +28,9 @@
     "aiops",
     "amazon",
     "amazon alexa",
+    "amd",
+    "amd ryzen 9950x",
+    "amd ryzen 9950x3d",
     "android",
     "ansible",
     "antitrust",
@@ -37,7 +41,6 @@
     "arp",
     "arrow lake",
     "artificial intelligence",
-    "aspen",
     "asus",
     "automated troubleshooting",
     "automation",
@@ -57,7 +60,6 @@
     "cloud",
     "coal",
     "code agents",
-    "colorado",
     "company news",
     "containers",
     "core ultra 200",
@@ -83,7 +85,6 @@
     "exploits",
     "fabric",
     "features",
-    "fire",
     "firewall",
     "firewalls",
     "foldables",
@@ -183,6 +184,7 @@
     "renewables",
     "reviews",
     "routers",
+    "ryzen 9",
     "sam altman",
     "samrtphones",
     "samsung",
@@ -236,9 +238,29 @@
     "worth reading",
     "wwdc",
     "wwdc26",
+    "zen 5",
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "published": "Fri, 27 Mar 2026 12:44:12 +0000",
+      "published_parsed": "2026-03-27T12:44:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
+      "tags": [
+        "3d v-cache",
+        "amd",
+        "amd ryzen 9950x",
+        "amd ryzen 9950x3d",
+        "gaming",
+        "ryzen 9",
+        "tech",
+        "zen 5"
+      ]
+    },
     {
       "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
       "link": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
@@ -728,22 +750,6 @@
         "reviews",
         "samrtphones",
         "samsung",
-        "tech"
-      ]
-    },
-    {
-      "title": "Firefighting drones head to Aspen—can they suppress a blaze before humans arrive?",
-      "link": "https://arstechnica.com/gadgets/2026/03/firefighting-drones-head-to-aspen-can-they-suppress-a-blaze-before-humans-arrive/",
-      "published": "Tue, 17 Mar 2026 13:10:46 +0000",
-      "published_parsed": "2026-03-17T13:10:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Seneca's drones carry foam, fly at night, and don't need an on-site pilot.",
-      "tags": [
-        "aspen",
-        "colorado",
-        "drones",
-        "fire",
         "tech"
       ]
     },
