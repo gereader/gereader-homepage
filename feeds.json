@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T14:53:33.019194+00:00",
-  "article_count": 109,
+  "last_updated": "2026-03-27T18:59:46.146655+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -37,10 +37,10 @@
     "app developers",
     "apple",
     "apple maps",
+    "apple silicon",
     "arista",
     "arp",
     "arrow lake",
-    "artificial intelligence",
     "asus",
     "automated troubleshooting",
     "automation",
@@ -88,7 +88,6 @@
     "firewall",
     "firewalls",
     "foldables",
-    "galaxy s26",
     "gaming",
     "github",
     "google",
@@ -123,6 +122,8 @@
     "lisp",
     "llms",
     "load balancing",
+    "m2 ultra",
+    "mac pro",
     "macbook neo",
     "machine learning",
     "macos 26 tahoe",
@@ -156,8 +157,6 @@
     "networking fundamentals",
     "networks",
     "nfv",
-    "nintendo switch",
-    "nintendo switch 2",
     "nsx",
     "nuclear",
     "nvidia",
@@ -170,23 +169,25 @@
     "overlay networks",
     "password managers",
     "performance",
+    "playstation",
+    "playstation 5",
     "podcast",
     "police",
     "policy",
     "post quantum cryptography",
+    "power mac",
     "privacy",
     "propublica",
+    "ps5",
     "public use areas",
     "python",
     "qos",
     "quantum computing",
     "reddit",
     "renewables",
-    "reviews",
     "routers",
     "ryzen 9",
     "sam altman",
-    "samrtphones",
     "samsung",
     "san",
     "sd-wan",
@@ -199,6 +200,7 @@
     "snmp",
     "social media",
     "software gone wild",
+    "sony",
     "steam deck",
     "steam machine",
     "steamos",
@@ -242,6 +244,40 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
+      "link": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
+      "published": "Fri, 27 Mar 2026 15:57:40 +0000",
+      "published_parsed": "2026-03-27T15:57:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Memory, storage shortages have made all kinds of consumer tech more expensive.",
+      "tags": [
+        "gaming",
+        "playstation",
+        "playstation 5",
+        "ps5",
+        "sony",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
+      "published": "Fri, 27 Mar 2026 14:47:03 +0000",
+      "published_parsed": "2026-03-27T14:47:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "m2 ultra",
+        "mac pro",
+        "power mac",
+        "tech"
+      ]
+    },
     {
       "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
       "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
@@ -716,40 +752,6 @@
         "foldables",
         "samsung",
         "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
-      "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
-      "published": "Tue, 17 Mar 2026 15:11:28 +0000",
-      "published_parsed": "2026-03-17T15:11:28+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Switch games running at 720p can look worse on the Switch 2's 1080p display.",
-      "tags": [
-        "gaming",
-        "nintendo switch",
-        "nintendo switch 2",
-        "tech"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra review: Private and performant",
-      "link": "https://arstechnica.com/reviews/2026/03/samsung-galaxy-s26-ultra-review-private-and-performant/",
-      "published": "Tue, 17 Mar 2026 14:18:08 +0000",
-      "published_parsed": "2026-03-17T14:18:08+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "If you want to spend $1,300 on a phone, it might as well be this one.",
-      "tags": [
-        "android",
-        "artificial intelligence",
-        "features",
-        "galaxy s26",
-        "reviews",
-        "samrtphones",
-        "samsung",
         "tech"
       ]
     },
@@ -1817,19 +1819,6 @@
       "image": null,
       "summary": "AutoCon 4 descended on Austin, Texas the week before Thanksgiving, and based on the post-event survey results, the community showed up in force and left energized. Over 700 people attended the main conference and 250+ participated in the pre-event workshops. We asked everyone to tell us what they...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "What is BGP Confederation?",
-      "link": "https://www.packetswitch.co.uk/what-is-bgp-confederation/",
-      "published": "Sat, 27 Dec 2025 18:39:15 GMT",
-      "published_parsed": "2025-12-27T18:39:15+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/09/bgp-multi-home-5-.png",
-      "summary": "BGP confederations help solve this problem by dividing a large autonomous system into smaller sub-autonomous systems (sub-AS). Routers within the",
-      "tags": [
-        "bgp",
         "networking"
       ]
     }
