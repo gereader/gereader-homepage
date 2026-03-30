@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-30T04:08:26.136027+00:00",
-  "article_count": 1677,
+  "last_updated": "2026-03-30T08:22:13.314754+00:00",
+  "article_count": 1678,
   "articles": [
+    {
+      "title": "Changing Interfaces Connected to netlab Links",
+      "link": "https://blog.ipspace.net/2026/03/netlab-ifindex/?utm_source=atom_feed",
+      "published": "2026-03-30T07:27:00+02:00",
+      "published_parsed": "2026-03-30T07:27:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Some netlab users want to accurately replicate their physical network’s topology in a virtual lab. Ignoring the obvious caveats for a moment, the first hiccup is usually the interface naming. All bets are off if you’re using anything but Ethernet in your actual network, but even if you did...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
       "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
