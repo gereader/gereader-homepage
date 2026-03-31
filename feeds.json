@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T03:50:39.863702+00:00",
-  "article_count": 109,
+  "last_updated": "2026-03-31T08:09:52.821190+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -247,6 +247,20 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "BGP Labs: Use Your Preferred Device for External Routers",
+      "link": "https://blog.ipspace.net/2026/03/bgp-labs-device-flexibility/?utm_source=atom_feed",
+      "published": "2026-03-31T07:34:00+02:00",
+      "published_parsed": "2026-03-31T07:34:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: With the recent changes to online BGP labs , you can also use Aruba CX, Cisco IOS, Cisco IOS XE, Cisco IOS XR, Dell OS10, Junos, or VyOS as external lab devices in most lab exercises (you could always use these devices for the routers you worked on). Previously, you could choose between...",
+      "tags": [
+        "bgp",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Changing Interfaces Connected to netlab Links",
       "link": "https://blog.ipspace.net/2026/03/netlab-ifindex/?utm_source=atom_feed",
