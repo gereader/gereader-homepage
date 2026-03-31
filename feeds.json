@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T19:05:58.392720+00:00",
+  "last_updated": "2026-03-31T23:37:25.695622+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -20,11 +20,8 @@
     "agentic ai",
     "ai",
     "ai agents",
-    "ai chips",
     "ai coding",
     "ai criticism",
-    "ai development tools",
-    "ai speed",
     "aiops",
     "amazon",
     "amazon alexa",
@@ -54,7 +51,6 @@
     "bots",
     "bridging",
     "broadcom",
-    "cerebras",
     "certificate transparency",
     "certifications",
     "change management",
@@ -79,6 +75,7 @@
     "dolby",
     "drones",
     "eigrp",
+    "elliptic curve cryptography",
     "encryption",
     "end to end encryption",
     "energy",
@@ -91,6 +88,7 @@
     "firewalls",
     "gaming",
     "github",
+    "gmail",
     "google",
     "gre",
     "hacktivism",
@@ -158,12 +156,11 @@
     "networking",
     "networking fundamentals",
     "networks",
+    "neutral atoms",
     "nfv",
     "nsx",
     "nuclear",
-    "nvidia",
     "open source",
-    "openai",
     "openclaw",
     "openflow",
     "ospf",
@@ -189,8 +186,6 @@
     "renewables",
     "routers",
     "ryzen 9",
-    "sam altman",
-    "samsung",
     "san",
     "sd-wan",
     "sdn",
@@ -211,12 +206,10 @@
     "supply chain attacks",
     "switching",
     "syndication",
-    "tcl",
     "tcp",
     "teampcp",
     "tech",
     "tips",
-    "tokens",
     "traffic engineering",
     "training",
     "trivy",
@@ -247,6 +240,36 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+      "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+      "published": "Tue, 31 Mar 2026 18:25:33 +0000",
+      "published_parsed": "2026-03-31T18:25:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "No, the sky isn't falling, but Q Day is coming, and it won't be as expensive as thought.",
+      "tags": [
+        "biz & it",
+        "elliptic curve cryptography",
+        "neutral atoms",
+        "quantum computing",
+        "security"
+      ]
+    },
+    {
+      "title": "You can finally change the goofy Gmail address you chose years ago",
+      "link": "https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/",
+      "published": "Tue, 31 Mar 2026 17:55:39 +0000",
+      "published_parsed": "2026-03-31T17:55:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "All your data remains intact, and you can go back to your original address at any time.",
+      "tags": [
+        "gmail",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "BGP Labs: Use Your Preferred Device for External Routers",
       "link": "https://blog.ipspace.net/2026/03/bgp-labs-device-flexibility/?utm_source=atom_feed",
@@ -712,21 +735,6 @@
         "apple",
         "macbook neo",
         "tech"
-      ]
-    },
-    {
-      "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
-      "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
-      "published": "Thu, 19 Mar 2026 11:00:46 +0000",
-      "published_parsed": "2026-03-19T11:00:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"This is a serious warning shot.\"",
-      "tags": [
-        "samsung",
-        "tcl",
-        "tech",
-        "tvs"
       ]
     },
     {
@@ -1387,31 +1395,6 @@
         "is-is",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-      "published": "Thu, 12 Feb 2026 22:56:02 +0000",
-      "published_parsed": "2026-02-12T22:56:02+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
-      "tags": [
-        "ai",
-        "ai agents",
-        "ai chips",
-        "ai coding",
-        "ai development tools",
-        "ai speed",
-        "biz & it",
-        "cerebras",
-        "code agents",
-        "machine learning",
-        "nvidia",
-        "openai",
-        "sam altman",
-        "tokens"
       ]
     },
     {
