@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T15:04:53.023676+00:00",
-  "article_count": 110,
+  "last_updated": "2026-03-31T19:05:58.392720+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1839,18 +1839,6 @@
       "summary": "In this post, we’ll go through the process of setting up Proxmox Backup Server and backing up all the VMs from my Proxmox server to this backup server. So, let’s get to it.",
       "tags": [
         "homelab",
-        "networking"
-      ]
-    },
-    {
-      "title": "You're Not Alone: Business Cases, AI, and Real Conversations",
-      "link": "https://networkautomation.forum/blog/autocon-4-in-review-what-you-told-us",
-      "published": "Wed, 31 Dec 2025 18:13:42 +0000",
-      "published_parsed": "2025-12-31T18:13:42+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "AutoCon 4 descended on Austin, Texas the week before Thanksgiving, and based on the post-event survey results, the community showed up in force and left energized. Over 700 people attended the main conference and 250+ participated in the pre-event workshops. We asked everyone to tell us what they...",
-      "tags": [
         "networking"
       ]
     }
