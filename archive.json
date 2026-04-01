@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-01T04:12:53.846632+00:00",
-  "article_count": 1681,
+  "last_updated": "2026-04-01T08:16:45.763000+00:00",
+  "article_count": 1682,
   "articles": [
+    {
+      "title": "Every Layer of Review Makes You 10x Slower",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-reviews-are-slowing-you/?utm_source=atom_feed",
+      "published": "2026-04-01T08:25:00+02:00",
+      "published_parsed": "2026-04-01T08:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Avery Pennarun published yet another excellent article: every layer of review makes you 10x slower , effectively reiterating what I’ve been saying for decades : all the technology in the world won’t help you unless you re-architect the broken processes. AI is no exception, but of course, the AI...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
       "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
