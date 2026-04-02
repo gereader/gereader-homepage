@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T03:44:18.825383+00:00",
-  "article_count": 110,
+  "last_updated": "2026-04-02T08:08:20.917556+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -240,6 +240,19 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "SR Linux Configuration Conversion Tool",
+      "link": "https://blog.ipspace.net/2026/04/srlinux-config-conversion/?utm_source=atom_feed",
+      "published": "2026-04-02T08:35:00+02:00",
+      "published_parsed": "2026-04-02T08:35:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A year ago, I was complaining about SR Linux breaking its configuration data model with a new software release . At that time, I was promised it would only happen once a year, and, like clockwork, that moment arrived with the SR Linux release 26.03. However, this year Miguel Redondo fixed the...",
+      "tags": [
+        "automation",
+        "networking"
+      ]
+    },
     {
       "title": "Every Layer of Review Makes You 10x Slower",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-reviews-are-slowing-you/?utm_source=atom_feed",
