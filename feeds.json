@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T19:05:28.791751+00:00",
+  "last_updated": "2026-04-02T23:38:21.510812+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -17,11 +17,7 @@
     "acquisition",
     "acquisitions",
     "ads",
-    "agentic ai",
     "ai",
-    "ai agents",
-    "ai coding",
-    "ai criticism",
     "aiops",
     "amazon",
     "amazon alexa",
@@ -56,7 +52,6 @@
     "change management",
     "cloud",
     "coal",
-    "code agents",
     "company news",
     "containers",
     "core ultra 200",
@@ -125,7 +120,6 @@
     "m2 ultra",
     "mac pro",
     "macbook neo",
-    "machine learning",
     "macos 26 tahoe",
     "macos 27",
     "malware",
@@ -160,8 +154,6 @@
     "nfv",
     "nsx",
     "nuclear",
-    "open source",
-    "openclaw",
     "openflow",
     "ospf",
     "outage",
@@ -216,7 +208,6 @@
     "trump administration",
     "tvs",
     "unicode",
-    "vibe coding",
     "video",
     "virtualization",
     "vizio",
@@ -240,6 +231,20 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "published": "Thu, 02 Apr 2026 17:00:11 +0000",
+      "published_parsed": "2026-04-02T17:00:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+      "tags": [
+        "biz & it",
+        "features",
+        "security"
+      ]
+    },
     {
       "title": "SR Linux Configuration Conversion Tool",
       "link": "https://blog.ipspace.net/2026/04/srlinux-config-conversion/?utm_source=atom_feed",
@@ -1386,28 +1391,6 @@
         "network security",
         "network visibility",
         "networking"
-      ]
-    },
-    {
-      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-      "published": "Fri, 13 Feb 2026 19:40:21 +0000",
-      "published_parsed": "2026-02-13T19:40:21+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "This story has been retracted",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "ai agents",
-        "ai coding",
-        "ai criticism",
-        "biz & it",
-        "code agents",
-        "machine learning",
-        "open source",
-        "openclaw",
-        "vibe coding"
       ]
     },
     {

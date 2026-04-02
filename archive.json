@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-02T19:05:28.769852+00:00",
-  "article_count": 1683,
+  "last_updated": "2026-04-02T23:38:21.488396+00:00",
+  "article_count": 1684,
   "articles": [
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "published": "Thu, 02 Apr 2026 17:00:11 +0000",
+      "published_parsed": "2026-04-02T17:00:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+      "tags": [
+        "biz & it",
+        "features",
+        "security"
+      ]
+    },
     {
       "title": "SR Linux Configuration Conversion Tool",
       "link": "https://blog.ipspace.net/2026/04/srlinux-config-conversion/?utm_source=atom_feed",
