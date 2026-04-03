@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T14:47:12.472186+00:00",
+  "last_updated": "2026-04-03T18:52:39.335797+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -106,6 +106,7 @@
     "ipv6",
     "is-is",
     "ise",
+    "italy",
     "jinja",
     "lan",
     "laptops",
@@ -119,7 +120,6 @@
     "load balancing",
     "m2 ultra",
     "mac pro",
-    "macbook neo",
     "macos 26 tahoe",
     "macos 27",
     "malware",
@@ -231,6 +231,23 @@
   ],
   "articles": [
     {
+      "title": "Netflix must refund customers for years of price hikes, Italian court rules",
+      "link": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
+      "published": "Fri, 03 Apr 2026 17:41:51 +0000",
+      "published_parsed": "2026-04-03T17:41:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Consumer group says it will sue if Netflix doesn't reduce current prices.",
+      "tags": [
+        "europe",
+        "italy",
+        "netflix",
+        "policy",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
       "title": "What Is Network Automation?",
       "link": "https://www.netbrain.com/blog/what-is-network-automation/",
       "published": "2026-04-03T13:14:16Z",
@@ -317,7 +334,7 @@
       "published_parsed": "2026-04-02T17:00:11+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
-      "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+      "summary": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
       "tags": [
         "biz & it",
         "features",
@@ -831,20 +848,6 @@
         "developer verification",
         "google",
         "security",
-        "tech"
-      ]
-    },
-    {
-      "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
-      "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
-      "published": "Thu, 19 Mar 2026 16:50:10 +0000",
-      "published_parsed": "2026-03-19T16:50:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"8GB unified memory is the minimum practical configuration.\"",
-      "tags": [
-        "apple",
-        "macbook neo",
         "tech"
       ]
     },

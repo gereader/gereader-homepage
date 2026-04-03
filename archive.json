@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-04-03T14:47:12.449471+00:00",
-  "article_count": 1691,
+  "last_updated": "2026-04-03T18:52:39.314076+00:00",
+  "article_count": 1692,
   "articles": [
+    {
+      "title": "Netflix must refund customers for years of price hikes, Italian court rules",
+      "link": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
+      "published": "Fri, 03 Apr 2026 17:41:51 +0000",
+      "published_parsed": "2026-04-03T17:41:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Consumer group says it will sue if Netflix doesn't reduce current prices.",
+      "tags": [
+        "europe",
+        "italy",
+        "netflix",
+        "policy",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "What Is Network Automation?",
       "link": "https://www.netbrain.com/blog/what-is-network-automation/",
