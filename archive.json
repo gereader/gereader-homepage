@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-04-03T03:45:39.636372+00:00",
-  "article_count": 1684,
+  "last_updated": "2026-04-03T08:02:48.117807+00:00",
+  "article_count": 1689,
   "articles": [
+    {
+      "title": "Lab: Summarizing IS-IS Level-1 Routes",
+      "link": "https://blog.ipspace.net/2026/04/isis-summary/?utm_source=atom_feed",
+      "published": "2026-04-03T08:02:00+01:00",
+      "published_parsed": "2026-04-03T08:02:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "IS-IS was designed to carry node addresses (NSAPs) between level-1 routers (called Intermediate Systems ) within an area and area prefixes between level-2 routers, resulting in a perfect separation of concerns and forwarding information summarization. When IETF tried to use the same routing...",
+      "tags": [
+        "is-is",
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "What Is a Self-Healing Network?",
+      "link": "https://www.netbrain.com/blog/what-is-a-self-healing-network/",
+      "published": "2026-04-02T20:33:20Z",
+      "published_parsed": "2026-04-02T20:33:20+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/move-forward-with-self-healing-systems.jpg",
+      "summary": "A self-healing network can automatically detect issues, identify the cause, and take corrective action without waiting for manual intervention. Instead of reacting after users complain or applications fail, self-healing networks...",
+      "tags": [
+        "automated troubleshooting",
+        "networking"
+      ]
+    },
+    {
+      "title": "​​How AI Is Used in Network Security",
+      "link": "https://www.netbrain.com/blog/ai-in-network-security/",
+      "published": "2026-04-02T20:28:57Z",
+      "published_parsed": "2026-04-02T20:28:57+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/02-the-3-core-pillars-of-aidriven-network-security.jpg",
+      "summary": "Every security leader knows the crushing reality of alert fatigue. The day starts with hundreds or thousands of notifications vying for attention. Security teams are drowning in inefficiencies, where critical...",
+      "tags": [
+        "network security",
+        "networking"
+      ]
+    },
+    {
+      "title": "Understanding Agentic AI in the SOC",
+      "link": "https://www.netbrain.com/blog/understanding-agentic-ai-in-soc/",
+      "published": "2026-04-02T20:24:23Z",
+      "published_parsed": "2026-04-02T20:24:23+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/02-Why-Security-Leaders-Are-Turning-to-Agentic-SOC.jpg",
+      "summary": "Organizations deploy sophisticated monitoring tools across endpoints, networks, cloud environments, and applications. These platforms generate detailed telemetry, enabling analysts to detect anomalies and investigate suspicious behavior with greater visibility. However,...",
+      "tags": [
+        "network security",
+        "networking"
+      ]
+    },
+    {
+      "title": "Approaching Observability in a Multi-Cloud Environment",
+      "link": "https://www.netbrain.com/blog/approaching-observability-in-multi-cloud-environments/",
+      "published": "2026-04-02T20:21:37Z",
+      "published_parsed": "2026-04-02T20:21:37+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/03-Provides-Proactive-Issue-Detection.png",
+      "summary": "Using multicloud environments enables workloads to run across multiple networks and systems, offering flexibility and resilience. However, these layers introduce operational complexity. When telemetry comes from multiple sources, it creates...",
+      "tags": [
+        "network observability",
+        "networking"
+      ]
+    },
     {
       "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
       "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
