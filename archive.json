@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-03T08:02:48.117807+00:00",
-  "article_count": 1689,
+  "last_updated": "2026-04-03T14:47:12.449471+00:00",
+  "article_count": 1691,
   "articles": [
+    {
+      "title": "What Is Network Automation?",
+      "link": "https://www.netbrain.com/blog/what-is-network-automation/",
+      "published": "2026-04-03T13:14:16Z",
+      "published_parsed": "2026-04-03T13:14:16+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/03-body-Network-Configuration-Automation.png",
+      "summary": "Network automation is the use of software, scripts, and intelligent workflows to efficiently perform network tasks without the need for constant manual input. According to Gartner’s Market Guide for Network Automation Platforms, 67%...",
+      "tags": [
+        "network observability",
+        "network visibility",
+        "networking"
+      ]
+    },
     {
       "title": "Lab: Summarizing IS-IS Level-1 Routes",
       "link": "https://blog.ipspace.net/2026/04/isis-summary/?utm_source=atom_feed",
@@ -58,6 +72,19 @@
     {
       "title": "Approaching Observability in a Multi-Cloud Environment",
       "link": "https://www.netbrain.com/blog/approaching-observability-in-multi-cloud-environments/",
+      "published": "2026-04-02T20:21:37Z",
+      "published_parsed": "2026-04-02T20:21:37+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/03-Provides-Proactive-Issue-Detection.png",
+      "summary": "Using multicloud environments enables workloads to run across multiple networks and systems, offering flexibility and resilience. However, these layers introduce operational complexity. When telemetry comes from multiple sources, it creates...",
+      "tags": [
+        "network observability",
+        "networking"
+      ]
+    },
+    {
+      "title": "Approaching Observability in a Multi-Cloud Environment",
+      "link": "https://www.netbrain.com/blog/approaching-observability-in-multicloud-environments/",
       "published": "2026-04-02T20:21:37Z",
       "published_parsed": "2026-04-02T20:21:37+00:00",
       "source": "NetBrain Blog",

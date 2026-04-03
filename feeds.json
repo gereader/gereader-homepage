@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T08:02:48.140345+00:00",
+  "last_updated": "2026-04-03T14:47:12.472186+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -231,6 +231,20 @@
   ],
   "articles": [
     {
+      "title": "What Is Network Automation?",
+      "link": "https://www.netbrain.com/blog/what-is-network-automation/",
+      "published": "2026-04-03T13:14:16Z",
+      "published_parsed": "2026-04-03T13:14:16+00:00",
+      "source": "NetBrain Blog",
+      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/03-body-Network-Configuration-Automation.png",
+      "summary": "Network automation is the use of software, scripts, and intelligent workflows to efficiently perform network tasks without the need for constant manual input. According to Gartner’s Market Guide for Network Automation Platforms, 67%...",
+      "tags": [
+        "network observability",
+        "network visibility",
+        "networking"
+      ]
+    },
+    {
       "title": "Lab: Summarizing IS-IS Level-1 Routes",
       "link": "https://blog.ipspace.net/2026/04/isis-summary/?utm_source=atom_feed",
       "published": "2026-04-03T08:02:00+01:00",
@@ -285,7 +299,7 @@
     },
     {
       "title": "Approaching Observability in a Multi-Cloud Environment",
-      "link": "https://www.netbrain.com/blog/approaching-observability-in-multi-cloud-environments/",
+      "link": "https://www.netbrain.com/blog/approaching-observability-in-multicloud-environments/",
       "published": "2026-04-02T20:21:37Z",
       "published_parsed": "2026-04-02T20:21:37+00:00",
       "source": "NetBrain Blog",
@@ -1771,19 +1785,6 @@
       "tags": [
         "is-is",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "From Scripts to Agents: How Evolution of Automation Made AI Inevitable in NetOps",
-      "link": "https://www.netbrain.com/blog/evolution-of-automation/",
-      "published": "2026-01-20T17:38:00Z",
-      "published_parsed": "2026-01-20T17:38:00+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Broadband, Wi-Fi, and early smartphones pushed enterprise network traffic past the breaking point by 2004. MPLS VPNs suddenly spanned more sites than any engineer could mentally map. Outages crossed multiple...",
-      "tags": [
-        "aiops",
         "networking"
       ]
     },
