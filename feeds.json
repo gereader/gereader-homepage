@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T07:49:39.616896+00:00",
+  "last_updated": "2026-04-04T14:35:43.807211+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -276,7 +276,11 @@
       "image": "https://www.netbrain.com/wp-content/uploads/2026/04/03-body-Network-Configuration-Automation.png",
       "summary": "Network automation is the use of software, scripts, and intelligent workflows to efficiently perform network tasks without the need for constant manual input. According to Gartner’s Market Guide for Network Automation Platforms, 67%...",
       "tags": [
+        "automated troubleshooting",
+        "change management",
+        "network assessment",
         "network observability",
+        "network security",
         "network visibility",
         "networking"
       ]
@@ -301,10 +305,11 @@
       "published": "2026-04-02T20:33:20Z",
       "published_parsed": "2026-04-02T20:33:20+00:00",
       "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/move-forward-with-self-healing-systems.jpg",
+      "image": null,
       "summary": "A self-healing network can automatically detect issues, identify the cause, and take corrective action without waiting for manual intervention. Instead of reacting after users complain or applications fail, self-healing networks...",
       "tags": [
-        "automated troubleshooting",
+        "aiops",
+        "change management",
         "networking"
       ]
     },
@@ -317,6 +322,7 @@
       "image": "https://www.netbrain.com/wp-content/uploads/2026/04/02-the-3-core-pillars-of-aidriven-network-security.jpg",
       "summary": "Every security leader knows the crushing reality of alert fatigue. The day starts with hundreds or thousands of notifications vying for attention. Security teams are drowning in inefficiencies, where critical...",
       "tags": [
+        "aiops",
         "network security",
         "networking"
       ]
@@ -330,6 +336,7 @@
       "image": "https://www.netbrain.com/wp-content/uploads/2026/04/02-Why-Security-Leaders-Are-Turning-to-Agentic-SOC.jpg",
       "summary": "Organizations deploy sophisticated monitoring tools across endpoints, networks, cloud environments, and applications. These platforms generate detailed telemetry, enabling analysts to detect anomalies and investigate suspicious behavior with greater visibility. However,...",
       "tags": [
+        "aiops",
         "network security",
         "networking"
       ]
@@ -344,6 +351,7 @@
       "summary": "Using multicloud environments enables workloads to run across multiple networks and systems, offering flexibility and resilience. However, these layers introduce operational complexity. When telemetry comes from multiple sources, it creates...",
       "tags": [
         "network observability",
+        "network visibility",
         "networking"
       ]
     },
