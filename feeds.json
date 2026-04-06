@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T08:22:37.466865+00:00",
-  "article_count": 115,
+  "last_updated": "2026-04-06T14:51:52.783576+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1884,19 +1884,6 @@
       "summary": "I completely rewrote netlab’s device configuration file generation during the New Year break. netlab Release 26.01 no longer uses Ansible Jinja2 functionality and works with Ansible releases 12/13, which are used solely for configuration deployment. I had to break a few eggs to get there; if you...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Proxmox Backup Server Setup",
-      "link": "https://www.packetswitch.co.uk/setting-up-proxmox-backup-server/",
-      "published": "Tue, 06 Jan 2026 10:01:00 GMT",
-      "published_parsed": "2026-01-06T10:01:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2025/01/pbs-1-.png",
-      "summary": "In this post, we’ll go through the process of setting up Proxmox Backup Server and backing up all the VMs from my Proxmox server to this backup server. So, let’s get to it.",
-      "tags": [
-        "homelab",
         "networking"
       ]
     }
