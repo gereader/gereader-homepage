@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T15:11:58.596216+00:00",
+  "last_updated": "2026-04-07T19:08:58.240299+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,6 +12,8 @@
   ],
   "tags": [
     "3d v-cache",
+    "486",
+    "80486",
     "accenture",
     "aci",
     "acquisition",
@@ -92,8 +94,10 @@
     "history",
     "homelab",
     "https",
+    "i486",
     "info stealers",
     "intel",
+    "intel 486",
     "internet",
     "ios",
     "ios 26",
@@ -191,9 +195,6 @@
     "social media",
     "software gone wild",
     "sony",
-    "steam deck",
-    "steam machine",
-    "steamos",
     "streaming",
     "supply chain attacks",
     "switching",
@@ -232,6 +233,22 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Linux kernel maintainers are following through on removing Intel 486 support",
+      "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
+      "published": "Tue, 07 Apr 2026 16:39:12 +0000",
+      "published_parsed": "2026-04-07T16:39:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Linux devs think even one second spent on 486 support is a second too many.",
+      "tags": [
+        "486",
+        "80486",
+        "i486",
+        "intel 486",
+        "tech"
+      ]
+    },
     {
       "title": "Intel is going all-in on advanced chip packaging",
       "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
@@ -856,22 +873,6 @@
         "amazon",
         "amazon alexa",
         "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
-      "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
-      "published": "Fri, 20 Mar 2026 15:36:57 +0000",
-      "published_parsed": "2026-03-20T15:36:57+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Both AMD- and Intel-based hardware is getting better support in SteamOS 3.8.",
-      "tags": [
-        "gaming",
-        "steam deck",
-        "steam machine",
-        "steamos",
         "tech"
       ]
     },
