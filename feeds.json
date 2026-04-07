@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T19:08:58.240299+00:00",
+  "last_updated": "2026-04-07T23:39:41.275642+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -22,9 +22,9 @@
     "agentic ai",
     "ai",
     "ai chips",
+    "ai coding",
     "aiops",
     "amazon",
-    "amazon alexa",
     "amd",
     "amd ryzen 9950x",
     "amd ryzen 9950x3d",
@@ -37,6 +37,7 @@
     "arp",
     "arrow lake",
     "asus",
+    "attie",
     "automated troubleshooting",
     "automation",
     "av1",
@@ -45,6 +46,7 @@
     "bgp",
     "biz & it",
     "blog",
+    "bluesky",
     "botnets",
     "bots",
     "bridging",
@@ -54,6 +56,7 @@
     "change management",
     "chips",
     "chips fab",
+    "claude code",
     "cloud",
     "coal",
     "company news",
@@ -101,11 +104,10 @@
     "internet",
     "ios",
     "ios 26",
-    "ios 27",
     "ip kvms",
     "ip routing",
     "ipados 26",
-    "ipados 27",
+    "iphone",
     "iphones",
     "ipv6",
     "is-is",
@@ -117,6 +119,7 @@
     "lawsuit",
     "lcd",
     "ldp",
+    "lenovo",
     "lg",
     "lg display",
     "lisp",
@@ -125,7 +128,6 @@
     "m2 ultra",
     "mac pro",
     "macos 26 tahoe",
-    "macos 27",
     "malware",
     "medical devices",
     "mergers",
@@ -180,6 +182,7 @@
     "quantum computing",
     "reddit",
     "renewables",
+    "right to repair",
     "routers",
     "ryzen 9",
     "san",
@@ -211,6 +214,7 @@
     "tsmc",
     "tvs",
     "unicode",
+    "vibe coding",
     "video",
     "virtualization",
     "vizio",
@@ -221,18 +225,63 @@
     "walmart",
     "wan",
     "wi-fi",
-    "windows",
-    "windows 11",
-    "windows 11 25h2",
     "wipers",
     "worm",
     "worth reading",
-    "wwdc",
-    "wwdc26",
     "zen 5",
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Valve brings native Steam Link app to Apple's Vision Pro",
+      "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
+      "published": "Tue, 07 Apr 2026 22:21:21 +0000",
+      "published_parsed": "2026-04-07T22:21:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New app can replace third-party options that were jankier to use.",
+      "tags": [
+        "apple",
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
+      "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
+      "published": "Tue, 07 Apr 2026 22:08:32 +0000",
+      "published_parsed": "2026-04-07T22:08:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The MacBook Neo is a step in the right direction, though.",
+      "tags": [
+        "apple",
+        "iphone",
+        "laptops",
+        "lenovo",
+        "right to repair",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+      "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+      "published": "Tue, 07 Apr 2026 19:09:44 +0000",
+      "published_parsed": "2026-04-07T19:09:44+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+      "tags": [
+        "ai",
+        "ai coding",
+        "attie",
+        "bluesky",
+        "claude code",
+        "tech",
+        "vibe coding"
+      ]
+    },
     {
       "title": "Linux kernel maintainers are following through on removing Intel 486 support",
       "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
@@ -798,24 +847,6 @@
       ]
     },
     {
-      "title": "Apple will talk iOS 27, macOS 27, and more at WWDC 2026 on June 8",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-will-talk-ios-27-macos-27-and-more-at-wwdc-2026-on-june-8/",
-      "published": "Mon, 23 Mar 2026 18:34:59 +0000",
-      "published_parsed": "2026-03-23T18:34:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "WWDC is often light on hardware, but it's where big software announcements happen.",
-      "tags": [
-        "apple",
-        "ios 27",
-        "ipados 27",
-        "macos 27",
-        "tech",
-        "wwdc",
-        "wwdc26"
-      ]
-    },
-    {
       "title": "netlab: Switch to Lab Directory After an SSH Session Loss",
       "link": "https://blog.ipspace.net/2026/03/netlab-switch-lab-directory/?utm_source=atom_feed",
       "published": "2026-03-23T08:31:00+01:00",
@@ -826,22 +857,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
-      "link": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
-      "published": "Fri, 20 Mar 2026 21:26:50 +0000",
-      "published_parsed": "2026-03-20T21:26:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"Reducing unnecessary Copilot entry points\" is one of Microsoft's action items.",
-      "tags": [
-        "microsoft",
-        "tech",
-        "windows",
-        "windows 11",
-        "windows 11 25h2"
       ]
     },
     {
@@ -859,21 +874,6 @@
         "security",
         "supply chain attacks",
         "trivy"
-      ]
-    },
-    {
-      "title": "Amazon is reportedly developing an AI-centric smartphone",
-      "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
-      "published": "Fri, 20 Mar 2026 16:38:06 +0000",
-      "published_parsed": "2026-03-20T16:38:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon's second smartphone could forego an app store.",
-      "tags": [
-        "amazon",
-        "amazon alexa",
-        "smartphones",
-        "tech"
       ]
     },
     {
