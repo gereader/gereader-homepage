@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-04-07T08:14:14.064706+00:00",
-  "article_count": 1696,
+  "last_updated": "2026-04-07T15:11:58.574482+00:00",
+  "article_count": 1697,
   "articles": [
+    {
+      "title": "Intel is going all-in on advanced chip packaging",
+      "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
+      "published": "Tue, 07 Apr 2026 09:00:03 +0000",
+      "published_parsed": "2026-04-07T09:00:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Intel is hoping to cash in on the AI boom.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "chips",
+        "chips fab",
+        "intel",
+        "syndication",
+        "tech",
+        "tsmc"
+      ]
+    },
     {
       "title": "Worth Reading: Shameless Guesses, Not Hallucinations",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-ai-shameless-guesses/?utm_source=atom_feed",
