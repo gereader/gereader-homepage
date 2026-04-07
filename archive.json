@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-04-07T03:49:37.268138+00:00",
-  "article_count": 1694,
+  "last_updated": "2026-04-07T08:14:14.064706+00:00",
+  "article_count": 1696,
   "articles": [
+    {
+      "title": "Worth Reading: Shameless Guesses, Not Hallucinations",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-ai-shameless-guesses/?utm_source=atom_feed",
+      "published": "2026-04-07T07:36:00+02:00",
+      "published_parsed": "2026-04-07T07:36:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In a recent article, Scott Alexander made an interesting point: What AI produces are not hallucinations but shameless guesses (also known as bullshit ) because the training process rewards the correct answers but does not penalize the incorrect ones. After all, having an AI model say, “I don’t know...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
+    {
+      "title": "How to Run Python Tools Without Installing Them",
+      "link": "https://www.packetcoders.io/how-to-run-python-tools-without-installing-them/",
+      "published": "Tue, 07 Apr 2026 07:00:59 GMT",
+      "published_parsed": "2026-04-07T07:00:59+00:00",
+      "source": "Packet Coders",
+      "image": "https://www.packetcoders.io/content/images/2026/03/Tips-logo-1.webp",
+      "summary": "Use uvx to run development tools without adding them to your project dependencies. uvx runs each tool in an isolated, cached environment, keeping your pyproject.toml clean and focused on actual dependencies. Here's an example: # uvx (alias for uv run tool) # Format and lint code without modifying...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
       "link": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
