@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T15:12:35.433156+00:00",
+  "last_updated": "2026-04-08T19:20:55.751341+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -25,6 +25,7 @@
     "ai coding",
     "aiops",
     "amazon",
+    "amazon kindle",
     "amd",
     "amd ryzen 9950x",
     "amd ryzen 9950x3d",
@@ -115,14 +116,13 @@
     "ise",
     "italy",
     "jinja",
+    "kindle",
     "lan",
     "laptops",
     "lawsuit",
-    "lcd",
     "ldp",
     "lenovo",
     "lg",
-    "lg display",
     "lisp",
     "llms",
     "load balancing",
@@ -231,6 +231,21 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
+      "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
+      "published": "Wed, 08 Apr 2026 15:26:57 +0000",
+      "published_parsed": "2026-04-08T15:26:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Post-2013 Kindles will continue to work, even if they no longer receive updates.",
+      "tags": [
+        "amazon",
+        "amazon kindle",
+        "kindle",
+        "tech"
+      ]
+    },
     {
       "title": "Thousands of consumer routers hacked by Russia's military",
       "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
@@ -367,7 +382,7 @@
       "published": "Tue, 07 Apr 2026 07:00:59 GMT",
       "published_parsed": "2026-04-07T07:00:59+00:00",
       "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2026/03/Tips-logo-1.webp",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/03/Tips-logo-1.webp",
       "summary": "Use uvx to run development tools without adding them to your project dependencies. uvx runs each tool in an isolated, cached environment, keeping your pyproject.toml clean and focused on actual dependencies. Here's an example: # uvx (alias for uv run tool) # Format and lint code without modifying...",
       "tags": [
         "networking",
@@ -861,22 +876,6 @@
       ]
     },
     {
-      "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
-      "link": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
-      "published": "Mon, 23 Mar 2026 20:29:09 +0000",
-      "published_parsed": "2026-03-23T20:29:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Dell XPS laptops will be the first to use the display tech that reaches up to 120 Hz.",
-      "tags": [
-        "laptops",
-        "lcd",
-        "lg",
-        "lg display",
-        "tech"
-      ]
-    },
-    {
       "title": "netlab: Switch to Lab Directory After an SSH Session Loss",
       "link": "https://blog.ipspace.net/2026/03/netlab-switch-lab-directory/?utm_source=atom_feed",
       "published": "2026-03-23T08:31:00+01:00",
@@ -1135,7 +1134,7 @@
       "published": "Tue, 10 Mar 2026 08:00:07 GMT",
       "published_parsed": "2026-03-10T08:00:07+00:00",
       "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2026/03/Tips-logo.webp",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/03/Tips-logo.webp",
       "summary": "Use .filter() in Config Templates to query objects during lookups and conditional logic. This exposes the Django ORM QuerySet filter directly in your templates. Here's an example: {% for iface in device.interfaces.filter(enabled=True, name__startswith=\"ge-\") %} interface {{ iface.name }} {% endfor...",
       "tags": [
         "networking",
@@ -1319,7 +1318,7 @@
       "published": "Fri, 27 Feb 2026 15:09:32 GMT",
       "published_parsed": "2026-02-27T15:09:32+00:00",
       "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2026/02/Heading--19-.png",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/02/Heading--19-.png",
       "summary": "Typically, when working with an LLM, you send your data along with a prompt and receive a response. But this pattern often introduces issues, especially with public LLMs, due to security concerns and token bloat. There is a different pattern we can use: the Schema-Driven LLM Query Pattern . With...",
       "tags": [
         "ai",
@@ -1746,7 +1745,7 @@
       "published": "Wed, 28 Jan 2026 08:00:56 GMT",
       "published_parsed": "2026-01-28T08:00:56+00:00",
       "source": "Packet Coders",
-      "image": "https://www.packetcoders.io/content/images/2026/01/Tips-logo.webp",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/01/Tips-logo.webp",
       "summary": "OpenAI Tip: If you need structured output from the LLM, use structured responses and define the expected format with JSON Schema. Here’s an example: from openai import OpenAI import os client = OpenAI(api_key=os.getenv(\"OPENAI_API_KEY\")) # Define the exact shape you want back.",
       "tags": [
         "networking",

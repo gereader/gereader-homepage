@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-08T15:12:35.411092+00:00",
-  "article_count": 1703,
+  "last_updated": "2026-04-08T19:20:55.728730+00:00",
+  "article_count": 1704,
   "articles": [
+    {
+      "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
+      "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
+      "published": "Wed, 08 Apr 2026 15:26:57 +0000",
+      "published_parsed": "2026-04-08T15:26:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Post-2013 Kindles will continue to work, even if they no longer receive updates.",
+      "tags": [
+        "amazon",
+        "amazon kindle",
+        "kindle",
+        "tech"
+      ]
+    },
     {
       "title": "Thousands of consumer routers hacked by Russia's military",
       "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
