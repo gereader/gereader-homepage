@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-04-08T08:13:28.627632+00:00",
-  "article_count": 1702,
+  "last_updated": "2026-04-08T15:12:35.411092+00:00",
+  "article_count": 1703,
   "articles": [
+    {
+      "title": "Thousands of consumer routers hacked by Russia's military",
+      "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+      "published": "Wed, 08 Apr 2026 11:00:08 +0000",
+      "published_parsed": "2026-04-08T11:00:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
+      "tags": [
+        "biz & it",
+        "credentials",
+        "dns",
+        "hacking",
+        "policy",
+        "routers",
+        "security"
+      ]
+    },
     {
       "title": "Interoperability of EVPN/VXLAN with IPv6 Next Hops",
       "link": "https://blog.ipspace.net/2026/04/frr-evpn-ipv6-pmsi/?utm_source=atom_feed",

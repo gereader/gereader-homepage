@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T08:13:28.651501+00:00",
+  "last_updated": "2026-04-08T15:12:35.433156+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -63,6 +63,7 @@
     "containers",
     "core ultra 200",
     "core ultra 200s",
+    "credentials",
     "cumulus linux",
     "data center",
     "data centers",
@@ -78,7 +79,6 @@
     "eigrp",
     "elliptic curve cryptography",
     "encryption",
-    "end to end encryption",
     "energy",
     "europe",
     "evpn",
@@ -92,6 +92,7 @@
     "gmail",
     "google",
     "gre",
+    "hacking",
     "hacktivism",
     "high availability",
     "history",
@@ -163,7 +164,6 @@
     "ospf",
     "outage",
     "overlay networks",
-    "password managers",
     "performance",
     "playstation",
     "playstation 5",
@@ -228,10 +228,27 @@
     "wipers",
     "worm",
     "worth reading",
-    "zen 5",
-    "zero knowledge"
+    "zen 5"
   ],
   "articles": [
+    {
+      "title": "Thousands of consumer routers hacked by Russia's military",
+      "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+      "published": "Wed, 08 Apr 2026 11:00:08 +0000",
+      "published_parsed": "2026-04-08T11:00:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
+      "tags": [
+        "biz & it",
+        "credentials",
+        "dns",
+        "hacking",
+        "policy",
+        "routers",
+        "security"
+      ]
+    },
     {
       "title": "Interoperability of EVPN/VXLAN with IPv6 Next Hops",
       "link": "https://blog.ipspace.net/2026/04/frr-evpn-ipv6-pmsi/?utm_source=atom_feed",
@@ -1455,23 +1472,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "Password managers' promise that they can't see your vaults isn't always true",
-      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-      "published": "Tue, 17 Feb 2026 20:43:01 +0000",
-      "published_parsed": "2026-02-17T20:43:01+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Contrary to what password managers say, a server compromise can mean game over.",
-      "tags": [
-        "biz & it",
-        "end to end encryption",
-        "features",
-        "password managers",
-        "security",
-        "zero knowledge"
       ]
     },
     {
