@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-04-08T19:20:55.728730+00:00",
-  "article_count": 1704,
+  "last_updated": "2026-04-08T23:40:34.534707+00:00",
+  "article_count": 1707,
   "articles": [
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "published": "Wed, 08 Apr 2026 20:49:11 +0000",
+      "published_parsed": "2026-04-08T20:49:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+      "tags": [
+        "biz & it",
+        "critical infrastructure",
+        "hacking",
+        "plcs",
+        "policy",
+        "programmable logic controllers",
+        "security"
+      ]
+    },
+    {
+      "title": "How our digital devices are putting our right to privacy at risk",
+      "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+      "published": "Wed, 08 Apr 2026 19:17:30 +0000",
+      "published_parsed": "2026-04-08T19:17:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You .",
+      "tags": [
+        "books",
+        "culture",
+        "data surveillance",
+        "digital policing",
+        "law fare",
+        "policy",
+        "tech"
+      ]
+    },
+    {
+      "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
+      "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
+      "published": "Wed, 08 Apr 2026 18:39:08 +0000",
+      "published_parsed": "2026-04-08T18:39:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Motorola's budget phones are much less budget-friendly today.",
+      "tags": [
+        "motorola",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
       "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",

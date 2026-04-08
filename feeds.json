@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T19:20:55.751341+00:00",
+  "last_updated": "2026-04-08T23:40:34.558115+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -32,7 +32,6 @@
     "ansible",
     "antitrust",
     "apple",
-    "apple maps",
     "apple silicon",
     "arista",
     "arp",
@@ -48,6 +47,7 @@
     "biz & it",
     "blog",
     "bluesky",
+    "books",
     "botnets",
     "bots",
     "bridging",
@@ -65,12 +65,16 @@
     "core ultra 200",
     "core ultra 200s",
     "credentials",
+    "critical infrastructure",
+    "culture",
     "cumulus linux",
     "data center",
     "data centers",
+    "data surveillance",
     "deanonymization",
     "design",
     "dhcp",
+    "digital policing",
     "distributed hash tables",
     "dmvpn",
     "dns",
@@ -105,10 +109,8 @@
     "intel 486",
     "internet",
     "ios",
-    "ios 26",
     "ip kvms",
     "ip routing",
-    "ipados 26",
     "iphone",
     "iphones",
     "ipv6",
@@ -119,6 +121,7 @@
     "kindle",
     "lan",
     "laptops",
+    "law fare",
     "lawsuit",
     "ldp",
     "lenovo",
@@ -128,12 +131,12 @@
     "load balancing",
     "m2 ultra",
     "mac pro",
-    "macos 26 tahoe",
     "malware",
     "medical devices",
     "mergers",
     "merkle trees",
     "microsoft",
+    "motorola",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -167,6 +170,7 @@
     "performance",
     "playstation",
     "playstation 5",
+    "plcs",
     "podcast",
     "police",
     "policy",
@@ -174,6 +178,7 @@
     "power mac",
     "privacy",
     "privilege escalation",
+    "programmable logic controllers",
     "propublica",
     "ps5",
     "public use areas",
@@ -224,13 +229,62 @@
     "vxlan",
     "walmart",
     "wan",
-    "wi-fi",
     "wipers",
     "worm",
     "worth reading",
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "published": "Wed, 08 Apr 2026 20:49:11 +0000",
+      "published_parsed": "2026-04-08T20:49:11+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+      "tags": [
+        "biz & it",
+        "critical infrastructure",
+        "hacking",
+        "plcs",
+        "policy",
+        "programmable logic controllers",
+        "security"
+      ]
+    },
+    {
+      "title": "How our digital devices are putting our right to privacy at risk",
+      "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+      "published": "Wed, 08 Apr 2026 19:17:30 +0000",
+      "published_parsed": "2026-04-08T19:17:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You .",
+      "tags": [
+        "books",
+        "culture",
+        "data surveillance",
+        "digital policing",
+        "law fare",
+        "policy",
+        "tech"
+      ]
+    },
+    {
+      "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
+      "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
+      "published": "Wed, 08 Apr 2026 18:39:08 +0000",
+      "published_parsed": "2026-04-08T18:39:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Motorola's budget phones are much less budget-friendly today.",
+      "tags": [
+        "motorola",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
       "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
@@ -817,36 +871,6 @@
       ]
     },
     {
-      "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
-      "published": "Tue, 24 Mar 2026 19:06:03 +0000",
-      "published_parsed": "2026-03-24T19:06:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The 26.4 updates are more significant than the last few updates have been.",
-      "tags": [
-        "apple",
-        "ios 26",
-        "ipados 26",
-        "macos 26 tahoe",
-        "tech"
-      ]
-    },
-    {
-      "title": "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
-      "published": "Tue, 24 Mar 2026 18:04:00 +0000",
-      "published_parsed": "2026-03-24T18:04:00+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple Maps ads will look and work a bit like current App Store ads do.",
-      "tags": [
-        "apple",
-        "apple maps",
-        "tech"
-      ]
-    },
-    {
       "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
       "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
       "published": "Tue, 24 Mar 2026 12:38:09 +0000",
@@ -1338,23 +1362,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-      "published": "Thu, 26 Feb 2026 15:45:18 +0000",
-      "published_parsed": "2026-02-26T15:45:18+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
-      "tags": [
-        "biz & it",
-        "encryption",
-        "features",
-        "networking",
-        "security",
-        "wi-fi"
       ]
     },
     {
