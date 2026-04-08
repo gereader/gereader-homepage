@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T03:51:49.189416+00:00",
-  "article_count": 116,
+  "last_updated": "2026-04-08T08:13:28.651501+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -232,6 +232,19 @@
     "zero knowledge"
   ],
   "articles": [
+    {
+      "title": "Interoperability of EVPN/VXLAN with IPv6 Next Hops",
+      "link": "https://blog.ipspace.net/2026/04/frr-evpn-ipv6-pmsi/?utm_source=atom_feed",
+      "published": "2026-04-08T08:19:00+02:00",
+      "published_parsed": "2026-04-08T08:19:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "FRRouting release 10.6 promised “ BGP IPv6 VTEP support ,” claiming “ it enables EVPN deployments using IPv6 tunnel endpoints while maintaining full backward compatibility with IPv4 VTEPs .” Of course, I had to try it out, and since we already have EVPN over IPv6 running on Arista EOS (since netlab...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Valve brings native Steam Link app to Apple's Vision Pro",
       "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
