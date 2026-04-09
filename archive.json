@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-09T19:12:08.805463+00:00",
-  "article_count": 1707,
+  "last_updated": "2026-04-09T23:39:30.543841+00:00",
+  "article_count": 1708,
   "articles": [
+    {
+      "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+      "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+      "published": "Thu, 09 Apr 2026 19:44:31 +0000",
+      "published_parsed": "2026-04-09T19:44:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
+      "tags": [
+        "acquisitions",
+        "biz & it",
+        "broadcom",
+        "mergers",
+        "vmware"
+      ]
+    },
     {
       "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
       "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
