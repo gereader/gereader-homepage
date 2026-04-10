@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T14:51:26.787773+00:00",
+  "last_updated": "2026-04-10T18:58:43.197873+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -213,24 +213,37 @@
     "trivy",
     "trump administration",
     "tsmc",
-    "tvs",
     "unicode",
     "vibe coding",
     "video",
     "virtualization",
-    "vizio",
     "vmware",
     "vpn",
     "vulnerabilities",
     "vxlan",
-    "walmart",
     "wan",
     "wipers",
     "worm",
     "worth reading",
+    "youtube",
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
+      "link": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
+      "published": "Fri, 10 Apr 2026 17:08:58 +0000",
+      "published_parsed": "2026-04-10T17:08:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "An individual plan now cost $15.99 per month, and the free tier comes with buggy ads.",
+      "tags": [
+        "ads",
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
     {
       "title": "Public Videos: Docker 101",
       "link": "https://blog.ipspace.net/2026/04/docker-101-videos/?utm_source=atom_feed",
@@ -873,25 +886,6 @@
       "tags": [
         "aiops",
         "networking"
-      ]
-    },
-    {
-      "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
-      "link": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
-      "published": "Tue, 24 Mar 2026 22:26:56 +0000",
-      "published_parsed": "2026-03-24T22:26:56+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Walmart wants to connect what people stream \"directly with retail interaction.\"",
-      "tags": [
-        "acquisitions",
-        "ads",
-        "mergers",
-        "privacy",
-        "tech",
-        "tvs",
-        "vizio",
-        "walmart"
       ]
     },
     {

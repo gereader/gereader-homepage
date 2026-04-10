@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-10T14:51:26.765691+00:00",
-  "article_count": 1709,
+  "last_updated": "2026-04-10T18:58:43.175744+00:00",
+  "article_count": 1710,
   "articles": [
+    {
+      "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
+      "link": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
+      "published": "Fri, 10 Apr 2026 17:08:58 +0000",
+      "published_parsed": "2026-04-10T17:08:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "An individual plan now cost $15.99 per month, and the free tier comes with buggy ads.",
+      "tags": [
+        "ads",
+        "google",
+        "tech",
+        "youtube"
+      ]
+    },
     {
       "title": "Public Videos: Docker 101",
       "link": "https://blog.ipspace.net/2026/04/docker-101-videos/?utm_source=atom_feed",
