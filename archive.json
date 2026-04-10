@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-04-10T04:08:29.177836+00:00",
-  "article_count": 1708,
+  "last_updated": "2026-04-10T08:21:21.765497+00:00",
+  "article_count": 1709,
   "articles": [
+    {
+      "title": "Public Videos: Docker 101",
+      "link": "https://blog.ipspace.net/2026/04/docker-101-videos/?utm_source=atom_feed",
+      "published": "2026-04-10T07:36:00+01:00",
+      "published_parsed": "2026-04-10T07:36:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/04/containers.png",
+      "summary": "While according to the GIFEE True Believers™, Docker is dead and Kubernetes rules the world, people who want to have a bit of life might be perfectly happy running “obsolete” stuff like Docker on their laptops or Linux VMs. If you happen to be one of the latter, you might like the Introduction to...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
       "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
