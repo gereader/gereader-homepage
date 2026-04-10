@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T18:58:43.197873+00:00",
+  "last_updated": "2026-04-10T23:38:37.255097+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -49,7 +49,6 @@
     "bluesky",
     "books",
     "botnets",
-    "bots",
     "bridging",
     "broadcom",
     "certifications",
@@ -182,7 +181,6 @@
     "python",
     "qos",
     "quantum computing",
-    "reddit",
     "renewables",
     "right to repair",
     "routers",
@@ -196,7 +194,6 @@
     "smartphones",
     "snapchat",
     "snmp",
-    "social media",
     "software gone wild",
     "sony",
     "streaming",
@@ -222,6 +219,10 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "windows 11",
+    "windows 11 25h2",
+    "windows 11 26h1",
+    "windows insider program",
     "wipers",
     "worm",
     "worth reading",
@@ -229,6 +230,22 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
+      "published": "Fri, 10 Apr 2026 18:00:44 +0000",
+      "published_parsed": "2026-04-10T18:00:44+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Windows Insider builds remain confusing, but they should be more predictable.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 25h2",
+        "windows 11 26h1",
+        "windows insider program"
+      ]
+    },
     {
       "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
       "link": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
@@ -840,22 +857,6 @@
       "tags": [
         "drones",
         "police",
-        "tech"
-      ]
-    },
-    {
-      "title": "Reddit will require \"fishy\" accounts to verify they are run by a human",
-      "link": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
-      "published": "Wed, 25 Mar 2026 20:04:57 +0000",
-      "published_parsed": "2026-03-25T20:04:57+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "AI-generated content is still acceptable for now.",
-      "tags": [
-        "ai",
-        "bots",
-        "reddit",
-        "social media",
         "tech"
       ]
     },
