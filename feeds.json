@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:20:57.415600+00:00",
+  "last_updated": "2026-04-13T09:01:09.576571+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -231,6 +231,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "netlab 26.04: EXOS, BGP Prefix Origination, More Static Routes",
+      "link": "https://blog.ipspace.net/2026/04/netlab-26-04/?utm_source=atom_feed",
+      "published": "2026-04-13T07:28:00+02:00",
+      "published_parsed": "2026-04-13T07:28:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.04 is out. Here are the highlights: Extreme Networks EXOS is supported as a Vagrant box or containerlab node with OSPF, VLAN, and VRRP configuration (by Seb d’Argoeuves ). The new bgp.advertise node attribute allows you to advertise networks in the IP routing table into BGP. It’s...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "UniFi UTR Initial Impressions, Setup and Review",
       "link": "https://www.packetswitch.co.uk/unifi-utr-initial-impressions-setup-and-review/",
@@ -1935,19 +1948,6 @@
       "summary": "TL&DR : Most probably not, but if you do, you’d better not rely on random blogs for professional advice #justSaying 😜 Here’s an interesting question I got from a reader in the midst of an OSPF-to-IS-IS migration: Why should one bother with different [IS-IS] areas when the routing hierarchy is...",
       "tags": [
         "is-is",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 26.01: EVPN for VXLAN-over-IPv6, Netscaler",
-      "link": "https://blog.ipspace.net/2026/01/netlab-26-01/?utm_source=atom_feed",
-      "published": "2026-01-13T07:19:00+01:00",
-      "published_parsed": "2026-01-13T07:19:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I completely rewrote netlab’s device configuration file generation during the New Year break. netlab Release 26.01 no longer uses Ansible Jinja2 functionality and works with Ansible releases 12/13, which are used solely for configuration deployment. I had to break a few eggs to get there; if you...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }

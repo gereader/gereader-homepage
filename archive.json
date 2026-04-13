@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-13T04:20:57.393405+00:00",
-  "article_count": 1712,
+  "last_updated": "2026-04-13T09:01:09.554283+00:00",
+  "article_count": 1713,
   "articles": [
+    {
+      "title": "netlab 26.04: EXOS, BGP Prefix Origination, More Static Routes",
+      "link": "https://blog.ipspace.net/2026/04/netlab-26-04/?utm_source=atom_feed",
+      "published": "2026-04-13T07:28:00+02:00",
+      "published_parsed": "2026-04-13T07:28:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.04 is out. Here are the highlights: Extreme Networks EXOS is supported as a Vagrant box or containerlab node with OSPF, VLAN, and VRRP configuration (by Seb d’Argoeuves ). The new bgp.advertise node attribute allows you to advertise networks in the IP routing table into BGP. It’s...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "UniFi UTR Initial Impressions, Setup and Review",
       "link": "https://www.packetswitch.co.uk/unifi-utr-initial-impressions-setup-and-review/",
