@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-04-13T19:17:46.232010+00:00",
-  "article_count": 1713,
+  "last_updated": "2026-04-13T23:47:59.305718+00:00",
+  "article_count": 1715,
   "articles": [
+    {
+      "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
+      "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
+      "published": "Mon, 13 Apr 2026 21:12:51 +0000",
+      "published_parsed": "2026-04-13T21:12:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cellular modems are complex black boxes of legacy code, but Google is making them safer with Rust.",
+      "tags": [
+        "google",
+        "pixel 10",
+        "tech"
+      ]
+    },
+    {
+      "title": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
+      "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
+      "published": "Mon, 13 Apr 2026 20:55:35 +0000",
+      "published_parsed": "2026-04-13T20:55:35+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "NZXT will forgive up to $5,000 in debt for customers of the Flex program.",
+      "tags": [
+        "desktops",
+        "gaming pc",
+        "policy",
+        "subscriptions",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.04: EXOS, BGP Prefix Origination, More Static Routes",
       "link": "https://blog.ipspace.net/2026/04/netlab-26-04/?utm_source=atom_feed",

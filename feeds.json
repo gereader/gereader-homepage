@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T19:17:46.254131+00:00",
+  "last_updated": "2026-04-13T23:47:59.326856+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -35,7 +35,6 @@
     "apple silicon",
     "arista",
     "arp",
-    "arrow lake",
     "asus",
     "attie",
     "automated troubleshooting",
@@ -60,8 +59,6 @@
     "coal",
     "company news",
     "containers",
-    "core ultra 200",
-    "core ultra 200s",
     "credentials",
     "critical infrastructure",
     "culture",
@@ -71,6 +68,7 @@
     "data surveillance",
     "deanonymization",
     "design",
+    "desktops",
     "dhcp",
     "digital policing",
     "distributed hash tables",
@@ -78,7 +76,6 @@
     "dns",
     "docker",
     "dolby",
-    "drones",
     "eigrp",
     "elliptic curve cryptography",
     "encryption",
@@ -91,6 +88,7 @@
     "firewall",
     "firewalls",
     "gaming",
+    "gaming pc",
     "github",
     "gmail",
     "google",
@@ -164,11 +162,11 @@
     "outage",
     "overlay networks",
     "performance",
+    "pixel 10",
     "playstation",
     "playstation 5",
     "plcs",
     "podcast",
-    "police",
     "policy",
     "post quantum cryptography",
     "power mac",
@@ -197,6 +195,7 @@
     "software gone wild",
     "sony",
     "streaming",
+    "subscriptions",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -231,6 +230,36 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
+      "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
+      "published": "Mon, 13 Apr 2026 21:12:51 +0000",
+      "published_parsed": "2026-04-13T21:12:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Cellular modems are complex black boxes of legacy code, but Google is making them safer with Rust.",
+      "tags": [
+        "google",
+        "pixel 10",
+        "tech"
+      ]
+    },
+    {
+      "title": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
+      "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
+      "published": "Mon, 13 Apr 2026 20:55:35 +0000",
+      "published_parsed": "2026-04-13T20:55:35+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "NZXT will forgive up to $5,000 in debt for customers of the Flex program.",
+      "tags": [
+        "desktops",
+        "gaming pc",
+        "policy",
+        "subscriptions",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.04: EXOS, BGP Prefix Origination, More Static Routes",
       "link": "https://blog.ipspace.net/2026/04/netlab-26-04/?utm_source=atom_feed",
@@ -845,23 +874,6 @@
       ]
     },
     {
-      "title": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
-      "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
-      "published": "Thu, 26 Mar 2026 16:46:20 +0000",
-      "published_parsed": "2026-03-26T16:46:20+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
-      "tags": [
-        "arrow lake",
-        "core ultra 200",
-        "core ultra 200s",
-        "features",
-        "intel",
-        "tech"
-      ]
-    },
-    {
       "title": "Worth Reading: Securing NTP and the Origins of Time",
       "link": "https://blog.ipspace.net/2026/03/worth-reading-ntp-origins-time/?utm_source=atom_feed",
       "published": "2026-03-26T07:54:00+01:00",
@@ -872,20 +884,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
-      "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
-      "published": "Wed, 25 Mar 2026 21:12:03 +0000",
-      "published_parsed": "2026-03-25T21:12:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Company calls Guardian the \"most capable 911 response drone ever.”",
-      "tags": [
-        "drones",
-        "police",
-        "tech"
       ]
     },
     {
