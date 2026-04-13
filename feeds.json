@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T09:01:09.576571+00:00",
+  "last_updated": "2026-04-13T15:16:52.721374+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -250,7 +250,7 @@
       "published": "Sat, 11 Apr 2026 18:38:33 GMT",
       "published_parsed": "2026-04-11T18:38:33+00:00",
       "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2026/04/utr-2-.png",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/04/utr-2-.png",
       "summary": "The UTR is a small, portable router that you can take anywhere with you. It fits in your pocket. It supports both 2.4GHz and 5GHz bands and can",
       "tags": [
         "network",
@@ -1625,7 +1625,7 @@
       "published": "Tue, 10 Feb 2026 07:19:45 GMT",
       "published_parsed": "2026-02-10T07:19:45+00:00",
       "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2026/02/multicast-6-.png",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/02/multicast-6-.png",
       "summary": "AutoRP solves this problem by allowing routers to dynamically learn the RP address. Instead of manually configuring the RP on each router",
       "tags": [
         "multicast",
@@ -1651,7 +1651,7 @@
       "published": "Sat, 07 Feb 2026 12:54:18 GMT",
       "published_parsed": "2026-02-07T12:54:18+00:00",
       "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-5-.png",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast-5-.png",
       "summary": "Sparse Mode only sends traffic to parts of the network that explicitly request it. Routers with interested receivers send Join messages toward",
       "tags": [
         "multicast",
@@ -1742,7 +1742,7 @@
       "published": "Thu, 29 Jan 2026 08:05:53 GMT",
       "published_parsed": "2026-01-29T08:05:53+00:00",
       "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-4-.png",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast-4-.png",
       "summary": "PIM Dense mode assumes that every subnet in the network has interested receivers, so it floods multicast traffic everywhere first. Routers that",
       "tags": [
         "multicast",
@@ -1821,7 +1821,7 @@
       "published": "Sun, 25 Jan 2026 19:10:13 GMT",
       "published_parsed": "2026-01-25T19:10:13+00:00",
       "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast-3-.png",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast-3-.png",
       "summary": "IGMP is the protocol used by receivers to signal their interest in multicast traffic. When a host wants to receive a multicast stream, it sends",
       "tags": [
         "multicast",
@@ -1834,7 +1834,7 @@
       "published": "Fri, 23 Jan 2026 21:07:29 GMT",
       "published_parsed": "2026-01-23T21:07:29+00:00",
       "source": "Packet Switch",
-      "image": "https://www.packetswitch.co.uk/content/images/2026/01/multicast.png",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast.png",
       "summary": "With multicast, the source sends only a single copy of the traffic into the network. As that traffic moves through the network, it is replicated",
       "tags": [
         "multicast",
