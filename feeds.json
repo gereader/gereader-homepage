@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T15:15:55.955041+00:00",
+  "last_updated": "2026-04-14T19:20:56.641924+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -50,6 +50,7 @@
     "botnets",
     "bridging",
     "broadcom",
+    "browsers",
     "certifications",
     "change management",
     "chips",
@@ -194,6 +195,7 @@
     "snmp",
     "software gone wild",
     "sony",
+    "spam",
     "streaming",
     "subscriptions",
     "supply chain attacks",
@@ -230,6 +232,21 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Google will begin punishing sites for back button hijacking in June",
+      "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+      "published": "Tue, 14 Apr 2026 15:48:41 +0000",
+      "published_parsed": "2026-04-14T15:48:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
+      "tags": [
+        "browsers",
+        "google",
+        "spam",
+        "tech"
+      ]
+    },
     {
       "title": "What is Netlab and Why Network Engineers Should Care",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-what-is-netlab/?utm_source=atom_feed",
@@ -871,20 +888,6 @@
         "ryzen 9",
         "tech",
         "zen 5"
-      ]
-    },
-    {
-      "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
-      "link": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
-      "published": "Thu, 26 Mar 2026 20:30:48 +0000",
-      "published_parsed": "2026-03-26T20:30:48+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Netflix last raised prices in January 2025.",
-      "tags": [
-        "netflix",
-        "streaming",
-        "tech"
       ]
     },
     {

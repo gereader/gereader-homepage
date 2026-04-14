@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-14T15:15:55.936693+00:00",
-  "article_count": 1716,
+  "last_updated": "2026-04-14T19:20:56.619580+00:00",
+  "article_count": 1717,
   "articles": [
+    {
+      "title": "Google will begin punishing sites for back button hijacking in June",
+      "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+      "published": "Tue, 14 Apr 2026 15:48:41 +0000",
+      "published_parsed": "2026-04-14T15:48:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
+      "tags": [
+        "browsers",
+        "google",
+        "spam",
+        "tech"
+      ]
+    },
     {
       "title": "What is Netlab and Why Network Engineers Should Care",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-what-is-netlab/?utm_source=atom_feed",
