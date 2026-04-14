@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-04-14T19:20:56.619580+00:00",
-  "article_count": 1717,
+  "last_updated": "2026-04-14T23:45:22.306072+00:00",
+  "article_count": 1719,
   "articles": [
+    {
+      "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+      "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+      "published": "Tue, 14 Apr 2026 22:00:31 +0000",
+      "published_parsed": "2026-04-14T22:00:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Some 2023 and 2024 models are also affected.",
+      "tags": [
+        "sony",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
+      "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
+      "published": "Tue, 14 Apr 2026 19:58:52 +0000",
+      "published_parsed": "2026-04-14T19:58:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Paying more for the same stuff\" is the story of consumer technology in 2026.",
+      "tags": [
+        "microsoft surface",
+        "tech"
+      ]
+    },
     {
       "title": "Google will begin punishing sites for back button hijacking in June",
       "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
