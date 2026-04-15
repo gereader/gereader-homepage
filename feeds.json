@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:09:29.090200+00:00",
+  "last_updated": "2026-04-15T08:27:42.522043+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -224,6 +224,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "BGP Labs: Graceful Degradation for Unsupported Devices",
+      "link": "https://blog.ipspace.net/2026/04/bgp-labs-graceful-degradation/?utm_source=atom_feed",
+      "published": "2026-04-15T07:59:00+02:00",
+      "published_parsed": "2026-04-15T07:59:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A few weeks ago, I described the changes in the online BGP labs that allow you to use most of the common network operating systems as “external” routers 1 . However, while we keep improving it, netlab still can’t configure all BGP features on all supported devices (PRs from Nokia and Mikrotik fans...",
+      "tags": [
+        "bgp",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
       "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
@@ -1921,19 +1935,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "Using netlab to Set Up Demos",
-      "link": "https://blog.ipspace.net/2026/01/using-netlab-demos/?utm_source=atom_feed",
-      "published": "2026-01-15T08:15:00+01:00",
-      "published_parsed": "2026-01-15T08:15:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "David Gee was time-pressed to set up a demo network to showcase his network automation solution and found that a Ubuntu VM running netlab to orchestrate Arista cEOS containers on his Apple Silicon laptop was exactly what he needed. I fixed a few blog posts based on his feedback (I can’t tell you...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]

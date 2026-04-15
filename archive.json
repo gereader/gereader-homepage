@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-15T04:09:29.067360+00:00",
-  "article_count": 1719,
+  "last_updated": "2026-04-15T08:27:42.500644+00:00",
+  "article_count": 1720,
   "articles": [
+    {
+      "title": "BGP Labs: Graceful Degradation for Unsupported Devices",
+      "link": "https://blog.ipspace.net/2026/04/bgp-labs-graceful-degradation/?utm_source=atom_feed",
+      "published": "2026-04-15T07:59:00+02:00",
+      "published_parsed": "2026-04-15T07:59:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A few weeks ago, I described the changes in the online BGP labs that allow you to use most of the common network operating systems as “external” routers 1 . However, while we keep improving it, netlab still can’t configure all BGP features on all supported devices (PRs from Nokia and Mikrotik fans...",
+      "tags": [
+        "bgp",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
       "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
