@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T19:22:20.229976+00:00",
+  "last_updated": "2026-04-15T23:45:19.601228+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -25,6 +25,7 @@
     "aiops",
     "amazon",
     "amazon kindle",
+    "amazon prime video",
     "ansible",
     "antitrust",
     "apple",
@@ -34,7 +35,6 @@
     "attie",
     "automated troubleshooting",
     "automation",
-    "av1",
     "aws",
     "azure",
     "bgp",
@@ -71,7 +71,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "dolby",
     "eigrp",
     "elliptic curve cryptography",
     "encryption",
@@ -85,9 +84,10 @@
     "firewalls",
     "gaming",
     "gaming pc",
+    "gemini",
     "github",
-    "gmail",
     "google",
+    "google search",
     "gre",
     "hacking",
     "hacktivism",
@@ -113,13 +113,13 @@
     "lan",
     "laptops",
     "law fare",
-    "lawsuit",
     "ldp",
     "lenovo",
     "lg",
     "lisp",
     "llms",
     "load balancing",
+    "macos",
     "malware",
     "medical devices",
     "mergers",
@@ -133,6 +133,7 @@
     "multicast",
     "nat",
     "natural gas",
+    "nba",
     "netconf",
     "netdevops",
     "netflix",
@@ -158,8 +159,6 @@
     "overlay networks",
     "performance",
     "pixel 10",
-    "playstation",
-    "playstation 5",
     "plcs",
     "podcast",
     "policy",
@@ -168,7 +167,6 @@
     "privilege escalation",
     "programmable logic controllers",
     "propublica",
-    "ps5",
     "public use areas",
     "python",
     "qos",
@@ -183,12 +181,11 @@
     "segment routing",
     "service providers",
     "smartphones",
-    "snap",
-    "snapchat",
     "snmp",
     "software gone wild",
     "sony",
     "spam",
+    "sports",
     "streaming",
     "subscriptions",
     "supply chain attacks",
@@ -215,16 +212,71 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "windows",
     "windows 11",
+    "windows 11 24h2",
     "windows 11 25h2",
     "windows 11 26h1",
     "windows insider program",
+    "windows recall",
     "wipers",
     "worm",
     "worth reading",
     "youtube"
   ],
   "articles": [
+    {
+      "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
+      "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+      "published": "Wed, 15 Apr 2026 20:36:28 +0000",
+      "published_parsed": "2026-04-15T20:36:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"The vault is solid. The delivery truck is not.\"",
+      "tags": [
+        "security",
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2",
+        "windows recall"
+      ]
+    },
+    {
+      "title": "Google releases new apps for Windows and MacOS",
+      "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+      "published": "Wed, 15 Apr 2026 19:46:43 +0000",
+      "published_parsed": "2026-04-15T19:46:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/google-app-desktop-1.png",
+      "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google search",
+        "macos",
+        "tech",
+        "windows"
+      ]
+    },
+    {
+      "title": "Prime Video shows “technical difficulties” sign instead of NBA game in overtime",
+      "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
+      "published": "Wed, 15 Apr 2026 19:16:43 +0000",
+      "published_parsed": "2026-04-15T19:16:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Am I trippin??\" asks LeBron James.",
+      "tags": [
+        "amazon",
+        "amazon prime video",
+        "nba",
+        "sports",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "BGP Labs: Graceful Degradation for Unsupported Devices",
       "link": "https://blog.ipspace.net/2026/04/bgp-labs-graceful-degradation/?utm_source=atom_feed",
@@ -814,20 +866,6 @@
       ]
     },
     {
-      "title": "You can finally change the goofy Gmail address you chose years ago",
-      "link": "https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/",
-      "published": "Tue, 31 Mar 2026 17:55:39 +0000",
-      "published_parsed": "2026-03-31T17:55:39+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "All your data remains intact, and you can go back to your original address at any time.",
-      "tags": [
-        "gmail",
-        "google",
-        "tech"
-      ]
-    },
-    {
       "title": "BGP Labs: Use Your Preferred Device for External Routers",
       "link": "https://blog.ipspace.net/2026/03/bgp-labs-device-flexibility/?utm_source=atom_feed",
       "published": "2026-03-31T07:34:00+02:00",
@@ -852,41 +890,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
-      "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
-      "published": "Fri, 27 Mar 2026 20:31:21 +0000",
-      "published_parsed": "2026-03-27T20:31:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Big Tech declaring AV1 royalty-free “doesn't mean that it is,\" critic says.",
-      "tags": [
-        "av1",
-        "dolby",
-        "lawsuit",
-        "policy",
-        "snap",
-        "snapchat",
-        "tech"
-      ]
-    },
-    {
-      "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
-      "link": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
-      "published": "Fri, 27 Mar 2026 15:57:40 +0000",
-      "published_parsed": "2026-03-27T15:57:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Memory, storage shortages have made all kinds of consumer tech more expensive.",
-      "tags": [
-        "gaming",
-        "playstation",
-        "playstation 5",
-        "ps5",
-        "sony",
-        "tech"
       ]
     },
     {

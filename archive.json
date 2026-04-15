@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-04-15T19:22:20.207479+00:00",
-  "article_count": 1720,
+  "last_updated": "2026-04-15T23:45:19.578330+00:00",
+  "article_count": 1723,
   "articles": [
+    {
+      "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
+      "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+      "published": "Wed, 15 Apr 2026 20:36:28 +0000",
+      "published_parsed": "2026-04-15T20:36:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"The vault is solid. The delivery truck is not.\"",
+      "tags": [
+        "security",
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2",
+        "windows recall"
+      ]
+    },
+    {
+      "title": "Google releases new apps for Windows and MacOS",
+      "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+      "published": "Wed, 15 Apr 2026 19:46:43 +0000",
+      "published_parsed": "2026-04-15T19:46:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/google-app-desktop-1.png",
+      "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google search",
+        "macos",
+        "tech",
+        "windows"
+      ]
+    },
+    {
+      "title": "Prime Video shows “technical difficulties” sign instead of NBA game in overtime",
+      "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
+      "published": "Wed, 15 Apr 2026 19:16:43 +0000",
+      "published_parsed": "2026-04-15T19:16:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Am I trippin??\" asks LeBron James.",
+      "tags": [
+        "amazon",
+        "amazon prime video",
+        "nba",
+        "sports",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "BGP Labs: Graceful Degradation for Unsupported Devices",
       "link": "https://blog.ipspace.net/2026/04/bgp-labs-graceful-degradation/?utm_source=atom_feed",
