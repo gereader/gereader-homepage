@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-16T19:20:24.618676+00:00",
-  "article_count": 1725,
+  "last_updated": "2026-04-16T23:43:25.998035+00:00",
+  "article_count": 1726,
   "articles": [
+    {
+      "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
+      "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
+      "published": "Thu, 16 Apr 2026 21:33:33 +0000",
+      "published_parsed": "2026-04-16T21:33:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "For the first time in a while, the benefits of new Intel tech will trickle down.",
+      "tags": [
+        "core series 3",
+        "intel",
+        "tech",
+        "wildcat lake"
+      ]
+    },
     {
       "title": "New undersea cable cutter risks Internet’s backbone",
       "link": "https://arstechnica.com/gadgets/2026/04/china-tests-an-undersea-cable-cutter-as-suspected-sabotage-incidents-grow/",
