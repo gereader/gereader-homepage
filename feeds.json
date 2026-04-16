@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T15:42:30.077172+00:00",
+  "last_updated": "2026-04-16T19:20:24.641240+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -107,7 +107,6 @@
     "ipv6",
     "is-is",
     "ise",
-    "italy",
     "jinja",
     "kindle",
     "lan",
@@ -136,7 +135,6 @@
     "nba",
     "netconf",
     "netdevops",
-    "netflix",
     "netlab",
     "network",
     "network assessment",
@@ -187,7 +185,9 @@
     "spam",
     "sports",
     "streaming",
+    "submarine cables",
     "subscriptions",
+    "subsea cables",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -202,6 +202,7 @@
     "trump administration",
     "tsmc",
     "tvs",
+    "undersea cable cuts",
     "unicode",
     "unifi",
     "vibe coding",
@@ -225,6 +226,21 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "New undersea cable cutter risks Internet’s backbone",
+      "link": "https://arstechnica.com/gadgets/2026/04/china-tests-an-undersea-cable-cutter-as-suspected-sabotage-incidents-grow/",
+      "published": "Thu, 16 Apr 2026 17:32:19 +0000",
+      "published_parsed": "2026-04-16T17:32:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "China cable-cutter demo coincides with more sabotage of subsea Internet cables.",
+      "tags": [
+        "submarine cables",
+        "subsea cables",
+        "tech",
+        "undersea cable cuts"
+      ]
+    },
     {
       "title": "Testing FRRouting Pull Requests with netlab",
       "link": "https://blog.ipspace.net/2026/04/frr-pr-testing/?utm_source=atom_feed",
@@ -714,23 +730,6 @@
         "openclaw",
         "privilege escalation",
         "security"
-      ]
-    },
-    {
-      "title": "Netflix must refund customers for years of price hikes, Italian court rules",
-      "link": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
-      "published": "Fri, 03 Apr 2026 17:41:51 +0000",
-      "published_parsed": "2026-04-03T17:41:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Consumer group says it will sue if Netflix doesn't reduce current prices.",
-      "tags": [
-        "europe",
-        "italy",
-        "netflix",
-        "policy",
-        "streaming",
-        "tech"
       ]
     },
     {

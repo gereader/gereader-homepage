@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-16T15:42:30.028634+00:00",
-  "article_count": 1724,
+  "last_updated": "2026-04-16T19:20:24.618676+00:00",
+  "article_count": 1725,
   "articles": [
+    {
+      "title": "New undersea cable cutter risks Internet’s backbone",
+      "link": "https://arstechnica.com/gadgets/2026/04/china-tests-an-undersea-cable-cutter-as-suspected-sabotage-incidents-grow/",
+      "published": "Thu, 16 Apr 2026 17:32:19 +0000",
+      "published_parsed": "2026-04-16T17:32:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "China cable-cutter demo coincides with more sabotage of subsea Internet cables.",
+      "tags": [
+        "submarine cables",
+        "subsea cables",
+        "tech",
+        "undersea cable cuts"
+      ]
+    },
     {
       "title": "Testing FRRouting Pull Requests with netlab",
       "link": "https://blog.ipspace.net/2026/04/frr-pr-testing/?utm_source=atom_feed",
