@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:15:25.739473+00:00",
+  "last_updated": "2026-04-16T08:27:00.643764+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -225,6 +225,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Testing FRRouting Pull Requests with netlab",
+      "link": "https://blog.ipspace.net/2026/04/frr-pr-testing/?utm_source=atom_feed",
+      "published": "2026-04-16T07:50:00+02:00",
+      "published_parsed": "2026-04-16T07:50:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Every other blue moon, I discover a bug in FRRouting ( example ). Because the FRRouting developers care about their work, it usually gets fixed within a few days, often resulting in a “can you test this PR?” question. It turns out that’s surprisingly easy to do with netlab – here’s the step-by-step...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
       "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
@@ -1925,21 +1938,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Infrahub with Damien Garros",
-      "link": "https://blog.ipspace.net/2026/01/infrahub-damien-garros/?utm_source=atom_feed",
-      "published": "2026-01-16T07:47:00+01:00",
-      "published_parsed": "2026-01-16T07:47:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Why do we need Infrahub , another network automation tool? What does it bring to the table, who should be using it, and why is it using a graph database internally? I discussed these questions with Damien Garros , the driving force behind Infrahub, the founder of OpsMill (the company developing...",
-      "tags": [
-        "automation",
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
