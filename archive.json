@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-04-17T08:26:33.690407+00:00",
-  "article_count": 1727,
+  "last_updated": "2026-04-17T14:58:19.921462+00:00",
+  "article_count": 1728,
   "articles": [
+    {
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "published": "Fri, 17 Apr 2026 11:00:50 +0000",
+      "published_parsed": "2026-04-17T11:00:50+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "features",
+        "post quantum cryptography",
+        "quantum computing",
+        "security"
+      ]
+    },
     {
       "title": "Lab: Integrated Routing and Bridging (IRB) with EVPN MAC-VRF Instances",
       "link": "https://blog.ipspace.net/2026/04/lab-evpn-irb/?utm_source=atom_feed",

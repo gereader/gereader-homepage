@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T08:26:33.711334+00:00",
+  "last_updated": "2026-04-17T14:58:19.943976+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -58,12 +58,12 @@
     "core series 3",
     "credentials",
     "critical infrastructure",
+    "cryptography",
     "culture",
     "cumulus linux",
     "data center",
     "data centers",
     "data surveillance",
-    "deanonymization",
     "design",
     "desktops",
     "dhcp",
@@ -116,7 +116,6 @@
     "ldp",
     "lenovo",
     "lisp",
-    "llms",
     "load balancing",
     "macos",
     "malware",
@@ -161,7 +160,6 @@
     "podcast",
     "policy",
     "post quantum cryptography",
-    "privacy",
     "privilege escalation",
     "programmable logic controllers",
     "propublica",
@@ -226,6 +224,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "published": "Fri, 17 Apr 2026 11:00:50 +0000",
+      "published_parsed": "2026-04-17T11:00:50+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "features",
+        "post quantum cryptography",
+        "quantum computing",
+        "security"
+      ]
+    },
     {
       "title": "Lab: Integrated Routing and Bridging (IRB) with EVPN MAC-VRF Instances",
       "link": "https://blog.ipspace.net/2026/04/lab-evpn-irb/?utm_source=atom_feed",
@@ -1362,23 +1377,6 @@
         "acquisition",
         "biz & it",
         "mergers"
-      ]
-    },
-    {
-      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-      "published": "Tue, 03 Mar 2026 12:30:24 +0000",
-      "published_parsed": "2026-03-03T12:30:24+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "deanonymization",
-        "llms",
-        "privacy",
-        "security"
       ]
     },
     {
