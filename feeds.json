@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T19:05:10.008846+00:00",
+  "last_updated": "2026-04-17T23:41:52.486982+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,9 +11,7 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "accenture",
     "aci",
-    "acquisition",
     "acquisitions",
     "ads",
     "agentic ai",
@@ -53,9 +51,11 @@
     "core series 3",
     "credentials",
     "critical infrastructure",
+    "cryptocurrency exchange",
     "cryptography",
     "culture",
     "cumulus linux",
+    "cyberattack",
     "data center",
     "data centers",
     "data surveillance",
@@ -86,6 +86,7 @@
     "google",
     "google search",
     "gre",
+    "grinex",
     "hacking",
     "hacktivism",
     "high availability",
@@ -108,7 +109,6 @@
     "laptops",
     "law fare",
     "ldp",
-    "lenovo",
     "lisp",
     "load balancing",
     "macos",
@@ -167,6 +167,7 @@
     "renewables",
     "right to repair",
     "routers",
+    "russian hacking",
     "san",
     "sd-wan",
     "sdn",
@@ -221,6 +222,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "published": "Fri, 17 Apr 2026 21:28:35 +0000",
+      "published_parsed": "2026-04-17T21:28:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "tags": [
+        "biz & it",
+        "cryptocurrency exchange",
+        "cyberattack",
+        "grinex",
+        "russian hacking",
+        "security"
+      ]
+    },
     {
       "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
       "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
@@ -689,7 +707,6 @@
         "apple",
         "iphone",
         "laptops",
-        "lenovo",
         "right to repair",
         "smartphones",
         "tech"
@@ -1358,21 +1375,6 @@
         "evpn",
         "mpls",
         "networking"
-      ]
-    },
-    {
-      "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
-      "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
-      "published": "Tue, 03 Mar 2026 22:20:06 +0000",
-      "published_parsed": "2026-03-03T22:20:06+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
-      "tags": [
-        "accenture",
-        "acquisition",
-        "biz & it",
-        "mergers"
       ]
     },
     {
