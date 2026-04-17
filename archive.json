@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-04-17T14:58:19.921462+00:00",
-  "article_count": 1728,
+  "last_updated": "2026-04-17T19:05:09.990117+00:00",
+  "article_count": 1730,
   "articles": [
+    {
+      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
+      "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
+      "published": "Fri, 17 Apr 2026 17:42:42 +0000",
+      "published_parsed": "2026-04-17T17:42:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The two newest Fire Sticks block apps from outside of Amazon's store.",
+      "tags": [
+        "amazon",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "published": "Fri, 17 Apr 2026 16:23:20 +0000",
+      "published_parsed": "2026-04-17T16:23:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
+      "tags": [
+        "ai",
+        "data centers",
+        "facebook",
+        "gaming",
+        "meta",
+        "prices",
+        "quest",
+        "spending",
+        "tech"
+      ]
+    },
     {
       "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
       "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",

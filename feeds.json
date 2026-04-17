@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T14:58:19.943976+00:00",
+  "last_updated": "2026-04-17T19:05:10.008846+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,8 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "486",
-    "80486",
     "accenture",
     "aci",
     "acquisition",
@@ -20,7 +18,6 @@
     "ads",
     "agentic ai",
     "ai",
-    "ai chips",
     "ai coding",
     "aiops",
     "amazon",
@@ -48,8 +45,6 @@
     "browsers",
     "certifications",
     "change management",
-    "chips",
-    "chips fab",
     "claude code",
     "cloud",
     "coal",
@@ -80,6 +75,7 @@
     "evpn",
     "exploits",
     "fabric",
+    "facebook",
     "features",
     "firewall",
     "firewalls",
@@ -95,10 +91,8 @@
     "high availability",
     "history",
     "homelab",
-    "i486",
     "info stealers",
     "intel",
-    "intel 486",
     "internet",
     "ios",
     "ip kvms",
@@ -121,6 +115,7 @@
     "malware",
     "medical devices",
     "mergers",
+    "meta",
     "microsoft",
     "microsoft surface",
     "motorola",
@@ -160,6 +155,7 @@
     "podcast",
     "policy",
     "post quantum cryptography",
+    "prices",
     "privilege escalation",
     "programmable logic controllers",
     "propublica",
@@ -167,6 +163,7 @@
     "python",
     "qos",
     "quantum computing",
+    "quest",
     "renewables",
     "right to repair",
     "routers",
@@ -181,6 +178,7 @@
     "software gone wild",
     "sony",
     "spam",
+    "spending",
     "sports",
     "streaming",
     "submarine cables",
@@ -197,7 +195,6 @@
     "training",
     "trivy",
     "trump administration",
-    "tsmc",
     "tvs",
     "undersea cable cuts",
     "unicode",
@@ -224,6 +221,40 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
+      "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
+      "published": "Fri, 17 Apr 2026 17:42:42 +0000",
+      "published_parsed": "2026-04-17T17:42:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The two newest Fire Sticks block apps from outside of Amazon's store.",
+      "tags": [
+        "amazon",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "published": "Fri, 17 Apr 2026 16:23:20 +0000",
+      "published_parsed": "2026-04-17T16:23:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
+      "tags": [
+        "ai",
+        "data centers",
+        "facebook",
+        "gaming",
+        "meta",
+        "prices",
+        "quest",
+        "spending",
+        "tech"
+      ]
+    },
     {
       "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
       "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
@@ -680,41 +711,6 @@
         "claude code",
         "tech",
         "vibe coding"
-      ]
-    },
-    {
-      "title": "Linux kernel maintainers are following through on removing Intel 486 support",
-      "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
-      "published": "Tue, 07 Apr 2026 16:39:12 +0000",
-      "published_parsed": "2026-04-07T16:39:12+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Linux devs think even one second spent on 486 support is a second too many.",
-      "tags": [
-        "486",
-        "80486",
-        "i486",
-        "intel 486",
-        "tech"
-      ]
-    },
-    {
-      "title": "Intel is going all-in on advanced chip packaging",
-      "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
-      "published": "Tue, 07 Apr 2026 09:00:03 +0000",
-      "published_parsed": "2026-04-07T09:00:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Intel is hoping to cash in on the AI boom.",
-      "tags": [
-        "ai",
-        "ai chips",
-        "chips",
-        "chips fab",
-        "intel",
-        "syndication",
-        "tech",
-        "tsmc"
       ]
     },
     {
