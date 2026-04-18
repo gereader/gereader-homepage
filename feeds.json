@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T08:00:07.731834+00:00",
-  "article_count": 120,
+  "last_updated": "2026-04-18T14:42:25.410152+00:00",
+  "article_count": 121,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -222,6 +222,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Multicast PIM Bootstrap Router (BSR) (VI)",
+      "link": "https://www.packetswitch.co.uk/multicast-pim-bootstrap-router-bsr/",
+      "published": "Sat, 18 Apr 2026 08:32:46 GMT",
+      "published_parsed": "2026-04-18T08:32:46+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/02/multicast-7-.png",
+      "summary": "Instead of manually configuring the RP address on every router, BSR allows routers to learn RP information automatically. A router called the",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
     {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
       "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
