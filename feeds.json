@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T04:15:05.870871+00:00",
-  "article_count": 121,
+  "last_updated": "2026-04-19T08:06:18.172462+00:00",
+  "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1947,19 +1947,6 @@
         "mpls",
         "networking",
         "networking fundamentals"
-      ]
-    },
-    {
-      "title": "How Moving Away from Ansible Made netlab Faster",
-      "link": "https://blog.ipspace.net/2026/01/netlab-faster-without-ansible/?utm_source=atom_feed",
-      "published": "2026-01-19T07:36:00+01:00",
-      "published_parsed": "2026-01-19T07:36:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "TL&DR: Of course, the title is clickbait. While the differences are amazing, you won’t notice them in small topologies or when using bloatware that takes minutes to boot . Let’s start with the background story: due to the (now fixed) suboptimal behavior of bleeding-edge Ansible releases , I decided...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
