@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-04-20T15:17:01.611044+00:00",
-  "article_count": 1734,
+  "last_updated": "2026-04-20T19:10:09.123845+00:00",
+  "article_count": 1735,
   "articles": [
+    {
+      "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+      "link": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+      "published": "Mon, 20 Apr 2026 17:15:51 +0000",
+      "published_parsed": "2026-04-20T17:15:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
+      "tags": [
+        "ai",
+        "ai music",
+        "artificial intelligence",
+        "deezer",
+        "generative ai",
+        "tech"
+      ]
+    },
     {
       "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
       "link": "https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/",

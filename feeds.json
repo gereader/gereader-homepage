@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T15:17:01.634397+00:00",
+  "last_updated": "2026-04-20T19:10:09.146372+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,6 +16,7 @@
     "ads",
     "agentic ai",
     "ai",
+    "ai music",
     "aiops",
     "amazon",
     "amazon kindle",
@@ -25,6 +26,7 @@
     "apple",
     "arista",
     "arp",
+    "artificial intelligence",
     "asus",
     "automated troubleshooting",
     "automation",
@@ -55,6 +57,7 @@
     "data center",
     "data centers",
     "data surveillance",
+    "deezer",
     "dell",
     "design",
     "desktops",
@@ -79,6 +82,7 @@
     "gaming",
     "gaming pc",
     "gemini",
+    "generative ai",
     "github",
     "google",
     "google search",
@@ -96,7 +100,6 @@
     "ios",
     "ip kvms",
     "ip routing",
-    "iphone",
     "iphones",
     "ipv6",
     "is-is",
@@ -104,7 +107,6 @@
     "jinja",
     "kindle",
     "lan",
-    "laptops",
     "law fare",
     "ldp",
     "lisp",
@@ -165,7 +167,6 @@
     "quantum computing",
     "quest",
     "renewables",
-    "right to repair",
     "routers",
     "russian hacking",
     "san",
@@ -222,6 +223,23 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+      "link": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+      "published": "Mon, 20 Apr 2026 17:15:51 +0000",
+      "published_parsed": "2026-04-20T17:15:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
+      "tags": [
+        "ai",
+        "ai music",
+        "artificial intelligence",
+        "deezer",
+        "generative ai",
+        "tech"
+      ]
+    },
     {
       "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
       "link": "https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/",
@@ -738,23 +756,6 @@
       "tags": [
         "apple",
         "gaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
-      "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
-      "published": "Tue, 07 Apr 2026 22:08:32 +0000",
-      "published_parsed": "2026-04-07T22:08:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The MacBook Neo is a step in the right direction, though.",
-      "tags": [
-        "apple",
-        "iphone",
-        "laptops",
-        "right to repair",
-        "smartphones",
         "tech"
       ]
     },
