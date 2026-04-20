@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-20T04:20:47.997467+00:00",
-  "article_count": 1732,
+  "last_updated": "2026-04-20T09:07:41.690446+00:00",
+  "article_count": 1733,
   "articles": [
+    {
+      "title": "SR-MPLS Workshop Materials",
+      "link": "https://blog.ipspace.net/2026/04/sr-mpls-workshop/?utm_source=atom_feed",
+      "published": "2026-04-20T07:44:00+02:00",
+      "published_parsed": "2026-04-20T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "We’re starting the SR-MPLS workshop @ ITNOG 10 in Bologna in a few hours. Hope you’ll make it, but if you happen to be too far away, here’s the slide deck , the lab topologies , and the usage guidelines .",
+      "tags": [
+        "mpls",
+        "networking",
+        "segment routing"
+      ]
+    },
     {
       "title": "Multicast PIM Bootstrap Router (BSR) (VI)",
       "link": "https://www.packetswitch.co.uk/multicast-pim-bootstrap-router-bsr/",
