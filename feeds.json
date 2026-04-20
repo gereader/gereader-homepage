@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T09:07:41.713522+00:00",
+  "last_updated": "2026-04-20T15:17:01.634397+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,7 +16,6 @@
     "ads",
     "agentic ai",
     "ai",
-    "ai coding",
     "aiops",
     "amazon",
     "amazon kindle",
@@ -27,7 +26,6 @@
     "arista",
     "arp",
     "asus",
-    "attie",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -35,7 +33,6 @@
     "bgp",
     "biz & it",
     "blog",
-    "bluesky",
     "books",
     "botnets",
     "bridging",
@@ -43,7 +40,6 @@
     "browsers",
     "certifications",
     "change management",
-    "claude code",
     "cloud",
     "coal",
     "company news",
@@ -59,6 +55,7 @@
     "data center",
     "data centers",
     "data surveillance",
+    "dell",
     "design",
     "desktops",
     "dhcp",
@@ -92,6 +89,7 @@
     "high availability",
     "history",
     "homelab",
+    "hp",
     "info stealers",
     "intel",
     "internet",
@@ -142,6 +140,7 @@
     "networks",
     "neutral atoms",
     "nfv",
+    "nokia",
     "nsx",
     "nuclear",
     "openclaw",
@@ -149,6 +148,7 @@
     "ospf",
     "outage",
     "overlay networks",
+    "patent",
     "performance",
     "pixel 10",
     "plcs",
@@ -188,6 +188,7 @@
     "supply chain attacks",
     "switching",
     "syndication",
+    "synology",
     "tcp",
     "teampcp",
     "tech",
@@ -200,7 +201,6 @@
     "undersea cable cuts",
     "unicode",
     "unifi",
-    "vibe coding",
     "video",
     "virtualization",
     "vmware",
@@ -222,6 +222,25 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
+      "link": "https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/",
+      "published": "Mon, 20 Apr 2026 11:00:07 +0000",
+      "published_parsed": "2026-04-20T11:00:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "How does HEVC implementation really work these days?",
+      "tags": [
+        "dell",
+        "features",
+        "hp",
+        "nokia",
+        "patent",
+        "streaming",
+        "synology",
+        "tech"
+      ]
+    },
     {
       "title": "SR-MPLS Workshop Materials",
       "link": "https://blog.ipspace.net/2026/04/sr-mpls-workshop/?utm_source=atom_feed",
@@ -256,7 +275,7 @@
       "published_parsed": "2026-04-17T21:28:35+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
-      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "summary": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
       "tags": [
         "biz & it",
         "cryptocurrency exchange",
@@ -737,24 +756,6 @@
         "right to repair",
         "smartphones",
         "tech"
-      ]
-    },
-    {
-      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
-      "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-      "published": "Tue, 07 Apr 2026 19:09:44 +0000",
-      "published_parsed": "2026-04-07T19:09:44+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
-      "tags": [
-        "ai",
-        "ai coding",
-        "attie",
-        "bluesky",
-        "claude code",
-        "tech",
-        "vibe coding"
       ]
     },
     {
