@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-21T04:12:30.576011+00:00",
-  "article_count": 1735,
+  "last_updated": "2026-04-21T08:52:54.263119+00:00",
+  "article_count": 1736,
   "articles": [
+    {
+      "title": "Hmmm: Rail-Optimized Networking for AI Workloads",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-rail-optimized-networking/?utm_source=atom_feed",
+      "published": "2026-04-21T07:44:00+02:00",
+      "published_parsed": "2026-04-21T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Phil Gervasi wrote an interesting article describing Rail-Optimized Networking for AI Training Workloads . Go read it first; I’ll wait. Does it sound interesting? Were you able to see behind the curtain and figure out what it’s really about? Read more …",
+      "tags": [
+        "data center",
+        "fabric",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
       "link": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",

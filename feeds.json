@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:12:30.598712+00:00",
+  "last_updated": "2026-04-21T08:52:54.284687+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -223,6 +223,21 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Hmmm: Rail-Optimized Networking for AI Workloads",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-rail-optimized-networking/?utm_source=atom_feed",
+      "published": "2026-04-21T07:44:00+02:00",
+      "published_parsed": "2026-04-21T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Phil Gervasi wrote an interesting article describing Rail-Optimized Networking for AI Training Workloads . Go read it first; I’ll wait. Does it sound interesting? Were you able to see behind the curtain and figure out what it’s really about? Read more …",
+      "tags": [
+        "data center",
+        "fabric",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
       "link": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
@@ -1932,20 +1947,6 @@
       "image": null,
       "summary": "Petr Ankudinov made an interesting remark when I complained about how much time I wasted waiting for Cisco 8000v to boot when developing netlab device configuration templates: For Arista part - just use AVD with all templates included and ANTA for testing. I was always wondering why netlab is not...",
       "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Distributing Level-2 IS-IS Routes into Level-1 Areas",
-      "link": "https://blog.ipspace.net/2026/01/isis-inter-area-routes/?utm_source=atom_feed",
-      "published": "2026-01-21T08:06:00+01:00",
-      "published_parsed": "2026-01-21T08:06:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "One of the major differences between OSPF and IS-IS is their handling of inter-area routes. Non-backbone OSPF intra-area routes are copied into the backbone area and later (after the backbone SPF run) copied into other areas. IS-IS does not copy level-2 routes into level-1 areas; level-1 areas (by...",
-      "tags": [
-        "is-is",
         "netlab",
         "networking"
       ]
