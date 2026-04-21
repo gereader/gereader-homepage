@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T08:52:54.284687+00:00",
+  "last_updated": "2026-04-21T15:16:31.741450+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,6 +14,7 @@
     "aci",
     "acquisitions",
     "ads",
+    "aes-128",
     "agentic ai",
     "ai",
     "ai music",
@@ -43,7 +44,6 @@
     "certifications",
     "change management",
     "cloud",
-    "coal",
     "company news",
     "containers",
     "core series 3",
@@ -70,7 +70,6 @@
     "eigrp",
     "elliptic curve cryptography",
     "encryption",
-    "energy",
     "europe",
     "evpn",
     "exploits",
@@ -88,6 +87,7 @@
     "google search",
     "gre",
     "grinex",
+    "grover's algorithm",
     "hacking",
     "hacktivism",
     "high availability",
@@ -125,7 +125,6 @@
     "mtu",
     "multicast",
     "nat",
-    "natural gas",
     "nba",
     "netconf",
     "netdevops",
@@ -144,7 +143,6 @@
     "nfv",
     "nokia",
     "nsx",
-    "nuclear",
     "openclaw",
     "openflow",
     "ospf",
@@ -165,8 +163,8 @@
     "python",
     "qos",
     "quantum computing",
+    "quantum conputing",
     "quest",
-    "renewables",
     "routers",
     "russian hacking",
     "san",
@@ -197,7 +195,6 @@
     "traffic engineering",
     "training",
     "trivy",
-    "trump administration",
     "tvs",
     "undersea cable cuts",
     "unicode",
@@ -223,6 +220,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+      "published": "Tue, 21 Apr 2026 12:35:20 +0000",
+      "published_parsed": "2026-04-21T12:35:20+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+      "tags": [
+        "aes-128",
+        "biz & it",
+        "grover's algorithm",
+        "quantum conputing",
+        "security"
+      ]
+    },
     {
       "title": "Hmmm: Rail-Optimized Networking for AI Workloads",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-rail-optimized-networking/?utm_source=atom_feed",
@@ -1372,26 +1385,6 @@
         "biz & it",
         "outage",
         "tech"
-      ]
-    },
-    {
-      "title": "Trump gets data center companies to pledge to pay for power generation",
-      "link": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
-      "published": "Thu, 05 Mar 2026 18:41:28 +0000",
-      "published_parsed": "2026-03-05T18:41:28+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "With no enforcement and questionable economics, it may not make a difference.",
-      "tags": [
-        "biz & it",
-        "coal",
-        "data centers",
-        "energy",
-        "natural gas",
-        "nuclear",
-        "policy",
-        "renewables",
-        "trump administration"
       ]
     },
     {

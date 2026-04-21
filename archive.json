@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-21T08:52:54.263119+00:00",
-  "article_count": 1736,
+  "last_updated": "2026-04-21T15:16:31.718845+00:00",
+  "article_count": 1737,
   "articles": [
+    {
+      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+      "published": "Tue, 21 Apr 2026 12:35:20 +0000",
+      "published_parsed": "2026-04-21T12:35:20+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+      "tags": [
+        "aes-128",
+        "biz & it",
+        "grover's algorithm",
+        "quantum conputing",
+        "security"
+      ]
+    },
     {
       "title": "Hmmm: Rail-Optimized Networking for AI Workloads",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-rail-optimized-networking/?utm_source=atom_feed",
