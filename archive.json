@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-04-21T15:16:31.718845+00:00",
-  "article_count": 1737,
+  "last_updated": "2026-04-21T19:17:06.974850+00:00",
+  "article_count": 1740,
   "articles": [
+    {
+      "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
+      "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
+      "published": "Tue, 21 Apr 2026 18:15:15 +0000",
+      "published_parsed": "2026-04-21T18:15:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Laptop includes Core Ultra Series 3 CPUs, a bigger battery, and a touchscreen.",
+      "tags": [
+        "framework",
+        "framework laptop",
+        "framework laptop 13",
+        "framework laptop 13 pro",
+        "lpcamm2",
+        "panther lake",
+        "tech"
+      ]
+    },
+    {
+      "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
+      "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
+      "published": "Tue, 21 Apr 2026 18:15:03 +0000",
+      "published_parsed": "2026-04-21T18:15:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A lower-end Ryzen AI 340 CPU option will also bring the price down, for now.",
+      "tags": [
+        "framework",
+        "framework laptop",
+        "framework laptop 16",
+        "gaming",
+        "oculink",
+        "tech"
+      ]
+    },
+    {
+      "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
+      "link": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
+      "published": "Tue, 21 Apr 2026 14:45:36 +0000",
+      "published_parsed": "2026-04-21T14:45:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "There are some practical benefits to this $899 chip, but not many.",
+      "tags": [
+        "3d v-cache",
+        "amd",
+        "ryzen",
+        "tech",
+        "zen 5"
+      ]
+    },
     {
       "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
       "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
