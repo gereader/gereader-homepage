@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-04-21T19:17:06.974850+00:00",
-  "article_count": 1740,
+  "last_updated": "2026-04-21T23:37:43.593627+00:00",
+  "article_count": 1741,
   "articles": [
+    {
+      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+      "published": "Tue, 21 Apr 2026 20:22:20 +0000",
+      "published_parsed": "2026-04-21T20:22:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"We actually have slightly more Linux users than Windows users.\"",
+      "tags": [
+        "framework",
+        "framework laptop",
+        "framework laptop 13",
+        "framework laptop 13 pro",
+        "framework laptop 16",
+        "tech"
+      ]
+    },
     {
       "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
       "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",

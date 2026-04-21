@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T19:17:06.998664+00:00",
+  "last_updated": "2026-04-21T23:37:43.617993+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -37,7 +37,6 @@
     "bgp",
     "biz & it",
     "blog",
-    "books",
     "botnets",
     "bridging",
     "broadcom",
@@ -52,18 +51,15 @@
     "critical infrastructure",
     "cryptocurrency exchange",
     "cryptography",
-    "culture",
     "cumulus linux",
     "cyberattack",
     "data center",
     "data centers",
-    "data surveillance",
     "deezer",
     "dell",
     "design",
     "desktops",
     "dhcp",
-    "digital policing",
     "distributed hash tables",
     "dmvpn",
     "dns",
@@ -112,7 +108,6 @@
     "ise",
     "jinja",
     "lan",
-    "law fare",
     "ldp",
     "lisp",
     "load balancing",
@@ -228,6 +223,23 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+      "published": "Tue, 21 Apr 2026 20:22:20 +0000",
+      "published_parsed": "2026-04-21T20:22:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"We actually have slightly more Linux users than Windows users.\"",
+      "tags": [
+        "framework",
+        "framework laptop",
+        "framework laptop 13",
+        "framework laptop 13 pro",
+        "framework laptop 16",
+        "tech"
+      ]
+    },
     {
       "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
       "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
@@ -752,24 +764,6 @@
         "policy",
         "programmable logic controllers",
         "security"
-      ]
-    },
-    {
-      "title": "How our digital devices are putting our right to privacy at risk",
-      "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
-      "published": "Wed, 08 Apr 2026 19:17:30 +0000",
-      "published_parsed": "2026-04-08T19:17:30+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You .",
-      "tags": [
-        "books",
-        "culture",
-        "data surveillance",
-        "digital policing",
-        "law fare",
-        "policy",
-        "tech"
       ]
     },
     {
