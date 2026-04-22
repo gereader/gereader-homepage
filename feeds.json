@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T04:08:50.833658+00:00",
+  "last_updated": "2026-04-22T08:48:48.882244+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -223,6 +223,18 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Ten Years of ITNOG",
+      "link": "https://blog.ipspace.net/2026/04/itnog-10/?utm_source=atom_feed",
+      "published": "2026-04-22T07:25:00+02:00",
+      "published_parsed": "2026-04-22T07:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I spent the last two days in Bologna at ITNOG 10 in the excellent company of Italian networking engineers (many of them personal friends) and a few guests from around the world. As always, the organizers and the program committee didn’t disappoint – it was a smoothly organized, lovely event full of...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
       "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
@@ -1939,19 +1951,6 @@
         "bgp",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Why Doesn't netlab Use X for Device Configuration Templates?",
-      "link": "https://blog.ipspace.net/2026/01/netlab-not-using-vendor-templates/?utm_source=atom_feed",
-      "published": "2026-01-22T08:14:00+01:00",
-      "published_parsed": "2026-01-22T08:14:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Petr Ankudinov made an interesting remark when I complained about how much time I wasted waiting for Cisco 8000v to boot when developing netlab device configuration templates: For Arista part - just use AVD with all templates included and ANTA for testing. I was always wondering why netlab is not...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
