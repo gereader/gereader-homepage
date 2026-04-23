@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-23T15:56:46.773898+00:00",
-  "article_count": 1745,
+  "last_updated": "2026-04-23T19:15:38.661324+00:00",
+  "article_count": 1746,
   "articles": [
+    {
+      "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy",
+      "link": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
+      "published": "Thu, 23 Apr 2026 17:06:08 +0000",
+      "published_parsed": "2026-04-23T17:06:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Pending refresh? RAM shortage? AI agents? There are many possible explanations.",
+      "tags": [
+        "apple",
+        "apple m4",
+        "apple silicon",
+        "mac mini",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: AI and Knowledge Stagnation",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-ai-lost-knowledge/?utm_source=atom_feed",
