@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T23:49:32.474824+00:00",
-  "article_count": 1743,
+  "last_updated": "2026-04-23T04:13:33.370295+00:00",
+  "article_count": 1744,
   "articles": [
     {
       "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
@@ -145,6 +145,19 @@
         "deezer",
         "generative ai",
         "tech"
+      ]
+    },
+    {
+      "title": "How to Get Network Tools to Work Together, Unify Data, and Orchestrate NetOps",
+      "link": "https://www.netbrain.com/blog/get-network-tools-to-work-together/",
+      "published": "2026-04-20T14:29:30Z",
+      "published_parsed": "2026-04-20T14:29:30+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "A Practical Integration Guide for Network and Tools Teams Most enterprise network operations teams leverage a dozen tools. Monitoring catches anomalies, ITSM manages the ticket queue, IPAM holds address data,...",
+      "tags": [
+        "company news",
+        "networking"
       ]
     },
     {

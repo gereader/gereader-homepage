@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T23:49:32.496104+00:00",
+  "last_updated": "2026-04-23T04:13:33.393212+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -366,6 +366,19 @@
         "deezer",
         "generative ai",
         "tech"
+      ]
+    },
+    {
+      "title": "How to Get Network Tools to Work Together, Unify Data, and Orchestrate NetOps",
+      "link": "https://www.netbrain.com/blog/get-network-tools-to-work-together/",
+      "published": "2026-04-20T14:29:30Z",
+      "published_parsed": "2026-04-20T14:29:30+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "A Practical Integration Guide for Network and Tools Teams Most enterprise network operations teams leverage a dozen tools. Monitoring catches anomalies, ITSM manages the ticket queue, IPAM holds address data,...",
+      "tags": [
+        "company news",
+        "networking"
       ]
     },
     {
@@ -1645,24 +1658,6 @@
       "summary": "Modern networks are expected to do more than stay online. They must support cloud workloads, remote users, security controls, and business-critical applications simultaneously. For many IT teams, this creates daily...",
       "tags": [
         "company news",
-        "networking"
-      ]
-    },
-    {
-      "title": "Closed-Loop Automation: From Detection to Verified Remediation",
-      "link": "https://www.netbrain.com/blog/closed-loop-automation/",
-      "published": "2026-02-13T21:10:09Z",
-      "published_parsed": "2026-02-13T21:10:09+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/02/02-using-a-network-digital-twin.jpg",
-      "summary": "The combination of hybrid networks and manual network operations creates a high risk of service disruption due to the increased chance of human error and configuration drift. Closed-loop automation, from...",
-      "tags": [
-        "automated troubleshooting",
-        "change management",
-        "network assessment",
-        "network observability",
-        "network security",
-        "network visibility",
         "networking"
       ]
     },
