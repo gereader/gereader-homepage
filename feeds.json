@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T19:15:38.684428+00:00",
-  "article_count": 120,
+  "last_updated": "2026-04-23T23:50:33.919121+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -71,7 +71,6 @@
     "encryption",
     "europe",
     "evpn",
-    "exploits",
     "fabric",
     "facebook",
     "features",
@@ -101,14 +100,13 @@
     "info stealers",
     "intel",
     "internet",
-    "ios",
     "ip kvms",
     "ip routing",
-    "iphones",
     "ipv6",
     "is-is",
     "ise",
     "jinja",
+    "kyber",
     "lan",
     "ldp",
     "lisp",
@@ -167,7 +165,9 @@
     "qos",
     "quantum computing",
     "quantum conputing",
+    "quantum cryptography",
     "quest",
+    "ransomware",
     "routers",
     "russian hacking",
     "ryzen",
@@ -224,7 +224,24 @@
   ],
   "articles": [
     {
-      "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy",
+      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "published": "Thu, 23 Apr 2026 20:41:23 +0000",
+      "published_parsed": "2026-04-23T20:41:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "kyber",
+        "quantum cryptography",
+        "ransomware",
+        "security"
+      ]
+    },
+    {
+      "title": "Why are the Mac mini and Mac Studio gradually becoming impossible to buy?",
       "link": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
       "published": "Thu, 23 Apr 2026 17:06:08 +0000",
       "published_parsed": "2026-04-23T17:06:08+00:00",
@@ -1421,24 +1438,6 @@
       ]
     },
     {
-      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
-      "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
-      "published": "Fri, 06 Mar 2026 19:41:33 +0000",
-      "published_parsed": "2026-03-06T19:41:33+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
-      "tags": [
-        "apple",
-        "biz & it",
-        "exploits",
-        "ios",
-        "iphones",
-        "security",
-        "vulnerabilities"
-      ]
-    },
-    {
       "title": "Presentation: netlab Overview and Use Cases",
       "link": "https://blog.ipspace.net/2026/03/netlab-use-cases/?utm_source=atom_feed",
       "published": "2026-03-05T09:24:00+01:00",
@@ -1932,19 +1931,6 @@
       "source": "Packet Switch",
       "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast-3-.png",
       "summary": "IGMP is the protocol used by receivers to signal their interest in multicast traffic. When a host wants to receive a multicast stream, it sends",
-      "tags": [
-        "multicast",
-        "networking"
-      ]
-    },
-    {
-      "title": "Multicast Introduction (I)",
-      "link": "https://www.packetswitch.co.uk/multicast-introduction-1/",
-      "published": "Fri, 23 Jan 2026 21:07:29 GMT",
-      "published_parsed": "2026-01-23T21:07:29+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast.png",
-      "summary": "With multicast, the source sends only a single copy of the traffic into the network. As that traffic moves through the network, it is replicated",
       "tags": [
         "multicast",
         "networking"

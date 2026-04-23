@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-04-23T19:15:38.661324+00:00",
-  "article_count": 1746,
+  "last_updated": "2026-04-23T23:50:33.895619+00:00",
+  "article_count": 1747,
   "articles": [
+    {
+      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "published": "Thu, 23 Apr 2026 20:41:23 +0000",
+      "published_parsed": "2026-04-23T20:41:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "kyber",
+        "quantum cryptography",
+        "ransomware",
+        "security"
+      ]
+    },
     {
       "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy",
       "link": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
