@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T04:13:33.393212+00:00",
+  "last_updated": "2026-04-23T08:53:32.467132+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -151,7 +151,6 @@
     "overlay networks",
     "panther lake",
     "patent",
-    "performance",
     "pixel 10",
     "plcs",
     "podcast",
@@ -223,6 +222,19 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: AI and Knowledge Stagnation",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-ai-lost-knowledge/?utm_source=atom_feed",
+      "published": "2026-04-23T07:48:00+02:00",
+      "published_parsed": "2026-04-23T07:48:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Another week, another interesting AI article (is anyone writing about anything else these days?), this time from Noah Smith (another author worth following). I found this gem hidden in his weekly roundup : Instead of trying to write a piece of code from scratch, or prove a math theorem from...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
       "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
@@ -501,7 +513,7 @@
       "published": "2026-04-17T08:13:00+02:00",
       "published_parsed": "2026-04-17T08:13:00+02:00",
       "source": "ipSpace Blog",
-      "image": "https://evpn.bgplabs.net/evpn/topology-irb.png",
+      "image": null,
       "summary": "Most EVPN documentation rushes into the complexities of symmetric IRB, type-5 EVPN routes, and EVPN IP-VRFs, but if you want to master a technology, it’s better to take it slow and proceed with small steps. In today’s lab exercise , we’ll do just that: explore what happens when you add IP addresses...",
       "tags": [
         "evpn",
@@ -1162,7 +1174,7 @@
       "published": "2026-03-20T08:09:00+01:00",
       "published_parsed": "2026-03-20T08:09:00+01:00",
       "source": "ipSpace Blog",
-      "image": "https://evpn.bgplabs.net/vxlan/topology-anycast.png",
+      "image": null,
       "summary": "Most vendors “discovered” anycast gateways when they tried implementing routing between MAC-VRFs in an EVPN environment and hit all the usual tripwires (more about that later). A few exceptions (like Arista ) supported them on VLAN segments for over a decade, and it was a no-brainer to extend that...",
       "tags": [
         "evpn",
@@ -1759,7 +1771,7 @@
       "published": "2026-02-06T07:59:00+01:00",
       "published_parsed": "2026-02-06T07:59:00+01:00",
       "source": "ipSpace Blog",
-      "image": "https://evpn.bgplabs.net/vxlan/topology-irb.png",
+      "image": null,
       "summary": "In the previous EVPN/VXLAN lab exercises , we covered the basics of Ethernet bridging over VXLAN and the use of the EVPN control plane to build layer-2 segments. It’s time to move up the protocol stack. Let’s see how you can route between VXLAN segments, this time using unique unicast IP addresses...",
       "tags": [
         "evpn",
@@ -1934,20 +1946,6 @@
       "tags": [
         "multicast",
         "networking"
-      ]
-    },
-    {
-      "title": "MUST WATCH: BGP: the First 18 Years",
-      "link": "https://blog.ipspace.net/2026/01/worth-reading-bgp-first-18-years/?utm_source=atom_feed",
-      "published": "2026-01-23T08:17:00+01:00",
-      "published_parsed": "2026-01-23T08:17:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "If you’re at all interested in the history of networking, you simply MUST watch the BGP at 18: Lessons In Protocol Design lecture by Dr. Yakov Rekhter recorded in 2007 (as you can probably guess from the awful video quality) (HT: Berislav Todorovic via LinkedIn).",
-      "tags": [
-        "bgp",
-        "networking",
-        "worth reading"
       ]
     }
   ]
