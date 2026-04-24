@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-24T15:10:19.731027+00:00",
-  "article_count": 1749,
+  "last_updated": "2026-04-24T18:57:50.840529+00:00",
+  "article_count": 1750,
   "articles": [
+    {
+      "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
+      "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
+      "published": "Fri, 24 Apr 2026 16:58:45 +0000",
+      "published_parsed": "2026-04-24T16:58:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The AI-driven memory shortage is hitting Samsung's bottom line.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Six things I'll remember when I think about Tim Cook's version of Apple",
       "link": "https://arstechnica.com/gadgets/2026/04/six-things-ill-remember-when-i-think-about-tim-cooks-version-of-apple/",
