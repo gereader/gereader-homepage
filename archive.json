@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-24T04:17:57.743632+00:00",
-  "article_count": 1747,
+  "last_updated": "2026-04-24T09:01:01.408472+00:00",
+  "article_count": 1748,
   "articles": [
+    {
+      "title": "State of Network Automation with Urs Baumann",
+      "link": "https://blog.ipspace.net/2026/04/state-network-automation/?utm_source=atom_feed",
+      "published": "2026-04-24T07:41:00+01:00",
+      "published_parsed": "2026-04-24T07:41:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I stopped tracking the (lack of) progress in network automation years ago, when I realized I had nothing new to say. As an eternal optimist, I hoped I was just missing something, but Urs Baumann (the guest of Software Gone Wild Episode 206 ) destroyed my hopes when he said, “ I can still use the...",
+      "tags": [
+        "automation",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "In a first, a ransomware family is confirmed to be quantum-safe",
       "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
