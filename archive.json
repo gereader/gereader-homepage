@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-24T09:01:01.408472+00:00",
-  "article_count": 1748,
+  "last_updated": "2026-04-24T15:10:19.731027+00:00",
+  "article_count": 1749,
   "articles": [
+    {
+      "title": "Six things I'll remember when I think about Tim Cook's version of Apple",
+      "link": "https://arstechnica.com/gadgets/2026/04/six-things-ill-remember-when-i-think-about-tim-cooks-version-of-apple/",
+      "published": "Fri, 24 Apr 2026 13:40:50 +0000",
+      "published_parsed": "2026-04-24T13:40:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Under Cook, Apple became hugely successful, if not always surprising.",
+      "tags": [
+        "apple",
+        "features",
+        "tech",
+        "tim cook"
+      ]
+    },
     {
       "title": "State of Network Automation with Urs Baumann",
       "link": "https://blog.ipspace.net/2026/04/state-network-automation/?utm_source=atom_feed",
