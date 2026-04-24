@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T18:57:50.862128+00:00",
+  "last_updated": "2026-04-24T23:41:48.842051+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -31,7 +31,6 @@
     "arp",
     "artificial intelligence",
     "asp.net",
-    "asus",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -39,13 +38,13 @@
     "bgp",
     "biz & it",
     "blog",
-    "botnets",
     "bridging",
     "broadcom",
     "browsers",
     "certifications",
     "change management",
     "cloud",
+    "cname records",
     "company news",
     "containers",
     "core series 3",
@@ -61,10 +60,10 @@
     "dell",
     "design",
     "dhcp",
-    "distributed hash tables",
     "dmvpn",
     "dns",
     "docker",
+    "domain hijacking",
     "eigrp",
     "elliptic curve cryptography",
     "encryption",
@@ -153,6 +152,7 @@
     "plcs",
     "podcast",
     "policy",
+    "porn",
     "post quantum cryptography",
     "prices",
     "privilege escalation",
@@ -202,6 +202,7 @@
     "undersea cable cuts",
     "unicode",
     "unifi",
+    "universities",
     "video",
     "virtualization",
     "vmware",
@@ -221,6 +222,23 @@
     "zen 5"
   ],
   "articles": [
+    {
+      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+      "published": "Fri, 24 Apr 2026 19:00:39 +0000",
+      "published_parsed": "2026-04-24T19:00:39+00:00",
+      "source": "Ars Technica - Tech",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hijacked-columbia-university-subdomains-640x340.png",
+      "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+      "tags": [
+        "biz & it",
+        "cname records",
+        "domain hijacking",
+        "porn",
+        "security",
+        "universities"
+      ]
+    },
     {
       "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
       "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
@@ -1374,25 +1392,6 @@
       "tags": [
         "networking",
         "switching"
-      ]
-    },
-    {
-      "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
-      "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
-      "published": "Wed, 11 Mar 2026 21:27:16 +0000",
-      "published_parsed": "2026-03-11T21:27:16+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Most of the devices are made by Asus and are located in the US.",
-      "tags": [
-        "asus",
-        "biz & it",
-        "botnets",
-        "distributed hash tables",
-        "malware",
-        "routers",
-        "security",
-        "tech"
       ]
     },
     {

@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-04-24T18:57:50.840529+00:00",
-  "article_count": 1750,
+  "last_updated": "2026-04-24T23:41:48.817998+00:00",
+  "article_count": 1751,
   "articles": [
+    {
+      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+      "published": "Fri, 24 Apr 2026 19:00:39 +0000",
+      "published_parsed": "2026-04-24T19:00:39+00:00",
+      "source": "Ars Technica - Tech",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hijacked-columbia-university-subdomains-640x340.png",
+      "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+      "tags": [
+        "biz & it",
+        "cname records",
+        "domain hijacking",
+        "porn",
+        "security",
+        "universities"
+      ]
+    },
     {
       "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
       "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
