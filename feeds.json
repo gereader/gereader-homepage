@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T18:58:04.689651+00:00",
-  "article_count": 120,
+  "last_updated": "2026-04-25T23:41:07.360117+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1931,19 +1931,6 @@
       "summary": "Imagine you want to use netlab to build training labs, like the free BGP labs I created. Sometimes, you want to give students a device to work on while the other lab devices are already configured, just waiting for the students to get their job done. My BGP labs were designed for self-study. You...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Multicast IGMP - Internet Group Management Protocol (II)",
-      "link": "https://www.packetswitch.co.uk/multicast-internet-group-management-protocol-igmp/",
-      "published": "Sun, 25 Jan 2026 19:10:13 GMT",
-      "published_parsed": "2026-01-25T19:10:13+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast-3-.png",
-      "summary": "IGMP is the protocol used by receivers to signal their interest in multicast traffic. When a host wants to receive a multicast stream, it sends",
-      "tags": [
-        "multicast",
         "networking"
       ]
     }
