@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-04-27T19:27:32.128384+00:00",
-  "article_count": 1751,
+  "last_updated": "2026-04-27T23:55:59.821861+00:00",
+  "article_count": 1753,
   "articles": [
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "published": "Mon, 27 Apr 2026 21:04:03 +0000",
+      "published_parsed": "2026-04-27T21:04:03+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+      "tags": [
+        "biz & it",
+        "github",
+        "open source software",
+        "security"
+      ]
+    },
+    {
+      "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
+      "link": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
+      "published": "Mon, 27 Apr 2026 18:30:14 +0000",
+      "published_parsed": "2026-04-27T18:30:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
+      "tags": [
+        "emulation",
+        "gaming",
+        "snes",
+        "super nintendo",
+        "super nintendo entertainment system",
+        "tech",
+        "zsnes"
+      ]
+    },
     {
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",

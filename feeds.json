@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T19:27:32.146733+00:00",
+  "last_updated": "2026-04-27T23:55:59.844735+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -66,6 +66,7 @@
     "domain hijacking",
     "eigrp",
     "elliptic curve cryptography",
+    "emulation",
     "encryption",
     "europe",
     "evpn",
@@ -89,7 +90,6 @@
     "grinex",
     "grover's algorithm",
     "hacking",
-    "hacktivism",
     "high availability",
     "history",
     "homelab",
@@ -112,7 +112,6 @@
     "mac mini",
     "macos",
     "malware",
-    "medical devices",
     "mergers",
     "meta",
     "microsoft",
@@ -142,13 +141,13 @@
     "nokia",
     "nsx",
     "oculink",
+    "open source software",
     "openclaw",
     "openflow",
     "ospf",
     "overlay networks",
     "panther lake",
     "patent",
-    "pixel 10",
     "plcs",
     "podcast",
     "policy",
@@ -177,6 +176,7 @@
     "segment routing",
     "service providers",
     "smartphones",
+    "snes",
     "snmp",
     "software gone wild",
     "sony",
@@ -186,6 +186,8 @@
     "streaming",
     "submarine cables",
     "subsea cables",
+    "super nintendo",
+    "super nintendo entertainment system",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -216,12 +218,45 @@
     "windows 11 24h2",
     "windows 11 25h2",
     "windows recall",
-    "wipers",
     "worm",
     "worth reading",
-    "zen 5"
+    "zen 5",
+    "zsnes"
   ],
   "articles": [
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "published": "Mon, 27 Apr 2026 21:04:03 +0000",
+      "published_parsed": "2026-04-27T21:04:03+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+      "tags": [
+        "biz & it",
+        "github",
+        "open source software",
+        "security"
+      ]
+    },
+    {
+      "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
+      "link": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
+      "published": "Mon, 27 Apr 2026 18:30:14 +0000",
+      "published_parsed": "2026-04-27T18:30:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
+      "tags": [
+        "emulation",
+        "gaming",
+        "snes",
+        "super nintendo",
+        "super nintendo entertainment system",
+        "tech",
+        "zsnes"
+      ]
+    },
     {
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
@@ -780,20 +815,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
-      "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
-      "published": "Mon, 13 Apr 2026 21:12:51 +0000",
-      "published_parsed": "2026-04-13T21:12:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Cellular modems are complex black boxes of legacy code, but Google is making them safer with Rust.",
-      "tags": [
-        "google",
-        "pixel 10",
-        "tech"
       ]
     },
     {
@@ -1363,22 +1384,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
-      "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-      "published": "Thu, 12 Mar 2026 22:18:11 +0000",
-      "published_parsed": "2026-03-12T22:18:11+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
-      "tags": [
-        "biz & it",
-        "hacktivism",
-        "medical devices",
-        "security",
-        "wipers"
       ]
     },
     {
