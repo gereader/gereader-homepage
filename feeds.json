@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T04:34:36.207151+00:00",
-  "article_count": 117,
+  "last_updated": "2026-04-28T09:23:56.575923+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -224,6 +224,20 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Lab as Code (containerlab and netlab)",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-lab-as-code/?utm_source=atom_feed",
+      "published": "2026-04-28T08:26:00+02:00",
+      "published_parsed": "2026-04-28T08:26:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "@sjhloco wrote an excellent in-depth description of how you can use containerlab and netlab to manage your labs as code . He also documented a few netlab shortcomings (one of which caused a crash); fortunately, I found his blog post (admittedly over a year later) and fixed most of them in release...",
+      "tags": [
+        "netlab",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Open source package with 1 million monthly downloads stole user credentials",
       "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
@@ -1884,32 +1898,6 @@
       "tags": [
         "ai",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: A Tech Career in 2026",
-      "link": "https://blog.ipspace.net/2026/01/worth-reading-tech-career-2026/?utm_source=atom_feed",
-      "published": "2026-01-28T08:22:00+01:00",
-      "published_parsed": "2026-01-28T08:22:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "There’s no “ networking in 20xx ” video this year, so this insightful article by Anil Dash will have to do ;) He seems to be based in Silicon Valley, so keep in mind the Three IT Geographies , but one cannot beat advice like this: So much opportunity, inspiration, creativity, and possibility lies...",
-      "tags": [
-        "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "How to Get Structured Responses back from OpenAI",
-      "link": "https://www.packetcoders.io/how-to-get-structured-responses-back-from-openai/",
-      "published": "Wed, 28 Jan 2026 08:00:56 GMT",
-      "published_parsed": "2026-01-28T08:00:56+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/01/Tips-logo.webp",
-      "summary": "OpenAI Tip: If you need structured output from the LLM, use structured responses and define the expected format with JSON Schema. Here’s an example: from openai import OpenAI import os client = OpenAI(api_key=os.getenv(\"OPENAI_API_KEY\")) # Define the exact shape you want back.",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]

@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-28T04:34:36.182960+00:00",
-  "article_count": 1753,
+  "last_updated": "2026-04-28T09:23:56.552072+00:00",
+  "article_count": 1754,
   "articles": [
+    {
+      "title": "Worth Reading: Lab as Code (containerlab and netlab)",
+      "link": "https://blog.ipspace.net/2026/04/worth-reading-lab-as-code/?utm_source=atom_feed",
+      "published": "2026-04-28T08:26:00+02:00",
+      "published_parsed": "2026-04-28T08:26:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "@sjhloco wrote an excellent in-depth description of how you can use containerlab and netlab to manage your labs as code . He also documented a few netlab shortcomings (one of which caused a crash); fortunately, I found his blog post (admittedly over a year later) and fixed most of them in release...",
+      "tags": [
+        "netlab",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Open source package with 1 million monthly downloads stole user credentials",
       "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
