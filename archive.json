@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-04-28T19:44:50.926493+00:00",
-  "article_count": 1754,
+  "last_updated": "2026-04-28T23:56:39.834803+00:00",
+  "article_count": 1755,
   "articles": [
+    {
+      "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
+      "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
+      "published": "Tue, 28 Apr 2026 19:37:09 +0000",
+      "published_parsed": "2026-04-28T19:37:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Civil liberty concerns spur FAA to revise drone no-fly zones near ICE vehicles.",
+      "tags": [
+        "civil liberties",
+        "customs and border protection",
+        "department of homeland security",
+        "dhs",
+        "drone pilots",
+        "drones",
+        "faa",
+        "features",
+        "federal aviation administration",
+        "immigration and customs enforcement",
+        "minneapolis",
+        "policy",
+        "tech",
+        "unmanned aerial vehicles"
+      ]
+    },
     {
       "title": "Worth Reading: Lab as Code (containerlab and netlab)",
       "link": "https://blog.ipspace.net/2026/04/worth-reading-lab-as-code/?utm_source=atom_feed",
