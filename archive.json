@@ -1,7 +1,54 @@
 {
-  "last_updated": "2026-04-29T15:56:28.397821+00:00",
-  "article_count": 1758,
+  "last_updated": "2026-04-29T19:41:11.795750+00:00",
+  "article_count": 1761,
   "articles": [
+    {
+      "title": "Pytest for Automated Network Testing (I)",
+      "link": "https://www.packetswitch.co.uk/pytest-for-automated-network-testing-i/",
+      "published": "Wed, 29 Apr 2026 18:25:34 GMT",
+      "published_parsed": "2026-04-29T18:25:34+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/04/pytest-blog.png",
+      "summary": "Pytest gives you full control. You write the test, you decide exactly what to check, and you get a clear pass or fail result. You can test one device",
+      "tags": [
+        "netdevops",
+        "networking"
+      ]
+    },
+    {
+      "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
+      "link": "https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/",
+      "published": "Wed, 29 Apr 2026 16:55:58 +0000",
+      "published_parsed": "2026-04-29T16:55:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/razr-fold.jpg",
+      "summary": "Motorola's foldable lineup is bigger and more spendy then ever.",
+      "tags": [
+        "android",
+        "foldables",
+        "motorola",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
+      "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+      "published": "Wed, 29 Apr 2026 16:06:28 +0000",
+      "published_parsed": "2026-04-29T16:06:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
+      "tags": [
+        "framework",
+        "framework laptop 16",
+        "gaming",
+        "geforce 5070",
+        "nvidia",
+        "nvidia geforce",
+        "tech"
+      ]
+    },
     {
       "title": "Attempt to repeal Colorado's right-to-repair law fails",
       "link": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
