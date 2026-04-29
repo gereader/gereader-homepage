@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-04-29T09:10:52.164749+00:00",
-  "article_count": 1756,
+  "last_updated": "2026-04-29T15:56:28.397821+00:00",
+  "article_count": 1758,
   "articles": [
+    {
+      "title": "Attempt to repeal Colorado's right-to-repair law fails",
+      "link": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
+      "published": "Wed, 29 Apr 2026 14:00:19 +0000",
+      "published_parsed": "2026-04-29T14:00:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Manufacturers backed effort to repeal the law but ultimately failed.",
+      "tags": [
+        "policy",
+        "right to repair",
+        "syndication",
+        "tech"
+      ]
+    },
+    {
+      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+      "published": "Wed, 29 Apr 2026 11:00:24 +0000",
+      "published_parsed": "2026-04-29T11:00:24+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Security firms find themselves especially exposed.",
+      "tags": [
+        "bitwarden",
+        "biz & it",
+        "checkmarx",
+        "security",
+        "supply chain attacks"
+      ]
+    },
     {
       "title": "On Generating EVPN MAC/IP Routes",
       "link": "https://blog.ipspace.net/2026/04/evpn-generating-macip-routes/?utm_source=atom_feed",
