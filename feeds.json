@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T04:30:35.010184+00:00",
-  "article_count": 116,
+  "last_updated": "2026-04-29T09:10:52.187809+00:00",
+  "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -233,6 +233,19 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "On Generating EVPN MAC/IP Routes",
+      "link": "https://blog.ipspace.net/2026/04/evpn-generating-macip-routes/?utm_source=atom_feed",
+      "published": "2026-04-29T07:38:00+02:00",
+      "published_parsed": "2026-04-29T07:38:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Naveen Kumar Devaraj was reading my Integrated Routing and Bridging (IRB) with EVPN MAC-VRF Instances lab exercise and spotted this detail: Arista EOS originates MAC-IP routes with and without IP addresses, effectively doubling the size of the EVPN BGP table He kindly wrote a LinkedIn comment...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
       "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
@@ -1890,32 +1903,6 @@
       "image": "https://blog.ipspace.net/2026/01/openai-observation.png",
       "summary": "The videos from the Network Observability webinar with Dinesh Dutt are now available without a valid ipSpace.net account . Enjoy! Explore",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Multicast PIM Dense Mode (III)",
-      "link": "https://www.packetswitch.co.uk/multicast-pim-dense-mode/",
-      "published": "Thu, 29 Jan 2026 08:05:53 GMT",
-      "published_parsed": "2026-01-29T08:05:53+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/01/multicast-4-.png",
-      "summary": "PIM Dense mode assumes that every subnet in the network has interested receivers, so it floods multicast traffic everywhere first. Routers that",
-      "tags": [
-        "multicast",
-        "networking"
-      ]
-    },
-    {
-      "title": "Opinion: Impact of AI on Networking Engineers",
-      "link": "https://blog.ipspace.net/2026/01/ai-impact-networking-engineers/?utm_source=atom_feed",
-      "published": "2026-01-29T08:04:00+01:00",
-      "published_parsed": "2026-01-29T08:04:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A friend of mine sent me a series of questions that might also be on your mind (unless you’re lucky enough to live under a rock or on a different planet): I wanted to ask you how you think AI will affect networking jobs. What’s real and what’s hype? Before going into the details, let’s make a few...",
-      "tags": [
-        "ai",
         "networking"
       ]
     }

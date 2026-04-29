@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-29T04:30:34.987817+00:00",
-  "article_count": 1755,
+  "last_updated": "2026-04-29T09:10:52.164749+00:00",
+  "article_count": 1756,
   "articles": [
+    {
+      "title": "On Generating EVPN MAC/IP Routes",
+      "link": "https://blog.ipspace.net/2026/04/evpn-generating-macip-routes/?utm_source=atom_feed",
+      "published": "2026-04-29T07:38:00+02:00",
+      "published_parsed": "2026-04-29T07:38:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Naveen Kumar Devaraj was reading my Integrated Routing and Bridging (IRB) with EVPN MAC-VRF Instances lab exercise and spotted this detail: Arista EOS originates MAC-IP routes with and without IP addresses, effectively doubling the size of the EVPN BGP table He kindly wrote a LinkedIn comment...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
       "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
