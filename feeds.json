@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T04:33:08.308478+00:00",
+  "last_updated": "2026-04-30T09:13:17.529356+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -231,6 +231,19 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Generate Partial Device Configurations with netlab",
+      "link": "https://blog.ipspace.net/2026/04/netlab-generate-device-configs/?utm_source=atom_feed",
+      "published": "2026-04-30T07:26:00+02:00",
+      "published_parsed": "2026-04-30T07:26:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "At ITNOG 10, I’ve seen something that I haven’t seen in a very long time: a mini-Interop-style physical lab using a dozen devices from different vendors. The network core was a leaf-and-spine fabric with off-path BGP route reflectors and numerous other devices attached to it. I’ve configured a few...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Pytest for Automated Network Testing (I)",
       "link": "https://www.packetswitch.co.uk/pytest-for-automated-network-testing-i/",
@@ -1903,18 +1916,6 @@
       "summary": "After creating the infrastructure that generates the device configuration files within netlab (not in an Ansible playbook), it was time to try to apply it to something else, not just Linux containers. FRR containers were the obvious next target. netlab uses two different mechanisms to configure FRR...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Public Videos: Network Observability",
-      "link": "https://blog.ipspace.net/2026/01/video-network-observability/?utm_source=atom_feed",
-      "published": "2026-01-30T08:14:00+02:00",
-      "published_parsed": "2026-01-30T08:14:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/01/openai-observation.png",
-      "summary": "The videos from the Network Observability webinar with Dinesh Dutt are now available without a valid ipSpace.net account . Enjoy! Explore",
-      "tags": [
         "networking"
       ]
     }

@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-30T04:33:08.285379+00:00",
-  "article_count": 1762,
+  "last_updated": "2026-04-30T09:13:17.506206+00:00",
+  "article_count": 1763,
   "articles": [
+    {
+      "title": "Generate Partial Device Configurations with netlab",
+      "link": "https://blog.ipspace.net/2026/04/netlab-generate-device-configs/?utm_source=atom_feed",
+      "published": "2026-04-30T07:26:00+02:00",
+      "published_parsed": "2026-04-30T07:26:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "At ITNOG 10, I’ve seen something that I haven’t seen in a very long time: a mini-Interop-style physical lab using a dozen devices from different vendors. The network core was a leaf-and-spine fabric with off-path BGP route reflectors and numerous other devices attached to it. I’ve configured a few...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Pytest for Automated Network Testing (I)",
       "link": "https://www.packetswitch.co.uk/pytest-for-automated-network-testing-i/",
