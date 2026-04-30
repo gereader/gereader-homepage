@@ -1,7 +1,61 @@
 {
-  "last_updated": "2026-04-30T19:26:41.662128+00:00",
-  "article_count": 1764,
+  "last_updated": "2026-04-30T23:54:35.997949+00:00",
+  "article_count": 1767,
   "articles": [
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "published": "Thu, 30 Apr 2026 20:20:48 +0000",
+      "published_parsed": "2026-04-30T20:20:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "linux",
+        "local privilege escalation",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+      "link": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+      "published": "Thu, 30 Apr 2026 19:55:18 +0000",
+      "published_parsed": "2026-04-30T19:55:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Meta said the Kenyan workers didn't \"meet our standards.\"",
+      "tags": [
+        "ai",
+        "ai privacy",
+        "meta",
+        "policy",
+        "privacy",
+        "smart glasses",
+        "tech"
+      ]
+    },
+    {
+      "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+      "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+      "published": "Thu, 30 Apr 2026 17:47:17 +0000",
+      "published_parsed": "2026-04-30T17:47:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
+      "tags": [
+        "china",
+        "commercial drones",
+        "dji",
+        "drone pilots",
+        "drones",
+        "tech",
+        "unmanned aerial vehicles",
+        "unmanned aircraft systems"
+      ]
+    },
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",

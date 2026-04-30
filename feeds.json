@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T19:26:41.685603+00:00",
+  "last_updated": "2026-04-30T23:54:36.021339+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,6 +18,7 @@
     "agentic ai",
     "ai",
     "ai music",
+    "ai privacy",
     "aiops",
     "amazon",
     "amd",
@@ -44,12 +45,13 @@
     "certifications",
     "change management",
     "checkmarx",
+    "china",
     "civil liberties",
     "cloud",
     "cname records",
+    "commercial drones",
     "company news",
     "containers",
-    "core series 3",
     "credentials",
     "critical infrastructure",
     "cryptocurrency exchange",
@@ -65,6 +67,7 @@
     "design",
     "dhcp",
     "dhs",
+    "dji",
     "dmvpn",
     "dns",
     "docker",
@@ -77,6 +80,7 @@
     "encryption",
     "europe",
     "evpn",
+    "exploits",
     "faa",
     "fabric",
     "facebook",
@@ -104,9 +108,7 @@
     "hp",
     "immigration and customs enforcement",
     "info stealers",
-    "intel",
     "internet",
-    "ip kvms",
     "ip routing",
     "ipv6",
     "is-is",
@@ -115,8 +117,10 @@
     "kyber",
     "lan",
     "ldp",
+    "linux",
     "lisp",
     "load balancing",
+    "local privilege escalation",
     "lpcamm2",
     "mac mini",
     "malware",
@@ -144,7 +148,6 @@
     "network visibility",
     "networking",
     "networking fundamentals",
-    "networks",
     "neutral atoms",
     "nfv",
     "nokia",
@@ -166,6 +169,7 @@
     "porn",
     "post quantum cryptography",
     "prices",
+    "privacy",
     "privilege escalation",
     "programmable logic controllers",
     "propublica",
@@ -188,14 +192,13 @@
     "security",
     "segment routing",
     "service providers",
+    "smart glasses",
     "smartphones",
     "snes",
     "snmp",
     "software gone wild",
     "spending",
     "streaming",
-    "submarine cables",
-    "subsea cables",
     "super nintendo",
     "super nintendo entertainment system",
     "supply chain attacks",
@@ -210,10 +213,10 @@
     "traffic engineering",
     "training",
     "trivy",
-    "undersea cable cuts",
     "unifi",
     "universities",
     "unmanned aerial vehicles",
+    "unmanned aircraft systems",
     "video",
     "virtualization",
     "vmware",
@@ -221,7 +224,6 @@
     "vulnerabilities",
     "vxlan",
     "wan",
-    "wildcat lake",
     "windows",
     "worm",
     "worth reading",
@@ -229,6 +231,60 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "published": "Thu, 30 Apr 2026 20:20:48 +0000",
+      "published_parsed": "2026-04-30T20:20:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "linux",
+        "local privilege escalation",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+      "link": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+      "published": "Thu, 30 Apr 2026 19:55:18 +0000",
+      "published_parsed": "2026-04-30T19:55:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Meta said the Kenyan workers didn't \"meet our standards.\"",
+      "tags": [
+        "ai",
+        "ai privacy",
+        "meta",
+        "policy",
+        "privacy",
+        "smart glasses",
+        "tech"
+      ]
+    },
+    {
+      "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+      "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+      "published": "Thu, 30 Apr 2026 17:47:17 +0000",
+      "published_parsed": "2026-04-30T17:47:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
+      "tags": [
+        "china",
+        "commercial drones",
+        "dji",
+        "drone pilots",
+        "drones",
+        "tech",
+        "unmanned aerial vehicles",
+        "unmanned aircraft systems"
+      ]
+    },
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
@@ -830,36 +886,6 @@
       ]
     },
     {
-      "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
-      "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
-      "published": "Thu, 16 Apr 2026 21:33:33 +0000",
-      "published_parsed": "2026-04-16T21:33:33+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "For the first time in a while, the benefits of new Intel tech will trickle down.",
-      "tags": [
-        "core series 3",
-        "intel",
-        "tech",
-        "wildcat lake"
-      ]
-    },
-    {
-      "title": "New undersea cable cutter risks Internet’s backbone",
-      "link": "https://arstechnica.com/gadgets/2026/04/china-tests-an-undersea-cable-cutter-as-suspected-sabotage-incidents-grow/",
-      "published": "Thu, 16 Apr 2026 17:32:19 +0000",
-      "published_parsed": "2026-04-16T17:32:19+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "China cable-cutter demo coincides with more sabotage of subsea Internet cables.",
-      "tags": [
-        "submarine cables",
-        "subsea cables",
-        "tech",
-        "undersea cable cuts"
-      ]
-    },
-    {
       "title": "Testing FRRouting Pull Requests with netlab",
       "link": "https://blog.ipspace.net/2026/04/frr-pr-testing/?utm_source=atom_feed",
       "published": "2026-04-16T07:50:00+02:00",
@@ -1393,22 +1419,6 @@
         "bgp",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
-      "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-      "published": "Tue, 17 Mar 2026 17:07:12 +0000",
-      "published_parsed": "2026-03-17T17:07:12+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
-      "tags": [
-        "biz & it",
-        "ip kvms",
-        "networks",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
