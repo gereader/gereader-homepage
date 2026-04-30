@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T15:47:55.330404+00:00",
+  "last_updated": "2026-04-30T19:26:41.685603+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -128,6 +128,7 @@
     "mpls",
     "mpls vpn",
     "mpls-te",
+    "ms-dos",
     "mtu",
     "multicast",
     "nat",
@@ -151,6 +152,7 @@
     "nvidia",
     "nvidia geforce",
     "oculink",
+    "open source",
     "open source software",
     "openclaw",
     "openflow",
@@ -221,16 +223,27 @@
     "wan",
     "wildcat lake",
     "windows",
-    "windows 11",
-    "windows 11 24h2",
-    "windows 11 25h2",
-    "windows recall",
     "worm",
     "worth reading",
     "zen 5",
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "published": "Thu, 30 Apr 2026 14:20:29 +0000",
+      "published_parsed": "2026-04-30T14:20:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
+      "tags": [
+        "microsoft",
+        "ms-dos",
+        "open source",
+        "tech"
+      ]
+    },
     {
       "title": "Generate Partial Device Configurations with netlab",
       "link": "https://blog.ipspace.net/2026/04/netlab-generate-device-configs/?utm_source=atom_feed",
@@ -857,23 +870,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
-      "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
-      "published": "Wed, 15 Apr 2026 20:36:28 +0000",
-      "published_parsed": "2026-04-15T20:36:28+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"The vault is solid. The delivery truck is not.\"",
-      "tags": [
-        "security",
-        "tech",
-        "windows 11",
-        "windows 11 24h2",
-        "windows 11 25h2",
-        "windows recall"
       ]
     },
     {
