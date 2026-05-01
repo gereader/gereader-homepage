@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-05-01T19:16:26.717262+00:00",
-  "article_count": 1769,
+  "last_updated": "2026-05-01T23:54:30.811117+00:00",
+  "article_count": 1771,
   "articles": [
+    {
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+      "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+      "published": "Fri, 01 May 2026 22:00:59 +0000",
+      "published_parsed": "2026-05-01T22:00:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+      "tags": [
+        "asus rog ally",
+        "gaming",
+        "steam deck",
+        "steam machine",
+        "steamos",
+        "tech",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "published": "Fri, 01 May 2026 19:12:26 +0000",
+      "published_parsed": "2026-05-01T19:12:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+      "tags": [
+        "biz & it",
+        "ddos attack",
+        "distributed denial of service attack",
+        "security",
+        "ubuntu"
+      ]
+    },
     {
       "title": "Amazon stuck with months of repairs after drone strikes on data centers",
       "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",

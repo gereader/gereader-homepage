@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T19:16:26.740758+00:00",
+  "last_updated": "2026-05-01T23:54:30.834290+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -33,6 +33,7 @@
     "arp",
     "artificial intelligence",
     "asp.net",
+    "asus rog ally",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -63,12 +64,13 @@
     "cyberattack",
     "data center",
     "data centers",
+    "ddos attack",
     "deezer",
-    "dell",
     "department of homeland security",
     "design",
     "dhcp",
     "dhs",
+    "distributed denial of service attack",
     "dji",
     "dmvpn",
     "dns",
@@ -106,7 +108,6 @@
     "high availability",
     "history",
     "homelab",
-    "hp",
     "immigration and customs enforcement",
     "info stealers",
     "internet",
@@ -152,7 +153,6 @@
     "networking fundamentals",
     "neutral atoms",
     "nfv",
-    "nokia",
     "nsx",
     "nvidia",
     "nvidia geforce",
@@ -164,7 +164,6 @@
     "ospf",
     "overlay networks",
     "panther lake",
-    "patent",
     "plcs",
     "podcast",
     "policy",
@@ -173,7 +172,6 @@
     "privacy",
     "privilege escalation",
     "programmable logic controllers",
-    "propublica",
     "python",
     "qos",
     "quantum computing",
@@ -197,13 +195,15 @@
     "snes",
     "snmp",
     "software gone wild",
+    "steam deck",
+    "steam machine",
+    "steamos",
     "streaming",
     "super nintendo",
     "super nintendo entertainment system",
     "supply chain attacks",
     "switching",
     "syndication",
-    "synology",
     "tcp",
     "teampcp",
     "tech",
@@ -212,6 +212,7 @@
     "traffic engineering",
     "training",
     "trivy",
+    "ubuntu",
     "unifi",
     "universities",
     "unmanned aerial vehicles",
@@ -225,12 +226,49 @@
     "vxlan",
     "wan",
     "windows",
+    "windows 11 24h2",
+    "windows 11 25h2",
     "worm",
     "worth reading",
     "zen 5",
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+      "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+      "published": "Fri, 01 May 2026 22:00:59 +0000",
+      "published_parsed": "2026-05-01T22:00:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+      "tags": [
+        "asus rog ally",
+        "gaming",
+        "steam deck",
+        "steam machine",
+        "steamos",
+        "tech",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "published": "Fri, 01 May 2026 19:12:26 +0000",
+      "published_parsed": "2026-05-01T19:12:26+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+      "tags": [
+        "biz & it",
+        "ddos attack",
+        "distributed denial of service attack",
+        "security",
+        "ubuntu"
+      ]
+    },
     {
       "title": "Amazon stuck with months of repairs after drone strikes on data centers",
       "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
@@ -791,25 +829,6 @@
       "tags": [
         "company news",
         "networking"
-      ]
-    },
-    {
-      "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
-      "link": "https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/",
-      "published": "Mon, 20 Apr 2026 11:00:07 +0000",
-      "published_parsed": "2026-04-20T11:00:07+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "How does HEVC implementation really work these days?",
-      "tags": [
-        "dell",
-        "features",
-        "hp",
-        "nokia",
-        "patent",
-        "streaming",
-        "synology",
-        "tech"
       ]
     },
     {
@@ -1392,21 +1411,6 @@
       "tags": [
         "mpls",
         "networking"
-      ]
-    },
-    {
-      "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
-      "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
-      "published": "Wed, 18 Mar 2026 17:36:40 +0000",
-      "published_parsed": "2026-03-18T17:36:40+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "One Microsoft product was approved despite years of concerns about its security.",
-      "tags": [
-        "biz & it",
-        "microsoft",
-        "propublica",
-        "syndication"
       ]
     },
     {
