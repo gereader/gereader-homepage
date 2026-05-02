@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-05-02T08:21:13.758575+00:00",
-  "article_count": 1771,
+  "last_updated": "2026-05-02T14:51:31.823843+00:00",
+  "article_count": 1773,
   "articles": [
+    {
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "published": "Sat, 02 May 2026 11:30:26 +0000",
+      "published_parsed": "2026-05-02T11:30:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Acoustic fire suppression goes commercial.",
+      "tags": [
+        "fire",
+        "firefighting",
+        "infrasound",
+        "sprinklers",
+        "tech"
+      ]
+    },
+    {
+      "title": "I Vibe-Coded My CV Into a CLI",
+      "link": "https://www.packetswitch.co.uk/i-vibe-coded-my-cv-into-a-cli/",
+      "published": "Sat, 02 May 2026 10:29:40 GMT",
+      "published_parsed": "2026-05-02T10:29:40+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/cli-cv.png",
+      "summary": "The idea is that a site that looks and feels like a CLI, where you can run the usual show commands and get output, except the output is my CV.",
+      "tags": [
+        "general",
+        "networking"
+      ]
+    },
     {
       "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
       "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",

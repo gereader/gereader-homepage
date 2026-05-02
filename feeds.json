@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T08:21:13.781956+00:00",
-  "article_count": 116,
+  "last_updated": "2026-05-02T14:51:31.847312+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -18,7 +18,6 @@
     "agentic ai",
     "ai",
     "ai data centers",
-    "ai music",
     "ai privacy",
     "aiops",
     "amazon",
@@ -65,7 +64,6 @@
     "data center",
     "data centers",
     "ddos attack",
-    "deezer",
     "department of homeland security",
     "design",
     "dhcp",
@@ -89,6 +87,8 @@
     "fabric",
     "features",
     "federal aviation administration",
+    "fire",
+    "firefighting",
     "firewall",
     "firewalls",
     "foldables",
@@ -99,7 +99,7 @@
     "framework laptop 16",
     "gaming",
     "geforce 5070",
-    "generative ai",
+    "general",
     "github",
     "gre",
     "grinex",
@@ -110,6 +110,7 @@
     "homelab",
     "immigration and customs enforcement",
     "info stealers",
+    "infrasound",
     "internet",
     "ip routing",
     "ipv6",
@@ -188,13 +189,15 @@
     "sd-wan",
     "sdn",
     "security",
-    "segment routing",
     "service providers",
     "smart glasses",
     "smartphones",
     "snes",
     "snmp",
     "software gone wild",
+    "sprinklers",
+    "sr-mpls",
+    "srv6",
     "steam deck",
     "steam machine",
     "steamos",
@@ -234,6 +237,35 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "published": "Sat, 02 May 2026 11:30:26 +0000",
+      "published_parsed": "2026-05-02T11:30:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Acoustic fire suppression goes commercial.",
+      "tags": [
+        "fire",
+        "firefighting",
+        "infrasound",
+        "sprinklers",
+        "tech"
+      ]
+    },
+    {
+      "title": "I Vibe-Coded My CV Into a CLI",
+      "link": "https://www.packetswitch.co.uk/i-vibe-coded-my-cv-into-a-cli/",
+      "published": "Sat, 02 May 2026 10:29:40 GMT",
+      "published_parsed": "2026-05-02T10:29:40+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/cli-cv.png",
+      "summary": "The idea is that a site that looks and feels like a CLI, where you can run the usual show commands and get output, except the output is my CV.",
+      "tags": [
+        "general",
+        "networking"
+      ]
+    },
     {
       "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
       "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
@@ -802,23 +834,6 @@
       ]
     },
     {
-      "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
-      "link": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
-      "published": "Mon, 20 Apr 2026 17:15:51 +0000",
-      "published_parsed": "2026-04-20T17:15:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
-      "tags": [
-        "ai",
-        "ai music",
-        "artificial intelligence",
-        "deezer",
-        "generative ai",
-        "tech"
-      ]
-    },
-    {
       "title": "How to Get Network Tools to Work Together, Unify Data, and Orchestrate NetOps",
       "link": "https://www.netbrain.com/blog/get-network-tools-to-work-together/",
       "published": "2026-04-20T14:29:30Z",
@@ -840,9 +855,8 @@
       "image": null,
       "summary": "We’re starting the SR-MPLS workshop @ ITNOG 10 in Bologna in a few hours. Hope you’ll make it, but if you happen to be too far away, here’s the slide deck , the lab topologies , and the usage guidelines .",
       "tags": [
-        "mpls",
         "networking",
-        "segment routing"
+        "sr-mpls"
       ]
     },
     {
@@ -1587,7 +1601,8 @@
       "tags": [
         "mpls vpn",
         "netlab",
-        "networking"
+        "networking",
+        "sr-mpls"
       ]
     },
     {
