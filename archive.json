@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-03T14:51:43.073738+00:00",
-  "article_count": 1773,
+  "last_updated": "2026-05-03T19:03:54.540106+00:00",
+  "article_count": 1774,
   "articles": [
+    {
+      "title": "Simple Wireguard VPN Setup with wg-easy",
+      "link": "https://www.packetswitch.co.uk/simple-wireguard-vpn-setup-with-wg-easy/",
+      "published": "Sun, 03 May 2026 16:18:45 GMT",
+      "published_parsed": "2026-05-03T16:18:45+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/BLOG-COVERS.png",
+      "summary": "This is where wg-easy comes in. It is a simple open-source web UI that sits on top of WireGuard and takes care of all the boring bits for you.",
+      "tags": [
+        "homelab",
+        "networking"
+      ]
+    },
     {
       "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
       "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
