@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-03T04:41:12.294413+00:00",
-  "article_count": 117,
+  "last_updated": "2026-05-03T08:48:23.070624+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1928,19 +1928,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "Here’s another “You can’t make this up, but it sounds too crazy to be true” story: Cisco IOS layer-2 images change the interface MAC address when you change the interface switchport status. Let me start with a bit of background: IOL Layer 2 image starts with interfaces enabled and in bridged (...",
-      "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Fast FRR Container Configuration",
-      "link": "https://blog.ipspace.net/2026/02/netlab-frr-configuration/?utm_source=atom_feed",
-      "published": "2026-02-02T07:47:00+01:00",
-      "published_parsed": "2026-02-02T07:47:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "After creating the infrastructure that generates the device configuration files within netlab (not in an Ansible playbook), it was time to try to apply it to something else, not just Linux containers. FRR containers were the obvious next target. netlab uses two different mechanisms to configure FRR...",
       "tags": [
         "netlab",
         "networking"
