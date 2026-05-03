@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T08:48:23.070624+00:00",
+  "last_updated": "2026-05-03T14:51:43.097132+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -853,7 +853,7 @@
       "published_parsed": "2026-04-20T07:44:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
-      "summary": "We’re starting the SR-MPLS workshop @ ITNOG 10 in Bologna in a few hours. Hope you’ll make it, but if you happen to be too far away, here’s the slide deck , the lab topologies , and the usage guidelines .",
+      "summary": "We had a wonderful SR-MPLS workshop @ ITNOG 10 in Bologna on April 20th 2025. If you missed it, explore: The Segment Routing: from Theory to Practice presentation by Tiziano Tofoni The slide deck for the hands-on part of the workshop The lab topologies , and the usage guidelines .",
       "tags": [
         "networking",
         "sr-mpls"
