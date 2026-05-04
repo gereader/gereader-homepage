@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-05-04T19:43:54.477584+00:00",
-  "article_count": 1776,
+  "last_updated": "2026-05-04T23:56:22.086107+00:00",
+  "article_count": 1778,
   "articles": [
+    {
+      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+      "published": "Mon, 04 May 2026 21:38:37 +0000",
+      "published_parsed": "2026-05-04T21:38:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
+      "tags": [
+        "ai",
+        "anthropic claude",
+        "macos",
+        "notepad",
+        "tech",
+        "vibe coding"
+      ]
+    },
     {
       "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
       "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
@@ -175,6 +192,20 @@
         "privacy",
         "smart glasses",
         "tech"
+      ]
+    },
+    {
+      "title": "What Causes Airline Network Outages — And What Stops Them",
+      "link": "https://www.netbrain.com/blog/airlines-with-network-resilience/",
+      "published": "2026-04-30T17:55:11Z",
+      "published_parsed": "2026-04-30T17:55:11+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "A 2024 IT outage cost one US carrier over $500 million. Two years earlier, an operational meltdown at another carrier cost more than $750 million. The US Government Accountability Office...",
+      "tags": [
+        "navigation blog",
+        "network observability",
+        "networking"
       ]
     },
     {

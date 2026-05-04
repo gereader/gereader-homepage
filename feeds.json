@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T19:43:54.501711+00:00",
+  "last_updated": "2026-05-04T23:56:22.109159+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "3d v-cache",
     "aci",
     "acquisitions",
     "aes-128",
@@ -21,9 +20,9 @@
     "ai privacy",
     "aiops",
     "amazon",
-    "amd",
     "android",
     "ansible",
+    "anthropic claude",
     "apple",
     "apple m4",
     "apple silicon",
@@ -127,6 +126,7 @@
     "lpcamm2",
     "mac mini",
     "mac studio",
+    "macos",
     "malware",
     "mergers",
     "meta",
@@ -140,6 +140,7 @@
     "mtu",
     "multicast",
     "nat",
+    "navigation blog",
     "netconf",
     "netdevops",
     "netlab",
@@ -154,6 +155,7 @@
     "networking fundamentals",
     "neutral atoms",
     "nfv",
+    "notepad",
     "nsx",
     "nvidia",
     "nvidia geforce",
@@ -183,7 +185,6 @@
     "roku",
     "routers",
     "russian hacking",
-    "ryzen",
     "samsung",
     "san",
     "sd-wan",
@@ -221,6 +222,7 @@
     "unmanned aerial vehicles",
     "unmanned aircraft systems",
     "usa-iran war",
+    "vibe coding",
     "video",
     "virtualization",
     "vmware",
@@ -233,10 +235,26 @@
     "windows 11 25h2",
     "worm",
     "worth reading",
-    "zen 5",
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+      "published": "Mon, 04 May 2026 21:38:37 +0000",
+      "published_parsed": "2026-05-04T21:38:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
+      "tags": [
+        "ai",
+        "anthropic claude",
+        "macos",
+        "notepad",
+        "tech",
+        "vibe coding"
+      ]
+    },
     {
       "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
       "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
@@ -410,6 +428,20 @@
         "privacy",
         "smart glasses",
         "tech"
+      ]
+    },
+    {
+      "title": "What Causes Airline Network Outages — And What Stops Them",
+      "link": "https://www.netbrain.com/blog/airlines-with-network-resilience/",
+      "published": "2026-04-30T17:55:11Z",
+      "published_parsed": "2026-04-30T17:55:11+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "A 2024 IT outage cost one US carrier over $500 million. Two years earlier, an operational meltdown at another carrier cost more than $750 million. The US Government Accountability Office...",
+      "tags": [
+        "navigation blog",
+        "network observability",
+        "networking"
       ]
     },
     {
@@ -824,22 +856,6 @@
         "gaming",
         "oculink",
         "tech"
-      ]
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
-      "link": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
-      "published": "Tue, 21 Apr 2026 14:45:36 +0000",
-      "published_parsed": "2026-04-21T14:45:36+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "There are some practical benefits to this $899 chip, but not many.",
-      "tags": [
-        "3d v-cache",
-        "amd",
-        "ryzen",
-        "tech",
-        "zen 5"
       ]
     },
     {
@@ -1794,19 +1810,6 @@
       "summary": "Apart from IP multicast and QoS, netlab can configure commonly used networking technologies across dozens of devices from most networking vendors. Why don’t you use all that embedded knowledge (supported by hundreds of integration tests ) to help you configure unfamiliar devices? You don’t have to...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "What Is Intent-Based Networking?",
-      "link": "https://www.netbrain.com/blog/what-is-intent-based-networking/",
-      "published": "2026-02-13T21:15:30Z",
-      "published_parsed": "2026-02-13T21:15:30+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Modern networks are expected to do more than stay online. They must support cloud workloads, remote users, security controls, and business-critical applications simultaneously. For many IT teams, this creates daily...",
-      "tags": [
-        "company news",
         "networking"
       ]
     },
