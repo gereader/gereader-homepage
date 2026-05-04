@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-05-04T16:02:24.624252+00:00",
-  "article_count": 1775,
+  "last_updated": "2026-05-04T19:43:54.477584+00:00",
+  "article_count": 1776,
   "articles": [
+    {
+      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+      "published": "Mon, 04 May 2026 17:57:46 +0000",
+      "published_parsed": "2026-05-04T17:57:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "tags": [
+        "biz & it",
+        "ebay",
+        "gamestop",
+        "policy"
+      ]
+    },
     {
       "title": "SwiNOG 41: It Was Nice to Be Back",
       "link": "https://blog.ipspace.net/2026/05/swinog-41/?utm_source=atom_feed",

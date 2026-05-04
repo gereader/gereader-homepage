@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T16:02:24.648389+00:00",
+  "last_updated": "2026-05-04T19:43:54.501711+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -24,7 +24,6 @@
     "amd",
     "android",
     "ansible",
-    "antitrust",
     "apple",
     "apple m4",
     "apple silicon",
@@ -76,11 +75,11 @@
     "domain hijacking",
     "drone pilots",
     "drones",
+    "ebay",
     "eigrp",
     "elliptic curve cryptography",
     "emulation",
     "encryption",
-    "europe",
     "evpn",
     "exploits",
     "faa",
@@ -97,6 +96,7 @@
     "framework laptop 13",
     "framework laptop 13 pro",
     "framework laptop 16",
+    "gamestop",
     "gaming",
     "geforce 5070",
     "general",
@@ -237,6 +237,21 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+      "published": "Mon, 04 May 2026 17:57:46 +0000",
+      "published_parsed": "2026-05-04T17:57:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "tags": [
+        "biz & it",
+        "ebay",
+        "gamestop",
+        "policy"
+      ]
+    },
     {
       "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
       "link": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
@@ -1419,24 +1434,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
-      "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
-      "published": "Thu, 19 Mar 2026 21:29:53 +0000",
-      "published_parsed": "2026-03-19T21:29:53+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Broadcom says the group is misrepresenting market \"realities.\"",
-      "tags": [
-        "acquisitions",
-        "antitrust",
-        "biz & it",
-        "broadcom",
-        "europe",
-        "mergers",
-        "vmware"
       ]
     },
     {
