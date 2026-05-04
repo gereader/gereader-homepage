@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:41:09.918337+00:00",
+  "last_updated": "2026-05-04T09:22:26.930436+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -237,6 +237,18 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "SwiNOG 41: It Was Nice to Be Back",
+      "link": "https://blog.ipspace.net/2026/05/swinog-41/?utm_source=atom_feed",
+      "published": "2026-05-04T07:09:00+02:00",
+      "published_parsed": "2026-05-04T07:09:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last week’s SwiNOG was (as expected) great fun at a phenomenal location , starting with the first slide of the first presentation: “6 Stages of Network De-sh*tification”. I particularly loved the “talk less, chat more” schedule. The longer breaks gave us plenty of time to catch up with old friends...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Simple Wireguard VPN Setup with wg-easy",
       "link": "https://www.packetswitch.co.uk/simple-wireguard-vpn-setup-with-wg-easy/",
@@ -1931,19 +1943,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Interface MAC Address in IOS Layer-2 Images",
-      "link": "https://blog.ipspace.net/2026/02/ios-layer2-mac-address/?utm_source=atom_feed",
-      "published": "2026-02-03T08:08:00+01:00",
-      "published_parsed": "2026-02-03T08:08:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Here’s another “You can’t make this up, but it sounds too crazy to be true” story: Cisco IOS layer-2 images change the interface MAC address when you change the interface switchport status. Let me start with a bit of background: IOL Layer 2 image starts with interfaces enabled and in bridged (...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
