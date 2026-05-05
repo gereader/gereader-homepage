@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-05T09:07:40.948328+00:00",
-  "article_count": 1780,
+  "last_updated": "2026-05-05T19:25:33.689946+00:00",
+  "article_count": 1782,
   "articles": [
+    {
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "published": "Tue, 05 May 2026 17:17:25 +0000",
+      "published_parsed": "2026-05-05T17:17:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google home",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Why Reddit blocked my daily visit to its mobile website",
+      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+      "published": "Tue, 05 May 2026 11:20:08 +0000",
+      "published_parsed": "2026-05-05T11:20:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Reddit REALLY wants you to use its app.",
+      "tags": [
+        "apps",
+        "biz & it",
+        "mobile web",
+        "reddit"
+      ]
+    },
     {
       "title": "Speed Up Ansible`s NetBox Inventory",
       "link": "https://www.packetcoders.io/speed-up-ansible-s-netbox-inventory/",
