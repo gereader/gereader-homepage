@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T19:25:33.713715+00:00",
+  "last_updated": "2026-05-05T23:50:47.848121+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -37,6 +37,7 @@
     "aws",
     "aws outage",
     "azure",
+    "backdoors",
     "bgp",
     "bitwarden",
     "biz & it",
@@ -60,6 +61,7 @@
     "cumulus linux",
     "customs and border protection",
     "cyberattack",
+    "daemon tools",
     "data center",
     "data centers",
     "ddos attack",
@@ -129,7 +131,6 @@
     "mac mini",
     "mac studio",
     "macos",
-    "malware",
     "mergers",
     "meta",
     "microsoft",
@@ -209,11 +210,11 @@
     "streaming",
     "super nintendo",
     "super nintendo entertainment system",
+    "supply chain attack",
     "supply chain attacks",
     "switching",
     "syndication",
     "tcp",
-    "teampcp",
     "tech",
     "tim cook",
     "tips",
@@ -236,11 +237,26 @@
     "windows",
     "windows 11 24h2",
     "windows 11 25h2",
-    "worm",
     "worth reading",
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+      "published": "Tue, 05 May 2026 19:46:15 +0000",
+      "published_parsed": "2026-05-05T19:46:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+      "tags": [
+        "backdoors",
+        "biz & it",
+        "daemon tools",
+        "security",
+        "supply chain attack"
+      ]
+    },
     {
       "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
       "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
@@ -1421,22 +1437,6 @@
       "tags": [
         "aiops",
         "networking"
-      ]
-    },
-    {
-      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-      "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-      "published": "Tue, 24 Mar 2026 12:38:09 +0000",
-      "published_parsed": "2026-03-24T12:38:09+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Development houses: It's time to check your networks for infections.",
-      "tags": [
-        "biz & it",
-        "malware",
-        "security",
-        "teampcp",
-        "worm"
       ]
     },
     {

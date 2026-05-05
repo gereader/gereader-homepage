@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-05T19:25:33.689946+00:00",
-  "article_count": 1782,
+  "last_updated": "2026-05-05T23:50:47.826357+00:00",
+  "article_count": 1783,
   "articles": [
+    {
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+      "published": "Tue, 05 May 2026 19:46:15 +0000",
+      "published_parsed": "2026-05-05T19:46:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+      "tags": [
+        "backdoors",
+        "biz & it",
+        "daemon tools",
+        "security",
+        "supply chain attack"
+      ]
+    },
     {
       "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
       "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
