@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T04:17:22.423863+00:00",
-  "article_count": 117,
+  "last_updated": "2026-05-05T09:07:40.971249+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -115,7 +115,6 @@
     "ipv6",
     "is-is",
     "ise",
-    "jinja",
     "kyber",
     "lan",
     "ldp",
@@ -238,6 +237,32 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Speed Up Ansible`s NetBox Inventory",
+      "link": "https://www.packetcoders.io/speed-up-ansible-s-netbox-inventory/",
+      "published": "Tue, 05 May 2026 09:00:12 GMT",
+      "published_parsed": "2026-05-05T09:00:12+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/05/Tips-logo.webp",
+      "summary": "NetBox/Ansible Tip: The netbox.netbox.nb_inventory plugin pulls data from multiple NetBox API endpoints. Enable caching and disable unused extra lookups to reduce API calls and improve inventory load times. Here’s what you need to add to your NetBox inventory plugin file: # Cache inventory data...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
+    {
+      "title": "ARP Issues in EVPN Centralized Routing Design",
+      "link": "https://blog.ipspace.net/2026/05/arp-issues-evpn-central-routing/?utm_source=atom_feed",
+      "published": "2026-05-05T07:45:00+02:00",
+      "published_parsed": "2026-05-05T07:45:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Adding IRB to a EVPN MAC-VRFs (the fancy way of saying stretched VLANs ) seems like a no-brainer: Add IP addresses to VLAN interfaces Optionally add a shared anycast gateway Declare “Mission Accomplished” (and try to ignore the inevitable phone call at 2 AM on a Sunday night) Making that work in a...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
       "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
@@ -1930,19 +1955,6 @@
       "tags": [
         "mpls",
         "networking"
-      ]
-    },
-    {
-      "title": "OMG, After a Decade, VXLAN Is Still Insecure",
-      "link": "https://blog.ipspace.net/2026/02/worth-reading-omg-vxlan-still-insecure/?utm_source=atom_feed",
-      "published": "2026-02-04T07:22:00+01:00",
-      "published_parsed": "2026-02-04T07:22:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In 2017 (over eight years ago), I was making fun of the fact that “ VXLAN is insecure ” was news to some people. Obviously, the message needed to be repeated, as the same author gave a very similar presentation two years later at a security conference. Unfortunately, it seems that everything old is...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
