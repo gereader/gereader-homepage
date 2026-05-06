@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-05-06T19:49:30.843720+00:00",
-  "article_count": 1785,
+  "last_updated": "2026-05-06T23:53:27.688961+00:00",
+  "article_count": 1786,
   "articles": [
+    {
+      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+      "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+      "published": "Wed, 06 May 2026 21:47:27 +0000",
+      "published_parsed": "2026-05-06T21:47:27+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+      "tags": [
+        "ai",
+        "ai chips",
+        "chip manufacturing",
+        "offshore wind",
+        "semiconductor manufacturing",
+        "taiwan",
+        "taiwan semiconductor manufacturing company",
+        "tech",
+        "tsmc",
+        "wind power"
+      ]
+    },
     {
       "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
       "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
