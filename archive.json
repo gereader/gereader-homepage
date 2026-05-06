@@ -1,7 +1,30 @@
 {
-  "last_updated": "2026-05-06T09:25:08.733290+00:00",
-  "article_count": 1784,
+  "last_updated": "2026-05-06T16:02:11.390731+00:00",
+  "article_count": 1785,
   "articles": [
+    {
+      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+      "published": "Wed, 06 May 2026 13:32:47 +0000",
+      "published_parsed": "2026-05-06T13:32:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+      "tags": [
+        "ansi",
+        "bash",
+        "biz & it",
+        "cli",
+        "command line",
+        "features",
+        "fish",
+        "fish shell",
+        "terminal",
+        "text mode",
+        "tui",
+        "vim"
+      ]
+    },
     {
       "title": "Hmmm: Cloudflare's Automatic Return Routing",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-cloudflare-automatic-return-routing/?utm_source=atom_feed",

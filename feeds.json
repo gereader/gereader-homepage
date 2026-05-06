@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T09:25:08.756964+00:00",
+  "last_updated": "2026-05-06T16:02:11.414067+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,6 +21,7 @@
     "aiops",
     "amazon",
     "android",
+    "ansi",
     "ansible",
     "anthropic claude",
     "apple",
@@ -38,6 +39,7 @@
     "aws outage",
     "azure",
     "backdoors",
+    "bash",
     "bgp",
     "bitwarden",
     "biz & it",
@@ -49,8 +51,10 @@
     "checkmarx",
     "china",
     "civil liberties",
+    "cli",
     "cloud",
     "cname records",
+    "command line",
     "commercial drones",
     "company news",
     "containers",
@@ -81,7 +85,6 @@
     "eigrp",
     "elliptic curve cryptography",
     "emulation",
-    "encryption",
     "evpn",
     "exploits",
     "faa",
@@ -92,6 +95,8 @@
     "firefighting",
     "firewall",
     "firewalls",
+    "fish",
+    "fish shell",
     "foldables",
     "framework",
     "framework laptop",
@@ -216,10 +221,13 @@
     "syndication",
     "tcp",
     "tech",
+    "terminal",
+    "text mode",
     "tim cook",
     "tips",
     "traffic engineering",
     "training",
+    "tui",
     "ubuntu",
     "unifi",
     "universities",
@@ -228,6 +236,7 @@
     "usa-iran war",
     "vibe coding",
     "video",
+    "vim",
     "virtualization",
     "vmware",
     "vpn",
@@ -241,6 +250,29 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+      "published": "Wed, 06 May 2026 13:32:47 +0000",
+      "published_parsed": "2026-05-06T13:32:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+      "tags": [
+        "ansi",
+        "bash",
+        "biz & it",
+        "cli",
+        "command line",
+        "features",
+        "fish",
+        "fish shell",
+        "terminal",
+        "text mode",
+        "tui",
+        "vim"
+      ]
+    },
     {
       "title": "Hmmm: Cloudflare's Automatic Return Routing",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-cloudflare-automatic-return-routing/?utm_source=atom_feed",
@@ -1421,22 +1453,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-      "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-      "published": "Wed, 25 Mar 2026 15:49:17 +0000",
-      "published_parsed": "2026-03-25T15:49:17+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Company warns entire industry to move off RSA and EC more quickly.",
-      "tags": [
-        "biz & it",
-        "encryption",
-        "post quantum cryptography",
-        "quantum computing",
-        "security"
       ]
     },
     {
