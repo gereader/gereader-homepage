@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-06T04:34:23.630391+00:00",
-  "article_count": 1783,
+  "last_updated": "2026-05-06T09:25:08.733290+00:00",
+  "article_count": 1784,
   "articles": [
+    {
+      "title": "Hmmm: Cloudflare's Automatic Return Routing",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-cloudflare-automatic-return-routing/?utm_source=atom_feed",
+      "published": "2026-05-06T08:12:00+02:00",
+      "published_parsed": "2026-05-06T08:12:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A while ago, I found the How Automatic Return Routing solves IP overlap article on Cloudflare’s blog. They evidently have a technology that addresses a pain point well worth solving (access to shared resources from clients using overlapping address ranges). I just hate how they’re selling it. Go...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
       "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
