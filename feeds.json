@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T04:35:02.944655+00:00",
-  "article_count": 118,
+  "last_updated": "2026-05-07T09:35:10.041468+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -256,6 +256,20 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "On ARP and MAC Aging Timers",
+      "link": "https://blog.ipspace.net/2026/05/arp-mac-aging-timers/?utm_source=atom_feed",
+      "published": "2026-05-07T08:14:00+02:00",
+      "published_parsed": "2026-05-07T08:14:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Naveen Kumar Devaraj mentioned an interesting fact in his EVPN-related comment : The EOS default ARP timeout is 4 hours, and MAC aging is 5 minutes. Arista is not the only platform using these default values; did you ever wonder where they came from? Read more …",
+      "tags": [
+        "arp",
+        "bridging",
+        "networking"
+      ]
+    },
     {
       "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
       "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
@@ -1815,18 +1829,6 @@
       ]
     },
     {
-      "title": "Public Videos: EVPN in MPLS-Based Environments",
-      "link": "https://blog.ipspace.net/2026/02/evpn-mpls-videos/?utm_source=atom_feed",
-      "published": "2026-02-20T07:36:00+01:00",
-      "published_parsed": "2026-02-20T07:36:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2025/01/dalle-leaf-spine-design.png",
-      "summary": "While we’re mostly discussing EVPN in conjunction with VXLAN encapsulation, its initial use case was as an alternate control plane for MPLS networks. Krzysztof Szarkowicz had a great presentation describing the specifics of EVPN in MPLS-Based Environments a few years ago. Those videos (part of the...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
       "title": "Cisco IOS/XR OSPFv2 Not-So-Passive Interfaces",
       "link": "https://blog.ipspace.net/2026/02/iosxr-ospfv2-not-so-passive/?utm_source=atom_feed",
       "published": "2026-02-19T07:46:00+01:00",
@@ -1968,20 +1970,6 @@
       "tags": [
         "multicast",
         "networking"
-      ]
-    },
-    {
-      "title": "Lab: Routing Between VXLAN Segments",
-      "link": "https://blog.ipspace.net/2026/02/lab-vxlan-irb/?utm_source=atom_feed",
-      "published": "2026-02-06T07:59:00+01:00",
-      "published_parsed": "2026-02-06T07:59:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://evpn.bgplabs.net/vxlan/topology-irb.png",
-      "summary": "In the previous EVPN/VXLAN lab exercises , we covered the basics of Ethernet bridging over VXLAN and the use of the EVPN control plane to build layer-2 segments. It’s time to move up the protocol stack. Let’s see how you can route between VXLAN segments, this time using unique unicast IP addresses...",
-      "tags": [
-        "evpn",
-        "networking",
-        "vxlan"
       ]
     }
   ]

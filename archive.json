@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-07T04:35:02.921796+00:00",
-  "article_count": 1786,
+  "last_updated": "2026-05-07T09:35:10.017364+00:00",
+  "article_count": 1787,
   "articles": [
+    {
+      "title": "On ARP and MAC Aging Timers",
+      "link": "https://blog.ipspace.net/2026/05/arp-mac-aging-timers/?utm_source=atom_feed",
+      "published": "2026-05-07T08:14:00+02:00",
+      "published_parsed": "2026-05-07T08:14:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Naveen Kumar Devaraj mentioned an interesting fact in his EVPN-related comment : The EOS default ARP timeout is 4 hours, and MAC aging is 5 minutes. Arista is not the only platform using these default values; did you ever wonder where they came from? Read more …",
+      "tags": [
+        "arp",
+        "bridging",
+        "networking"
+      ]
+    },
     {
       "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
       "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
