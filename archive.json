@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-05-07T16:06:56.874570+00:00",
-  "article_count": 1787,
+  "last_updated": "2026-05-07T19:45:43.075603+00:00",
+  "article_count": 1788,
   "articles": [
+    {
+      "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+      "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+      "published": "Thu, 07 May 2026 14:00:50 +0000",
+      "published_parsed": "2026-05-07T14:00:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Band_Active-1024x577.png",
+      "summary": "The $100 Fitbit Air is available for preorder today.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "fitbit",
+        "google",
+        "tech",
+        "wearables"
+      ]
+    },
     {
       "title": "On ARP and MAC Aging Timers",
       "link": "https://blog.ipspace.net/2026/05/arp-mac-aging-timers/?utm_source=atom_feed",
