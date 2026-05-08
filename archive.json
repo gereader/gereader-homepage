@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-08T04:16:45.630421+00:00",
-  "article_count": 1789,
+  "last_updated": "2026-05-08T08:21:43.097448+00:00",
+  "article_count": 1790,
   "articles": [
+    {
+      "title": "Public Videos: Segment Routing 101",
+      "link": "https://blog.ipspace.net/2026/05/sr101-videos/?utm_source=atom_feed",
+      "published": "2026-05-08T07:38:00+01:00",
+      "published_parsed": "2026-05-08T07:38:00+01:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/chat-segment-inspection.png",
+      "summary": "In the spring of 2017, Jeff Tantsura , the IETF Routing Area chair , delivered a short “ Introduction to Segment Routing ” webinar. In mid-April 2026, we had ~100 people at ITNOG 10 attending the excellent “Segment Routing: From Theory to Practice” workshop by the great Tiziano Tofoni . The future...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
