@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-05-08T19:22:31.812502+00:00",
-  "article_count": 1791,
+  "last_updated": "2026-05-08T23:57:40.338650+00:00",
+  "article_count": 1792,
   "articles": [
+    {
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+      "published": "Fri, 08 May 2026 18:33:48 +0000",
+      "published_parsed": "2026-05-08T18:33:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Across the country, schools and colleges postpone year-end tests.",
+      "tags": [
+        "biz & it",
+        "canvas",
+        "cyberattacks",
+        "outages",
+        "ransomware",
+        "school",
+        "security"
+      ]
+    },
     {
       "title": "Which Macs are suffering from shortages—and where are things getting worse?",
       "link": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
