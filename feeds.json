@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T04:45:52.083222+00:00",
-  "article_count": 117,
+  "last_updated": "2026-05-10T08:55:55.470561+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1971,19 +1971,6 @@
       "summary": "AutoRP solves this problem by allowing routers to dynamically learn the RP address. Instead of manually configuring the RP on each router",
       "tags": [
         "multicast",
-        "networking"
-      ]
-    },
-    {
-      "title": "Fast Arista cEOS Container Configuration",
-      "link": "https://blog.ipspace.net/2026/02/netlab-eos-configuration/?utm_source=atom_feed",
-      "published": "2026-02-09T07:23:00+01:00",
-      "published_parsed": "2026-02-09T07:23:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "After the enormous speedup I achieved with the FRR containers , I tried to do something similar with the Arista cEOS ones. After all, Arista’s pretty open about running its software on standard Linux, so it should be possible to map host-side configuration files into container-side scripts and...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
