@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T16:33:18.645840+00:00",
+  "last_updated": "2026-05-11T19:51:56.171660+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -86,7 +86,6 @@
     "drones",
     "ebay",
     "eigrp",
-    "emulation",
     "evpn",
     "exploits",
     "faa",
@@ -110,8 +109,12 @@
     "gemini",
     "general",
     "github",
+    "gnss",
     "google",
     "google home",
+    "gps",
+    "gps jamming",
+    "gps spoofing",
     "gre",
     "grinex",
     "grover's algorithm",
@@ -123,12 +126,16 @@
     "immigration and customs enforcement",
     "infrasound",
     "internet",
+    "ios",
+    "ios 26",
     "ip routing",
+    "ipados 26",
     "ipv6",
     "is-is",
     "ise",
     "kyber",
     "lan",
+    "lawsuit",
     "ldp",
     "linux",
     "lisp",
@@ -141,6 +148,7 @@
     "macbook neo",
     "macbook pro",
     "macos",
+    "macos 26 tahoe",
     "mergers",
     "meta",
     "microsoft",
@@ -202,6 +210,7 @@
     "russian hacking",
     "samsung",
     "san",
+    "satellites",
     "school",
     "sd-wan",
     "sdn",
@@ -211,18 +220,18 @@
     "smart glasses",
     "smart home",
     "smartphones",
-    "snes",
     "snmp",
     "software gone wild",
+    "spacex",
+    "spacex starlink",
     "sprinklers",
     "sr-mpls",
     "srv6",
+    "starlink",
     "steam deck",
     "steam machine",
     "steamos",
     "streaming",
-    "super nintendo",
-    "super nintendo entertainment system",
     "supply chain attack",
     "supply chain attacks",
     "switching",
@@ -233,12 +242,13 @@
     "tech",
     "terminal",
     "text mode",
-    "tim cook",
     "tips",
     "traffic engineering",
     "training",
     "tsmc",
     "tui",
+    "tvos 26",
+    "tvs",
     "ubuntu",
     "unifi",
     "universities",
@@ -254,15 +264,70 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "watchos 26",
     "wearables",
     "wind power",
     "windows",
     "windows 11 24h2",
     "windows 11 25h2",
-    "worth reading",
-    "zsnes"
+    "worth reading"
   ],
   "articles": [
+    {
+      "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
+      "link": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
+      "published": "Mon, 11 May 2026 17:55:34 +0000",
+      "published_parsed": "2026-05-11T17:55:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Shutdown of Starlink location feature won’t dampen interest in GPS alternatives.",
+      "tags": [
+        "gnss",
+        "gps",
+        "gps jamming",
+        "gps spoofing",
+        "satellites",
+        "spacex",
+        "spacex starlink",
+        "starlink",
+        "tech"
+      ]
+    },
+    {
+      "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
+      "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
+      "published": "Mon, 11 May 2026 17:20:39 +0000",
+      "published_parsed": "2026-05-11T17:20:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
+      "tags": [
+        "apple",
+        "ios",
+        "ios 26",
+        "ipados 26",
+        "macos",
+        "macos 26 tahoe",
+        "tech",
+        "tvos 26",
+        "watchos 26"
+      ]
+    },
+    {
+      "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
+      "link": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
+      "published": "Mon, 11 May 2026 17:15:16 +0000",
+      "published_parsed": "2026-05-11T17:15:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Lipa says her picture contributed to Samsung's \"enormous revenue.\"",
+      "tags": [
+        "lawsuit",
+        "samsung",
+        "tech",
+        "tvs"
+      ]
+    },
     {
       "title": "Reorganized ipSpace.net Segment Routing Resources",
       "link": "https://blog.ipspace.net/2026/05/sr-reorg/?utm_source=atom_feed",
@@ -917,24 +982,6 @@
       ]
     },
     {
-      "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
-      "link": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
-      "published": "Mon, 27 Apr 2026 18:30:14 +0000",
-      "published_parsed": "2026-04-27T18:30:14+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
-      "tags": [
-        "emulation",
-        "gaming",
-        "snes",
-        "super nintendo",
-        "super nintendo entertainment system",
-        "tech",
-        "zsnes"
-      ]
-    },
-    {
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
       "published": "Fri, 24 Apr 2026 19:00:39 +0000",
@@ -949,37 +996,6 @@
         "porn",
         "security",
         "universities"
-      ]
-    },
-    {
-      "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
-      "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
-      "published": "Fri, 24 Apr 2026 16:58:45 +0000",
-      "published_parsed": "2026-04-24T16:58:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The AI-driven memory shortage is hitting Samsung's bottom line.",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "samsung",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "Six things I'll remember when I think about Tim Cook's version of Apple",
-      "link": "https://arstechnica.com/gadgets/2026/04/six-things-ill-remember-when-i-think-about-tim-cooks-version-of-apple/",
-      "published": "Fri, 24 Apr 2026 13:40:50 +0000",
-      "published_parsed": "2026-04-24T13:40:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Under Cook, Apple became hugely successful, if not always surprising.",
-      "tags": [
-        "apple",
-        "features",
-        "tech",
-        "tim cook"
       ]
     },
     {
