@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-11T04:59:00.002113+00:00",
-  "article_count": 1792,
+  "last_updated": "2026-05-11T10:38:44.770480+00:00",
+  "article_count": 1793,
   "articles": [
+    {
+      "title": "Reorganized ipSpace.net Segment Routing Resources",
+      "link": "https://blog.ipspace.net/2026/05/sr-reorg/?utm_source=atom_feed",
+      "published": "2026-05-11T08:18:00+02:00",
+      "published_parsed": "2026-05-11T08:18:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I created nine sample SR-MPLS topologies for the ITNOG 10 SR-MPLS workshop , and of course, we ran out of time. I plan to cover those topologies and resulting printouts in a series of blog posts; to prepare for those, I cleaned up and reorganized the Segment Routing blog category, which is now...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
       "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",

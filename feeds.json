@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T04:59:00.025516+00:00",
-  "article_count": 116,
+  "last_updated": "2026-05-11T10:38:44.794814+00:00",
+  "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -263,6 +263,18 @@
     "zsnes"
   ],
   "articles": [
+    {
+      "title": "Reorganized ipSpace.net Segment Routing Resources",
+      "link": "https://blog.ipspace.net/2026/05/sr-reorg/?utm_source=atom_feed",
+      "published": "2026-05-11T08:18:00+02:00",
+      "published_parsed": "2026-05-11T08:18:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I created nine sample SR-MPLS topologies for the ITNOG 10 SR-MPLS workshop , and of course, we ran out of time. I plan to cover those topologies and resulting printouts in a series of blog posts; to prepare for those, I cleaned up and reorganized the Segment Routing blog category, which is now...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
       "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
@@ -1945,32 +1957,6 @@
       "summary": "netlab release 26.02 is out, including the usual potpourri of goodies: Support for Kubernetes (KinD) clusters based on work by @wnagele Layer-2 EVPN/VXLAN support on Cat8000v, IOL, and IOLL2 netlab graph command can create graphs from a subset of nodes or links You can specify the parameters of...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Open-Source Network Simulators (2026 Edition)",
-      "link": "https://blog.ipspace.net/2026/02/worth-reading-opensource-network-simulators/?utm_source=atom_feed",
-      "published": "2026-02-10T08:09:00+01:00",
-      "published_parsed": "2026-02-10T08:09:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Brian Linkletter published an updated overview of open-source network simulators and emulators . containerlab and GNS3 are clear leaders (no surprise there) with the original vrnetlab becoming abandonware (fortunately, we have Roman Dodin’s fork ), which makes me think we should focus on using...",
-      "tags": [
-        "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "Multicast PIM Auto RP (V)",
-      "link": "https://www.packetswitch.co.uk/multicast-pim-auto-rp/",
-      "published": "Tue, 10 Feb 2026 07:19:45 GMT",
-      "published_parsed": "2026-02-10T07:19:45+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/02/multicast-6-.png",
-      "summary": "AutoRP solves this problem by allowing routers to dynamically learn the RP address. Instead of manually configuring the RP on each router",
-      "tags": [
-        "multicast",
         "networking"
       ]
     }
