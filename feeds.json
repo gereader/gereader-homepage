@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T09:42:29.112343+00:00",
-  "article_count": 115,
+  "last_updated": "2026-05-12T16:20:22.512899+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -270,6 +270,19 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Pytest for Automated Network Testing (II)",
+      "link": "https://www.packetswitch.co.uk/pytest-for-automated-network-testing-ii/",
+      "published": "Tue, 12 May 2026 16:11:38 GMT",
+      "published_parsed": "2026-05-12T16:11:38+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/pytest-1-.png",
+      "summary": "In this part, we will cover inventory management with Nornir and pytest fixtures. Nornir is a Python automation framework designed for network",
+      "tags": [
+        "netdevops",
+        "networking"
+      ]
+    },
     {
       "title": "MUST READ: The Future of Everything is Lies, I Guess",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-future-everything-lies/?utm_source=atom_feed",
