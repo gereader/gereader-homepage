@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-12T04:36:59.200692+00:00",
-  "article_count": 1797,
+  "last_updated": "2026-05-12T09:42:29.089059+00:00",
+  "article_count": 1798,
   "articles": [
+    {
+      "title": "MUST READ: The Future of Everything is Lies, I Guess",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-future-everything-lies/?utm_source=atom_feed",
+      "published": "2026-05-12T08:05:00+02:00",
+      "published_parsed": "2026-05-12T08:05:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Kyle Kingsbury published a long (10-part) article about his frustrations with AI, aptly named The Future of Everything is Lies, I Guess . Regardless of where you are on the skeptic-to-fanboy spectrum, I would highly recommend you read it, even if you believe you’ll disagree with everything he wrote.",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Linux bitten by second severe vulnerability in as many weeks",
       "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",

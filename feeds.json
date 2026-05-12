@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:36:59.224614+00:00",
+  "last_updated": "2026-05-12T09:42:29.112343+00:00",
   "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
@@ -270,6 +270,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "MUST READ: The Future of Everything is Lies, I Guess",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-future-everything-lies/?utm_source=atom_feed",
+      "published": "2026-05-12T08:05:00+02:00",
+      "published_parsed": "2026-05-12T08:05:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Kyle Kingsbury published a long (10-part) article about his frustrations with AI, aptly named The Future of Everything is Lies, I Guess . Regardless of where you are on the skeptic-to-fanboy spectrum, I would highly recommend you read it, even if you believe you’ll disagree with everything he wrote.",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Linux bitten by second severe vulnerability in as many weeks",
       "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
@@ -1956,19 +1970,6 @@
       "summary": "After reading the L2 Vxlan On Catalyst blog post, I decided to add EVPN configuration templates to netlab -supported Cisco IOS/XE devices. It wasn’t the easiest EVPN implementation I encountered; here’s what I learned (hoping you’ll find it helpful ). Starting with the trivial hiccups: Read more …",
       "tags": [
         "evpn",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 26.02: KinD support, more EVPN/VXLAN",
-      "link": "https://blog.ipspace.net/2026/02/netlab-26-02/?utm_source=atom_feed",
-      "published": "2026-02-11T10:15:00+01:00",
-      "published_parsed": "2026-02-11T10:15:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 26.02 is out, including the usual potpourri of goodies: Support for Kubernetes (KinD) clusters based on work by @wnagele Layer-2 EVPN/VXLAN support on Cat8000v, IOL, and IOLL2 netlab graph command can create graphs from a subset of nodes or links You can specify the parameters of...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
