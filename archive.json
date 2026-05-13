@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-13T16:20:53.542467+00:00",
-  "article_count": 1803,
+  "last_updated": "2026-05-13T19:58:47.428762+00:00",
+  "article_count": 1805,
   "articles": [
+    {
+      "title": "Windows Update is getting better at saving your PC from buggy drivers",
+      "link": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
+      "published": "Wed, 13 May 2026 17:20:01 +0000",
+      "published_parsed": "2026-05-13T17:20:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Driver recovery can automate what used to be an irritating manual process.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Amazon devices chief says a new smartphone is “just not the goal”",
+      "link": "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
+      "published": "Wed, 13 May 2026 17:06:57 +0000",
+      "published_parsed": "2026-05-13T17:06:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"We know what customers need right now.”",
+      "tags": [
+        "amazon",
+        "amazon alexa",
+        "smartphone",
+        "tech"
+      ]
+    },
     {
       "title": "Hands-On Introduction to SR-MPLS",
       "link": "https://blog.ipspace.net/2026/05/sr-mpls-intro/?utm_source=atom_feed",
