@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:49:06.161132+00:00",
+  "last_updated": "2026-05-13T09:46:29.967332+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -259,6 +259,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Hands-On Introduction to SR-MPLS",
+      "link": "https://blog.ipspace.net/2026/05/sr-mpls-intro/?utm_source=atom_feed",
+      "published": "2026-05-13T08:16:00+02:00",
+      "published_parsed": "2026-05-13T08:16:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/sr-mpls-intro.png",
+      "summary": "The second demo 1 I did during the Segment Routing workshop @ ITNOG10 illustrated how easy it is to set up and explore a small SR-MPLS network with netlab . The lab topology described a small three-router network (you need three routers to see “true” labels besides the penultimate-hop popping...",
+      "tags": [
+        "netlab",
+        "networking",
+        "sr-mpls"
+      ]
+    },
     {
       "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
       "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
@@ -1950,19 +1964,6 @@
       "tags": [
         "is-is",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "EVPN on Cisco IOS/XE: Configuration Notes",
-      "link": "https://blog.ipspace.net/2026/02/evpn-cisco-ios/?utm_source=atom_feed",
-      "published": "2026-02-12T07:41:00+01:00",
-      "published_parsed": "2026-02-12T07:41:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "After reading the L2 Vxlan On Catalyst blog post, I decided to add EVPN configuration templates to netlab -supported Cisco IOS/XE devices. It wasn’t the easiest EVPN implementation I encountered; here’s what I learned (hoping you’ll find it helpful ). Starting with the trivial hiccups: Read more …",
-      "tags": [
-        "evpn",
         "networking"
       ]
     }
