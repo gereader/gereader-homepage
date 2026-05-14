@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-14T04:46:11.027164+00:00",
-  "article_count": 1807,
+  "last_updated": "2026-05-14T09:35:53.346713+00:00",
+  "article_count": 1808,
   "articles": [
+    {
+      "title": "ARP with EVPN Asymmetric IRB",
+      "link": "https://blog.ipspace.net/2026/05/arp-issues-evpn-asymmetric-irb/?utm_source=atom_feed",
+      "published": "2026-05-14T07:45:00+02:00",
+      "published_parsed": "2026-05-14T07:45:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/evpn-fwd-asymmetric-irb.png",
+      "summary": "In a previous blog post , I described the ARP issues you’ll encounter when using centralized routing (on a spine switch) between two EVPN MAC-VRF instances (a fancy name for a VLAN encapsulated in VXLAN or MPLS). That blog post established a baseline that will help us unravel the ARP behavior in a...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
       "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",

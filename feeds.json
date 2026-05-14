@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:46:11.051644+00:00",
+  "last_updated": "2026-05-14T09:35:53.368912+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -260,6 +260,19 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "ARP with EVPN Asymmetric IRB",
+      "link": "https://blog.ipspace.net/2026/05/arp-issues-evpn-asymmetric-irb/?utm_source=atom_feed",
+      "published": "2026-05-14T07:45:00+02:00",
+      "published_parsed": "2026-05-14T07:45:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/evpn-fwd-asymmetric-irb.png",
+      "summary": "In a previous blog post , I described the ARP issues you’ll encounter when using centralized routing (on a spine switch) between two EVPN MAC-VRF instances (a fancy name for a VLAN encapsulated in VXLAN or MPLS). That blog post established a baseline that will help us unravel the ARP behavior in a...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
       "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
@@ -1953,20 +1966,6 @@
       "image": null,
       "summary": "Apart from IP multicast and QoS, netlab can configure commonly used networking technologies across dozens of devices from most networking vendors. Why don’t you use all that embedded knowledge (supported by hundreds of integration tests ) to help you configure unfamiliar devices? You don’t have to...",
       "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Build an SR-MPLS Network with IS-IS",
-      "link": "https://blog.ipspace.net/2026/02/isis-sr-mpls/?utm_source=atom_feed",
-      "published": "2026-02-13T08:02:00+01:00",
-      "published_parsed": "2026-02-13T08:02:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://isis.bgplabs.net/advanced/topology-sr-mpls.png",
-      "summary": "Want to spend an hour or two configuring some cool stuff this weekend? How about getting SR-MPLS to work with IS-IS and building a BGP-free core with it ? If you already set up your own netlab environment, you probably know what to do (or you can get the details here ). Alternatively, you can click...",
-      "tags": [
-        "is-is",
         "netlab",
         "networking"
       ]
