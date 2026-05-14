@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T09:35:53.368912+00:00",
+  "last_updated": "2026-05-14T16:10:11.767805+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,7 +18,6 @@
     "ai",
     "ai chips",
     "ai data centers",
-    "ai privacy",
     "aiops",
     "amazon",
     "amazon alexa",
@@ -95,6 +94,7 @@
     "fish",
     "fish shell",
     "fitbit",
+    "foldables",
     "gamestop",
     "gaming",
     "gemini",
@@ -143,10 +143,11 @@
     "macos",
     "macos 26 tahoe",
     "mergers",
-    "meta",
     "microsoft",
     "military drones",
     "mobile web",
+    "motorola",
+    "motorola razr fold",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -182,7 +183,6 @@
     "porn",
     "post quantum cryptography",
     "printers",
-    "privacy",
     "programmable logic controllers",
     "python",
     "qos",
@@ -191,6 +191,7 @@
     "quantum cryptography",
     "ransomware",
     "reddit",
+    "reviews",
     "routers",
     "russian hacking",
     "samsung",
@@ -203,7 +204,6 @@
     "semiconductor manufacturing",
     "service providers",
     "skydweller aero",
-    "smart glasses",
     "smart home",
     "smartphone",
     "smartphones",
@@ -260,6 +260,24 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Motorola Razr Fold review: Fits neatly in your pocket but not your budget",
+      "link": "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
+      "published": "Thu, 14 May 2026 13:00:28 +0000",
+      "published_parsed": "2026-05-14T13:00:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Razr Fold has a lot going for it, but like all foldables, it's wildly expensive.",
+      "tags": [
+        "features",
+        "foldables",
+        "motorola",
+        "motorola razr fold",
+        "reviews",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "ARP with EVPN Asymmetric IRB",
       "link": "https://blog.ipspace.net/2026/05/arp-issues-evpn-asymmetric-irb/?utm_source=atom_feed",
@@ -914,24 +932,6 @@
         "local privilege escalation",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
-      "link": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
-      "published": "Thu, 30 Apr 2026 19:55:18 +0000",
-      "published_parsed": "2026-04-30T19:55:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Meta said the Kenyan workers didn't \"meet our standards.\"",
-      "tags": [
-        "ai",
-        "ai privacy",
-        "meta",
-        "policy",
-        "privacy",
-        "smart glasses",
-        "tech"
       ]
     },
     {
