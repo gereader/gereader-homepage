@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T16:10:11.767805+00:00",
+  "last_updated": "2026-05-14T19:49:39.964950+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,6 +16,7 @@
     "acquisitions",
     "aes-128",
     "ai",
+    "ai and jobs",
     "ai chips",
     "ai data centers",
     "aiops",
@@ -42,6 +43,7 @@
     "backdoors",
     "bash",
     "bgp",
+    "bitlocker",
     "bitwarden",
     "biz & it",
     "blog",
@@ -52,6 +54,7 @@
     "change management",
     "checkmarx",
     "chip manufacturing",
+    "cisco",
     "cli",
     "cloud",
     "cname records",
@@ -59,9 +62,7 @@
     "commercial drones",
     "company news",
     "containers",
-    "credentials",
     "crime",
-    "critical infrastructure",
     "cryptocurrency exchange",
     "cryptography",
     "cumulus linux",
@@ -73,6 +74,7 @@
     "ddos attack",
     "design",
     "dhcp",
+    "disk encryption",
     "distributed denial of service attack",
     "dmvpn",
     "dns",
@@ -111,7 +113,6 @@
     "gre",
     "grinex",
     "grover's algorithm",
-    "hacking",
     "high availability",
     "history",
     "homelab",
@@ -129,6 +130,7 @@
     "lan",
     "laptops",
     "lawsuit",
+    "layoffs",
     "ldp",
     "linux",
     "lisp",
@@ -177,13 +179,11 @@
     "ospf",
     "outages",
     "overlay networks",
-    "plcs",
     "podcast",
     "policy",
     "porn",
     "post quantum cryptography",
     "printers",
-    "programmable logic controllers",
     "python",
     "qos",
     "quantum computing",
@@ -192,7 +192,6 @@
     "ransomware",
     "reddit",
     "reviews",
-    "routers",
     "russian hacking",
     "samsung",
     "san",
@@ -260,6 +259,38 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "published": "Thu, 14 May 2026 18:32:01 +0000",
+      "published_parsed": "2026-05-14T18:32:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "tags": [
+        "bitlocker",
+        "biz & it",
+        "disk encryption",
+        "microsoft",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+      "published": "Thu, 14 May 2026 16:47:43 +0000",
+      "published_parsed": "2026-05-14T16:47:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+      "tags": [
+        "ai and jobs",
+        "biz & it",
+        "cisco",
+        "layoffs"
+      ]
+    },
     {
       "title": "Motorola Razr Fold review: Fits neatly in your pocket but not your budget",
       "link": "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
@@ -1335,42 +1366,6 @@
         "broadcom",
         "mergers",
         "vmware"
-      ]
-    },
-    {
-      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-      "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-      "published": "Wed, 08 Apr 2026 20:49:11 +0000",
-      "published_parsed": "2026-04-08T20:49:11+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
-      "tags": [
-        "biz & it",
-        "critical infrastructure",
-        "hacking",
-        "plcs",
-        "policy",
-        "programmable logic controllers",
-        "security"
-      ]
-    },
-    {
-      "title": "Thousands of consumer routers hacked by Russia's military",
-      "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-      "published": "Wed, 08 Apr 2026 11:00:08 +0000",
-      "published_parsed": "2026-04-08T11:00:08+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
-      "tags": [
-        "biz & it",
-        "credentials",
-        "dns",
-        "hacking",
-        "policy",
-        "routers",
-        "security"
       ]
     },
     {

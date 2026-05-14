@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-14T16:10:11.743648+00:00",
-  "article_count": 1809,
+  "last_updated": "2026-05-14T19:49:39.939729+00:00",
+  "article_count": 1811,
   "articles": [
+    {
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "published": "Thu, 14 May 2026 18:32:01 +0000",
+      "published_parsed": "2026-05-14T18:32:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "tags": [
+        "bitlocker",
+        "biz & it",
+        "disk encryption",
+        "microsoft",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+      "published": "Thu, 14 May 2026 16:47:43 +0000",
+      "published_parsed": "2026-05-14T16:47:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+      "tags": [
+        "ai and jobs",
+        "biz & it",
+        "cisco",
+        "layoffs"
+      ]
+    },
     {
       "title": "Motorola Razr Fold review: Fits neatly in your pocket but not your budget",
       "link": "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
