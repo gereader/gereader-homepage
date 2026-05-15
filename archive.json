@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-15T04:52:26.565799+00:00",
-  "article_count": 1812,
+  "last_updated": "2026-05-15T09:49:02.493801+00:00",
+  "article_count": 1813,
   "articles": [
+    {
+      "title": "Lab: EVPN Asymmetric IRB with Anycast Gateways",
+      "link": "https://blog.ipspace.net/2026/05/lab-evpn-asymmetric-irb-anycast/?utm_source=atom_feed",
+      "published": "2026-05-15T07:52:00+02:00",
+      "published_parsed": "2026-05-15T07:52:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://evpn.bgplabs.net/evpn/topology-asymmetric-irb.png",
+      "summary": "I postponed the discussion of ARP issues with EVPN anycast gateways to keep yesterday’s blog post reasonably short. If you’re impatient and want to try that out, I have just the right lab exercise for you; you’ll have to extend VLANs into end-to-end MAC-VRF instances and add IRB and anycast...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
       "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
