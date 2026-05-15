@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T19:41:50.680187+00:00",
+  "last_updated": "2026-05-15T23:56:09.193856+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -34,7 +34,6 @@
     "arp",
     "artificial intelligence",
     "asp.net",
-    "asus rog ally",
     "australia",
     "automated troubleshooting",
     "automation",
@@ -79,6 +78,7 @@
     "dns",
     "docker",
     "domain hijacking",
+    "drone pilots",
     "drone strikes",
     "drones",
     "ebay",
@@ -87,8 +87,6 @@
     "exploits",
     "fabric",
     "features",
-    "fire",
-    "firefighting",
     "firefox",
     "firewall",
     "firewalls",
@@ -117,7 +115,6 @@
     "history",
     "homelab",
     "imac",
-    "infrasound",
     "internet",
     "ios",
     "ios 26",
@@ -193,6 +190,8 @@
     "ransomware",
     "reddit",
     "reviews",
+    "russia invasion of ukraine",
+    "russian army",
     "russian hacking",
     "samsung",
     "san",
@@ -208,18 +207,15 @@
     "smartphone",
     "smartphones",
     "snmp",
+    "software",
     "software gone wild",
     "solar impulse 2",
     "solar powered aircraft",
     "spacex",
     "spacex starlink",
-    "sprinklers",
     "sr-mpls",
     "srv6",
     "starlink",
-    "steam deck",
-    "steam machine",
-    "steamos",
     "supply chain attack",
     "supply chain attacks",
     "switching",
@@ -237,6 +233,8 @@
     "tvos 26",
     "tvs",
     "ubuntu",
+    "ukraine invasion",
+    "ukraine war",
     "unifi",
     "universities",
     "us navy",
@@ -251,6 +249,7 @@
     "wan",
     "watchos 26",
     "wearables",
+    "weather",
     "wind power",
     "windows",
     "windows 11",
@@ -259,6 +258,41 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+      "published": "Fri, 15 May 2026 22:19:12 +0000",
+      "published_parsed": "2026-05-15T22:19:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+      "tags": [
+        "drone pilots",
+        "drones",
+        "military drones",
+        "policy",
+        "russia invasion of ukraine",
+        "russian army",
+        "tech",
+        "ukraine invasion",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+      "link": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+      "published": "Fri, 15 May 2026 20:16:24 +0000",
+      "published_parsed": "2026-05-15T20:16:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Newer AcuRite Now app lacks some features but has a subscription option.",
+      "tags": [
+        "smart home",
+        "software",
+        "tech",
+        "weather"
+      ]
+    },
     {
       "title": "Lab: EVPN Asymmetric IRB with Anycast Gateways",
       "link": "https://blog.ipspace.net/2026/05/lab-evpn-asymmetric-irb-anycast/?utm_source=atom_feed",
@@ -896,22 +930,6 @@
       ]
     },
     {
-      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-      "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-      "published": "Sat, 02 May 2026 11:30:26 +0000",
-      "published_parsed": "2026-05-02T11:30:26+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Acoustic fire suppression goes commercial.",
-      "tags": [
-        "fire",
-        "firefighting",
-        "infrasound",
-        "sprinklers",
-        "tech"
-      ]
-    },
-    {
       "title": "I Vibe-Coded My CV Into a CLI",
       "link": "https://www.packetswitch.co.uk/i-vibe-coded-my-cv-into-a-cli/",
       "published": "Sat, 02 May 2026 10:29:40 GMT",
@@ -922,25 +940,6 @@
       "tags": [
         "general",
         "networking"
-      ]
-    },
-    {
-      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-      "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-      "published": "Fri, 01 May 2026 22:00:59 +0000",
-      "published_parsed": "2026-05-01T22:00:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-      "tags": [
-        "asus rog ally",
-        "gaming",
-        "steam deck",
-        "steam machine",
-        "steamos",
-        "tech",
-        "windows 11 24h2",
-        "windows 11 25h2"
       ]
     },
     {

@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-05-15T19:41:50.656497+00:00",
-  "article_count": 1813,
+  "last_updated": "2026-05-15T23:56:09.174785+00:00",
+  "article_count": 1815,
   "articles": [
+    {
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+      "published": "Fri, 15 May 2026 22:19:12 +0000",
+      "published_parsed": "2026-05-15T22:19:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+      "tags": [
+        "drone pilots",
+        "drones",
+        "military drones",
+        "policy",
+        "russia invasion of ukraine",
+        "russian army",
+        "tech",
+        "ukraine invasion",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+      "link": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+      "published": "Fri, 15 May 2026 20:16:24 +0000",
+      "published_parsed": "2026-05-15T20:16:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Newer AcuRite Now app lacks some features but has a subscription option.",
+      "tags": [
+        "smart home",
+        "software",
+        "tech",
+        "weather"
+      ]
+    },
     {
       "title": "Lab: EVPN Asymmetric IRB with Anycast Gateways",
       "link": "https://blog.ipspace.net/2026/05/lab-evpn-asymmetric-irb-anycast/?utm_source=atom_feed",
