@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T04:53:37.970760+00:00",
+  "last_updated": "2026-05-17T09:07:17.473089+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -30,7 +30,6 @@
     "apple",
     "apple silicon",
     "apps",
-    "arista",
     "arp",
     "artificial intelligence",
     "asp.net",
@@ -168,6 +167,7 @@
     "networking",
     "networking fundamentals",
     "nfv",
+    "nornir",
     "notepad",
     "nsx",
     "offshore wind",
@@ -258,6 +258,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Using NetBox as a Dynamic Inventory Source for Nornir",
+      "link": "https://www.packetswitch.co.uk/using-netbox-as-a-dynamic-inventory-source-for-nornir/",
+      "published": "Sun, 17 May 2026 07:35:01 GMT",
+      "published_parsed": "2026-05-17T07:35:01+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/nornir-netbox-3-.png",
+      "summary": "Instead of maintaining a separate YAML inventory alongside NetBox, you can pull your inventory directly from NetBox at runtime. That way, Nornir",
+      "tags": [
+        "netdevops",
+        "networking",
+        "nornir"
+      ]
+    },
     {
       "title": "Russia pressures university students to become wartime drone pilots",
       "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
@@ -1960,19 +1974,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Explore Configurations of Unfamiliar Devices with netlab",
-      "link": "https://blog.ipspace.net/2026/02/netlab-device-configs/?utm_source=atom_feed",
-      "published": "2026-02-16T08:28:00+01:00",
-      "published_parsed": "2026-02-16T08:28:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Apart from IP multicast and QoS, netlab can configure commonly used networking technologies across dozens of devices from most networking vendors. Why don’t you use all that embedded knowledge (supported by hundreds of integration tests ) to help you configure unfamiliar devices? You don’t have to...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]

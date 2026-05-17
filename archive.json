@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-17T04:53:37.945834+00:00",
-  "article_count": 1815,
+  "last_updated": "2026-05-17T09:07:17.449574+00:00",
+  "article_count": 1816,
   "articles": [
+    {
+      "title": "Using NetBox as a Dynamic Inventory Source for Nornir",
+      "link": "https://www.packetswitch.co.uk/using-netbox-as-a-dynamic-inventory-source-for-nornir/",
+      "published": "Sun, 17 May 2026 07:35:01 GMT",
+      "published_parsed": "2026-05-17T07:35:01+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/nornir-netbox-3-.png",
+      "summary": "Instead of maintaining a separate YAML inventory alongside NetBox, you can pull your inventory directly from NetBox at runtime. That way, Nornir",
+      "tags": [
+        "netdevops",
+        "networking",
+        "nornir"
+      ]
+    },
     {
       "title": "Russia pressures university students to become wartime drone pilots",
       "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
