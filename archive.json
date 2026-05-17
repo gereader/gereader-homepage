@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-17T09:07:17.449574+00:00",
-  "article_count": 1816,
+  "last_updated": "2026-05-17T14:58:57.906510+00:00",
+  "article_count": 1817,
   "articles": [
+    {
+      "title": "Automatic SSL with Caddy, Cloudflare and Let's Encrypt",
+      "link": "https://www.packetswitch.co.uk/automatic-ssl-with-caddy-cloudflare-and-lets-encrypt/",
+      "published": "Sun, 17 May 2026 12:40:48 GMT",
+      "published_parsed": "2026-05-17T12:40:48+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/nornir-netbox-4-.png",
+      "summary": "In this post, I'll show you how to get there using Caddy, Cloudflare, and Let's Encrypt with very minimal effort. To make this work, we need the",
+      "tags": [
+        "homelab",
+        "networking"
+      ]
+    },
     {
       "title": "Using NetBox as a Dynamic Inventory Source for Nornir",
       "link": "https://www.packetswitch.co.uk/using-netbox-as-a-dynamic-inventory-source-for-nornir/",
