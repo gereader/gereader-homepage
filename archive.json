@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-05-18T16:48:06.703984+00:00",
-  "article_count": 1819,
+  "last_updated": "2026-05-18T19:47:20.016076+00:00",
+  "article_count": 1821,
   "articles": [
+    {
+      "title": "NERC CIP Compliance with Network Automation for Energy CISOs",
+      "link": "https://www.netbrain.com/blog/nerc-cip-compliance-for-energy-cisos/",
+      "published": "2026-05-18T19:07:34Z",
+      "published_parsed": "2026-05-18T19:07:34+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "NERC CIP compliance automation is the continuous use of network automation to satisfy the requirements of NERC’s Critical Infrastructure Protection standards and FERC’s 2023 rule on Internal Network Security Monitoring...",
+      "tags": [
+        "company news",
+        "networking"
+      ]
+    },
+    {
+      "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
+      "link": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
+      "published": "Mon, 18 May 2026 17:26:15 +0000",
+      "published_parsed": "2026-05-18T17:26:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
+      "tags": [
+        "e-ink",
+        "reviews",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
       "link": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",

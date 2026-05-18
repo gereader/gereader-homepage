@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:48:06.727663+00:00",
+  "last_updated": "2026-05-18T19:47:20.040855+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -26,7 +26,6 @@
     "android",
     "ansi",
     "ansible",
-    "anthropic claude",
     "apple",
     "apps",
     "arp",
@@ -79,6 +78,7 @@
     "drone pilots",
     "drone strikes",
     "drones",
+    "e-ink",
     "ebay",
     "eigrp",
     "evpn",
@@ -166,7 +166,6 @@
     "networking fundamentals",
     "nfv",
     "nornir",
-    "notepad",
     "nsx",
     "offshore wind",
     "open source software",
@@ -236,7 +235,6 @@
     "unifi",
     "universities",
     "us navy",
-    "vibe coding",
     "video",
     "vim",
     "virtualization",
@@ -256,6 +254,34 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "NERC CIP Compliance with Network Automation for Energy CISOs",
+      "link": "https://www.netbrain.com/blog/nerc-cip-compliance-for-energy-cisos/",
+      "published": "2026-05-18T19:07:34Z",
+      "published_parsed": "2026-05-18T19:07:34+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "NERC CIP compliance automation is the continuous use of network automation to satisfy the requirements of NERC’s Critical Infrastructure Protection standards and FERC’s 2023 rule on Internal Network Security Monitoring...",
+      "tags": [
+        "company news",
+        "networking"
+      ]
+    },
+    {
+      "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
+      "link": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
+      "published": "Mon, 18 May 2026 17:26:15 +0000",
+      "published_parsed": "2026-05-18T17:26:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
+      "tags": [
+        "e-ink",
+        "reviews",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
       "link": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
@@ -907,23 +933,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
-      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-      "published": "Mon, 04 May 2026 21:38:37 +0000",
-      "published_parsed": "2026-05-04T21:38:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
-      "tags": [
-        "ai",
-        "anthropic claude",
-        "macos",
-        "notepad",
-        "tech",
-        "vibe coding"
       ]
     },
     {
@@ -1919,18 +1928,6 @@
       "tags": [
         "ai",
         "bgp",
-        "networking"
-      ]
-    },
-    {
-      "title": "Extending NetBrain with NetBox and Grafana: Turning Operational Truth into Shared Insight",
-      "link": "https://www.netbrain.com/blog/turning-operational-truth-into-shared-insight/",
-      "published": "2026-02-25T02:41:40Z",
-      "published_parsed": "2026-02-25T02:41:40+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Modern network environments don’t live in a single system. Network teams operate in real time. Hardware and facilities teams manage physical infrastructure. Platform and operations teams need dashboards they can trust without giving every...",
-      "tags": [
         "networking"
       ]
     },
