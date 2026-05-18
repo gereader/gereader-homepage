@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T11:07:41.552871+00:00",
+  "last_updated": "2026-05-18T16:48:06.727663+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -28,7 +28,6 @@
     "ansible",
     "anthropic claude",
     "apple",
-    "apple silicon",
     "apps",
     "arp",
     "artificial intelligence",
@@ -257,6 +256,21 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
+      "link": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
+      "published": "Mon, 18 May 2026 16:03:02 +0000",
+      "published_parsed": "2026-05-18T16:03:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
+      "tags": [
+        "tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ]
+    },
     {
       "title": "Goodbye, Ubuntu 20.04 (netlab 26.05)",
       "link": "https://blog.ipspace.net/2026/05/netlab-goodbye-20.02/?utm_source=atom_feed",
@@ -925,22 +939,6 @@
         "ebay",
         "gamestop",
         "policy"
-      ]
-    },
-    {
-      "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
-      "link": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-      "published": "Mon, 04 May 2026 14:55:48 +0000",
-      "published_parsed": "2026-05-04T14:55:48+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "mac mini",
-        "mac studio",
-        "tech"
       ]
     },
     {
