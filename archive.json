@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-18T05:07:30.080410+00:00",
-  "article_count": 1817,
+  "last_updated": "2026-05-18T11:07:41.530556+00:00",
+  "article_count": 1818,
   "articles": [
+    {
+      "title": "Goodbye, Ubuntu 20.04 (netlab 26.05)",
+      "link": "https://blog.ipspace.net/2026/05/netlab-goodbye-20.02/?utm_source=atom_feed",
+      "published": "2026-05-18T07:43:00+02:00",
+      "published_parsed": "2026-05-18T07:43:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.05 is out. I’ll write about its highlights tomorrow; today, I want to focus on one of its breaking changes: netlab no longer works with Python 3.8 (which reached end-of-life in October 2024), so you can no longer install it on a vanilla Ubuntu 20.04 (which reached end of standard...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Automatic SSL with Caddy, Cloudflare and Let's Encrypt",
       "link": "https://www.packetswitch.co.uk/automatic-ssl-with-caddy-cloudflare-and-lets-encrypt/",
