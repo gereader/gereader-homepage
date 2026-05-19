@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T10:37:27.523155+00:00",
+  "last_updated": "2026-05-19T16:50:30.910569+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -39,6 +39,7 @@
     "backdoors",
     "bash",
     "bgp",
+    "big tech",
     "bitlocker",
     "bitwarden",
     "biz & it",
@@ -85,6 +86,7 @@
     "exploits",
     "fabric",
     "features",
+    "fiber optic cable",
     "firefox",
     "firewall",
     "firewalls",
@@ -101,7 +103,6 @@
     "github",
     "gnss",
     "google",
-    "google home",
     "googlebooks",
     "gps",
     "gps jamming",
@@ -119,6 +120,7 @@
     "ip routing",
     "ipados 26",
     "ipv6",
+    "iran",
     "is-is",
     "kyber",
     "lan",
@@ -214,6 +216,8 @@
     "sr-mpls",
     "srv6",
     "starlink",
+    "strait of hormuz",
+    "subsea cables",
     "supply chain attack",
     "supply chain attacks",
     "switching",
@@ -233,9 +237,12 @@
     "ubuntu",
     "ukraine invasion",
     "ukraine war",
+    "undersea cable cuts",
+    "undersea cables",
     "unifi",
     "universities",
     "us navy",
+    "usa-iran war",
     "video",
     "vim",
     "virtualization",
@@ -255,6 +262,27 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
+      "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
+      "published": "Tue, 19 May 2026 11:00:49 +0000",
+      "published_parsed": "2026-05-19T11:00:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Iran's claim over subsea chokepoint pushes US tech companies to overland fiber.",
+      "tags": [
+        "big tech",
+        "fiber optic cable",
+        "iran",
+        "policy",
+        "strait of hormuz",
+        "subsea cables",
+        "tech",
+        "undersea cable cuts",
+        "undersea cables",
+        "usa-iran war"
+      ]
+    },
     {
       "title": "Using Authentication Credentials within NetBox Webhooks",
       "link": "https://www.packetcoders.io/using-authentication-credentials-within-netbox-webhooks/",
@@ -903,23 +931,6 @@
         "daemon tools",
         "security",
         "supply chain attack"
-      ]
-    },
-    {
-      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
-      "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
-      "published": "Tue, 05 May 2026 17:17:25 +0000",
-      "published_parsed": "2026-05-05T17:17:25+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "google home",
-        "smart home",
-        "tech"
       ]
     },
     {
