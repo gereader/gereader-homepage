@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-05-19T16:50:30.886599+00:00",
-  "article_count": 1824,
+  "last_updated": "2026-05-19T19:54:41.806454+00:00",
+  "article_count": 1825,
   "articles": [
+    {
+      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+      "published": "Tue, 19 May 2026 18:27:08 +0000",
+      "published_parsed": "2026-05-19T18:27:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+      "tags": [
+        "biz & it",
+        "brian krebs",
+        "cisa",
+        "credentials",
+        "github",
+        "krebs",
+        "krebsonsecurity",
+        "leak",
+        "security",
+        "security leak"
+      ]
+    },
     {
       "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
       "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",

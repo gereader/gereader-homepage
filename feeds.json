@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T16:50:30.910569+00:00",
+  "last_updated": "2026-05-19T19:54:41.830799+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,7 +13,6 @@
   "tags": [
     "3d printers",
     "aci",
-    "acquisitions",
     "aes-128",
     "ai",
     "ai and jobs",
@@ -44,13 +43,14 @@
     "bitwarden",
     "biz & it",
     "blog",
+    "brian krebs",
     "bridging",
-    "broadcom",
     "canvas",
     "certifications",
     "change management",
     "checkmarx",
     "chip manufacturing",
+    "cisa",
     "cisco",
     "cli",
     "cloud",
@@ -59,6 +59,7 @@
     "commercial drones",
     "company news",
     "containers",
+    "credentials",
     "crime",
     "cryptocurrency exchange",
     "cryptography",
@@ -122,12 +123,15 @@
     "ipv6",
     "iran",
     "is-is",
+    "krebs",
+    "krebsonsecurity",
     "kyber",
     "lan",
     "laptops",
     "lawsuit",
     "layoffs",
     "ldp",
+    "leak",
     "linux",
     "lisp",
     "load balancing",
@@ -140,7 +144,6 @@
     "macbook pro",
     "macos",
     "macos 26 tahoe",
-    "mergers",
     "microsoft",
     "military drones",
     "mobile web",
@@ -200,6 +203,7 @@
     "sd-wan",
     "sdn",
     "security",
+    "security leak",
     "semiconductor manufacturing",
     "service providers",
     "skydweller aero",
@@ -246,7 +250,6 @@
     "video",
     "vim",
     "virtualization",
-    "vmware",
     "vpn",
     "vulnerabilities",
     "vxlan",
@@ -262,6 +265,27 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+      "published": "Tue, 19 May 2026 18:27:08 +0000",
+      "published_parsed": "2026-05-19T18:27:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+      "tags": [
+        "biz & it",
+        "brian krebs",
+        "cisa",
+        "credentials",
+        "github",
+        "krebs",
+        "krebsonsecurity",
+        "leak",
+        "security",
+        "security leak"
+      ]
+    },
     {
       "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
       "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
@@ -1445,22 +1469,6 @@
       "summary": "While according to the GIFEE True Believers™, Docker is dead and Kubernetes rules the world, people who want to have a bit of life might be perfectly happy running “obsolete” stuff like Docker on their laptops or Linux VMs. If you happen to be one of the latter, you might like the Introduction to...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
-      "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
-      "published": "Thu, 09 Apr 2026 19:44:31 +0000",
-      "published_parsed": "2026-04-09T19:44:31+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
-      "tags": [
-        "acquisitions",
-        "biz & it",
-        "broadcom",
-        "mergers",
-        "vmware"
       ]
     },
     {
