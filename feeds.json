@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T05:06:44.596331+00:00",
+  "last_updated": "2026-05-20T10:25:04.196899+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -259,6 +259,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Agentic AI Setup: Sandboxes and Worktrees",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-agentic-ai-sandboxes-worktrees/?utm_source=atom_feed",
+      "published": "2026-05-20T07:22:00+02:00",
+      "published_parsed": "2026-05-20T07:22:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Most of the hyperventilated AI “success stories” are as useful as the “ ANSIBLE!!! ” movement was a few years ago. It’s thus always a pleasure to find someone with well-established software development chops who took the time to describe what works for them. One cannot argue with Mike McQuaid’s...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
       "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
@@ -1986,19 +2000,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "Petr Ankudinov wrote an excellent comment about netlab Fast cEOS Configuration implementation. Paraphrasing the original comment : If the use case is the initial lab deployment, why don’t you use containerlab startup-config option to change the device’s startup configuration? I have to admit, I’m...",
-      "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Cisco IOS/XR OSPFv2 Not-So-Passive Interfaces",
-      "link": "https://blog.ipspace.net/2026/02/iosxr-ospfv2-not-so-passive/?utm_source=atom_feed",
-      "published": "2026-02-19T07:46:00+01:00",
-      "published_parsed": "2026-02-19T07:46:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "What’s wrong with me? Why do I have to uncover another weirdness every single time I run netlab integration tests on a new platform? Today, it’s Cisco IOS/XR (release 25.2.1) and its understanding of what “passive” means. According to the corresponding documentation , the passive interface...",
       "tags": [
         "netlab",
         "networking"

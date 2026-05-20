@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-20T05:06:44.571426+00:00",
-  "article_count": 1826,
+  "last_updated": "2026-05-20T10:25:04.177424+00:00",
+  "article_count": 1827,
   "articles": [
+    {
+      "title": "Worth Reading: Agentic AI Setup: Sandboxes and Worktrees",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-agentic-ai-sandboxes-worktrees/?utm_source=atom_feed",
+      "published": "2026-05-20T07:22:00+02:00",
+      "published_parsed": "2026-05-20T07:22:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Most of the hyperventilated AI “success stories” are as useful as the “ ANSIBLE!!! ” movement was a few years ago. It’s thus always a pleasure to find someone with well-established software development chops who took the time to describe what works for them. One cannot argue with Mike McQuaid’s...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
       "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
