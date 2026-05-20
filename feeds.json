@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T19:54:41.830799+00:00",
+  "last_updated": "2026-05-20T00:08:54.235811+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,7 +16,6 @@
     "aes-128",
     "ai",
     "ai and jobs",
-    "ai chips",
     "aiops",
     "amazon",
     "amazon alexa",
@@ -49,7 +48,6 @@
     "certifications",
     "change management",
     "checkmarx",
-    "chip manufacturing",
     "cisa",
     "cisco",
     "cli",
@@ -173,12 +171,12 @@
     "nfv",
     "nornir",
     "nsx",
-    "offshore wind",
     "open source software",
     "openflow",
     "ospf",
     "outages",
     "overlay networks",
+    "plex",
     "podcast",
     "policy",
     "porn",
@@ -204,7 +202,6 @@
     "sdn",
     "security",
     "security leak",
-    "semiconductor manufacturing",
     "service providers",
     "skydweller aero",
     "smart home",
@@ -221,12 +218,11 @@
     "srv6",
     "starlink",
     "strait of hormuz",
+    "streaming",
     "subsea cables",
     "supply chain attack",
     "supply chain attacks",
     "switching",
-    "taiwan",
-    "taiwan semiconductor manufacturing company",
     "tcp",
     "tech",
     "terminal",
@@ -234,7 +230,6 @@
     "tips",
     "traffic engineering",
     "training",
-    "tsmc",
     "tui",
     "tvos 26",
     "tvs",
@@ -257,7 +252,6 @@
     "watchos 26",
     "wearables",
     "weather",
-    "wind power",
     "windows",
     "windows 11",
     "windows 11 24h2",
@@ -265,6 +259,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
+      "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
+      "published": "Tue, 19 May 2026 19:52:01 +0000",
+      "published_parsed": "2026-05-19T19:52:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Plex says that it has considered getting rid of Lifetime Passes.",
+      "tags": [
+        "plex",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
       "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
@@ -882,27 +890,6 @@
         "arp",
         "bridging",
         "networking"
-      ]
-    },
-    {
-      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-      "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-      "published": "Wed, 06 May 2026 21:47:27 +0000",
-      "published_parsed": "2026-05-06T21:47:27+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
-      "tags": [
-        "ai",
-        "ai chips",
-        "chip manufacturing",
-        "offshore wind",
-        "semiconductor manufacturing",
-        "taiwan",
-        "taiwan semiconductor manufacturing company",
-        "tech",
-        "tsmc",
-        "wind power"
       ]
     },
     {

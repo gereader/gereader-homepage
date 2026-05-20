@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-19T19:54:41.806454+00:00",
-  "article_count": 1825,
+  "last_updated": "2026-05-20T00:08:54.207860+00:00",
+  "article_count": 1826,
   "articles": [
+    {
+      "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
+      "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
+      "published": "Tue, 19 May 2026 19:52:01 +0000",
+      "published_parsed": "2026-05-19T19:52:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Plex says that it has considered getting rid of Lifetime Passes.",
+      "tags": [
+        "plex",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
       "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
