@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-05-20T10:25:04.177424+00:00",
-  "article_count": 1827,
+  "last_updated": "2026-05-20T16:53:25.153110+00:00",
+  "article_count": 1828,
   "articles": [
+    {
+      "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
+      "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
+      "published": "Wed, 20 May 2026 13:32:49 +0000",
+      "published_parsed": "2026-05-20T13:32:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Access to TV OS's source code could allow users to limit ads, tracking.",
+      "tags": [
+        "ads",
+        "features",
+        "linux",
+        "software",
+        "tech",
+        "tvs",
+        "vizio",
+        "walmart"
+      ]
+    },
     {
       "title": "Worth Reading: Agentic AI Setup: Sandboxes and Worktrees",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-agentic-ai-sandboxes-worktrees/?utm_source=atom_feed",
