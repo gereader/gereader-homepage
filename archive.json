@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-05-20T16:53:25.153110+00:00",
-  "article_count": 1828,
+  "last_updated": "2026-05-20T20:21:03.147222+00:00",
+  "article_count": 1831,
   "articles": [
+    {
+      "title": "AMD reportedly plans Ryzen 5800X3D re-release for upgraders on a budget",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "published": "Wed, 20 May 2026 19:19:44 +0000",
+      "published_parsed": "2026-05-20T19:19:44+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
+      "tags": [
+        "3d v-cache",
+        "amd",
+        "ryzen",
+        "tech"
+      ]
+    },
+    {
+      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+      "published": "Wed, 20 May 2026 18:59:52 +0000",
+      "published_parsed": "2026-05-20T18:59:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "President asks $1B from taxpayers to secure his $400M privately funded ballroom.",
+      "tags": [
+        "ai drones",
+        "anti-drone",
+        "drones",
+        "military drones",
+        "policy",
+        "president donald trump",
+        "tech",
+        "trump white house",
+        "white house"
+      ]
+    },
+    {
+      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
+      "link": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
+      "published": "Wed, 20 May 2026 18:48:41 +0000",
+      "published_parsed": "2026-05-20T18:48:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Disney still has a lot of tech to unite and bundles to push.",
+      "tags": [
+        "acquisitions",
+        "disney",
+        "hulu",
+        "mergers",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
       "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",

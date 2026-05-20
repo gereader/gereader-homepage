@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T16:53:25.177421+00:00",
+  "last_updated": "2026-05-20T20:21:03.171763+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,11 +12,14 @@
   ],
   "tags": [
     "3d printers",
+    "3d v-cache",
     "aci",
+    "acquisitions",
     "ads",
     "aes-128",
     "ai",
     "ai and jobs",
+    "ai drones",
     "aiops",
     "amazon",
     "amazon alexa",
@@ -25,7 +28,7 @@
     "android",
     "ansi",
     "ansible",
-    "apple",
+    "anti-drone",
     "apps",
     "arp",
     "artificial intelligence",
@@ -71,6 +74,7 @@
     "design",
     "dhcp",
     "disk encryption",
+    "disney",
     "distributed denial of service attack",
     "dmvpn",
     "dns",
@@ -112,12 +116,9 @@
     "high availability",
     "history",
     "homelab",
-    "imac",
+    "hulu",
     "internet",
-    "ios",
-    "ios 26",
     "ip routing",
-    "ipados 26",
     "ipv6",
     "iran",
     "is-is",
@@ -126,7 +127,6 @@
     "kyber",
     "lan",
     "laptops",
-    "lawsuit",
     "layoffs",
     "ldp",
     "leak",
@@ -134,14 +134,7 @@
     "lisp",
     "load balancing",
     "local privilege escalation",
-    "mac",
-    "mac mini",
-    "mac studio",
-    "macbook air",
-    "macbook neo",
-    "macbook pro",
-    "macos",
-    "macos 26 tahoe",
+    "mergers",
     "microsoft",
     "military drones",
     "mobile web",
@@ -181,6 +174,7 @@
     "policy",
     "porn",
     "post quantum cryptography",
+    "president donald trump",
     "printers",
     "python",
     "qos",
@@ -194,7 +188,7 @@
     "russia invasion of ukraine",
     "russian army",
     "russian hacking",
-    "samsung",
+    "ryzen",
     "san",
     "satellites",
     "school",
@@ -230,8 +224,8 @@
     "tips",
     "traffic engineering",
     "training",
+    "trump white house",
     "tui",
-    "tvos 26",
     "tvs",
     "ubuntu",
     "ukraine invasion",
@@ -251,8 +245,8 @@
     "vxlan",
     "walmart",
     "wan",
-    "watchos 26",
     "weather",
+    "white house",
     "windows",
     "windows 11",
     "windows 11 24h2",
@@ -260,6 +254,58 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "AMD reportedly plans Ryzen 5800X3D re-release for upgraders on a budget",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "published": "Wed, 20 May 2026 19:19:44 +0000",
+      "published_parsed": "2026-05-20T19:19:44+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
+      "tags": [
+        "3d v-cache",
+        "amd",
+        "ryzen",
+        "tech"
+      ]
+    },
+    {
+      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+      "published": "Wed, 20 May 2026 18:59:52 +0000",
+      "published_parsed": "2026-05-20T18:59:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "President asks $1B from taxpayers to secure his $400M privately funded ballroom.",
+      "tags": [
+        "ai drones",
+        "anti-drone",
+        "drones",
+        "military drones",
+        "policy",
+        "president donald trump",
+        "tech",
+        "trump white house",
+        "white house"
+      ]
+    },
+    {
+      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
+      "link": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
+      "published": "Wed, 20 May 2026 18:48:41 +0000",
+      "published_parsed": "2026-05-20T18:48:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Disney still has a lot of tech to unite and bundles to push.",
+      "tags": [
+        "acquisitions",
+        "disney",
+        "hulu",
+        "mergers",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
       "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
@@ -782,41 +828,6 @@
       ]
     },
     {
-      "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
-      "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
-      "published": "Mon, 11 May 2026 17:20:39 +0000",
-      "published_parsed": "2026-05-11T17:20:39+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
-      "tags": [
-        "apple",
-        "ios",
-        "ios 26",
-        "ipados 26",
-        "macos",
-        "macos 26 tahoe",
-        "tech",
-        "tvos 26",
-        "watchos 26"
-      ]
-    },
-    {
-      "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
-      "link": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
-      "published": "Mon, 11 May 2026 17:15:16 +0000",
-      "published_parsed": "2026-05-11T17:15:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Lipa says her picture contributed to Samsung's \"enormous revenue.\"",
-      "tags": [
-        "lawsuit",
-        "samsung",
-        "tech",
-        "tvs"
-      ]
-    },
-    {
       "title": "Reorganized ipSpace.net Segment Routing Resources",
       "link": "https://blog.ipspace.net/2026/05/sr-reorg/?utm_source=atom_feed",
       "published": "2026-05-11T08:18:00+02:00",
@@ -844,26 +855,6 @@
         "ransomware",
         "school",
         "security"
-      ]
-    },
-    {
-      "title": "Which Macs are suffering from shortages—and where are things getting worse?",
-      "link": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
-      "published": "Fri, 08 May 2026 15:00:27 +0000",
-      "published_parsed": "2026-05-08T15:00:27+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
-      "tags": [
-        "apple",
-        "imac",
-        "mac",
-        "mac mini",
-        "mac studio",
-        "macbook air",
-        "macbook neo",
-        "macbook pro",
-        "tech"
       ]
     },
     {
