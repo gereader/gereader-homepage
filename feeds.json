@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T20:21:03.171763+00:00",
+  "last_updated": "2026-05-21T00:09:12.811688+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -52,6 +52,7 @@
     "certifications",
     "change management",
     "checkmarx",
+    "chromium",
     "cisa",
     "cisco",
     "cli",
@@ -173,12 +174,10 @@
     "podcast",
     "policy",
     "porn",
-    "post quantum cryptography",
     "president donald trump",
     "printers",
     "python",
     "qos",
-    "quantum computing",
     "quantum conputing",
     "quantum cryptography",
     "radeon",
@@ -255,7 +254,7 @@
   ],
   "articles": [
     {
-      "title": "AMD reportedly plans Ryzen 5800X3D re-release for upgraders on a budget",
+      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
       "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
       "published": "Wed, 20 May 2026 19:19:44 +0000",
       "published_parsed": "2026-05-20T19:19:44+00:00",
@@ -267,6 +266,22 @@
         "amd",
         "ryzen",
         "tech"
+      ]
+    },
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "published": "Wed, 20 May 2026 19:10:36 +0000",
+      "published_parsed": "2026-05-20T19:10:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+      "tags": [
+        "biz & it",
+        "chromium",
+        "exploits",
+        "security",
+        "vulnerabilities"
       ]
     },
     {
@@ -1352,23 +1367,6 @@
         "cyberattack",
         "grinex",
         "russian hacking",
-        "security"
-      ]
-    },
-    {
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-      "published": "Fri, 17 Apr 2026 11:00:50 +0000",
-      "published_parsed": "2026-04-17T11:00:50+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
-      "tags": [
-        "biz & it",
-        "cryptography",
-        "features",
-        "post quantum cryptography",
-        "quantum computing",
         "security"
       ]
     },

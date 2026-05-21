@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T20:21:03.147222+00:00",
-  "article_count": 1831,
+  "last_updated": "2026-05-21T00:09:12.792271+00:00",
+  "article_count": 1832,
   "articles": [
     {
       "title": "AMD reportedly plans Ryzen 5800X3D re-release for upgraders on a budget",
@@ -15,6 +15,22 @@
         "amd",
         "ryzen",
         "tech"
+      ]
+    },
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "published": "Wed, 20 May 2026 19:10:36 +0000",
+      "published_parsed": "2026-05-20T19:10:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+      "tags": [
+        "biz & it",
+        "chromium",
+        "exploits",
+        "security",
+        "vulnerabilities"
       ]
     },
     {
