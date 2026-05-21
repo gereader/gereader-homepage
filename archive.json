@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-05-21T10:40:21.264383+00:00",
-  "article_count": 1833,
+  "last_updated": "2026-05-21T16:39:14.634281+00:00",
+  "article_count": 1834,
   "articles": [
+    {
+      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+      "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+      "published": "Thu, 21 May 2026 13:48:38 +0000",
+      "published_parsed": "2026-05-21T13:48:38+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
+      "tags": [
+        "biz & it",
+        "d-wave",
+        "globalfoundries",
+        "ibm",
+        "quantum computing",
+        "syndication",
+        "tech"
+      ]
+    },
     {
       "title": "Dual-Stack SR-MPLS",
       "link": "https://blog.ipspace.net/2026/05/sr-mpls-dual-stack/?utm_source=atom_feed",
