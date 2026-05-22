@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T00:05:22.467360+00:00",
+  "last_updated": "2026-05-22T05:02:57.287285+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -25,13 +25,11 @@
     "amazon alexa",
     "amd",
     "amd fsr",
-    "android",
     "ansi",
     "ansible",
     "anti-drone",
     "apps",
     "arp",
-    "artificial intelligence",
     "asp.net",
     "australia",
     "automated troubleshooting",
@@ -100,9 +98,7 @@
     "fsr 4",
     "gamestop",
     "gaming",
-    "gemini",
     "general",
-    "generative ai",
     "github",
     "globalfoundries",
     "google",
@@ -246,6 +242,21 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+      "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+      "published": "Thu, 21 May 2026 22:26:34 +0000",
+      "published_parsed": "2026-05-21T22:26:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
+      "tags": [
+        "smart home",
+        "software",
+        "tech",
+        "weather"
+      ]
+    },
     {
       "title": "US government takes $2 billion equity stake in nine quantum computing firms",
       "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
@@ -782,25 +793,6 @@
         "google",
         "googlebooks",
         "laptops",
-        "tech"
-      ]
-    },
-    {
-      "title": "Android is getting a big AI overhaul in 2026",
-      "link": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
-      "published": "Tue, 12 May 2026 17:00:41 +0000",
-      "published_parsed": "2026-05-12T17:00:41+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google has big plans for Android in 2026, and most of it is AI.",
-      "tags": [
-        "ai",
-        "android",
-        "artificial intelligence",
-        "gemini",
-        "generative ai",
-        "google",
-        "smartphones",
         "tech"
       ]
     },
