@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T10:25:16.339992+00:00",
+  "last_updated": "2026-05-22T16:27:18.310302+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,7 +16,6 @@
     "aci",
     "acquisitions",
     "ads",
-    "aes-128",
     "ai",
     "ai and jobs",
     "ai drones",
@@ -104,7 +103,6 @@
     "google",
     "googlebooks",
     "gre",
-    "grover's algorithm",
     "high availability",
     "history",
     "homelab",
@@ -127,6 +125,7 @@
     "lisp",
     "load balancing",
     "local privilege escalation",
+    "malware",
     "mergers",
     "microsoft",
     "military drones",
@@ -157,6 +156,7 @@
     "nfv",
     "nornir",
     "nsx",
+    "open source",
     "open source software",
     "openflow",
     "ospf",
@@ -171,7 +171,6 @@
     "python",
     "qos",
     "quantum computing",
-    "quantum conputing",
     "quantum cryptography",
     "radeon",
     "ransomware",
@@ -206,6 +205,7 @@
     "switching",
     "syndication",
     "tcp",
+    "teampcp",
     "tech",
     "terminal",
     "text mode",
@@ -243,6 +243,24 @@
   ],
   "articles": [
     {
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "published": "Fri, 22 May 2026 10:30:14 +0000",
+      "published_parsed": "2026-05-22T10:30:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "tags": [
+        "biz & it",
+        "github",
+        "malware",
+        "open source",
+        "security",
+        "syndication",
+        "teampcp"
+      ]
+    },
+    {
       "title": "Public Videos: OpenFlow Deep Dive",
       "link": "https://blog.ipspace.net/2026/05/openflow-videos/?utm_source=atom_feed",
       "published": "2026-05-22T08:02:00+02:00",
@@ -261,7 +279,7 @@
       "published_parsed": "2026-05-21T22:26:34+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
-      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
+      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected...\"",
       "tags": [
         "smart home",
         "software",
@@ -1290,22 +1308,6 @@
       "summary": "I spent the last two days in Bologna at ITNOG 10 in the excellent company of Italian networking engineers (many of them personal friends) and a few guests from around the world. As always, the organizers and the program committee didn’t disappoint – it was a smoothly organized, lovely event full of...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-      "published": "Tue, 21 Apr 2026 12:35:20 +0000",
-      "published_parsed": "2026-04-21T12:35:20+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A stubborn misconception is hampering the already hard work of quantum readiness.",
-      "tags": [
-        "aes-128",
-        "biz & it",
-        "grover's algorithm",
-        "quantum conputing",
-        "security"
       ]
     },
     {

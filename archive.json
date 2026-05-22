@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-05-22T10:25:16.314500+00:00",
-  "article_count": 1836,
+  "last_updated": "2026-05-22T16:27:18.285559+00:00",
+  "article_count": 1837,
   "articles": [
+    {
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "published": "Fri, 22 May 2026 10:30:14 +0000",
+      "published_parsed": "2026-05-22T10:30:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "tags": [
+        "biz & it",
+        "github",
+        "malware",
+        "open source",
+        "security",
+        "syndication",
+        "teampcp"
+      ]
+    },
     {
       "title": "Public Videos: OpenFlow Deep Dive",
       "link": "https://blog.ipspace.net/2026/05/openflow-videos/?utm_source=atom_feed",
