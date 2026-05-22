@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-05-22T16:27:18.285559+00:00",
-  "article_count": 1837,
+  "last_updated": "2026-05-22T19:51:02.416379+00:00",
+  "article_count": 1839,
   "articles": [
+    {
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "published": "Fri, 22 May 2026 18:13:05 +0000",
+      "published_parsed": "2026-05-22T18:13:05+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "encryption",
+        "meta",
+        "policy",
+        "security",
+        "whatsapp"
+      ]
+    },
+    {
+      "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+      "link": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+      "published": "Fri, 22 May 2026 17:48:03 +0000",
+      "published_parsed": "2026-05-22T17:48:03+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-15-162115.jpg",
+      "summary": "Two additional marketing companies will also pay $25,000 each.",
+      "tags": [
+        "ads",
+        "ftc",
+        "policy",
+        "tech",
+        "voice assistant"
+      ]
+    },
     {
       "title": "A hacker group is poisoning open source code at an unprecedented scale",
       "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
