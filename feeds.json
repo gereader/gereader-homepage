@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T05:02:57.287285+00:00",
-  "article_count": 119,
+  "last_updated": "2026-05-22T10:25:16.339992+00:00",
+  "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -242,6 +242,18 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Public Videos: OpenFlow Deep Dive",
+      "link": "https://blog.ipspace.net/2026/05/openflow-videos/?utm_source=atom_feed",
+      "published": "2026-05-22T08:02:00+02:00",
+      "published_parsed": "2026-05-22T08:02:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/chat-openflow.png",
+      "summary": "Remember OpenFlow , the One Protocol to Bind Them All 1 ? I haven’t heard anyone even mention it in ages, and I never bothered to ask whether anyone is still using it after the dismal results of the 2022 poll . Anyway, if you still have to deal with that ancient blunder, six hours of deep dive...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
       "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
