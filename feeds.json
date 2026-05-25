@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T11:12:17.556682+00:00",
+  "last_updated": "2026-05-25T16:23:28.306866+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -97,14 +97,17 @@
     "fish",
     "fish shell",
     "foldables",
+    "foundry",
     "fsr 4",
     "ftc",
+    "funding",
     "gamestop",
     "gaming",
     "general",
     "github",
     "globalfoundries",
     "google",
+    "government",
     "gre",
     "high availability",
     "history",
@@ -118,7 +121,6 @@
     "is-is",
     "krebs",
     "krebsonsecurity",
-    "kyber",
     "lan",
     "layoffs",
     "ldp",
@@ -175,7 +177,6 @@
     "python",
     "qos",
     "quantum computing",
-    "quantum cryptography",
     "radeon",
     "ransomware",
     "reddit",
@@ -200,6 +201,7 @@
     "solar powered aircraft",
     "sr-mpls",
     "srv6",
+    "starups",
     "strait of hormuz",
     "streaming",
     "subsea cables",
@@ -246,6 +248,25 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "published": "Mon, 25 May 2026 12:00:15 +0000",
+      "published_parsed": "2026-05-25T12:00:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "tags": [
+        "biz & it",
+        "foundry",
+        "funding",
+        "government",
+        "ibm",
+        "policy",
+        "quantum computing",
+        "starups"
+      ]
+    },
     {
       "title": "First-generation Chromecast users stressed by devices suddenly failing",
       "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
@@ -1274,23 +1295,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
-      "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
-      "published": "Thu, 23 Apr 2026 20:41:23 +0000",
-      "published_parsed": "2026-04-23T20:41:23+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
-      "tags": [
-        "biz & it",
-        "cryptography",
-        "kyber",
-        "quantum cryptography",
-        "ransomware",
-        "security"
       ]
     },
     {
