@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T05:21:54.321716+00:00",
-  "article_count": 119,
+  "last_updated": "2026-05-25T11:12:17.556682+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1971,19 +1971,6 @@
         "ai",
         "bgp",
         "networking"
-      ]
-    },
-    {
-      "title": "Interesting: Open Space Events",
-      "link": "https://blog.ipspace.net/2026/02/worth-reading-open-space-conferences/?utm_source=atom_feed",
-      "published": "2026-02-24T07:45:00+01:00",
-      "published_parsed": "2026-02-24T07:45:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Following a link in another Martin Fowler’s blog post , I stumbled upon his thoughts on Open Space events – a way to set up self-organizing events. I’m not sure I’m brave (or young) enough to try it out, but if you’re planning to organize a small gathering (like a local Network Operator Group),...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
