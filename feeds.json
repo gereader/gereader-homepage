@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T17:27:23.908111+00:00",
-  "article_count": 118,
+  "last_updated": "2026-05-26T20:11:53.802340+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1961,19 +1961,6 @@
       "summary": "Imagine you want to deploy a BGP route reflector for MPLS 6PE or L3VPN service. Both services run over MPLS LSPs, use IPv4 BGP sessions, and use IPv4 next hops for BGP routes. There’s absolutely no reason to need IPv6 routing on a node that handles solely the control-plane activity (it never...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "NetBrain Certified for Infoblox NIOS Integration",
-      "link": "https://www.netbrain.com/blog/infoblox-integration/",
-      "published": "2026-02-25T19:55:26Z",
-      "published_parsed": "2026-02-25T19:55:26+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "For customers evaluating how to expand network operations beyond legacy configuration management, NetBrain is now officially recognized in the Infoblox Ecosystem as a Certified Partner for Infoblox NIOS integration. This...",
-      "tags": [
-        "company news",
         "networking"
       ]
     }
