@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T05:05:00.426461+00:00",
+  "last_updated": "2026-05-26T17:27:23.908111+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -248,6 +248,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Your Code Is Worthless",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-code-is-worthless/?utm_source=atom_feed",
+      "published": "2026-05-26T07:32:00+02:00",
+      "published_parsed": "2026-05-26T07:32:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Did you manage not to stumble on a dramatic post explaining how someone generated 10,000 lines of code with AI while wasting time on your LinkedIn feed? Congratulations, you’re lucky. However, as Nathaniel Fishel explained in his Your Code Is Worthless article, the “lines of code” is a useless...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "US's big bet on quantum computing may not be entirely legal",
       "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
@@ -1960,20 +1974,6 @@
       "summary": "For customers evaluating how to expand network operations beyond legacy configuration management, NetBrain is now officially recognized in the Infoblox Ecosystem as a Certified Partner for Infoblox NIOS integration. This...",
       "tags": [
         "company news",
-        "networking"
-      ]
-    },
-    {
-      "title": "On AI Agents Speaking BGP",
-      "link": "https://blog.ipspace.net/2026/02/ai-speaking-bgp/?utm_source=atom_feed",
-      "published": "2026-02-25T07:39:00+01:00",
-      "published_parsed": "2026-02-25T07:39:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I guess your LinkedIn feed is as full of AI nonsense as mine is, so I usually just skip all that posturing. However, every now and then, I stumble upon an idea that makes sense… until you start to dig deeper into it. There was this post about AI agents speaking BGP with an associated GitHub repo ,...",
-      "tags": [
-        "ai",
-        "bgp",
         "networking"
       ]
     }

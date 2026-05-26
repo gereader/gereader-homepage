@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-26T05:05:00.401259+00:00",
-  "article_count": 1842,
+  "last_updated": "2026-05-26T17:27:23.883561+00:00",
+  "article_count": 1843,
   "articles": [
+    {
+      "title": "Worth Reading: Your Code Is Worthless",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-code-is-worthless/?utm_source=atom_feed",
+      "published": "2026-05-26T07:32:00+02:00",
+      "published_parsed": "2026-05-26T07:32:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Did you manage not to stumble on a dramatic post explaining how someone generated 10,000 lines of code with AI while wasting time on your LinkedIn feed? Congratulations, you’re lucky. However, as Nathaniel Fishel explained in his Your Code Is Worthless article, the “lines of code” is a useless...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "US's big bet on quantum computing may not be entirely legal",
       "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
