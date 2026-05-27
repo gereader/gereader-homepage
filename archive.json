@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-05-26T20:11:53.778163+00:00",
-  "article_count": 1843,
+  "last_updated": "2026-05-27T00:09:21.325144+00:00",
+  "article_count": 1845,
   "articles": [
+    {
+      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+      "published": "Tue, 26 May 2026 20:47:31 +0000",
+      "published_parsed": "2026-05-26T20:47:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare.",
+      "tags": [
+        "intel",
+        "intel core",
+        "intel core series 3",
+        "macbook neo",
+        "tech",
+        "wildcat lake"
+      ]
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "published": "Tue, 26 May 2026 19:50:33 +0000",
+      "published_parsed": "2026-05-26T19:50:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "biz & it",
+        "security",
+        "starlette",
+        "vulnerability"
+      ]
+    },
     {
       "title": "Worth Reading: Your Code Is Worthless",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-code-is-worthless/?utm_source=atom_feed",

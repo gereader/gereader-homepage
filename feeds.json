@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T20:11:53.802340+00:00",
+  "last_updated": "2026-05-27T00:09:21.350126+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -17,6 +17,7 @@
     "acquisitions",
     "ads",
     "ai",
+    "ai agents",
     "ai and jobs",
     "ai drones",
     "ai models",
@@ -55,7 +56,6 @@
     "cisco",
     "cli",
     "cloud",
-    "cname records",
     "cockpit voice recorder",
     "command line",
     "commercial drones",
@@ -78,7 +78,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "domain hijacking",
     "drone pilots",
     "drone strikes",
     "drones",
@@ -114,6 +113,9 @@
     "homelab",
     "hulu",
     "ibm",
+    "intel",
+    "intel core",
+    "intel core series 3",
     "internet",
     "ip routing",
     "ipv6",
@@ -129,6 +131,7 @@
     "lisp",
     "load balancing",
     "local privilege escalation",
+    "macbook neo",
     "malware",
     "mergers",
     "meta",
@@ -171,7 +174,6 @@
     "plex",
     "podcast",
     "policy",
-    "porn",
     "president donald trump",
     "printers",
     "python",
@@ -201,6 +203,7 @@
     "solar powered aircraft",
     "sr-mpls",
     "srv6",
+    "starlette",
     "starups",
     "strait of hormuz",
     "streaming",
@@ -226,7 +229,6 @@
     "undersea cable cuts",
     "undersea cables",
     "unifi",
-    "universities",
     "us navy",
     "usa-iran war",
     "video",
@@ -236,18 +238,54 @@
     "voice assistant",
     "vpn",
     "vulnerabilities",
+    "vulnerability",
     "vxlan",
     "walmart",
     "wan",
     "weather",
     "whatsapp",
     "white house",
+    "wildcat lake",
     "windows 11",
     "windows 11 24h2",
     "windows 11 25h2",
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+      "published": "Tue, 26 May 2026 20:47:31 +0000",
+      "published_parsed": "2026-05-26T20:47:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare.",
+      "tags": [
+        "intel",
+        "intel core",
+        "intel core series 3",
+        "macbook neo",
+        "tech",
+        "wildcat lake"
+      ]
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "published": "Tue, 26 May 2026 19:50:33 +0000",
+      "published_parsed": "2026-05-26T19:50:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "biz & it",
+        "security",
+        "starlette",
+        "vulnerability"
+      ]
+    },
     {
       "title": "Worth Reading: Your Code Is Worthless",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-code-is-worthless/?utm_source=atom_feed",
@@ -858,21 +896,6 @@
       ]
     },
     {
-      "title": "Windows Update is getting better at saving your PC from buggy drivers",
-      "link": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
-      "published": "Wed, 13 May 2026 17:20:01 +0000",
-      "published_parsed": "2026-05-13T17:20:01+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Driver recovery can automate what used to be an irritating manual process.",
-      "tags": [
-        "tech",
-        "windows 11",
-        "windows 11 24h2",
-        "windows 11 25h2"
-      ]
-    },
-    {
       "title": "Hands-On Introduction to SR-MPLS",
       "link": "https://blog.ipspace.net/2026/05/sr-mpls-intro/?utm_source=atom_feed",
       "published": "2026-05-13T08:16:00+02:00",
@@ -1277,23 +1300,6 @@
         "github",
         "open source software",
         "security"
-      ]
-    },
-    {
-      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-      "published": "Fri, 24 Apr 2026 19:00:39 +0000",
-      "published_parsed": "2026-04-24T19:00:39+00:00",
-      "source": "Ars Technica - Tech",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hijacked-columbia-university-subdomains-640x340.png",
-      "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-      "tags": [
-        "biz & it",
-        "cname records",
-        "domain hijacking",
-        "porn",
-        "security",
-        "universities"
       ]
     },
     {
