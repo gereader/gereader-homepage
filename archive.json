@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-05-27T10:56:16.586570+00:00",
-  "article_count": 1846,
+  "last_updated": "2026-05-27T17:19:37.181315+00:00",
+  "article_count": 1848,
   "articles": [
+    {
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "published": "Wed, 27 May 2026 15:06:01 +0000",
+      "published_parsed": "2026-05-27T15:06:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "tags": [
+        "gaming",
+        "geforce",
+        "gpu",
+        "nvidia",
+        "tech"
+      ]
+    },
+    {
+      "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
+      "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+      "published": "Wed, 27 May 2026 11:00:28 +0000",
+      "published_parsed": "2026-05-27T11:00:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-10.jpg",
+      "summary": "Pretty little phones with pretty big price tags.",
+      "tags": [
+        "foldables",
+        "motorola",
+        "motorola razr",
+        "reviews",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "SR Linux MPLS/VPN Configuration Notes",
       "link": "https://blog.ipspace.net/2026/05/srlinux-mplsvpn-config-notes/?utm_source=atom_feed",

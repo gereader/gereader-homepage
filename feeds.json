@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T10:56:16.610761+00:00",
+  "last_updated": "2026-05-27T17:19:37.206446+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "3d printers",
     "3d v-cache",
     "aci",
     "acquisitions",
@@ -32,7 +31,6 @@
     "apps",
     "arp",
     "audio recordings",
-    "australia",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -58,11 +56,9 @@
     "cloud",
     "cockpit voice recorder",
     "command line",
-    "commercial drones",
     "company news",
     "containers",
     "credentials",
-    "crime",
     "cryptography",
     "cumulus linux",
     "cyberattacks",
@@ -79,7 +75,6 @@
     "dns",
     "docker",
     "drone pilots",
-    "drone strikes",
     "drones",
     "e-ink",
     "ebay",
@@ -102,11 +97,13 @@
     "funding",
     "gamestop",
     "gaming",
+    "geforce",
     "general",
     "github",
     "globalfoundries",
     "google",
     "government",
+    "gpu",
     "gre",
     "high availability",
     "history",
@@ -139,6 +136,7 @@
     "military drones",
     "mobile web",
     "motorola",
+    "motorola razr",
     "motorola razr fold",
     "mpls",
     "mpls vpn",
@@ -165,6 +163,7 @@
     "nornir",
     "nsx",
     "ntsb",
+    "nvidia",
     "open source",
     "open source software",
     "openflow",
@@ -175,7 +174,6 @@
     "podcast",
     "policy",
     "president donald trump",
-    "printers",
     "python",
     "qos",
     "quantum computing",
@@ -193,14 +191,11 @@
     "security",
     "security leak",
     "service providers",
-    "skydweller aero",
     "smart home",
     "smartphones",
     "snmp",
     "software",
     "software gone wild",
-    "solar impulse 2",
-    "solar powered aircraft",
     "sr-mpls",
     "srv6",
     "starlette",
@@ -229,7 +224,6 @@
     "undersea cable cuts",
     "undersea cables",
     "unifi",
-    "us navy",
     "usa-iran war",
     "video",
     "vim",
@@ -252,6 +246,39 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "published": "Wed, 27 May 2026 15:06:01 +0000",
+      "published_parsed": "2026-05-27T15:06:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "tags": [
+        "gaming",
+        "geforce",
+        "gpu",
+        "nvidia",
+        "tech"
+      ]
+    },
+    {
+      "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
+      "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+      "published": "Wed, 27 May 2026 11:00:28 +0000",
+      "published_parsed": "2026-05-27T11:00:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-10.jpg",
+      "summary": "Pretty little phones with pretty big price tags.",
+      "tags": [
+        "foldables",
+        "motorola",
+        "motorola razr",
+        "reviews",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "SR Linux MPLS/VPN Configuration Notes",
       "link": "https://blog.ipspace.net/2026/05/srlinux-mplsvpn-config-notes/?utm_source=atom_feed",
@@ -869,43 +896,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
-      "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
-      "published": "Wed, 13 May 2026 21:48:27 +0000",
-      "published_parsed": "2026-05-13T21:48:27+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
-      "tags": [
-        "commercial drones",
-        "drone strikes",
-        "drones",
-        "military drones",
-        "skydweller aero",
-        "solar impulse 2",
-        "solar powered aircraft",
-        "tech",
-        "us navy"
-      ]
-    },
-    {
-      "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
-      "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
-      "published": "Wed, 13 May 2026 20:06:09 +0000",
-      "published_parsed": "2026-05-13T20:06:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The drugs had an estimated worth of over $9 million USD.",
-      "tags": [
-        "3d printers",
-        "australia",
-        "crime",
-        "policy",
-        "printers",
-        "tech"
       ]
     },
     {
