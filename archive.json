@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-27T05:17:45.771074+00:00",
-  "article_count": 1845,
+  "last_updated": "2026-05-27T10:56:16.586570+00:00",
+  "article_count": 1846,
   "articles": [
+    {
+      "title": "SR Linux MPLS/VPN Configuration Notes",
+      "link": "https://blog.ipspace.net/2026/05/srlinux-mplsvpn-config-notes/?utm_source=atom_feed",
+      "published": "2026-05-27T07:57:00+02:00",
+      "published_parsed": "2026-05-27T07:57:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After fixing the SR Linux LDP configuration template, I decided to add MPLS/VPN to the netlab SR Linux MPLS features. After all, the one-page recipe seemed simple enough, more so as we already have tested VRF and EVPN templates. Alas, nothing is as simple as it looks. There were two details that...",
+      "tags": [
+        "mpls vpn",
+        "networking"
+      ]
+    },
     {
       "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
       "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
