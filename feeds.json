@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T10:56:45.703293+00:00",
-  "article_count": 117,
+  "last_updated": "2026-05-28T17:34:53.559952+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
       "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
       "published": "Wed, 27 May 2026 20:56:03 +0000",
       "published_parsed": "2026-05-27T20:56:03+00:00",
@@ -1955,20 +1955,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "The Schema-Driven LLM Query Pattern",
-      "link": "https://www.packetcoders.io/the-schema-driven-llm-query-pattern/",
-      "published": "Fri, 27 Feb 2026 15:09:32 GMT",
-      "published_parsed": "2026-02-27T15:09:32+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/02/Heading--19-.png",
-      "summary": "Typically, when working with an LLM, you send your data along with a prompt and receive a response. But this pattern often introduces issues, especially with public LLMs, due to security concerns and token bloat. There is a different pattern we can use: the Schema-Driven LLM Query Pattern . With...",
-      "tags": [
-        "ai",
-        "blog",
-        "networking"
       ]
     }
   ]
