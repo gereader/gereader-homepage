@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T05:09:56.340062+00:00",
+  "last_updated": "2026-05-28T10:56:45.703293+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -254,6 +254,21 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Ephemeral BGP Leaks",
+      "link": "https://blog.ipspace.net/2026/05/worth-reading-ephemeral-bgp-leaks/?utm_source=atom_feed",
+      "published": "2026-05-28T07:22:00+02:00",
+      "published_parsed": "2026-05-28T07:22:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Doug Madory wrote an interesting article (published on APNIC blog) arguing that we shouldn’t worry about ephemeral BGP leaks that can be observed only during the BGP path hunting process that follows a route withdrawal. I have to disagree with that. It’s never a good idea to ignore a dead canary in...",
+      "tags": [
+        "bgp",
+        "networking",
+        "security",
+        "worth reading"
+      ]
+    },
     {
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
@@ -1954,20 +1969,6 @@
         "ai",
         "blog",
         "networking"
-      ]
-    },
-    {
-      "title": "Lab: More Complex EVPN/VXLAN Bridging Scenario",
-      "link": "https://blog.ipspace.net/2026/02/lab-evpn-bridging-complex/?utm_source=atom_feed",
-      "published": "2026-02-27T09:13:00+01:00",
-      "published_parsed": "2026-02-27T09:13:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://evpn.bgplabs.net/evpn/topology-complex.png",
-      "summary": "In the first EVPN/VXLAN lab, we added the EVPN control plane to bridging over VXLAN . Now, let’s try out a more complex scenario: several EVPN MAC-VRFs mapped to different VLAN segments on individual PE-devices. Explore the lab exercise You can run the lab on your own netlab -enabled infrastructure...",
-      "tags": [
-        "evpn",
-        "networking",
-        "vxlan"
       ]
     }
   ]
