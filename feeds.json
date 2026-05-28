@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T20:21:11.577443+00:00",
+  "last_updated": "2026-05-28T00:01:18.532051+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -63,6 +63,7 @@
     "cryptography",
     "cumulus linux",
     "cyberattacks",
+    "cygnss",
     "d-wave",
     "daemon tools",
     "data center",
@@ -101,9 +102,12 @@
     "generative ai",
     "github",
     "globalfoundries",
+    "gnss",
     "goi",
     "google",
     "government",
+    "gps",
+    "gps jamming",
     "gpu",
     "gre",
     "high availability",
@@ -144,6 +148,7 @@
     "mtu",
     "multicast",
     "mythos",
+    "nasa",
     "nat",
     "navigation blog",
     "netbox",
@@ -160,12 +165,12 @@
     "networking",
     "networking fundamentals",
     "nfv",
+    "nisar",
     "nornir",
     "nsx",
     "ntsb",
     "nvidia",
     "open source",
-    "open source software",
     "openflow",
     "ospf",
     "outages",
@@ -183,19 +188,25 @@
     "roku",
     "ryzen",
     "san",
+    "satellites",
     "school",
     "sd-wan",
     "sdn",
     "security",
     "security leak",
     "service providers",
+    "side channel attacks",
+    "signal jammer",
     "smart home",
     "smartphones",
     "snmp",
     "software",
     "software gone wild",
+    "solid state drives",
+    "space",
     "sr-mpls",
     "srv6",
+    "ssds",
     "starlette",
     "starups",
     "steam",
@@ -239,13 +250,47 @@
     "whatsapp",
     "white house",
     "wildcat lake",
-    "windows 11",
-    "windows 11 24h2",
-    "windows 11 25h2",
     "worth reading",
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "published": "Wed, 27 May 2026 20:56:03 +0000",
+      "published_parsed": "2026-05-27T20:56:03+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+      "tags": [
+        "biz & it",
+        "security",
+        "side channel attacks",
+        "solid state drives",
+        "ssds"
+      ]
+    },
+    {
+      "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
+      "link": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
+      "published": "Wed, 27 May 2026 20:43:54 +0000",
+      "published_parsed": "2026-05-27T20:43:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "NASA science satellites show dual use in locating sources of GPS interference.",
+      "tags": [
+        "cygnss",
+        "gnss",
+        "gps",
+        "gps jamming",
+        "nasa",
+        "nisar",
+        "satellites",
+        "signal jammer",
+        "space",
+        "tech"
+      ]
+    },
     {
       "title": "Roku OS’s home screen now features a large, permanent ad",
       "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
@@ -780,21 +825,6 @@
       ]
     },
     {
-      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
-      "link": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
-      "published": "Mon, 18 May 2026 16:03:02 +0000",
-      "published_parsed": "2026-05-18T16:03:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
-      "tags": [
-        "tech",
-        "windows 11",
-        "windows 11 24h2",
-        "windows 11 25h2"
-      ]
-    },
-    {
       "title": "Goodbye, Ubuntu 20.04 (netlab 26.05)",
       "link": "https://blog.ipspace.net/2026/05/netlab-goodbye-20.02/?utm_source=atom_feed",
       "published": "2026-05-18T07:43:00+02:00",
@@ -1283,21 +1313,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Open source package with 1 million monthly downloads stole user credentials",
-      "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
-      "published": "Mon, 27 Apr 2026 21:04:03 +0000",
-      "published_parsed": "2026-04-27T21:04:03+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
-      "tags": [
-        "biz & it",
-        "github",
-        "open source software",
-        "security"
       ]
     },
     {
