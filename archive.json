@@ -1,7 +1,44 @@
 {
-  "last_updated": "2026-05-28T20:27:00.074137+00:00",
-  "article_count": 1855,
+  "last_updated": "2026-05-29T00:12:57.496555+00:00",
+  "article_count": 1857,
   "articles": [
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "published": "Thu, 28 May 2026 20:29:53 +0000",
+      "published_parsed": "2026-05-28T20:29:53+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "biz & it",
+        "prompt injections",
+        "security",
+        "vibe coding"
+      ]
+    },
+    {
+      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "published": "Thu, 28 May 2026 17:10:10 +0000",
+      "published_parsed": "2026-05-28T17:10:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
+      "tags": [
+        "gaming",
+        "intel",
+        "intel arc",
+        "steam deck",
+        "steamos",
+        "tech",
+        "windows 11",
+        "xbox",
+        "xbox mode"
+      ]
+    },
     {
       "title": "Worth Reading: Ephemeral BGP Leaks",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-ephemeral-bgp-leaks/?utm_source=atom_feed",
