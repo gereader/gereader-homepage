@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-29T05:14:35.699463+00:00",
-  "article_count": 1857,
+  "last_updated": "2026-05-29T10:48:45.808978+00:00",
+  "article_count": 1858,
   "articles": [
+    {
+      "title": "130 Years of Wireless Communications",
+      "link": "https://blog.ipspace.net/2026/05/history-radio/?utm_source=atom_feed",
+      "published": "2026-05-29T07:32:00+02:00",
+      "published_parsed": "2026-05-29T07:32:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/marconi.jpg",
+      "summary": "Here’s a short glimpse into the history of telecommunications: in a building at the top of this mountain (barely noticeable blip across the saddle from the radio tower; search for Capo Figari for more details), Guglielmo Marconi conducted experiments in the ~1930s (after inventing the wireless...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
       "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
