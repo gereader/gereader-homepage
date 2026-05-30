@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-29T20:29:14.387931+00:00",
-  "article_count": 1858,
+  "last_updated": "2026-05-30T00:10:30.147140+00:00",
+  "article_count": 1859,
   "articles": [
+    {
+      "title": "Botnet of more than 17 million devices dismantled",
+      "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "published": "Fri, 29 May 2026 18:46:33 +0000",
+      "published_parsed": "2026-05-29T18:46:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+      "tags": [
+        "biz & it",
+        "botnets",
+        "crime",
+        "residential proxy networks",
+        "security"
+      ]
+    },
     {
       "title": "130 Years of Wireless Communications",
       "link": "https://blog.ipspace.net/2026/05/history-radio/?utm_source=atom_feed",

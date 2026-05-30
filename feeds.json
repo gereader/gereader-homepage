@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T20:29:14.412268+00:00",
+  "last_updated": "2026-05-30T00:10:30.172780+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -43,6 +43,7 @@
     "bitlocker",
     "biz & it",
     "blog",
+    "botnets",
     "brian krebs",
     "bridging",
     "canvas",
@@ -58,6 +59,7 @@
     "company news",
     "containers",
     "credentials",
+    "crime",
     "cryptography",
     "cumulus linux",
     "cyberattacks",
@@ -130,7 +132,6 @@
     "linux",
     "lisp",
     "load balancing",
-    "local privilege escalation",
     "macbook neo",
     "malware",
     "mergers",
@@ -183,6 +184,7 @@
     "quantum computing",
     "ransomware",
     "reddit",
+    "residential proxy networks",
     "reviews",
     "roku",
     "ryzen",
@@ -257,6 +259,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Botnet of more than 17 million devices dismantled",
+      "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "published": "Fri, 29 May 2026 18:46:33 +0000",
+      "published_parsed": "2026-05-29T18:46:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+      "tags": [
+        "biz & it",
+        "botnets",
+        "crime",
+        "residential proxy networks",
+        "security"
+      ]
+    },
     {
       "title": "130 Years of Wireless Communications",
       "link": "https://blog.ipspace.net/2026/05/history-radio/?utm_source=atom_feed",
@@ -1265,23 +1283,6 @@
         "distributed denial of service attack",
         "security",
         "ubuntu"
-      ]
-    },
-    {
-      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-      "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-      "published": "Thu, 30 Apr 2026 20:20:48 +0000",
-      "published_parsed": "2026-04-30T20:20:48+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-      "tags": [
-        "biz & it",
-        "exploits",
-        "linux",
-        "local privilege escalation",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
