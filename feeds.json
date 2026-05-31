@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T09:47:17.201584+00:00",
-  "article_count": 117,
+  "last_updated": "2026-05-31T15:18:04.438874+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1962,21 +1962,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "netlab: Using L3VPN (MPLS/VPN) with SR-MPLS Core",
-      "link": "https://blog.ipspace.net/2026/03/netlab-sr-mpls-l3vpn/?utm_source=atom_feed",
-      "published": "2026-03-02T10:39:01+00:00",
-      "published_parsed": "2026-03-02T10:39:01+00:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/03/sr-vpnv4.png",
-      "summary": "Someone recently asked me whether it’s possible to use netlab to build an MPLS/VPN (technically, BGP/MPLS IP VPN ) lab with SR-MPLS core. Of course, let’s build a simple lab using Arista EOS and Linux containers to implement this topology: Lab topology Here’s the lab topology we’ll use (also...",
-      "tags": [
-        "mpls vpn",
-        "netlab",
-        "networking",
-        "sr-mpls"
       ]
     }
   ]
