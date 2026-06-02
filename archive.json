@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-02T05:51:19.485058+00:00",
-  "article_count": 1864,
+  "last_updated": "2026-06-02T11:19:31.680105+00:00",
+  "article_count": 1865,
   "articles": [
+    {
+      "title": "Worth Reading: Building the Tools I Wished I Had",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-os-net-tools/?utm_source=atom_feed",
+      "published": "2026-06-02T08:26:00+02:00",
+      "published_parsed": "2026-06-02T08:26:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Tony Mattke built several networking-focused CLI tools and released them on GitHub . You might find them useful.",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
       "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
