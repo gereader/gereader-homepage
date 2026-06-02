@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-01T19:20:48.501521+00:00",
-  "article_count": 1862,
+  "last_updated": "2026-06-02T00:15:48.657079+00:00",
+  "article_count": 1864,
   "articles": [
+    {
+      "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+      "published": "Mon, 01 Jun 2026 20:13:09 +0000",
+      "published_parsed": "2026-06-01T20:13:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
+      "tags": [
+        "microsoft",
+        "microsoft surface laptop ultra",
+        "surface",
+        "surface laptop",
+        "tech"
+      ]
+    },
+    {
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "published": "Mon, 01 Jun 2026 19:49:09 +0000",
+      "published_parsed": "2026-06-01T19:49:09+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+      "tags": [
+        "biz & it",
+        "npm",
+        "red hat",
+        "security",
+        "supply chain attacks"
+      ]
+    },
     {
       "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
       "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",

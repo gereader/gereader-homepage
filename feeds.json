@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T19:20:48.524191+00:00",
+  "last_updated": "2026-06-02T00:15:48.683300+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -68,12 +68,10 @@
     "d-wave",
     "daemon tools",
     "data center",
-    "ddos attack",
     "design",
     "dhcp",
     "disk encryption",
     "disney",
-    "distributed denial of service attack",
     "dmvpn",
     "dns",
     "docker",
@@ -136,6 +134,7 @@
     "mergers",
     "meta",
     "microsoft",
+    "microsoft surface laptop ultra",
     "military drones",
     "mobile web",
     "motorola",
@@ -165,6 +164,7 @@
     "nfv",
     "nisar",
     "nornir",
+    "npm",
     "nsx",
     "ntsb",
     "nvidia",
@@ -181,6 +181,7 @@
     "qos",
     "quantum computing",
     "ransomware",
+    "red hat",
     "reddit",
     "residential proxy networks",
     "reviews",
@@ -217,6 +218,9 @@
     "steamos",
     "streaming",
     "supply chain attack",
+    "supply chain attacks",
+    "surface",
+    "surface laptop",
     "switching",
     "syndication",
     "tcp",
@@ -230,20 +234,17 @@
     "trump white house",
     "tui",
     "tvs",
-    "ubuntu",
     "unifi",
     "valve",
     "vibe coding",
     "video",
     "vim",
     "virtualization",
-    "vizio",
     "voice assistant",
     "vpn",
     "vulnerabilities",
     "vulnerability",
     "vxlan",
-    "walmart",
     "wan",
     "weather",
     "whatsapp",
@@ -257,6 +258,38 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+      "published": "Mon, 01 Jun 2026 20:13:09 +0000",
+      "published_parsed": "2026-06-01T20:13:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
+      "tags": [
+        "microsoft",
+        "microsoft surface laptop ultra",
+        "surface",
+        "surface laptop",
+        "tech"
+      ]
+    },
+    {
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "published": "Mon, 01 Jun 2026 19:49:09 +0000",
+      "published_parsed": "2026-06-01T19:49:09+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+      "tags": [
+        "biz & it",
+        "npm",
+        "red hat",
+        "security",
+        "supply chain attacks"
+      ]
+    },
     {
       "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
       "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
@@ -815,25 +848,6 @@
       ]
     },
     {
-      "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
-      "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
-      "published": "Wed, 20 May 2026 13:32:49 +0000",
-      "published_parsed": "2026-05-20T13:32:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Access to TV OS's source code could allow users to limit ads, tracking.",
-      "tags": [
-        "ads",
-        "features",
-        "linux",
-        "software",
-        "tech",
-        "tvs",
-        "vizio",
-        "walmart"
-      ]
-    },
-    {
       "title": "Worth Reading: Agentic AI Setup: Sandboxes and Worktrees",
       "link": "https://blog.ipspace.net/2026/05/worth-reading-agentic-ai-sandboxes-worktrees/?utm_source=atom_feed",
       "published": "2026-05-20T07:22:00+02:00",
@@ -1281,22 +1295,6 @@
       "tags": [
         "general",
         "networking"
-      ]
-    },
-    {
-      "title": "Ubuntu infrastructure has been down for more than a day",
-      "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-      "published": "Fri, 01 May 2026 19:12:26 +0000",
-      "published_parsed": "2026-05-01T19:12:26+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-      "tags": [
-        "biz & it",
-        "ddos attack",
-        "distributed denial of service attack",
-        "security",
-        "ubuntu"
       ]
     },
     {
