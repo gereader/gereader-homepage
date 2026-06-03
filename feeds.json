@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T18:05:44.381298+00:00",
+  "last_updated": "2026-06-03T01:40:53.914068+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,15 +11,13 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "3d v-cache",
     "5800x3d",
     "aci",
-    "acquisitions",
     "ads",
     "ai",
     "ai agents",
     "ai and jobs",
-    "ai drones",
+    "ai deepfakes",
     "ai models",
     "ai video",
     "aiops",
@@ -27,9 +25,9 @@
     "algorithms",
     "amd",
     "amd ryzen",
+    "android",
     "ansi",
     "ansible",
-    "anti-drone",
     "apps",
     "arp",
     "artificial intelligence",
@@ -59,6 +57,7 @@
     "command line",
     "company news",
     "containers",
+    "copilot",
     "credentials",
     "crime",
     "cryptography",
@@ -71,11 +70,9 @@
     "design",
     "dhcp",
     "disk encryption",
-    "disney",
     "dmvpn",
     "dns",
     "docker",
-    "drones",
     "ebay",
     "eigrp",
     "encryption",
@@ -110,7 +107,6 @@
     "high availability",
     "history",
     "homelab",
-    "hulu",
     "ibm",
     "intel",
     "intel arc",
@@ -131,11 +127,9 @@
     "load balancing",
     "macbook neo",
     "malware",
-    "mergers",
     "meta",
     "microsoft",
     "microsoft surface laptop ultra",
-    "military drones",
     "mobile web",
     "motorola",
     "motorola razr",
@@ -175,7 +169,6 @@
     "overlay networks",
     "podcast",
     "policy",
-    "president donald trump",
     "prompt injections",
     "python",
     "qos",
@@ -231,7 +224,6 @@
     "tips",
     "traffic engineering",
     "training",
-    "trump white house",
     "tui",
     "tvs",
     "unifi",
@@ -248,9 +240,9 @@
     "wan",
     "weather",
     "whatsapp",
-    "white house",
     "wildcat lake",
     "windows 11",
+    "windows 11 25h2",
     "windows on arm",
     "worth reading",
     "xbox",
@@ -258,6 +250,58 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+      "published": "Tue, 02 Jun 2026 22:51:10 +0000",
+      "published_parsed": "2026-06-02T22:51:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
+      "tags": [
+        "copilot",
+        "microsoft",
+        "nvidia",
+        "rtx spark",
+        "tech",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "published": "Tue, 02 Jun 2026 20:47:54 +0000",
+      "published_parsed": "2026-06-02T20:47:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "android",
+        "artificial intelligence",
+        "microsoft",
+        "tech"
+      ]
+    },
+    {
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "published": "Tue, 02 Jun 2026 18:00:46 +0000",
+      "published_parsed": "2026-06-02T18:00:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+      "tags": [
+        "ai",
+        "ai deepfakes",
+        "android",
+        "artificial intelligence",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: Building the Tools I Wished I Had",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-os-net-tools/?utm_source=atom_feed",
@@ -793,21 +837,6 @@
       ]
     },
     {
-      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-      "published": "Wed, 20 May 2026 19:19:44 +0000",
-      "published_parsed": "2026-05-20T19:19:44+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
-      "tags": [
-        "3d v-cache",
-        "amd",
-        "ryzen",
-        "tech"
-      ]
-    },
-    {
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "published": "Wed, 20 May 2026 19:10:36 +0000",
@@ -821,43 +850,6 @@
         "exploits",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
-      "published": "Wed, 20 May 2026 18:59:52 +0000",
-      "published_parsed": "2026-05-20T18:59:52+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "President asks $1B from taxpayers to secure his $400M privately funded ballroom.",
-      "tags": [
-        "ai drones",
-        "anti-drone",
-        "drones",
-        "military drones",
-        "policy",
-        "president donald trump",
-        "tech",
-        "trump white house",
-        "white house"
-      ]
-    },
-    {
-      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
-      "link": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
-      "published": "Wed, 20 May 2026 18:48:41 +0000",
-      "published_parsed": "2026-05-20T18:48:41+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Disney still has a lot of tech to unite and bundles to push.",
-      "tags": [
-        "acquisitions",
-        "disney",
-        "hulu",
-        "mergers",
-        "streaming",
-        "tech"
       ]
     },
     {

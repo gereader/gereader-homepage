@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-06-02T18:05:44.361504+00:00",
-  "article_count": 1865,
+  "last_updated": "2026-06-03T01:40:53.889307+00:00",
+  "article_count": 1868,
   "articles": [
+    {
+      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+      "published": "Tue, 02 Jun 2026 22:51:10 +0000",
+      "published_parsed": "2026-06-02T22:51:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
+      "tags": [
+        "copilot",
+        "microsoft",
+        "nvidia",
+        "rtx spark",
+        "tech",
+        "windows 11",
+        "windows 11 25h2"
+      ]
+    },
+    {
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "published": "Tue, 02 Jun 2026 20:47:54 +0000",
+      "published_parsed": "2026-06-02T20:47:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "android",
+        "artificial intelligence",
+        "microsoft",
+        "tech"
+      ]
+    },
+    {
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "published": "Tue, 02 Jun 2026 18:00:46 +0000",
+      "published_parsed": "2026-06-02T18:00:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+      "tags": [
+        "ai",
+        "ai deepfakes",
+        "android",
+        "artificial intelligence",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: Building the Tools I Wished I Had",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-os-net-tools/?utm_source=atom_feed",
