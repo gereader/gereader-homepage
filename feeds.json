@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T01:40:53.914068+00:00",
+  "last_updated": "2026-06-03T11:57:31.406351+00:00",
   "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
@@ -250,6 +250,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "EVPN Centralized Routing with Arista EOS",
+      "link": "https://blog.ipspace.net/2026/06/arista-eos-evpn-central-routing/?utm_source=atom_feed",
+      "published": "2026-06-03T07:44:00+02:00",
+      "published_parsed": "2026-06-03T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/evpn-fwd-central-routing.png",
+      "summary": "A month ago, I described ARP issues in EVPN centralized routing design , and Naveen Kumar Devaraj was kind enough to add some Arista EOS implementation details . Today, let’s explore what EVPN routes Arista EOS generates in that scenario. We’ll use a very simple lab topology with a spine switch...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
       "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
@@ -1939,19 +1952,6 @@
         "netlab",
         "networking",
         "sd-wan"
-      ]
-    },
-    {
-      "title": "Presentation: netlab Overview and Use Cases (NetBCN)",
-      "link": "https://blog.ipspace.net/2026/03/netlab-use-cases/?utm_source=atom_feed",
-      "published": "2026-03-05T09:24:00+01:00",
-      "published_parsed": "2026-03-05T09:24:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Yesterday, I had a short presentation on netlab use cases during the NetBCN event. It covered a dozen examples, from rapid prototyping to testing network automation software and arguing with vendor TAC. I added the “use cases” part of the presentation to the standard netlab presentation; you can...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
