@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-06-03T18:22:51.945847+00:00",
-  "article_count": 1869,
+  "last_updated": "2026-06-04T01:43:08.741019+00:00",
+  "article_count": 1871,
   "articles": [
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "published": "Wed, 03 Jun 2026 19:53:14 +0000",
+      "published_parsed": "2026-06-03T19:53:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "tags": [
+        "2fa",
+        "biz & it",
+        "dashlane",
+        "mfa",
+        "multi factor authentication",
+        "password managers",
+        "security",
+        "two-factor authentication"
+      ]
+    },
+    {
+      "title": "New social features further Plex’s evolution from media server business",
+      "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "published": "Wed, 03 Jun 2026 17:35:06 +0000",
+      "published_parsed": "2026-06-03T17:35:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Plex is increaingly focusing on content discovery and streaming rentals.",
+      "tags": [
+        "plex",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "EVPN Centralized Routing with Arista EOS",
       "link": "https://blog.ipspace.net/2026/06/arista-eos-evpn-central-routing/?utm_source=atom_feed",

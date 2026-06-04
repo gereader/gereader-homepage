@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T18:22:51.970454+00:00",
-  "article_count": 116,
+  "last_updated": "2026-06-04T01:43:08.766444+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,6 +11,7 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "2fa",
     "5800x3d",
     "aci",
     "ads",
@@ -66,6 +67,7 @@
     "cygnss",
     "d-wave",
     "daemon tools",
+    "dashlane",
     "data center",
     "design",
     "dhcp",
@@ -73,7 +75,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "ebay",
     "eigrp",
     "encryption",
     "evpn",
@@ -89,7 +90,6 @@
     "foundry",
     "ftc",
     "funding",
-    "gamestop",
     "gaming",
     "geforce",
     "general",
@@ -128,6 +128,7 @@
     "macbook neo",
     "malware",
     "meta",
+    "mfa",
     "microsoft",
     "microsoft surface laptop ultra",
     "mobile web",
@@ -137,6 +138,7 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
+    "multi factor authentication",
     "multicast",
     "mythos",
     "nasa",
@@ -167,6 +169,8 @@
     "ospf",
     "outages",
     "overlay networks",
+    "password managers",
+    "plex",
     "podcast",
     "policy",
     "prompt injections",
@@ -226,6 +230,7 @@
     "training",
     "tui",
     "tvs",
+    "two-factor authentication",
     "unifi",
     "valve",
     "vibe coding",
@@ -250,6 +255,39 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "published": "Wed, 03 Jun 2026 19:53:14 +0000",
+      "published_parsed": "2026-06-03T19:53:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "tags": [
+        "2fa",
+        "biz & it",
+        "dashlane",
+        "mfa",
+        "multi factor authentication",
+        "password managers",
+        "security",
+        "two-factor authentication"
+      ]
+    },
+    {
+      "title": "New social features further Plex’s evolution from media server business",
+      "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "published": "Wed, 03 Jun 2026 17:35:06 +0000",
+      "published_parsed": "2026-06-03T17:35:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Plex is increaingly focusing on content discovery and streaming rentals.",
+      "tags": [
+        "plex",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "EVPN Centralized Routing with Arista EOS",
       "link": "https://blog.ipspace.net/2026/06/arista-eos-evpn-central-routing/?utm_source=atom_feed",
@@ -1260,21 +1298,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-      "published": "Mon, 04 May 2026 17:57:46 +0000",
-      "published_parsed": "2026-05-04T17:57:46+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-      "tags": [
-        "biz & it",
-        "ebay",
-        "gamestop",
-        "policy"
       ]
     },
     {
