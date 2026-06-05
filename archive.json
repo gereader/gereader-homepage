@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-04T20:08:42.108481+00:00",
-  "article_count": 1872,
+  "last_updated": "2026-06-05T00:11:42.870797+00:00",
+  "article_count": 1873,
   "articles": [
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+      "published": "Thu, 04 Jun 2026 20:02:04 +0000",
+      "published_parsed": "2026-06-04T20:02:04+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+      "tags": [
+        "biz & it",
+        "dashlane",
+        "password managers",
+        "password spraying",
+        "security"
+      ]
+    },
     {
       "title": "Using netlab to Argue with Vendor TAC",
       "link": "https://blog.ipspace.net/2026/06/netlab-arguing-vendor-tac/?utm_source=atom_feed",

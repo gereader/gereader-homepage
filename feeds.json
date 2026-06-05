@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T20:08:42.129074+00:00",
+  "last_updated": "2026-06-05T00:11:42.895327+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -29,7 +29,6 @@
     "android",
     "ansi",
     "ansible",
-    "apps",
     "arp",
     "artificial intelligence",
     "audio recordings",
@@ -131,7 +130,6 @@
     "mfa",
     "microsoft",
     "microsoft surface laptop ultra",
-    "mobile web",
     "motorola",
     "motorola razr",
     "mpls",
@@ -170,6 +168,7 @@
     "outages",
     "overlay networks",
     "password managers",
+    "password spraying",
     "plex",
     "podcast",
     "policy",
@@ -179,7 +178,6 @@
     "quantum computing",
     "ransomware",
     "red hat",
-    "reddit",
     "residential proxy networks",
     "reviews",
     "roku",
@@ -255,6 +253,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+      "published": "Thu, 04 Jun 2026 20:02:04 +0000",
+      "published_parsed": "2026-06-04T20:02:04+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+      "tags": [
+        "biz & it",
+        "dashlane",
+        "password managers",
+        "password spraying",
+        "security"
+      ]
+    },
     {
       "title": "Using netlab to Argue with Vendor TAC",
       "link": "https://blog.ipspace.net/2026/06/netlab-arguing-vendor-tac/?utm_source=atom_feed",
@@ -1270,21 +1284,6 @@
         "daemon tools",
         "security",
         "supply chain attack"
-      ]
-    },
-    {
-      "title": "Why Reddit blocked my daily visit to its mobile website",
-      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
-      "published": "Tue, 05 May 2026 11:20:08 +0000",
-      "published_parsed": "2026-05-05T11:20:08+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Reddit REALLY wants you to use its app.",
-      "tags": [
-        "apps",
-        "biz & it",
-        "mobile web",
-        "reddit"
       ]
     },
     {
