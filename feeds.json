@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T05:19:47.259112+00:00",
-  "article_count": 118,
+  "last_updated": "2026-06-05T10:49:34.173419+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -253,6 +253,20 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Lab: Implementing VRF-Lite with VXLAN",
+      "link": "https://blog.ipspace.net/2026/06/lab-vxlan-vrf-lite/?utm_source=atom_feed",
+      "published": "2026-06-05T08:21:00+01:00",
+      "published_parsed": "2026-06-05T08:21:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Did you know that you can implement a VRF-Lite design with VXLAN? All you need are devices that can run VRF routing protocols over VXLAN-backed VLAN segments. Compared to the “traditional” VRF-Lite design, in which you need a set of VLANs on every link and every device running the routing protocol...",
+      "tags": [
+        "evpn",
+        "networking",
+        "vxlan"
+      ]
+    },
     {
       "title": "Dashlane explains how attackers managed to download encrypted password vaults",
       "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
