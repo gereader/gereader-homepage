@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T10:49:34.173419+00:00",
+  "last_updated": "2026-06-05T16:30:00.296802+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -87,7 +87,6 @@
     "fish shell",
     "foldables",
     "foundry",
-    "ftc",
     "funding",
     "gaming",
     "geforce",
@@ -176,7 +175,9 @@
     "python",
     "qos",
     "quantum computing",
+    "radeon",
     "ransomware",
+    "rdna 4",
     "red hat",
     "residential proxy networks",
     "reviews",
@@ -235,13 +236,12 @@
     "video",
     "vim",
     "virtualization",
-    "voice assistant",
     "vpn",
     "vulnerabilities",
     "vulnerability",
     "vxlan",
     "wan",
-    "weather",
+    "wearables",
     "whatsapp",
     "wildcat lake",
     "windows 11",
@@ -253,6 +253,41 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "published": "Fri, 05 Jun 2026 15:40:48 +0000",
+      "published_parsed": "2026-06-05T15:40:48+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Fitbit-Air-2.jpg",
+      "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "generative ai",
+        "google",
+        "reviews",
+        "tech",
+        "wearables"
+      ]
+    },
+    {
+      "title": "Review: AMD's Radeon RX 9070 GRE is a disappointing way to spend $549",
+      "link": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
+      "published": "Fri, 05 Jun 2026 11:00:55 +0000",
+      "published_parsed": "2026-06-05T11:00:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The superior RX 9070 also launched for $549 just over a year ago.",
+      "tags": [
+        "amd",
+        "features",
+        "gaming",
+        "radeon",
+        "rdna 4",
+        "tech"
+      ]
+    },
     {
       "title": "Lab: Implementing VRF-Lite with VXLAN",
       "link": "https://blog.ipspace.net/2026/06/lab-vxlan-vrf-lite/?utm_source=atom_feed",
@@ -836,22 +871,6 @@
       ]
     },
     {
-      "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
-      "link": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
-      "published": "Fri, 22 May 2026 17:48:03 +0000",
-      "published_parsed": "2026-05-22T17:48:03+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-15-162115.jpg",
-      "summary": "Two additional marketing companies will also pay $25,000 each.",
-      "tags": [
-        "ads",
-        "ftc",
-        "policy",
-        "tech",
-        "voice assistant"
-      ]
-    },
-    {
       "title": "A hacker group is poisoning open source code at an unprecedented scale",
       "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
       "published": "Fri, 22 May 2026 10:30:14 +0000",
@@ -879,21 +898,6 @@
       "summary": "Remember OpenFlow , the One Protocol to Bind Them All 1 ? I haven’t heard anyone even mention it in ages, and I never bothered to ask whether anyone is still using it after the dismal results of the 2022 poll . Anyway, if you still have to deal with that ancient blunder, six hours of deep dive...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
-      "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "published": "Thu, 21 May 2026 22:26:34 +0000",
-      "published_parsed": "2026-05-21T22:26:34+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected...\"",
-      "tags": [
-        "smart home",
-        "software",
-        "tech",
-        "weather"
       ]
     },
     {
