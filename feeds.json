@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T19:58:31.853994+00:00",
+  "last_updated": "2026-06-06T00:08:57.683540+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -36,12 +36,12 @@
     "automation",
     "aws",
     "azure",
-    "backdoors",
     "bash",
     "bgp",
     "bitlocker",
     "biz & it",
     "blog",
+    "bluetooth",
     "botnets",
     "brian krebs",
     "bridging",
@@ -65,7 +65,6 @@
     "cyberattacks",
     "cygnss",
     "d-wave",
-    "daemon tools",
     "dashlane",
     "data center",
     "design",
@@ -102,6 +101,7 @@
     "gps jamming",
     "gpu",
     "gre",
+    "hacking",
     "high availability",
     "history",
     "homelab",
@@ -179,6 +179,7 @@
     "ransomware",
     "rdna 4",
     "red hat",
+    "remote code execution",
     "residential proxy networks",
     "reviews",
     "roku",
@@ -213,7 +214,6 @@
     "steam deck",
     "steamos",
     "streaming",
-    "supply chain attack",
     "supply chain attacks",
     "surface",
     "surface laptop",
@@ -253,6 +253,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "How a USB-connected speaker can infect a PC without ever being touched",
+      "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "published": "Fri, 05 Jun 2026 21:00:29 +0000",
+      "published_parsed": "2026-06-05T21:00:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+      "tags": [
+        "biz & it",
+        "bluetooth",
+        "hacking",
+        "remote code execution",
+        "security"
+      ]
+    },
     {
       "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
       "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
@@ -1286,22 +1302,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "published": "Tue, 05 May 2026 19:46:15 +0000",
-      "published_parsed": "2026-05-05T19:46:15+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-      "tags": [
-        "backdoors",
-        "biz & it",
-        "daemon tools",
-        "security",
-        "supply chain attack"
       ]
     },
     {
