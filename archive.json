@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-08T17:23:23.085924+00:00",
-  "article_count": 1878,
+  "last_updated": "2026-06-08T20:21:39.322682+00:00",
+  "article_count": 1881,
   "articles": [
+    {
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "published": "Mon, 08 Jun 2026 19:00:30 +0000",
+      "published_parsed": "2026-06-08T19:00:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_NewGraph_2x.width-1000.format-webp.png",
+      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
+      "tags": [
+        "ai",
+        "gemini 3.5",
+        "generative ai",
+        "google",
+        "google notebooklm",
+        "tech"
+      ]
+    },
+    {
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "published": "Mon, 08 Jun 2026 18:34:23 +0000",
+      "published_parsed": "2026-06-08T18:34:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "github",
+        "microsoft",
+        "security",
+        "worms"
+      ]
+    },
+    {
+      "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
+      "link": "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
+      "published": "Mon, 08 Jun 2026 18:07:13 +0000",
+      "published_parsed": "2026-06-08T18:07:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple's OSes come with Liquid Glass tweaks and performance optimizations.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "macos",
+        "tech",
+        "wwdc 2026"
+      ]
+    },
     {
       "title": "netlab 26.06: OSPFv3 on FortiOS, MPLS/VPN on SR Linux",
       "link": "https://blog.ipspace.net/2026/06/netlab-26-06/?utm_source=atom_feed",
