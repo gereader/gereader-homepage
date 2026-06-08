@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-08T05:52:28.639047+00:00",
-  "article_count": 1877,
+  "last_updated": "2026-06-08T11:59:47.102072+00:00",
+  "article_count": 1878,
   "articles": [
+    {
+      "title": "netlab 26.06: OSPFv3 on FortiOS, MPLS/VPN on SR Linux",
+      "link": "https://blog.ipspace.net/2026/06/netlab-26-06/?utm_source=atom_feed",
+      "published": "2026-06-08T08:13:00+02:00",
+      "published_parsed": "2026-06-08T08:13:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.06 adds OSPFv3 support on FortiOS (by @a-v-popov ) and MPLS/VPN support on SR Linux. We also ensured the installation scripts work on Ubuntu 26.04 (everything else was OK) and updated the installed Vagrant version to 2.4.9 (we’re not using new Vagrant features; you don’t have to...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
       "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",

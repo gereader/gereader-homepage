@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T05:52:28.661988+00:00",
-  "article_count": 118,
+  "last_updated": "2026-06-08T11:59:47.125092+00:00",
+  "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -253,6 +253,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "netlab 26.06: OSPFv3 on FortiOS, MPLS/VPN on SR Linux",
+      "link": "https://blog.ipspace.net/2026/06/netlab-26-06/?utm_source=atom_feed",
+      "published": "2026-06-08T08:13:00+02:00",
+      "published_parsed": "2026-06-08T08:13:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.06 adds OSPFv3 support on FortiOS (by @a-v-popov ) and MPLS/VPN support on SR Linux. We also ensured the installation scripts work on Ubuntu 26.04 (everything else was OK) and updated the installed Vagrant version to 2.4.9 (we’re not using new Vagrant features; you don’t have to...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
       "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
@@ -1965,32 +1978,6 @@
         "networking",
         "vpn",
         "worth reading"
-      ]
-    },
-    {
-      "title": "netlab 26.03: EVPN/MPLS, IOS XR Features",
-      "link": "https://blog.ipspace.net/2026/03/netlab-26-03/?utm_source=atom_feed",
-      "published": "2026-03-10T09:11:00+01:00",
-      "published_parsed": "2026-03-10T09:11:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 26.03 is out. Here are the highlights: New Cisco IOS XR features : SR-MPLS, MPLS/VPN, MPLS 6PE, EVPN over MPLS, VRRP, BGP session parameters, routing policies, prefix filters, AS-path filters, community filters, and static routes Juniper cRPD support (mostly by @leec-666 ) EVPN/VXLAN...",
-      "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "NetBox Config Templates Tip: Query Objects Efficiently with .filter()",
-      "link": "https://www.packetcoders.io/netbox-config-templates-tip-query-objects-efficiently-with-filter/",
-      "published": "Tue, 10 Mar 2026 08:00:07 GMT",
-      "published_parsed": "2026-03-10T08:00:07+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/03/Tips-logo.webp",
-      "summary": "Use .filter() in Config Templates to query objects during lookups and conditional logic. This exposes the Django ORM QuerySet filter directly in your templates. Here's an example: {% for iface in device.interfaces.filter(enabled=True, name__startswith=\"ge-\") %} interface {{ iface.name }} {% endfor...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
