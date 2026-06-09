@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T20:21:39.347651+00:00",
+  "last_updated": "2026-06-09T00:08:27.597309+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -75,7 +75,6 @@
     "firefox",
     "firewall",
     "firewalls",
-    "foldables",
     "foundry",
     "funding",
     "gaming",
@@ -101,10 +100,10 @@
     "ibm",
     "intel",
     "intel arc",
-    "intel core",
-    "intel core series 3",
     "internet",
+    "ios 27",
     "ip routing",
+    "ipados 27",
     "ipv6",
     "is-is",
     "krebs",
@@ -116,15 +115,14 @@
     "linux",
     "lisp",
     "load balancing",
-    "macbook neo",
     "macos",
+    "macos 27",
+    "macos 27 golden gate",
     "malware",
     "meta",
     "mfa",
     "microsoft",
     "microsoft surface laptop ultra",
-    "motorola",
-    "motorola razr",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -190,7 +188,6 @@
     "side channel attacks",
     "signal jammer",
     "smart home",
-    "smartphones",
     "snmp",
     "socket am4",
     "socket am5",
@@ -232,7 +229,6 @@
     "wan",
     "wearables",
     "whatsapp",
-    "wildcat lake",
     "windows 11",
     "windows 11 25h2",
     "windows on arm",
@@ -244,6 +240,36 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+      "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+      "published": "Mon, 08 Jun 2026 21:03:56 +0000",
+      "published_parsed": "2026-06-08T21:03:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "You'll need an M1 or better to run the next release of macOS.",
+      "tags": [
+        "apple",
+        "macos 27",
+        "macos 27 golden gate",
+        "tech"
+      ]
+    },
+    {
+      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
+      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+      "published": "Mon, 08 Jun 2026 20:55:58 +0000",
+      "published_parsed": "2026-06-08T20:55:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-11.57.43-AM-1024x853.png",
+      "summary": "This promises to be a solid release for aging iPhones.",
+      "tags": [
+        "apple",
+        "ios 27",
+        "ipados 27",
+        "tech"
+      ]
+    },
     {
       "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
       "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
@@ -794,23 +820,6 @@
       ]
     },
     {
-      "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
-      "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-      "published": "Wed, 27 May 2026 11:00:28 +0000",
-      "published_parsed": "2026-05-27T11:00:28+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-10.jpg",
-      "summary": "Pretty little phones with pretty big price tags.",
-      "tags": [
-        "foldables",
-        "motorola",
-        "motorola razr",
-        "reviews",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "SR Linux MPLS/VPN Configuration Notes",
       "link": "https://blog.ipspace.net/2026/05/srlinux-mplsvpn-config-notes/?utm_source=atom_feed",
       "published": "2026-05-27T07:57:00+02:00",
@@ -821,23 +830,6 @@
       "tags": [
         "mpls vpn",
         "networking"
-      ]
-    },
-    {
-      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
-      "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "published": "Tue, 26 May 2026 20:47:31 +0000",
-      "published_parsed": "2026-05-26T20:47:31+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare.",
-      "tags": [
-        "intel",
-        "intel core",
-        "intel core series 3",
-        "macbook neo",
-        "tech",
-        "wildcat lake"
       ]
     },
     {
