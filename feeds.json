@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T05:08:47.259710+00:00",
+  "last_updated": "2026-06-09T10:34:45.369623+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -240,6 +240,19 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Genie Tarpit",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-genie-tarpit/?utm_source=atom_feed",
+      "published": "2026-06-09T08:25:00+02:00",
+      "published_parsed": "2026-06-09T08:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Following a link in Martin Fowler ’s Fragments , I stumbled upon Genie Tarpit by Kent Beck – a perfect summary of my experiences with AI coding (code reviews are OK, new code less so). He also provided a good reason for that behavior: The “plausible deniability” task orientation of the genie leaves...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
       "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
@@ -1942,20 +1955,6 @@
       "tags": [
         "networking",
         "switching"
-      ]
-    },
-    {
-      "title": "Dynamic Path MTU Discovery in Cloudflare One Client",
-      "link": "https://blog.ipspace.net/2026/03/worth-reading-cloudflare-vpn-dynamic-mtu/?utm_source=atom_feed",
-      "published": "2026-03-11T08:14:00+01:00",
-      "published_parsed": "2026-03-11T08:14:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Here’s an interesting tidbit from the what took them so long department: Cloudflare One Client continuously measures end-to-end MTU and adjusts the local tunnel interface MTU size accordingly (warning: there’s a fair amount of dubious handwaving over the interesting details), generating ICMP...",
-      "tags": [
-        "networking",
-        "vpn",
-        "worth reading"
       ]
     }
   ]

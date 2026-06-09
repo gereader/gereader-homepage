@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-09T05:08:47.233598+00:00",
-  "article_count": 1883,
+  "last_updated": "2026-06-09T10:34:45.345095+00:00",
+  "article_count": 1884,
   "articles": [
+    {
+      "title": "Worth Reading: Genie Tarpit",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-genie-tarpit/?utm_source=atom_feed",
+      "published": "2026-06-09T08:25:00+02:00",
+      "published_parsed": "2026-06-09T08:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Following a link in Martin Fowler ’s Fragments , I stumbled upon Genie Tarpit by Kent Beck – a perfect summary of my experiences with AI coding (code reviews are OK, new code less so). He also provided a good reason for that behavior: The “plausible deniability” task orientation of the genie leaves...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
       "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
