@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:34:45.369623+00:00",
+  "last_updated": "2026-06-09T16:31:58.978518+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -72,7 +72,6 @@
     "exploits",
     "fabric",
     "features",
-    "firefox",
     "firewall",
     "firewalls",
     "foundry",
@@ -106,6 +105,7 @@
     "ipados 27",
     "ipv6",
     "is-is",
+    "kernel",
     "krebs",
     "krebsonsecurity",
     "lan",
@@ -129,7 +129,6 @@
     "mtu",
     "multi factor authentication",
     "multicast",
-    "mythos",
     "nasa",
     "nat",
     "navigation blog",
@@ -240,6 +239,22 @@
     "youtube"
   ],
   "articles": [
+    {
+      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+      "published": "Tue, 09 Jun 2026 15:12:43 +0000",
+      "published_parsed": "2026-06-09T15:12:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+      "tags": [
+        "biz & it",
+        "kernel",
+        "linux",
+        "security",
+        "vulnerabilities"
+      ]
+    },
     {
       "title": "Worth Reading: Genie Tarpit",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-genie-tarpit/?utm_source=atom_feed",
@@ -1262,23 +1277,6 @@
       "summary": "In the spring of 2017, Jeff Tantsura , the IETF Routing Area chair , delivered a short “ Introduction to Segment Routing ” webinar. In mid-April 2026, we had ~100 people at ITNOG 10 attending the excellent “Segment Routing: From Theory to Practice” workshop by the great Tiziano Tofoni . The future...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-      "published": "Thu, 07 May 2026 19:18:16 +0000",
-      "published_parsed": "2026-05-07T19:18:16+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "firefox",
-        "mythos",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
