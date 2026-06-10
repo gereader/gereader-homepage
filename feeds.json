@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T10:57:10.521831+00:00",
-  "article_count": 117,
+  "last_updated": "2026-06-10T17:22:36.069709+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -350,6 +350,19 @@
         "linux",
         "security",
         "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Agentic NetOps: The Right Direction, and the Real Work Ahead",
+      "link": "https://www.netbrain.com/blog/agentic-netops-the-real-work-ahead/",
+      "published": "2026-06-09T11:44:46Z",
+      "published_parsed": "2026-06-09T11:44:46+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "NetBrain’s big announcement was so big, it took over the Sphere. But this was Cisco Live, so let’s talk about what Cisco had to say too. In his keynote, Jeetu...",
+      "tags": [
+        "company news",
+        "networking"
       ]
     },
     {
