@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T20:09:27.722190+00:00",
+  "last_updated": "2026-06-10T00:17:20.125199+00:00",
   "article_count": 117,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,12 +14,12 @@
     "2fa",
     "5800x3d",
     "aci",
+    "acquisitions",
     "ads",
     "ai",
     "ai agents",
     "ai and jobs",
     "ai deepfakes",
-    "ai video",
     "aiops",
     "amd",
     "amd ryzen",
@@ -41,7 +41,6 @@
     "botnets",
     "brian krebs",
     "bridging",
-    "canvas",
     "certifications",
     "change management",
     "chromium",
@@ -55,7 +54,6 @@
     "crime",
     "cryptography",
     "cumulus linux",
-    "cyberattacks",
     "cygnss",
     "d-wave",
     "dashlane",
@@ -120,6 +118,7 @@
     "macos 27",
     "macos 27 golden gate",
     "malware",
+    "mergers",
     "meta",
     "meta ai",
     "mfa",
@@ -137,6 +136,7 @@
     "netbox",
     "netconf",
     "netdevops",
+    "netflix",
     "netlab",
     "network",
     "network assessment",
@@ -148,6 +148,7 @@
     "networking",
     "networking fundamentals",
     "nfv",
+    "nightmare eclipse",
     "nisar",
     "nornir",
     "npm",
@@ -156,8 +157,9 @@
     "open source",
     "openflow",
     "ospf",
-    "outages",
     "overlay networks",
+    "paramount",
+    "paramount skydance",
     "password managers",
     "password spraying",
     "plex",
@@ -168,7 +170,6 @@
     "qos",
     "quantum computing",
     "radeon",
-    "ransomware",
     "rdna 4",
     "red hat",
     "remote code execution",
@@ -180,7 +181,6 @@
     "ryzen",
     "san",
     "satellites",
-    "school",
     "sd-wan",
     "sdn",
     "sea drones",
@@ -234,6 +234,7 @@
     "vulnerability",
     "vxlan",
     "wan",
+    "warner bros. discovery",
     "wearables",
     "whatsapp",
     "windows 11",
@@ -243,10 +244,45 @@
     "worth reading",
     "wwdc 2026",
     "xbox",
-    "xbox mode",
-    "youtube"
+    "xbox mode"
   ],
   "articles": [
+    {
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "published": "Tue, 09 Jun 2026 20:56:52 +0000",
+      "published_parsed": "2026-06-09T20:56:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "nightmare eclipse",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
+      "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+      "published": "Tue, 09 Jun 2026 20:15:45 +0000",
+      "published_parsed": "2026-06-09T20:15:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Netflix's response: \"Absurd.\"",
+      "tags": [
+        "acquisitions",
+        "mergers",
+        "netflix",
+        "paramount",
+        "paramount skydance",
+        "policy",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
       "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
@@ -847,24 +883,6 @@
       ]
     },
     {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "published": "Wed, 27 May 2026 17:36:10 +0000",
-      "published_parsed": "2026-05-27T17:36:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
-      "tags": [
-        "ai",
-        "ai video",
-        "artificial intelligence",
-        "generative ai",
-        "google",
-        "tech",
-        "youtube"
-      ]
-    },
-    {
       "title": "SR Linux MPLS/VPN Configuration Notes",
       "link": "https://blog.ipspace.net/2026/05/srlinux-mplsvpn-config-notes/?utm_source=atom_feed",
       "published": "2026-05-27T07:57:00+02:00",
@@ -1264,24 +1282,6 @@
       "summary": "I created nine sample SR-MPLS topologies for the ITNOG 10 SR-MPLS workshop , and of course, we ran out of time. I plan to cover those topologies and resulting printouts in a series of blog posts; to prepare for those, I cleaned up and reorganized the Segment Routing blog category, which is now...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
-      "published": "Fri, 08 May 2026 18:33:48 +0000",
-      "published_parsed": "2026-05-08T18:33:48+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Across the country, schools and colleges postpone year-end tests.",
-      "tags": [
-        "biz & it",
-        "canvas",
-        "cyberattacks",
-        "outages",
-        "ransomware",
-        "school",
-        "security"
       ]
     },
     {

@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-06-09T20:09:27.699209+00:00",
-  "article_count": 1887,
+  "last_updated": "2026-06-10T00:17:20.100477+00:00",
+  "article_count": 1889,
   "articles": [
+    {
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "published": "Tue, 09 Jun 2026 20:56:52 +0000",
+      "published_parsed": "2026-06-09T20:56:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "nightmare eclipse",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
+      "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+      "published": "Tue, 09 Jun 2026 20:15:45 +0000",
+      "published_parsed": "2026-06-09T20:15:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Netflix's response: \"Absurd.\"",
+      "tags": [
+        "acquisitions",
+        "mergers",
+        "netflix",
+        "paramount",
+        "paramount skydance",
+        "policy",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
       "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
