@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-10T05:21:32.039030+00:00",
-  "article_count": 1889,
+  "last_updated": "2026-06-10T10:57:10.495961+00:00",
+  "article_count": 1890,
   "articles": [
+    {
+      "title": "Goodbye, Leaf-and-Spine Networks?",
+      "link": "https://blog.ipspace.net/2026/06/goodbye-leaf-spine-networks/?utm_source=atom_feed",
+      "published": "2026-06-10T07:42:00+02:00",
+      "published_parsed": "2026-06-10T07:42:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A friend of mine sent me links to a new paper published by AWS engineers , and an associated LinkedIn post which claims: We got lean, resilient, massive aggregation fabrics that provide 33% better throughput with 69% fewer routers, savings 27% of costs, cutting power usage by 40%, and reducing CO2...",
+      "tags": [
+        "data center",
+        "fabric",
+        "networking"
+      ]
+    },
     {
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
