@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-06-11T11:22:59.104216+00:00",
-  "article_count": 1894,
+  "last_updated": "2026-06-11T17:36:41.110727+00:00",
+  "article_count": 1895,
   "articles": [
+    {
+      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+      "link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "published": "Thu, 11 Jun 2026 11:00:32 +0000",
+      "published_parsed": "2026-06-11T11:00:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements.",
+      "tags": [
+        "apple",
+        "features",
+        "macos",
+        "macos 27",
+        "macos 27 golden gate",
+        "tech"
+      ]
+    },
     {
       "title": "Using netlab to Configure Live Devices",
       "link": "https://blog.ipspace.net/2026/06/netlab-live-device-config/?utm_source=atom_feed",
