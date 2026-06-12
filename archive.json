@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-06-12T05:50:29.161848+00:00",
-  "article_count": 1896,
+  "last_updated": "2026-06-12T11:02:36.449034+00:00",
+  "article_count": 1897,
   "articles": [
+    {
+      "title": "AI in Networking with Andrew Yourtchenko",
+      "link": "https://blog.ipspace.net/2026/06/ai-in-networking/?utm_source=atom_feed",
+      "published": "2026-06-12T07:41:00+01:00",
+      "published_parsed": "2026-06-12T07:41:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I always wanted to find someone who is more positive about AI than I am, while having solid “can deliver working stuff at scale” credentials. Andrew Yourtchenko definitely fits the bill. I first met him (online) when he was still an engineer in Cisco TAC, and when we finally met in person, he was...",
+      "tags": [
+        "ai",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
       "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
