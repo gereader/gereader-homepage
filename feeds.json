@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T05:51:23.530134+00:00",
-  "article_count": 119,
+  "last_updated": "2026-06-14T10:26:03.425855+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1967,19 +1967,6 @@
         "internet",
         "networking",
         "security"
-      ]
-    },
-    {
-      "title": "netlab Graphs with Multi-Access Links",
-      "link": "https://blog.ipspace.net/2026/03/netlab-graphs-multiaccess/?utm_source=atom_feed",
-      "published": "2026-03-16T08:03:00+01:00",
-      "published_parsed": "2026-03-16T08:03:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A netlab user wanted to create a nice-looking topology graph from a simple topology connecting a few devices to a broadcast (multi-access) link. I don’t have his exact topology, so we’ll use this one (skipping the details like setting device types) nodes: [ r1, r2, h1, h2 ] links: - r1-r2 -...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
