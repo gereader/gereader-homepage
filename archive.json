@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-06-15T13:17:27.838171+00:00",
-  "article_count": 1900,
+  "last_updated": "2026-06-15T18:40:08.054549+00:00",
+  "article_count": 1901,
   "articles": [
+    {
+      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+      "published": "Mon, 15 Jun 2026 16:32:14 +0000",
+      "published_parsed": "2026-06-15T16:32:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "features",
+        "intel",
+        "intel macs",
+        "macbook air",
+        "tech"
+      ]
+    },
     {
       "title": "SR-MPLS with OSPFv2",
       "link": "https://blog.ipspace.net/2026/06/sr-mpls-ospf/?utm_source=atom_feed",
