@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T00:14:19.919749+00:00",
-  "article_count": 118,
+  "last_updated": "2026-06-15T06:27:13.185636+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -240,6 +240,20 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "SR-MPLS with OSPFv2",
+      "link": "https://blog.ipspace.net/2026/06/sr-mpls-ospf/?utm_source=atom_feed",
+      "published": "2026-06-15T08:12:00+02:00",
+      "published_parsed": "2026-06-15T08:12:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/sr-mpls-intro.png",
+      "summary": "I started my part of the Segment Routing workshop @ ITNOG10 exploring SR-MPLS with IS-IS ( simple SR-MPLS , dual-stack SR-MPLS , SR-MPLS over unnumbered IPv4 interfaces ). Next step: let’s change the routing protocol to OSPF while using the same network topology: Read more …",
+      "tags": [
+        "netlab",
+        "networking",
+        "sr-mpls"
+      ]
+    },
     {
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
