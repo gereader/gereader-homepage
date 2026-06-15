@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T06:27:13.185636+00:00",
-  "article_count": 119,
+  "last_updated": "2026-06-15T13:17:27.862817+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1967,20 +1967,6 @@
         "bgp",
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "MANRS for Enterprise Customers",
-      "link": "https://blog.ipspace.net/2026/03/manrs-enterprise/?utm_source=atom_feed",
-      "published": "2026-03-17T08:13:00+01:00",
-      "published_parsed": "2026-03-17T08:13:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In October 2023, I was talking about Internet routing security at the DEEP conference in Zadar, Croatia. After explaining the (obvious) challenges and the initiatives aimed at making Internet routing more secure ( MANRS ), I made my usual recommendation: vote with your wallet. However, if you’re a...",
-      "tags": [
-        "internet",
-        "networking",
-        "security"
       ]
     }
   ]
