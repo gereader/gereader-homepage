@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T12:12:30.211149+00:00",
+  "last_updated": "2026-06-16T18:27:06.708806+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -243,7 +243,7 @@
   ],
   "articles": [
     {
-      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "published": "Tue, 16 Jun 2026 11:15:46 +0000",
       "published_parsed": "2026-06-16T11:15:46+00:00",
@@ -266,7 +266,7 @@
       "published_parsed": "2026-06-16T09:00:51+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
-      "summary": "Commodore's Call Back 8020 is a phone “where the customer is not the product.\"",
+      "summary": "Commodore's Callback 8020 is a phone “where the customer is not the product.\"",
       "tags": [
         "commodore",
         "smartphone",
