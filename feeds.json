@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T18:40:08.080620+00:00",
+  "last_updated": "2026-06-16T01:41:14.505027+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,11 +13,11 @@
   "tags": [
     "2fa",
     "aci",
+    "acquisition",
     "acquisitions",
     "acurite",
     "ai",
     "ai agents",
-    "ai and jobs",
     "ai deepfakes",
     "aiops",
     "amd",
@@ -45,12 +45,12 @@
     "change management",
     "chromium",
     "cisa",
-    "cisco",
     "close encounters of the unwanted kind",
     "cloud",
     "company news",
     "containers",
     "copilot",
+    "cpus",
     "credentials",
     "crime",
     "cryptography",
@@ -77,6 +77,7 @@
     "firewall",
     "firewalls",
     "foundry",
+    "fox",
     "funding",
     "gaming",
     "gemini 3.5",
@@ -106,7 +107,6 @@
     "krebs",
     "krebsonsecurity",
     "lan",
-    "layoffs",
     "ldp",
     "leak",
     "linux",
@@ -123,7 +123,6 @@
     "meta ai",
     "mfa",
     "microsoft",
-    "microsoft surface laptop ultra",
     "military drones",
     "mouse",
     "mpls",
@@ -167,6 +166,7 @@
     "plex",
     "podcast",
     "policy",
+    "processors",
     "prompt injections",
     "python",
     "qos",
@@ -177,6 +177,7 @@
     "remote code execution",
     "residential proxy networks",
     "reviews",
+    "roku",
     "rtx spark",
     "san",
     "sd-wan",
@@ -201,8 +202,6 @@
     "strait of hormuz",
     "streaming",
     "supply chain attacks",
-    "surface",
-    "surface laptop",
     "switching",
     "syndication",
     "tcp",
@@ -211,6 +210,9 @@
     "tips",
     "traffic engineering",
     "training",
+    "transparent secure memory encryption",
+    "tsme",
+    "tvs",
     "two-factor authentication",
     "uncrewed surface vehicles",
     "unifi",
@@ -238,6 +240,42 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+      "published": "Mon, 15 Jun 2026 18:29:47 +0000",
+      "published_parsed": "2026-06-15T18:29:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
+      "tags": [
+        "acquisition",
+        "fox",
+        "mergers",
+        "roku",
+        "streaming",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "published": "Mon, 15 Jun 2026 17:55:46 +0000",
+      "published_parsed": "2026-06-15T17:55:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+      "tags": [
+        "amd",
+        "biz & it",
+        "cpus",
+        "processors",
+        "security",
+        "transparent secure memory encryption",
+        "tsme"
+      ]
+    },
     {
       "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
       "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
@@ -826,22 +864,6 @@
       ]
     },
     {
-      "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-      "published": "Mon, 01 Jun 2026 20:13:09 +0000",
-      "published_parsed": "2026-06-01T20:13:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
-      "tags": [
-        "microsoft",
-        "microsoft surface laptop ultra",
-        "surface",
-        "surface laptop",
-        "tech"
-      ]
-    },
-    {
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
       "published": "Mon, 01 Jun 2026 19:49:09 +0000",
@@ -1250,21 +1272,6 @@
         "microsoft",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
-      "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
-      "published": "Thu, 14 May 2026 16:47:43 +0000",
-      "published_parsed": "2026-05-14T16:47:43+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
-      "tags": [
-        "ai and jobs",
-        "biz & it",
-        "cisco",
-        "layoffs"
       ]
     },
     {

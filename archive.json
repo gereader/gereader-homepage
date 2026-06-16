@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-06-15T18:40:08.054549+00:00",
-  "article_count": 1901,
+  "last_updated": "2026-06-16T01:41:14.479116+00:00",
+  "article_count": 1903,
   "articles": [
+    {
+      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+      "published": "Mon, 15 Jun 2026 18:29:47 +0000",
+      "published_parsed": "2026-06-15T18:29:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
+      "tags": [
+        "acquisition",
+        "fox",
+        "mergers",
+        "roku",
+        "streaming",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "published": "Mon, 15 Jun 2026 17:55:46 +0000",
+      "published_parsed": "2026-06-15T17:55:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+      "tags": [
+        "amd",
+        "biz & it",
+        "cpus",
+        "processors",
+        "security",
+        "transparent secure memory encryption",
+        "tsme"
+      ]
+    },
     {
       "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
       "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
