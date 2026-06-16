@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T01:41:14.505027+00:00",
+  "last_updated": "2026-06-16T12:12:30.211149+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,7 +18,6 @@
     "acurite",
     "ai",
     "ai agents",
-    "ai deepfakes",
     "aiops",
     "amd",
     "android",
@@ -34,7 +33,6 @@
     "azure",
     "bethesda software",
     "bgp",
-    "bitlocker",
     "biz & it",
     "blog",
     "bluetooth",
@@ -47,6 +45,7 @@
     "cisa",
     "close encounters of the unwanted kind",
     "cloud",
+    "commodore",
     "company news",
     "containers",
     "copilot",
@@ -60,7 +59,6 @@
     "data center",
     "design",
     "dhcp",
-    "disk encryption",
     "dmvpn",
     "dns",
     "docker",
@@ -111,6 +109,7 @@
     "leak",
     "linux",
     "lisp",
+    "llms",
     "load balancing",
     "logitech",
     "macbook air",
@@ -158,6 +157,7 @@
     "oracle",
     "ospf",
     "overlay networks",
+    "parameter to prompt injection",
     "paramount",
     "paramount skydance",
     "password managers",
@@ -191,6 +191,8 @@
     "smart glasses",
     "smart home",
     "smartglasses",
+    "smartphone",
+    "smartphones",
     "snmp",
     "software gone wild",
     "solid state drives",
@@ -240,6 +242,51 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "published": "Tue, 16 Jun 2026 11:15:46 +0000",
+      "published_parsed": "2026-06-16T11:15:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "copilot",
+        "llms",
+        "parameter to prompt injection",
+        "security"
+      ]
+    },
+    {
+      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
+      "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
+      "published": "Tue, 16 Jun 2026 09:00:51 +0000",
+      "published_parsed": "2026-06-16T09:00:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Commodore's Call Back 8020 is a phone “where the customer is not the product.\"",
+      "tags": [
+        "commodore",
+        "smartphone",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Worth Reading: Leading Intelligent Networks",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-heroes-teams/?utm_source=atom_feed",
+      "published": "2026-06-16T08:06:00+02:00",
+      "published_parsed": "2026-06-16T08:06:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Chris Grundemann wrote an interesting article arguing that you should structure your network operations around teams, not heroes . Even if you feel you’re perfectly OK with your network being held together by exhausted heroes (and duct tape), it could be a bit harder to deploy network automation in...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
       "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
@@ -834,23 +881,6 @@
       ]
     },
     {
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "published": "Tue, 02 Jun 2026 18:00:46 +0000",
-      "published_parsed": "2026-06-02T18:00:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-      "tags": [
-        "ai",
-        "ai deepfakes",
-        "android",
-        "artificial intelligence",
-        "google",
-        "tech"
-      ]
-    },
-    {
       "title": "Worth Reading: Building the Tools I Wished I Had",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-os-net-tools/?utm_source=atom_feed",
       "published": "2026-06-02T08:26:00+02:00",
@@ -1255,23 +1285,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-      "published": "Thu, 14 May 2026 18:32:01 +0000",
-      "published_parsed": "2026-05-14T18:32:01+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-      "tags": [
-        "bitlocker",
-        "biz & it",
-        "disk encryption",
-        "microsoft",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
@@ -1956,20 +1969,6 @@
       "summary": "Something didn’t feel right as I tried to check whether the IPv4 ECMP I observed in the latest version of Arista cEOS containers works with my MPLS/anycast scenario . The forwarding tables seemed OK, but I wasn’t getting MPLS labels in the ICMP replies (see RFC 4950 for details), even though I know...",
       "tags": [
         "mpls",
-        "networking"
-      ]
-    },
-    {
-      "title": "BGP Labs: Goodbye, Cumulus Linux",
-      "link": "https://blog.ipspace.net/2026/03/bgp-labs-goodbye-cumulus/?utm_source=atom_feed",
-      "published": "2026-03-18T07:30:00+02:00",
-      "published_parsed": "2026-03-18T07:30:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "When I started the Online BGP Labs project in mid-2023, Cumulus Linux still seemed like a good platform to use. You could run devices as virtual machines (we were still supporting VirtualBox) or in containers (containerlab was improving with every release), and it looked more polished than...",
-      "tags": [
-        "bgp",
-        "netlab",
         "networking"
       ]
     }
