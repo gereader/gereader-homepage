@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-06-17T11:50:09.081698+00:00",
-  "article_count": 1909,
+  "last_updated": "2026-06-17T16:54:56.692074+00:00",
+  "article_count": 1911,
   "articles": [
+    {
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "published": "Wed, 17 Jun 2026 15:57:14 +0000",
+      "published_parsed": "2026-06-17T15:57:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-light.jpg",
+      "summary": "Google's new smart speaker is more about Gemini than audio quality.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google home",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+      "published": "Wed, 17 Jun 2026 11:15:17 +0000",
+      "published_parsed": "2026-06-17T11:15:17+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+      "tags": [
+        "biz & it",
+        "bootkits",
+        "secure boot",
+        "security",
+        "uefi"
+      ]
+    },
     {
       "title": "ARP with Anycast Gateways in EVPN Asymmetric IRB",
       "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-unicast/?utm_source=atom_feed",

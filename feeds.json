@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T11:50:09.108192+00:00",
+  "last_updated": "2026-06-17T16:54:56.716901+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -37,12 +37,12 @@
     "biz & it",
     "blog",
     "bluetooth",
+    "bootkits",
     "botnets",
     "bridging",
     "broadcom",
     "certifications",
     "change management",
-    "chromium",
     "close encounters of the unwanted kind",
     "cloud",
     "commodore",
@@ -67,7 +67,6 @@
     "eigrp",
     "encryption",
     "evpn",
-    "exploits",
     "fabric",
     "facial recognition",
     "features",
@@ -77,12 +76,14 @@
     "fox",
     "funding",
     "gaming",
+    "gemini",
     "gemini 3.5",
     "general",
     "generative ai",
     "github",
     "globalfoundries",
     "google",
+    "google home",
     "google notebooklm",
     "government",
     "gre",
@@ -148,7 +149,6 @@
     "nornir",
     "npm",
     "nsx",
-    "nvidia",
     "open source",
     "openflow",
     "oracle",
@@ -175,11 +175,11 @@
     "residential proxy networks",
     "reviews",
     "roku",
-    "rtx spark",
     "san",
     "sd-wan",
     "sdn",
     "sea drones",
+    "secure boot",
     "security",
     "service providers",
     "shinyhunters",
@@ -212,6 +212,7 @@
     "tsme",
     "tvs",
     "two-factor authentication",
+    "uefi",
     "uncrewed surface vehicles",
     "unifi",
     "us military",
@@ -231,8 +232,6 @@
     "wearables",
     "weather",
     "whatsapp",
-    "windows 11",
-    "windows 11 25h2",
     "world cup",
     "worms",
     "worth reading",
@@ -240,6 +239,39 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "published": "Wed, 17 Jun 2026 15:57:14 +0000",
+      "published_parsed": "2026-06-17T15:57:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-light.jpg",
+      "summary": "Google's new smart speaker is more about Gemini than audio quality.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google home",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+      "published": "Wed, 17 Jun 2026 11:15:17 +0000",
+      "published_parsed": "2026-06-17T11:15:17+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+      "tags": [
+        "biz & it",
+        "bootkits",
+        "secure boot",
+        "security",
+        "uefi"
+      ]
+    },
     {
       "title": "ARP with Anycast Gateways in EVPN Asymmetric IRB",
       "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-unicast/?utm_source=atom_feed",
@@ -889,24 +921,6 @@
       ]
     },
     {
-      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-      "published": "Tue, 02 Jun 2026 22:51:10 +0000",
-      "published_parsed": "2026-06-02T22:51:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
-      "tags": [
-        "copilot",
-        "microsoft",
-        "nvidia",
-        "rtx spark",
-        "tech",
-        "windows 11",
-        "windows 11 25h2"
-      ]
-    },
-    {
       "title": "Worth Reading: Building the Tools I Wished I Had",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-os-net-tools/?utm_source=atom_feed",
       "published": "2026-06-02T08:26:00+02:00",
@@ -1166,22 +1180,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "published": "Wed, 20 May 2026 19:10:36 +0000",
-      "published_parsed": "2026-05-20T19:10:36+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
-      "tags": [
-        "biz & it",
-        "chromium",
-        "exploits",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
