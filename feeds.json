@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T06:15:47.352410+00:00",
+  "last_updated": "2026-06-17T11:50:09.108192+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -240,6 +240,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "ARP with Anycast Gateways in EVPN Asymmetric IRB",
+      "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-unicast/?utm_source=atom_feed",
+      "published": "2026-06-17T08:19:00+02:00",
+      "published_parsed": "2026-06-17T08:19:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In previous blog posts, I described the ARP issues in EVPN environments, starting with centralized routing , and then asymmetric IRB with unicast (per-leaf-switch) first-hop gateways . Of course, no self-respecting vendor would tell you to do that; anycast gateways are all the rage these days. As...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
       "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
@@ -1949,19 +1962,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Arista EOS MPLS P/PE-router Behavior",
-      "link": "https://blog.ipspace.net/2026/03/arista-eos-mpls-behavior/?utm_source=atom_feed",
-      "published": "2026-03-19T08:03:00+01:00",
-      "published_parsed": "2026-03-19T08:03:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/03/ldp-lfib-topo.png",
-      "summary": "Something didn’t feel right as I tried to check whether the IPv4 ECMP I observed in the latest version of Arista cEOS containers works with my MPLS/anycast scenario . The forwarding tables seemed OK, but I wasn’t getting MPLS labels in the ICMP replies (see RFC 4950 for details), even though I know...",
-      "tags": [
-        "mpls",
-        "networking"
       ]
     }
   ]
