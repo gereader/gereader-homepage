@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T18:27:06.708806+00:00",
+  "last_updated": "2026-06-17T00:19:20.512376+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,6 +21,7 @@
     "aiops",
     "amd",
     "android",
+    "android 17",
     "ansible",
     "apache helicopter",
     "apple",
@@ -37,12 +38,11 @@
     "blog",
     "bluetooth",
     "botnets",
-    "brian krebs",
     "bridging",
+    "broadcom",
     "certifications",
     "change management",
     "chromium",
-    "cisa",
     "close encounters of the unwanted kind",
     "cloud",
     "commodore",
@@ -50,7 +50,6 @@
     "containers",
     "copilot",
     "cpus",
-    "credentials",
     "crime",
     "cryptography",
     "cumulus linux",
@@ -88,6 +87,7 @@
     "government",
     "gre",
     "hacking",
+    "hewlett packard enterprise",
     "high availability",
     "history",
     "homelab",
@@ -102,11 +102,8 @@
     "iran",
     "is-is",
     "kernel",
-    "krebs",
-    "krebsonsecurity",
     "lan",
     "ldp",
-    "leak",
     "linux",
     "lisp",
     "llms",
@@ -184,7 +181,6 @@
     "sdn",
     "sea drones",
     "security",
-    "security leak",
     "service providers",
     "shinyhunters",
     "side channel attacks",
@@ -224,12 +220,14 @@
     "vibe coding",
     "video",
     "virtualization",
+    "vmware",
     "vpn",
     "vulnerabilities",
     "vulnerability",
     "vxlan",
     "wan",
     "warner bros. discovery",
+    "wear os",
     "wearables",
     "weather",
     "whatsapp",
@@ -242,6 +240,38 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+      "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "published": "Tue, 16 Jun 2026 22:11:15 +0000",
+      "published_parsed": "2026-06-16T22:11:15+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "hewlett packard enterprise",
+        "vmware"
+      ]
+    },
+    {
+      "title": "Android 17 starts hitting Pixel phones and watches today",
+      "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+      "published": "Tue, 16 Jun 2026 18:00:08 +0000",
+      "published_parsed": "2026-06-16T18:00:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
+      "tags": [
+        "android",
+        "android 17",
+        "google",
+        "smartphones",
+        "tech",
+        "wear os"
+      ]
+    },
     {
       "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
@@ -864,23 +894,6 @@
       ]
     },
     {
-      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-      "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-      "published": "Tue, 02 Jun 2026 20:47:54 +0000",
-      "published_parsed": "2026-06-02T20:47:54+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
-      "tags": [
-        "ai",
-        "ai agents",
-        "android",
-        "artificial intelligence",
-        "microsoft",
-        "tech"
-      ]
-    },
-    {
       "title": "Worth Reading: Building the Tools I Wished I Had",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-os-net-tools/?utm_source=atom_feed",
       "published": "2026-06-02T08:26:00+02:00",
@@ -1170,27 +1183,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
-      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
-      "published": "Tue, 19 May 2026 18:27:08 +0000",
-      "published_parsed": "2026-05-19T18:27:08+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
-      "tags": [
-        "biz & it",
-        "brian krebs",
-        "cisa",
-        "credentials",
-        "github",
-        "krebs",
-        "krebsonsecurity",
-        "leak",
-        "security",
-        "security leak"
       ]
     },
     {
