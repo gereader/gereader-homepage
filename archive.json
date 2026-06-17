@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-06-17T16:54:56.692074+00:00",
-  "article_count": 1911,
+  "last_updated": "2026-06-17T20:15:50.261606+00:00",
+  "article_count": 1912,
   "articles": [
+    {
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "published": "Wed, 17 Jun 2026 17:50:46 +0000",
+      "published_parsed": "2026-06-17T17:50:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+      "tags": [
+        "ai",
+        "anthropic claude",
+        "biz & it",
+        "mythos",
+        "mythos 5",
+        "security",
+        "syndication"
+      ]
+    },
     {
       "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
       "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
