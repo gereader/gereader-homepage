@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T20:15:50.287459+00:00",
+  "last_updated": "2026-06-18T00:17:26.583162+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -40,6 +40,7 @@
     "bluetooth",
     "bootkits",
     "botnets",
+    "breaches",
     "bridging",
     "broadcom",
     "certifications",
@@ -52,7 +53,6 @@
     "copilot",
     "cpus",
     "crime",
-    "cryptography",
     "cumulus linux",
     "dashlane",
     "data center",
@@ -65,13 +65,13 @@
     "drone boats",
     "drones",
     "eigrp",
-    "encryption",
     "evpn",
     "fabric",
     "facial recognition",
     "features",
     "firewall",
     "firewalls",
+    "fortinet",
     "foundry",
     "fox",
     "funding",
@@ -103,6 +103,7 @@
     "is-is",
     "kernel",
     "lan",
+    "lawsuit",
     "ldp",
     "linux",
     "lisp",
@@ -113,7 +114,6 @@
     "macos",
     "macos 27",
     "macos 27 golden gate",
-    "malware",
     "mergers",
     "meta",
     "meta ai",
@@ -150,7 +150,6 @@
     "nornir",
     "npm",
     "nsx",
-    "open source",
     "openflow",
     "oracle",
     "ospf",
@@ -160,6 +159,7 @@
     "paramount skydance",
     "password managers",
     "password spraying",
+    "passwords",
     "peoplesoft",
     "plex",
     "podcast",
@@ -204,7 +204,6 @@
     "switching",
     "syndication",
     "tcp",
-    "teampcp",
     "tech",
     "tips",
     "traffic engineering",
@@ -232,7 +231,6 @@
     "wear os",
     "wearables",
     "weather",
-    "whatsapp",
     "world cup",
     "worms",
     "worth reading",
@@ -240,6 +238,38 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "published": "Wed, 17 Jun 2026 19:54:31 +0000",
+      "published_parsed": "2026-06-17T19:54:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+      "tags": [
+        "biz & it",
+        "breaches",
+        "firewalls",
+        "fortinet",
+        "passwords",
+        "security"
+      ]
+    },
+    {
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "published": "Wed, 17 Jun 2026 19:43:13 +0000",
+      "published_parsed": "2026-06-17T19:43:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "lawsuit",
+        "vmware"
+      ]
+    },
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
       "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
@@ -1119,42 +1149,6 @@
         "policy",
         "quantum computing",
         "starups"
-      ]
-    },
-    {
-      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-      "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-      "published": "Fri, 22 May 2026 18:13:05 +0000",
-      "published_parsed": "2026-05-22T18:13:05+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
-      "tags": [
-        "biz & it",
-        "cryptography",
-        "encryption",
-        "meta",
-        "policy",
-        "security",
-        "whatsapp"
-      ]
-    },
-    {
-      "title": "A hacker group is poisoning open source code at an unprecedented scale",
-      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-      "published": "Fri, 22 May 2026 10:30:14 +0000",
-      "published_parsed": "2026-05-22T10:30:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
-      "tags": [
-        "biz & it",
-        "github",
-        "malware",
-        "open source",
-        "security",
-        "syndication",
-        "teampcp"
       ]
     },
     {

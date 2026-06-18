@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-17T20:15:50.261606+00:00",
-  "article_count": 1912,
+  "last_updated": "2026-06-18T00:17:26.557069+00:00",
+  "article_count": 1914,
   "articles": [
+    {
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "published": "Wed, 17 Jun 2026 19:54:31 +0000",
+      "published_parsed": "2026-06-17T19:54:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+      "tags": [
+        "biz & it",
+        "breaches",
+        "firewalls",
+        "fortinet",
+        "passwords",
+        "security"
+      ]
+    },
+    {
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "published": "Wed, 17 Jun 2026 19:43:13 +0000",
+      "published_parsed": "2026-06-17T19:43:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "lawsuit",
+        "vmware"
+      ]
+    },
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
       "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
