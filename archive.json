@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-18T00:17:26.557069+00:00",
-  "article_count": 1914,
+  "last_updated": "2026-06-18T05:57:02.264525+00:00",
+  "article_count": 1915,
   "articles": [
+    {
+      "title": "Worth Reading: Extending a VLAN with Static VXLAN",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-single-vlan-static-vxlan/?utm_source=atom_feed",
+      "published": "2026-06-18T07:37:00+02:00",
+      "published_parsed": "2026-06-18T07:37:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Ali Bahadır Coşkun wrote a nice article describing how he mastered extending a VLAN with static VXLAN with the help of free netlab-powered VXLAN labs . The same set of lab exercises includes six VXLAN labs , almost a dozen EVPN labs , and a few EVPN designs . I might add a lab or two during the...",
+      "tags": [
+        "networking",
+        "vxlan",
+        "worth reading"
+      ]
+    },
     {
       "title": "Massive breach spills credentials for thousands of sensitive networks",
       "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
