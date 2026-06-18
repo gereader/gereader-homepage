@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-06-18T16:57:39.594897+00:00",
-  "article_count": 1915,
+  "last_updated": "2026-06-18T20:28:44.944164+00:00",
+  "article_count": 1918,
   "articles": [
+    {
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "published": "Thu, 18 Jun 2026 19:53:33 +0000",
+      "published_parsed": "2026-06-18T19:53:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A new system service will roll out this month ahead of big changes starting in September.",
+      "tags": [
+        "android",
+        "apps",
+        "developer verification",
+        "google",
+        "malware",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+      "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+      "published": "Thu, 18 Jun 2026 19:41:35 +0000",
+      "published_parsed": "2026-06-18T19:41:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+      "tags": [
+        "apple",
+        "beats studio buds",
+        "biz & it",
+        "bluetooth",
+        "eavesdropping",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+      "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+      "published": "Thu, 18 Jun 2026 17:42:18 +0000",
+      "published_parsed": "2026-06-18T17:42:18+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+      "tags": [
+        "biz & it",
+        "chinese",
+        "spacex",
+        "spacex ipo",
+        "syndication"
+      ]
+    },
     {
       "title": "Worth Reading: Extending a VLAN with Static VXLAN",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-single-vlan-static-vxlan/?utm_source=atom_feed",
