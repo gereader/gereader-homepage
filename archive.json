@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-06-18T20:28:44.944164+00:00",
-  "article_count": 1918,
+  "last_updated": "2026-06-19T01:44:07.634140+00:00",
+  "article_count": 1919,
   "articles": [
+    {
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "published": "Thu, 18 Jun 2026 23:28:52 +0000",
+      "published_parsed": "2026-06-18T23:28:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+      "tags": [
+        "biz & it",
+        "crypto stealer",
+        "cryptocurrency",
+        "malware",
+        "security",
+        "worm"
+      ]
+    },
     {
       "title": "Android verification is coming: Google confirms timeline and supported app stores",
       "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
