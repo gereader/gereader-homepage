@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-20T15:46:02.124261+00:00",
-  "article_count": 1919,
+  "last_updated": "2026-06-20T19:41:08.107530+00:00",
+  "article_count": 1920,
   "articles": [
+    {
+      "title": "Automating Palo Alto HA Firewall Upgrades with Ansible",
+      "link": "https://www.packetswitch.co.uk/automating-palo-alto-ha-firewall-upgrades-with-ansible/",
+      "published": "Sat, 20 Jun 2026 17:25:13 GMT",
+      "published_parsed": "2026-06-20T17:25:13+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/06/nornir-netbox-6-.png",
+      "summary": "In this blog post, we will cover upgrading Palo Alto firewalls in HA using Ansible. Palo Alto also recommends upgrading the active unit first",
+      "tags": [
+        "ansible",
+        "networking",
+        "palo alto"
+      ]
+    },
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
