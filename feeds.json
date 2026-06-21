@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T06:04:55.454567+00:00",
-  "article_count": 119,
+  "last_updated": "2026-06-21T10:31:54.735559+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1959,19 +1959,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "netlab: Switch to Lab Directory After an SSH Session Loss",
-      "link": "https://blog.ipspace.net/2026/03/netlab-switch-lab-directory/?utm_source=atom_feed",
-      "published": "2026-03-23T08:31:00+01:00",
-      "published_parsed": "2026-03-23T08:31:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I work on a laptop that loves to power down when not used (the right thing to do), which often breaks the SSH session to my netlab server (not so good). Reconnecting is trivial. Figuring out which lab I was working on and where it lives on the disk after a few hours? That’s the annoying part. We...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
