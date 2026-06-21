@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-21T10:31:54.710578+00:00",
-  "article_count": 1920,
+  "last_updated": "2026-06-21T15:54:35.687522+00:00",
+  "article_count": 1921,
   "articles": [
+    {
+      "title": "Rebuilding My Proxmox Cluster for the Version 9 Upgrade",
+      "link": "https://www.packetswitch.co.uk/rebuilding-my-proxmox-cluster-for-the-version-9-upgrade/",
+      "published": "Sun, 21 Jun 2026 15:46:40 GMT",
+      "published_parsed": "2026-06-21T15:46:40+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/06/blog-banners-all-3-.png",
+      "summary": "Proxmox released version 9, and I'd been meaning to upgrade. I went through a few guides and forum posts, and people tended to recommend backing",
+      "tags": [
+        "homelab",
+        "networking"
+      ]
+    },
     {
       "title": "Automating Palo Alto HA Firewall Upgrades with Ansible",
       "link": "https://www.packetswitch.co.uk/automating-palo-alto-ha-firewall-upgrades-with-ansible/",
