@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T06:30:41.263787+00:00",
-  "article_count": 119,
+  "last_updated": "2026-06-22T12:50:48.440866+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1959,19 +1959,6 @@
       "tags": [
         "aiops",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Why We've Tried to Replace Developers Every Decade",
-      "link": "https://blog.ipspace.net/2026/03/worth-reading-replacing-developers/?utm_source=atom_feed",
-      "published": "2026-03-24T08:19:00+01:00",
-      "published_parsed": "2026-03-24T08:19:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "The never-ending “we will replace developers” (or networking engineers) pipe dream didn’t start with the latest bout of AI hype (or SDN). As Stephan Schwab explains in his Why We’ve Tried to Replace Developers Every Decade article, it started with COBOL, the magic high-level programming language...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
