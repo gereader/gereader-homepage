@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T10:37:04.205152+00:00",
+  "last_updated": "2026-06-23T16:27:11.565413+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -39,6 +39,7 @@
     "biz & it",
     "blog",
     "bluetooth",
+    "books",
     "bootkits",
     "botnets",
     "breaches",
@@ -53,10 +54,12 @@
     "company news",
     "containers",
     "copilot",
+    "cory doctorow",
     "cpus",
     "crime",
     "crypto stealer",
     "cryptocurrency",
+    "culture",
     "cumulus linux",
     "dashlane",
     "data center",
@@ -79,7 +82,6 @@
     "firewalls",
     "fortinet",
     "fox",
-    "gaming",
     "gemini",
     "gemini 3.5",
     "general",
@@ -170,8 +172,6 @@
     "processors",
     "python",
     "qos",
-    "radeon",
-    "rdna 4",
     "red hat",
     "remote code execution",
     "residential proxy networks",
@@ -236,6 +236,23 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "published": "Tue, 23 Jun 2026 12:00:34 +0000",
+      "published_parsed": "2026-06-23T12:00:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .",
+      "tags": [
+        "ai",
+        "books",
+        "cory doctorow",
+        "culture",
+        "llms",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: My Network is Talking Back Thanks to SuzieQ MCP",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-suzieq-mcp/?utm_source=atom_feed",
@@ -1012,23 +1029,6 @@
         "reviews",
         "tech",
         "wearables"
-      ]
-    },
-    {
-      "title": "Review: AMD's Radeon RX 9070 GRE is a disappointing way to spend $549",
-      "link": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
-      "published": "Fri, 05 Jun 2026 11:00:55 +0000",
-      "published_parsed": "2026-06-05T11:00:55+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The superior RX 9070 also launched for $549 just over a year ago.",
-      "tags": [
-        "amd",
-        "features",
-        "gaming",
-        "radeon",
-        "rdna 4",
-        "tech"
       ]
     },
     {

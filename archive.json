@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-06-23T10:37:04.179877+00:00",
-  "article_count": 1924,
+  "last_updated": "2026-06-23T16:27:11.539958+00:00",
+  "article_count": 1925,
   "articles": [
+    {
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "published": "Tue, 23 Jun 2026 12:00:34 +0000",
+      "published_parsed": "2026-06-23T12:00:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .",
+      "tags": [
+        "ai",
+        "books",
+        "cory doctorow",
+        "culture",
+        "llms",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: My Network is Talking Back Thanks to SuzieQ MCP",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-suzieq-mcp/?utm_source=atom_feed",
