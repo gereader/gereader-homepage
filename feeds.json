@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T05:03:44.928312+00:00",
-  "article_count": 118,
+  "last_updated": "2026-06-23T10:37:04.205152+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -237,6 +237,19 @@
   ],
   "articles": [
     {
+      "title": "Worth Reading: My Network is Talking Back Thanks to SuzieQ MCP",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-suzieq-mcp/?utm_source=atom_feed",
+      "published": "2026-06-23T08:19:00+02:00",
+      "published_parsed": "2026-06-23T08:19:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Claudia de Luna published a step-by-step description of how you can use SuzieQ data with an AI agent . That’s definitely interesting, but I found the list of MCP resources at the end of her blog post even more valuable; that’s a keeper even if you never looked at SuzieQ (in which case you REALLY...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
+    {
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
       "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
       "published": "Mon, 22 Jun 2026 19:16:52 +0000",
@@ -250,6 +263,20 @@
         "ryzen",
         "security",
         "tsme"
+      ]
+    },
+    {
+      "title": "Worth Reading: AI Enthusiasts Against AI Skeptics",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-ai-enthusiasts-skeptics/?utm_source=atom_feed",
+      "published": "2026-06-22T08:25:00+02:00",
+      "published_parsed": "2026-06-22T08:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Charity Majors wrote an excellent article describing AI enthusiasts in a race against time and AI skeptics in a race against entropy . Fair warning: its very first sentence triggered an acute case of PTSD: I recently attended a talk where one of the presenters made some pretty…astonishing claims...",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
       ]
     },
     {
@@ -1943,19 +1970,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Your AI is Only as Smart as the Network Context You Give it",
-      "link": "https://www.netbrain.com/blog/ai-intelligence-depends-on-network-context/",
-      "published": "2026-03-25T07:42:07Z",
-      "published_parsed": "2026-03-25T07:42:07+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Ask an AI to help troubleshoot a voice quality complaint on your network. You’ll get an answer fast: check QoS policies, verify DSCP markings, review interface drops, and look at...",
-      "tags": [
-        "aiops",
-        "networking"
       ]
     }
   ]
