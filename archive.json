@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-22T18:12:39.635125+00:00",
-  "article_count": 1921,
+  "last_updated": "2026-06-23T00:09:05.011953+00:00",
+  "article_count": 1922,
   "articles": [
+    {
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "published": "Mon, 22 Jun 2026 19:16:52 +0000",
+      "published_parsed": "2026-06-22T19:16:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "tags": [
+        "amd",
+        "biz & it",
+        "ryzen",
+        "security",
+        "tsme"
+      ]
+    },
     {
       "title": "Rebuilding My Proxmox Cluster for the Version 9 Upgrade",
       "link": "https://www.packetswitch.co.uk/rebuilding-my-proxmox-cluster-for-the-version-9-upgrade/",

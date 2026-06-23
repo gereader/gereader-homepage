@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T18:12:39.661413+00:00",
+  "last_updated": "2026-06-23T00:09:05.036692+00:00",
   "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
@@ -17,7 +17,6 @@
     "acquisitions",
     "acurite",
     "ai",
-    "ai agents",
     "aiops",
     "amd",
     "android",
@@ -169,7 +168,6 @@
     "podcast",
     "policy",
     "processors",
-    "prompt injections",
     "python",
     "qos",
     "radeon",
@@ -179,6 +177,7 @@
     "residential proxy networks",
     "reviews",
     "roku",
+    "ryzen",
     "san",
     "sd-wan",
     "sdn",
@@ -218,7 +217,6 @@
     "us military",
     "us navy",
     "usa-iran war",
-    "vibe coding",
     "video",
     "virtualization",
     "vmware",
@@ -238,6 +236,22 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "published": "Mon, 22 Jun 2026 19:16:52 +0000",
+      "published_parsed": "2026-06-22T19:16:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "tags": [
+        "amd",
+        "biz & it",
+        "ryzen",
+        "security",
+        "tsme"
+      ]
+    },
     {
       "title": "Rebuilding My Proxmox Cluster for the Version 9 Upgrade",
       "link": "https://www.packetswitch.co.uk/rebuilding-my-proxmox-cluster-for-the-version-9-upgrade/",
@@ -1134,23 +1148,6 @@
       "summary": "Here’s a short glimpse into the history of telecommunications: in a building at the top of this mountain (barely noticeable blip across the saddle from the radio tower; search for Capo Figari for more details), Guglielmo Marconi conducted experiments in the ~1930s (after inventing the wireless...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "published": "Thu, 28 May 2026 20:29:53 +0000",
-      "published_parsed": "2026-05-28T20:29:53+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
-      "tags": [
-        "ai",
-        "ai agents",
-        "biz & it",
-        "prompt injections",
-        "security",
-        "vibe coding"
       ]
     },
     {
