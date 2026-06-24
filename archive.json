@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-23T20:09:04.905849+00:00",
-  "article_count": 1925,
+  "last_updated": "2026-06-24T00:00:36.009972+00:00",
+  "article_count": 1928,
   "articles": [
+    {
+      "title": "Executive order bumps up deadline to move off quantum-vulnerable crypto",
+      "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "published": "Tue, 23 Jun 2026 22:30:57 +0000",
+      "published_parsed": "2026-06-23T22:30:57+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "encryption",
+        "policy",
+        "quantum computing",
+        "security"
+      ]
+    },
+    {
+      "title": "Odd police video shows drone removing knife from motionless suspect",
+      "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+      "published": "Tue, 23 Jun 2026 20:43:42 +0000",
+      "published_parsed": "2026-06-23T20:43:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Promo video comes as more US police departments fly drones as first responders.",
+      "tags": [
+        "aerial surveillance",
+        "commercial drones",
+        "drones",
+        "law enforcement",
+        "police",
+        "swat",
+        "tech"
+      ]
+    },
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "published": "Tue, 23 Jun 2026 20:17:38 +0000",
+      "published_parsed": "2026-06-23T20:17:38+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "job losses",
+        "oracle"
+      ]
+    },
     {
       "title": "How to burst the AI bubble: Strike at its roots",
       "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",

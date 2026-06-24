@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T20:09:04.931387+00:00",
+  "last_updated": "2026-06-24T00:00:36.035813+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,6 +16,7 @@
     "acquisition",
     "acquisitions",
     "acurite",
+    "aerial surveillance",
     "ai",
     "aiops",
     "amd",
@@ -28,7 +29,6 @@
     "apple silicon",
     "apps",
     "arp",
-    "artificial intelligence",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -41,7 +41,6 @@
     "bluetooth",
     "books",
     "bootkits",
-    "botnets",
     "breaches",
     "bridging",
     "broadcom",
@@ -50,15 +49,16 @@
     "chinese",
     "close encounters of the unwanted kind",
     "cloud",
+    "commercial drones",
     "commodore",
     "company news",
     "containers",
     "copilot",
     "cory doctorow",
     "cpus",
-    "crime",
     "crypto stealer",
     "cryptocurrency",
+    "cryptography",
     "culture",
     "cumulus linux",
     "dashlane",
@@ -74,6 +74,7 @@
     "drones",
     "eavesdropping",
     "eigrp",
+    "encryption",
     "evpn",
     "fabric",
     "facial recognition",
@@ -105,8 +106,10 @@
     "ipv6",
     "iran",
     "is-is",
+    "job losses",
     "kernel",
     "lan",
+    "law enforcement",
     "lawsuit",
     "ldp",
     "linux",
@@ -153,7 +156,6 @@
     "nfv",
     "nightmare eclipse",
     "nornir",
-    "npm",
     "nsx",
     "openflow",
     "oracle",
@@ -168,14 +170,13 @@
     "passwords",
     "peoplesoft",
     "podcast",
+    "police",
     "policy",
     "processors",
     "python",
     "qos",
-    "red hat",
+    "quantum computing",
     "remote code execution",
-    "residential proxy networks",
-    "reviews",
     "roku",
     "ryzen",
     "san",
@@ -199,7 +200,7 @@
     "srv6",
     "strait of hormuz",
     "streaming",
-    "supply chain attacks",
+    "swat",
     "switching",
     "syndication",
     "tcp",
@@ -226,7 +227,6 @@
     "wan",
     "warner bros. discovery",
     "wear os",
-    "wearables",
     "weather",
     "world cup",
     "worm",
@@ -236,6 +236,56 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Executive order bumps up deadline to move off quantum-vulnerable crypto",
+      "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "published": "Tue, 23 Jun 2026 22:30:57 +0000",
+      "published_parsed": "2026-06-23T22:30:57+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "tags": [
+        "biz & it",
+        "cryptography",
+        "encryption",
+        "policy",
+        "quantum computing",
+        "security"
+      ]
+    },
+    {
+      "title": "Odd police video shows drone removing knife from motionless suspect",
+      "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+      "published": "Tue, 23 Jun 2026 20:43:42 +0000",
+      "published_parsed": "2026-06-23T20:43:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Promo video comes as more US police departments fly drones as first responders.",
+      "tags": [
+        "aerial surveillance",
+        "commercial drones",
+        "drones",
+        "law enforcement",
+        "police",
+        "swat",
+        "tech"
+      ]
+    },
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "published": "Tue, 23 Jun 2026 20:17:38 +0000",
+      "published_parsed": "2026-06-23T20:17:38+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "job losses",
+        "oracle"
+      ]
+    },
     {
       "title": "How to burst the AI bubble: Strike at its roots",
       "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
@@ -1015,24 +1065,6 @@
       ]
     },
     {
-      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
-      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-      "published": "Fri, 05 Jun 2026 15:40:48 +0000",
-      "published_parsed": "2026-06-05T15:40:48+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Fitbit-Air-2.jpg",
-      "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary.",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "generative ai",
-        "google",
-        "reviews",
-        "tech",
-        "wearables"
-      ]
-    },
-    {
       "title": "Lab: Implementing VRF-Lite with VXLAN",
       "link": "https://blog.ipspace.net/2026/06/lab-vxlan-vrf-lite/?utm_source=atom_feed",
       "published": "2026-06-05T08:21:00+01:00",
@@ -1121,22 +1153,6 @@
       ]
     },
     {
-      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-      "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-      "published": "Mon, 01 Jun 2026 19:49:09 +0000",
-      "published_parsed": "2026-06-01T19:49:09+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
-      "tags": [
-        "biz & it",
-        "npm",
-        "red hat",
-        "security",
-        "supply chain attacks"
-      ]
-    },
-    {
       "title": "SR-MPLS over Unnumbered Interfaces",
       "link": "https://blog.ipspace.net/2026/06/sr-mpls-unnumbered/?utm_source=atom_feed",
       "published": "2026-06-01T08:03:00+02:00",
@@ -1148,22 +1164,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Botnet of more than 17 million devices dismantled",
-      "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-      "published": "Fri, 29 May 2026 18:46:33 +0000",
-      "published_parsed": "2026-05-29T18:46:33+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
-      "tags": [
-        "biz & it",
-        "botnets",
-        "crime",
-        "residential proxy networks",
-        "security"
       ]
     },
     {
