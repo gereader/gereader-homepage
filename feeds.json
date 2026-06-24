@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T05:03:12.022102+00:00",
+  "last_updated": "2026-06-24T10:23:19.854217+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -236,6 +236,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Anycast-Only Gateways in EVPN Asymmetric IRB",
+      "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-only/?utm_source=atom_feed",
+      "published": "2026-06-24T08:19:00+02:00",
+      "published_parsed": "2026-06-24T08:19:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/06/evpn-fwd-asymmetric-anycast-only.png",
+      "summary": "In the previous blog post , I described how ARP works in an EVPN asymmetric IRB environment where the PE devices share an anycast MAC/IP address in addition to a unicast MAC/IP address. Today, let’s see how well things work if the PE devices have only the anycast MAC/IP address: Packet forwarding...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
       "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
@@ -1958,19 +1971,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Securing NTP and the Origins of Time",
-      "link": "https://blog.ipspace.net/2026/03/worth-reading-ntp-origins-time/?utm_source=atom_feed",
-      "published": "2026-03-26T07:54:00+01:00",
-      "published_parsed": "2026-03-26T07:54:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Geoff Huston published an article supposedly describing the challenge of securing NTP , but as is usually the case, he couldn’t skip the prior art going all the way back (almost) to the formation of Earth. Before coming to the how do we secure NTP section, you’ll learn everything about the wobbly...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]

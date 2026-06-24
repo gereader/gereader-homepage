@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-24T05:03:11.996769+00:00",
-  "article_count": 1928,
+  "last_updated": "2026-06-24T10:23:19.828519+00:00",
+  "article_count": 1929,
   "articles": [
+    {
+      "title": "Anycast-Only Gateways in EVPN Asymmetric IRB",
+      "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-only/?utm_source=atom_feed",
+      "published": "2026-06-24T08:19:00+02:00",
+      "published_parsed": "2026-06-24T08:19:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/06/evpn-fwd-asymmetric-anycast-only.png",
+      "summary": "In the previous blog post , I described how ARP works in an EVPN asymmetric IRB environment where the PE devices share an anycast MAC/IP address in addition to a unicast MAC/IP address. Today, let’s see how well things work if the PE devices have only the anycast MAC/IP address: Packet forwarding...",
+      "tags": [
+        "evpn",
+        "networking"
+      ]
+    },
     {
       "title": "Executive order bumps up deadline to move off quantum-vulnerable crypto",
       "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
