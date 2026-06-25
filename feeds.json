@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T19:49:46.902461+00:00",
+  "last_updated": "2026-06-25T00:15:22.466188+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "2fa",
     "aci",
     "acquisition",
     "acquisitions",
@@ -41,17 +40,21 @@
     "bluetooth",
     "books",
     "bootkits",
+    "botnets",
     "breaches",
     "bridging",
     "broadcom",
     "certifications",
     "change management",
+    "chatgpt",
     "chinese",
     "close encounters of the unwanted kind",
     "cloud",
+    "codex",
     "commercial drones",
     "commodore",
     "company news",
+    "compute",
     "containers",
     "copilot",
     "cory doctorow",
@@ -61,11 +64,15 @@
     "cryptography",
     "culture",
     "cumulus linux",
+    "cybercrime",
     "dashlane",
     "data center",
+    "data centers",
     "design",
     "developer verification",
     "dhcp",
+    "directv",
+    "disney",
     "dmvpn",
     "dns",
     "docker",
@@ -84,19 +91,17 @@
     "fortinet",
     "fox",
     "gemini",
-    "gemini 3.5",
     "general",
-    "generative ai",
     "github",
     "google",
     "google home",
-    "google notebooklm",
     "gre",
     "hacking",
     "hewlett packard enterprise",
     "high availability",
     "history",
     "homelab",
+    "inference",
     "intel",
     "intel macs",
     "internet",
@@ -106,6 +111,7 @@
     "ipv6",
     "iran",
     "is-is",
+    "jalapeño",
     "job losses",
     "kernel",
     "lan",
@@ -114,6 +120,7 @@
     "ldp",
     "linux",
     "lisp",
+    "llm",
     "llms",
     "load balancing",
     "logitech",
@@ -125,7 +132,6 @@
     "mergers",
     "meta",
     "meta ai",
-    "mfa",
     "microsoft",
     "military drones",
     "mouse",
@@ -133,7 +139,6 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
-    "multi factor authentication",
     "multicast",
     "mythos",
     "mythos 5",
@@ -157,6 +162,7 @@
     "nightmare eclipse",
     "nornir",
     "nsx",
+    "openai",
     "openflow",
     "oracle",
     "ospf",
@@ -176,10 +182,12 @@
     "python",
     "qos",
     "quantum computing",
+    "ransomware",
     "remote code execution",
     "roku",
     "ryzen",
     "san",
+    "scams",
     "sd-wan",
     "sdn",
     "sea drones",
@@ -187,6 +195,7 @@
     "security",
     "service providers",
     "shinyhunters",
+    "silicon",
     "smart glasses",
     "smart home",
     "smartglasses",
@@ -211,7 +220,6 @@
     "transparent secure memory encryption",
     "tsme",
     "tvs",
-    "two-factor authentication",
     "uefi",
     "uncrewed surface vehicles",
     "unifi",
@@ -232,10 +240,71 @@
     "worm",
     "worms",
     "worth reading",
-    "wwdc 2026",
+    "youtube",
+    "youtube tv",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "published": "Wed, 24 Jun 2026 22:28:18 +0000",
+      "published_parsed": "2026-06-24T22:28:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
+      "tags": [
+        "ai",
+        "broadcom",
+        "chatgpt",
+        "codex",
+        "compute",
+        "data centers",
+        "inference",
+        "jalapeño",
+        "llm",
+        "openai",
+        "silicon",
+        "tech"
+      ]
+    },
+    {
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "published": "Wed, 24 Jun 2026 21:03:34 +0000",
+      "published_parsed": "2026-06-24T21:03:34+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
+      "tags": [
+        "biz & it",
+        "botnets",
+        "cybercrime",
+        "law enforcement",
+        "policy",
+        "ransomware",
+        "scams",
+        "security"
+      ]
+    },
+    {
+      "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+      "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+      "published": "Wed, 24 Jun 2026 20:22:58 +0000",
+      "published_parsed": "2026-06-24T20:22:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN.",
+      "tags": [
+        "directv",
+        "disney",
+        "policy",
+        "streaming",
+        "tech",
+        "youtube",
+        "youtube tv"
+      ]
+    },
     {
       "title": "Anycast-Only Gateways in EVPN Asymmetric IRB",
       "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-only/?utm_source=atom_feed",
@@ -999,23 +1068,6 @@
       ]
     },
     {
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-      "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "published": "Mon, 08 Jun 2026 19:00:30 +0000",
-      "published_parsed": "2026-06-08T19:00:30+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_NewGraph_2x.width-1000.format-webp.png",
-      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-      "tags": [
-        "ai",
-        "gemini 3.5",
-        "generative ai",
-        "google",
-        "google notebooklm",
-        "tech"
-      ]
-    },
-    {
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
       "published": "Mon, 08 Jun 2026 18:34:23 +0000",
@@ -1030,22 +1082,6 @@
         "microsoft",
         "security",
         "worms"
-      ]
-    },
-    {
-      "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
-      "link": "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
-      "published": "Mon, 08 Jun 2026 18:07:13 +0000",
-      "published_parsed": "2026-06-08T18:07:13+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple's OSes come with Liquid Glass tweaks and performance optimizations.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "macos",
-        "tech",
-        "wwdc 2026"
       ]
     },
     {
@@ -1118,25 +1154,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-      "published": "Wed, 03 Jun 2026 19:53:14 +0000",
-      "published_parsed": "2026-06-03T19:53:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-      "tags": [
-        "2fa",
-        "biz & it",
-        "dashlane",
-        "mfa",
-        "multi factor authentication",
-        "password managers",
-        "security",
-        "two-factor authentication"
       ]
     },
     {
