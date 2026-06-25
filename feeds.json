@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T10:15:59.091661+00:00",
+  "last_updated": "2026-06-25T16:27:29.958245+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -17,6 +17,7 @@
     "acurite",
     "aerial surveillance",
     "ai",
+    "ai data centers",
     "aiops",
     "amd",
     "android",
@@ -28,6 +29,7 @@
     "apple silicon",
     "apps",
     "arp",
+    "artificial intelligence",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -48,6 +50,10 @@
     "change management",
     "chatgpt",
     "chinese",
+    "chip fab",
+    "chip fabrication",
+    "chip technology",
+    "chips",
     "close encounters of the unwanted kind",
     "cloud",
     "codex",
@@ -101,13 +107,12 @@
     "high availability",
     "history",
     "homelab",
+    "ibm",
     "inference",
     "intel",
     "intel macs",
     "internet",
-    "ios 27",
     "ip routing",
-    "ipados 27",
     "ipv6",
     "iran",
     "is-is",
@@ -217,6 +222,7 @@
     "tips",
     "traffic engineering",
     "training",
+    "transistors",
     "transparent secure memory encryption",
     "tsme",
     "tvs",
@@ -245,6 +251,27 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "published": "Thu, 25 Jun 2026 10:00:55 +0000",
+      "published_parsed": "2026-06-25T10:00:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "artificial intelligence",
+        "chip fab",
+        "chip fabrication",
+        "chip technology",
+        "chips",
+        "ibm",
+        "tech",
+        "transistors"
+      ]
+    },
     {
       "title": "Worth Reading: Appearing Productive in The Workplace",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-workplace-ai-slop/?utm_source=atom_feed",
@@ -1063,21 +1090,6 @@
         "apple",
         "macos 27",
         "macos 27 golden gate",
-        "tech"
-      ]
-    },
-    {
-      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
-      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-      "published": "Mon, 08 Jun 2026 20:55:58 +0000",
-      "published_parsed": "2026-06-08T20:55:58+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-11.57.43-AM-1024x853.png",
-      "summary": "This promises to be a solid release for aging iPhones.",
-      "tags": [
-        "apple",
-        "ios 27",
-        "ipados 27",
         "tech"
       ]
     },
