@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T05:06:41.373694+00:00",
-  "article_count": 119,
+  "last_updated": "2026-06-25T10:15:59.091661+00:00",
+  "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -245,6 +245,20 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Appearing Productive in The Workplace",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-workplace-ai-slop/?utm_source=atom_feed",
+      "published": "2026-06-25T07:25:00+02:00",
+      "published_parsed": "2026-06-25T07:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The Appearing Productive in The Workplace article I stumbled upon is yet another masterful description of how AI slop, used by Expert Beginners, wastes everyone’s time and energy. Try to have fun reading it, even though it may be way too close to the mark.",
+      "tags": [
+        "ai",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
       "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
