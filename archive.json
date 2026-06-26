@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-06-25T20:04:13.792007+00:00",
-  "article_count": 1935,
+  "last_updated": "2026-06-26T00:12:02.376799+00:00",
+  "article_count": 1936,
   "articles": [
+    {
+      "title": "Microsoft adds another year to Windows 10 extended update program",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "published": "Thu, 25 Jun 2026 20:24:09 +0000",
+      "published_parsed": "2026-06-25T20:24:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
+      "tags": [
+        "microsoft",
+        "tech",
+        "windows 10",
+        "windows 11"
+      ]
+    },
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
