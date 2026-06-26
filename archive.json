@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-26T05:09:55.621009+00:00",
-  "article_count": 1936,
+  "last_updated": "2026-06-26T10:23:50.920113+00:00",
+  "article_count": 1937,
   "articles": [
+    {
+      "title": "Time for Another Summer Break?",
+      "link": "https://blog.ipspace.net/2026/06/summer-break/?utm_source=atom_feed",
+      "published": "2026-06-26T06:08:00+00:00",
+      "published_parsed": "2026-06-26T06:08:00+00:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I can confirm that an old saying is true: the older you are, the faster years pass. Can’t believe it’s time for another summer break. I hope you’ll manage to get away from work, turn off the Internet, and enjoy a few days in your favorite spot with your loved ones! I also promise I won’t be...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft adds another year to Windows 10 extended update program",
       "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
