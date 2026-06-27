@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:52:20.092419+00:00",
+  "last_updated": "2026-06-27T00:10:39.269069+00:00",
   "article_count": 120,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,8 +13,8 @@
   "tags": [
     "aci",
     "acquisition",
-    "acquisitions",
     "acurite",
+    "ads",
     "aerial surveillance",
     "ai",
     "ai data centers",
@@ -24,7 +24,7 @@
     "android 17",
     "ansible",
     "anthropic claude",
-    "apache helicopter",
+    "app stores",
     "apple",
     "apple silicon",
     "apps",
@@ -46,6 +46,7 @@
     "breaches",
     "bridging",
     "broadcom",
+    "california",
     "certifications",
     "change management",
     "chatgpt",
@@ -54,7 +55,6 @@
     "chip fabrication",
     "chip technology",
     "chips",
-    "close encounters of the unwanted kind",
     "cloud",
     "codex",
     "commercial drones",
@@ -81,7 +81,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "donald trump iran war",
     "drones",
     "eavesdropping",
     "eigrp",
@@ -107,13 +106,13 @@
     "history",
     "homelab",
     "ibm",
+    "illinois",
     "inference",
     "intel",
     "intel macs",
     "internet",
     "ip routing",
     "ipv6",
-    "iran",
     "is-is",
     "jalapeño",
     "job losses",
@@ -135,7 +134,6 @@
     "malware",
     "mergers",
     "microsoft",
-    "military drones",
     "mouse",
     "mpls",
     "mpls vpn",
@@ -171,8 +169,6 @@
     "overlay networks",
     "palo alto",
     "parameter to prompt injection",
-    "paramount",
-    "paramount skydance",
     "passwords",
     "peoplesoft",
     "podcast",
@@ -185,6 +181,7 @@
     "ransomware",
     "remote code execution",
     "roku",
+    "russia",
     "ryzen",
     "san",
     "scams",
@@ -221,8 +218,6 @@
     "tvs",
     "uefi",
     "unifi",
-    "us military",
-    "usa-iran war",
     "video",
     "virtualization",
     "vmware",
@@ -230,7 +225,6 @@
     "vulnerabilities",
     "vxlan",
     "wan",
-    "warner bros. discovery",
     "wear os",
     "weather",
     "windows 10",
@@ -244,6 +238,39 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "published": "Fri, 26 Jun 2026 21:12:07 +0000",
+      "published_parsed": "2026-06-26T21:12:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
+      "tags": [
+        "ads",
+        "california",
+        "illinois",
+        "policy",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "published": "Fri, 26 Jun 2026 20:58:02 +0000",
+      "published_parsed": "2026-06-26T20:58:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
+      "tags": [
+        "android",
+        "app stores",
+        "apple",
+        "russia",
+        "tech"
+      ]
+    },
     {
       "title": "Netflix now requires every user profile to be tied to unique email address",
       "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
@@ -981,26 +1008,6 @@
       ]
     },
     {
-      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
-      "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
-      "published": "Wed, 10 Jun 2026 17:04:47 +0000",
-      "published_parsed": "2026-06-10T17:04:47+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
-      "tags": [
-        "apache helicopter",
-        "close encounters of the unwanted kind",
-        "donald trump iran war",
-        "drones",
-        "iran",
-        "military drones",
-        "tech",
-        "us military",
-        "usa-iran war"
-      ]
-    },
-    {
       "title": "Goodbye, Leaf-and-Spine Networks?",
       "link": "https://blog.ipspace.net/2026/06/goodbye-leaf-spine-networks/?utm_source=atom_feed",
       "published": "2026-06-10T07:42:00+02:00",
@@ -1028,26 +1035,6 @@
         "nightmare eclipse",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
-      "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
-      "published": "Tue, 09 Jun 2026 20:15:45 +0000",
-      "published_parsed": "2026-06-09T20:15:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Netflix's response: \"Absurd.\"",
-      "tags": [
-        "acquisitions",
-        "mergers",
-        "netflix",
-        "paramount",
-        "paramount skydance",
-        "policy",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {

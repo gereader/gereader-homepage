@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-06-26T19:52:20.072369+00:00",
-  "article_count": 1938,
+  "last_updated": "2026-06-27T00:10:39.243151+00:00",
+  "article_count": 1940,
   "articles": [
+    {
+      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "published": "Fri, 26 Jun 2026 21:12:07 +0000",
+      "published_parsed": "2026-06-26T21:12:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
+      "tags": [
+        "ads",
+        "california",
+        "illinois",
+        "policy",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "published": "Fri, 26 Jun 2026 20:58:02 +0000",
+      "published_parsed": "2026-06-26T20:58:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
+      "tags": [
+        "android",
+        "app stores",
+        "apple",
+        "russia",
+        "tech"
+      ]
+    },
     {
       "title": "Netflix now requires every user profile to be tied to unique email address",
       "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
