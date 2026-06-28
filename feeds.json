@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T05:18:40.070816+00:00",
-  "article_count": 120,
+  "last_updated": "2026-06-28T10:00:58.821317+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1969,19 +1969,6 @@
       "summary": "TL&DR: With the recent changes to online BGP labs , you can also use Aruba CX, Cisco IOS, Cisco IOS XE, Cisco IOS XR, Dell OS10, Junos, or VyOS as external lab devices in most lab exercises (you could always use these devices for the routers you worked on). Previously, you could choose between...",
       "tags": [
         "bgp",
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Changing Interfaces Connected to netlab Links",
-      "link": "https://blog.ipspace.net/2026/03/netlab-ifindex/?utm_source=atom_feed",
-      "published": "2026-03-30T07:27:00+02:00",
-      "published_parsed": "2026-03-30T07:27:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Some netlab users want to accurately replicate their physical network’s topology in a virtual lab. Ignoring the obvious caveats for a moment, the first hiccup is usually the interface naming. All bets are off if you’re using anything but Ethernet in your actual network, but even if you did...",
-      "tags": [
         "netlab",
         "networking"
       ]
