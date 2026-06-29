@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T00:11:18.822325+00:00",
+  "last_updated": "2026-06-29T05:52:22.073001+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -238,6 +238,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Getting Started with netlab @ Cisco DevNet",
+      "link": "https://blog.ipspace.net/2026/06/worth-reading-cisco-devnet-netlab-intro/?utm_source=atom_feed",
+      "published": "2026-06-29T07:23:00+02:00",
+      "published_parsed": "2026-06-29T07:23:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Cisco DevNet channel has published an hour-long Getting Started with netlab interview with Suresh Vina , resulting in netlab.tools documentation having more weekly visits than ipspace.net blog for the first time. Thanks a million ;)) If you’re new to netlab , I hope you’ll enjoy the video. If you...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
       "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
@@ -1957,20 +1970,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "BGP Labs: Use Your Preferred Device for External Routers",
-      "link": "https://blog.ipspace.net/2026/03/bgp-labs-device-flexibility/?utm_source=atom_feed",
-      "published": "2026-03-31T07:34:00+02:00",
-      "published_parsed": "2026-03-31T07:34:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "TL&DR: With the recent changes to online BGP labs , you can also use Aruba CX, Cisco IOS, Cisco IOS XE, Cisco IOS XR, Dell OS10, Junos, or VyOS as external lab devices in most lab exercises (you could always use these devices for the routers you worked on). Previously, you could choose between...",
-      "tags": [
-        "bgp",
-        "netlab",
-        "networking"
       ]
     }
   ]
