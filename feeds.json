@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T16:53:04.216315+00:00",
+  "last_updated": "2026-06-29T20:01:07.398083+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,7 +13,6 @@
   "tags": [
     "aci",
     "acquisition",
-    "acurite",
     "ads",
     "aerial surveillance",
     "ai",
@@ -35,7 +34,6 @@
     "aws",
     "azure",
     "beats studio buds",
-    "bethesda software",
     "bgp",
     "biz & it",
     "blog",
@@ -87,6 +85,7 @@
     "email",
     "email client",
     "encryption",
+    "europe",
     "evpn",
     "fabric",
     "features",
@@ -128,9 +127,6 @@
     "load balancing",
     "lockheed martin",
     "macbook air",
-    "macos",
-    "macos 27",
-    "macos 27 golden gate",
     "malware",
     "mergers",
     "microsoft",
@@ -171,9 +167,11 @@
     "parameter to prompt injection",
     "passwords",
     "peoplesoft",
+    "playstation",
     "podcast",
     "police",
     "policy",
+    "privacy",
     "processors",
     "python",
     "qos",
@@ -201,6 +199,7 @@
     "software gone wild",
     "sonic boom",
     "sonic booms",
+    "sony",
     "spacex",
     "spacex ipo",
     "sr-mpls",
@@ -230,7 +229,6 @@
     "vxlan",
     "wan",
     "wear os",
-    "weather",
     "windows 10",
     "windows 11",
     "world cup",
@@ -244,6 +242,36 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "published": "Mon, 29 Jun 2026 19:10:57 +0000",
+      "published_parsed": "2026-06-29T19:10:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sony has been scaling down its digitial store for a few years.",
+      "tags": [
+        "playstation",
+        "sony",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "published": "Mon, 29 Jun 2026 18:21:31 +0000",
+      "published_parsed": "2026-06-29T18:21:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+      "tags": [
+        "europe",
+        "google",
+        "privacy",
+        "tech"
+      ]
+    },
     {
       "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
       "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
@@ -985,39 +1013,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
-      "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-      "published": "Thu, 11 Jun 2026 19:08:54 +0000",
-      "published_parsed": "2026-06-11T19:08:54+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The old app \"still needs to be retired,\" AcuRite tells us.",
-      "tags": [
-        "acurite",
-        "bethesda software",
-        "smart home",
-        "tech",
-        "weather"
-      ]
-    },
-    {
-      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-      "link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-      "published": "Thu, 11 Jun 2026 11:00:32 +0000",
-      "published_parsed": "2026-06-11T11:00:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements.",
-      "tags": [
-        "apple",
-        "features",
-        "macos",
-        "macos 27",
-        "macos 27 golden gate",
-        "tech"
       ]
     },
     {

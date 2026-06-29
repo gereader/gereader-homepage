@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-29T16:53:04.190729+00:00",
-  "article_count": 1942,
+  "last_updated": "2026-06-29T20:01:07.371649+00:00",
+  "article_count": 1944,
   "articles": [
+    {
+      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "published": "Mon, 29 Jun 2026 19:10:57 +0000",
+      "published_parsed": "2026-06-29T19:10:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Sony has been scaling down its digitial store for a few years.",
+      "tags": [
+        "playstation",
+        "sony",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "published": "Mon, 29 Jun 2026 18:21:31 +0000",
+      "published_parsed": "2026-06-29T18:21:31+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+      "tags": [
+        "europe",
+        "google",
+        "privacy",
+        "tech"
+      ]
+    },
     {
       "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
       "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
