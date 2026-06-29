@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-06-29T12:01:02.008777+00:00",
-  "article_count": 1941,
+  "last_updated": "2026-06-29T16:53:04.190729+00:00",
+  "article_count": 1942,
   "articles": [
+    {
+      "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
+      "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
+      "published": "Mon, 29 Jun 2026 10:30:36 +0000",
+      "published_parsed": "2026-06-29T10:30:36+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "NASA’s quiet supersonic flight tests could eventually go on a national tour.",
+      "tags": [
+        "features",
+        "lockheed martin",
+        "nasa",
+        "sonic boom",
+        "sonic booms",
+        "supersonic flight",
+        "supersonic travel",
+        "tech",
+        "x-59",
+        "x-plane"
+      ]
+    },
     {
       "title": "Getting Started with netlab @ Cisco DevNet",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-cisco-devnet-netlab-intro/?utm_source=atom_feed",
