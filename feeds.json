@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T05:05:59.316860+00:00",
-  "article_count": 119,
+  "last_updated": "2026-06-30T10:32:17.709108+00:00",
+  "article_count": 118,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1967,20 +1967,6 @@
       "tags": [
         "automation",
         "networking"
-      ]
-    },
-    {
-      "title": "Every Layer of Review Makes You 10x Slower",
-      "link": "https://blog.ipspace.net/2026/04/worth-reading-reviews-are-slowing-you/?utm_source=atom_feed",
-      "published": "2026-04-01T08:25:00+02:00",
-      "published_parsed": "2026-04-01T08:25:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Avery Pennarun published yet another excellent article: every layer of review makes you 10x slower , effectively reiterating what I’ve been saying for decades : all the technology in the world won’t help you unless you re-architect the broken processes. AI is no exception, but of course, the AI...",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
       ]
     }
   ]
