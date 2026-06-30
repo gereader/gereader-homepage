@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T20:01:07.398083+00:00",
+  "last_updated": "2026-06-30T00:06:31.540548+00:00",
   "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
@@ -99,7 +99,6 @@
     "google",
     "google home",
     "gre",
-    "hacking",
     "hewlett packard enterprise",
     "high availability",
     "history",
@@ -167,6 +166,7 @@
     "parameter to prompt injection",
     "passwords",
     "peoplesoft",
+    "phishing",
     "playstation",
     "podcast",
     "police",
@@ -177,9 +177,9 @@
     "qos",
     "quantum computing",
     "ransomware",
-    "remote code execution",
     "roku",
     "russia",
+    "russia state",
     "ryzen",
     "san",
     "scams",
@@ -189,6 +189,7 @@
     "security",
     "service providers",
     "shinyhunters",
+    "signal messenger",
     "silicon",
     "skiff",
     "smart home",
@@ -229,6 +230,7 @@
     "vxlan",
     "wan",
     "wear os",
+    "whatsapp",
     "windows 10",
     "windows 11",
     "world cup",
@@ -242,6 +244,23 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "published": "Mon, 29 Jun 2026 22:05:33 +0000",
+      "published_parsed": "2026-06-29T22:05:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/messenger-account-hack-techniques-300x300.webp",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+      "tags": [
+        "biz & it",
+        "phishing",
+        "russia state",
+        "security",
+        "signal messenger",
+        "whatsapp"
+      ]
+    },
     {
       "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
       "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
@@ -1128,22 +1147,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "How a USB-connected speaker can infect a PC without ever being touched",
-      "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-      "published": "Fri, 05 Jun 2026 21:00:29 +0000",
-      "published_parsed": "2026-06-05T21:00:29+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
-      "tags": [
-        "biz & it",
-        "bluetooth",
-        "hacking",
-        "remote code execution",
-        "security"
       ]
     },
     {
