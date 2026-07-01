@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T20:01:50.808507+00:00",
-  "article_count": 118,
+  "last_updated": "2026-07-01T00:08:02.473922+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -12,12 +12,13 @@
   ],
   "tags": [
     "aci",
-    "acquisition",
     "ads",
     "aerial surveillance",
     "ai",
     "ai data centers",
     "aiops",
+    "amazon",
+    "amazon alexa",
     "amd",
     "android",
     "android 17",
@@ -25,7 +26,6 @@
     "anthropic claude",
     "app stores",
     "apple",
-    "apple silicon",
     "apps",
     "arp",
     "artificial intelligence",
@@ -44,6 +44,7 @@
     "breaches",
     "bridging",
     "broadcom",
+    "browsers",
     "california",
     "certifications",
     "change management",
@@ -92,10 +93,9 @@
     "firewall",
     "firewalls",
     "fortinet",
-    "fox",
     "gemini",
     "general",
-    "github",
+    "gifs",
     "google",
     "google home",
     "gre",
@@ -106,12 +106,11 @@
     "ibm",
     "illinois",
     "inference",
-    "intel",
-    "intel macs",
     "internet",
     "ip routing",
     "ipv6",
     "is-is",
+    "jailbreaks",
     "jalapeño",
     "job losses",
     "kernel",
@@ -125,9 +124,7 @@
     "llms",
     "load balancing",
     "lockheed martin",
-    "macbook air",
     "malware",
-    "mergers",
     "microsoft",
     "mpls",
     "mpls vpn",
@@ -177,7 +174,7 @@
     "qos",
     "quantum computing",
     "ransomware",
-    "roku",
+    "reddit",
     "russia",
     "russia state",
     "ryzen",
@@ -196,6 +193,7 @@
     "smartphone",
     "smartphones",
     "snmp",
+    "social media",
     "software",
     "software gone wild",
     "sonic boom",
@@ -219,7 +217,6 @@
     "transistors",
     "transparent secure memory encryption",
     "tsme",
-    "tvs",
     "uefi",
     "unifi",
     "video",
@@ -233,9 +230,7 @@
     "whatsapp",
     "windows 10",
     "windows 11",
-    "world cup",
     "worm",
-    "worms",
     "worth reading",
     "x-59",
     "x-plane",
@@ -244,6 +239,92 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Reddit will require you to log in to use old.reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+      "published": "Tue, 30 Jun 2026 21:46:35 +0000",
+      "published_parsed": "2026-06-30T21:46:35+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
+      "tags": [
+        "policy",
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
+    {
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+      "published": "Tue, 30 Jun 2026 21:04:53 +0000",
+      "published_parsed": "2026-06-30T21:04:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
+      "tags": [
+        "amazon",
+        "amazon alexa",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+      "published": "Tue, 30 Jun 2026 20:38:51 +0000",
+      "published_parsed": "2026-06-30T20:38:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
+      "tags": [
+        "gifs",
+        "google",
+        "tech"
+      ]
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "published": "Tue, 30 Jun 2026 20:03:14 +0000",
+      "published_parsed": "2026-06-30T20:03:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "browsers",
+        "jailbreaks",
+        "llms",
+        "security"
+      ]
+    },
+    {
+      "title": "The Substitution Decision: How Agentic NetOps Changes What You Need From Your Network Team",
+      "link": "https://www.netbrain.com/blog/agentic-netops-and-your-network-team/",
+      "published": "2026-06-30T16:18:18Z",
+      "published_parsed": "2026-06-30T16:18:18+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "The best teams at the 2026 World Cup won’t be the ones with the most stars. They’ll be the ones with the best depth and support strategy. Great teams win...",
+      "tags": [
+        "company news",
+        "networking"
+      ]
+    },
+    {
+      "title": "5 Billion Eyes: What the World Cup&#8217;s Network Teams Know About Zero-Outage Operations",
+      "link": "https://www.netbrain.com/blog/zero-outage-operations/",
+      "published": "2026-06-30T15:53:31Z",
+      "published_parsed": "2026-06-30T15:53:31+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "The most important NOC at the 2026 FIFA World Cup won’t make the broadcast. No feature story. If everything goes right, no one will know it existed at all. That’s...",
+      "tags": [
+        "company news",
+        "networking"
+      ]
+    },
     {
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
       "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
@@ -921,24 +1002,6 @@
       ]
     },
     {
-      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-      "published": "Mon, 15 Jun 2026 18:29:47 +0000",
-      "published_parsed": "2026-06-15T18:29:47+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
-      "tags": [
-        "acquisition",
-        "fox",
-        "mergers",
-        "roku",
-        "streaming",
-        "tech",
-        "tvs"
-      ]
-    },
-    {
       "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
       "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
       "published": "Mon, 15 Jun 2026 17:55:46 +0000",
@@ -954,24 +1017,6 @@
         "security",
         "transparent secure memory encryption",
         "tsme"
-      ]
-    },
-    {
-      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-      "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-      "published": "Mon, 15 Jun 2026 16:32:14 +0000",
-      "published_parsed": "2026-06-15T16:32:14+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "features",
-        "intel",
-        "intel macs",
-        "macbook air",
-        "tech"
       ]
     },
     {
@@ -1003,20 +1048,6 @@
         "security",
         "shinyhunters",
         "zerodays"
-      ]
-    },
-    {
-      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
-      "link": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
-      "published": "Fri, 12 Jun 2026 11:45:18 +0000",
-      "published_parsed": "2026-06-12T11:45:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "This World Cup, refs will use digital twins of each player to view plays from every angle.",
-      "tags": [
-        "syndication",
-        "tech",
-        "world cup"
       ]
     },
     {
@@ -1117,23 +1148,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-      "published": "Mon, 08 Jun 2026 18:34:23 +0000",
-      "published_parsed": "2026-06-08T18:34:23+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "github",
-        "microsoft",
-        "security",
-        "worms"
       ]
     },
     {
@@ -1939,20 +1953,6 @@
       "tags": [
         "aiops",
         "network security",
-        "networking"
-      ]
-    },
-    {
-      "title": "Approaching Observability in a Multi-Cloud Environment",
-      "link": "https://www.netbrain.com/blog/approaching-observability-in-multicloud-environments/",
-      "published": "2026-04-02T20:21:37Z",
-      "published_parsed": "2026-04-02T20:21:37+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Using multicloud environments enables workloads to run across multiple networks and systems, offering flexibility and resilience. However, these layers introduce operational complexity. When telemetry comes from multiple sources, it creates...",
-      "tags": [
-        "network observability",
-        "network visibility",
         "networking"
       ]
     },
