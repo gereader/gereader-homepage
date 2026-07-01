@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-01T16:27:21.862028+00:00",
-  "article_count": 1952,
+  "last_updated": "2026-07-01T19:59:42.857965+00:00",
+  "article_count": 1953,
   "articles": [
+    {
+      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
+      "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
+      "published": "Wed, 01 Jul 2026 18:41:49 +0000",
+      "published_parsed": "2026-07-01T18:41:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "“We will own nothing, it's truly sad.”",
+      "tags": [
+        "gaming",
+        "playstation",
+        "sony",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Checking: EVPN Centralized Anycast Gateway",
       "link": "https://blog.ipspace.net/2026/07/worth-reading-evpn-centralized-anycast-gw/?utm_source=atom_feed",
