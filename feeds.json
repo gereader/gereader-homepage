@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T05:23:16.817881+00:00",
-  "article_count": 120,
+  "last_updated": "2026-07-01T10:43:19.795717+00:00",
+  "article_count": 119,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1966,19 +1966,6 @@
       "tags": [
         "aiops",
         "network security",
-        "networking"
-      ]
-    },
-    {
-      "title": "SR Linux Configuration Conversion Tool",
-      "link": "https://blog.ipspace.net/2026/04/srlinux-config-conversion/?utm_source=atom_feed",
-      "published": "2026-04-02T08:35:00+02:00",
-      "published_parsed": "2026-04-02T08:35:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A year ago, I was complaining about SR Linux breaking its configuration data model with a new software release . At that time, I was promised it would only happen once a year, and, like clockwork, that moment arrived with the SR Linux release 26.03. However, this year Miguel Redondo fixed the...",
-      "tags": [
-        "automation",
         "networking"
       ]
     }
