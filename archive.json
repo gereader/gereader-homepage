@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-01T19:59:42.857965+00:00",
-  "article_count": 1953,
+  "last_updated": "2026-07-02T00:10:45.881331+00:00",
+  "article_count": 1954,
   "articles": [
+    {
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "published": "Wed, 01 Jul 2026 21:21:21 +0000",
+      "published_parsed": "2026-07-01T21:21:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "lawsuit",
+        "t-mobile",
+        "vmware"
+      ]
+    },
     {
       "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
       "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",

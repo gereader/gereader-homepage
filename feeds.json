@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T19:59:42.883793+00:00",
-  "article_count": 119,
+  "last_updated": "2026-07-02T00:10:45.907283+00:00",
+  "article_count": 116,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -113,12 +113,10 @@
     "jailbreaks",
     "jalapeño",
     "job losses",
-    "kernel",
     "lan",
     "law enforcement",
     "lawsuit",
     "ldp",
-    "linux",
     "lisp",
     "llm",
     "llms",
@@ -208,6 +206,7 @@
     "swat",
     "switching",
     "syndication",
+    "t-mobile",
     "tcp",
     "tech",
     "tips",
@@ -238,6 +237,22 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "published": "Wed, 01 Jul 2026 21:21:21 +0000",
+      "published_parsed": "2026-07-01T21:21:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "lawsuit",
+        "t-mobile",
+        "vmware"
+      ]
+    },
     {
       "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
       "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
@@ -1121,22 +1136,6 @@
       ]
     },
     {
-      "title": "High-severity vulnerability in Linux caused by a single faulty character",
-      "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-      "published": "Tue, 09 Jun 2026 15:12:43 +0000",
-      "published_parsed": "2026-06-09T15:12:43+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
-      "tags": [
-        "biz & it",
-        "kernel",
-        "linux",
-        "security",
-        "vulnerabilities"
-      ]
-    },
-    {
       "title": "Agentic NetOps: The Right Direction, and the Real Work Ahead",
       "link": "https://www.netbrain.com/blog/agentic-netops-the-real-work-ahead/",
       "published": "2026-06-09T11:44:46Z",
@@ -1923,48 +1922,6 @@
       "tags": [
         "is-is",
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "What Is a Self-Healing Network?",
-      "link": "https://www.netbrain.com/blog/what-is-a-self-healing-network/",
-      "published": "2026-04-02T20:33:20Z",
-      "published_parsed": "2026-04-02T20:33:20+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "A self-healing network can automatically detect issues, identify the cause, and take corrective action without waiting for manual intervention. Instead of reacting after users complain or applications fail, self-healing networks...",
-      "tags": [
-        "aiops",
-        "change management",
-        "networking"
-      ]
-    },
-    {
-      "title": "​​How AI Is Used in Network Security",
-      "link": "https://www.netbrain.com/blog/ai-in-network-security/",
-      "published": "2026-04-02T20:28:57Z",
-      "published_parsed": "2026-04-02T20:28:57+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/02-the-3-core-pillars-of-aidriven-network-security-1024x427.jpg",
-      "summary": "Every security leader knows the crushing reality of alert fatigue. The day starts with hundreds or thousands of notifications vying for attention. Security teams are drowning in inefficiencies, where critical...",
-      "tags": [
-        "aiops",
-        "network security",
-        "networking"
-      ]
-    },
-    {
-      "title": "Understanding Agentic AI in the SOC",
-      "link": "https://www.netbrain.com/blog/understanding-agentic-ai-in-soc/",
-      "published": "2026-04-02T20:24:23Z",
-      "published_parsed": "2026-04-02T20:24:23+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/04/02-Why-Security-Leaders-Are-Turning-to-Agentic-SOC.jpg",
-      "summary": "Organizations deploy sophisticated monitoring tools across endpoints, networks, cloud environments, and applications. These platforms generate detailed telemetry, enabling analysts to detect anomalies and investigate suspicious behavior with greater visibility. However,...",
-      "tags": [
-        "aiops",
-        "network security",
         "networking"
       ]
     }
