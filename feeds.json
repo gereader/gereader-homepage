@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T04:59:13.114840+00:00",
-  "article_count": 116,
+  "last_updated": "2026-07-02T10:11:02.426294+00:00",
+  "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1908,20 +1908,6 @@
         "network observability",
         "network security",
         "network visibility",
-        "networking"
-      ]
-    },
-    {
-      "title": "Lab: Summarizing IS-IS Level-1 Routes",
-      "link": "https://blog.ipspace.net/2026/04/isis-summary/?utm_source=atom_feed",
-      "published": "2026-04-03T08:02:00+01:00",
-      "published_parsed": "2026-04-03T08:02:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "IS-IS was designed to carry node addresses (NSAPs) between level-1 routers (called Intermediate Systems ) within an area and area prefixes between level-2 routers, resulting in a perfect separation of concerns and forwarding information summarization. When IETF tried to use the same routing...",
-      "tags": [
-        "is-is",
-        "netlab",
         "networking"
       ]
     }
