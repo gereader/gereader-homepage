@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T10:11:02.426294+00:00",
-  "article_count": 115,
+  "last_updated": "2026-07-02T16:05:44.657904+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1891,24 +1891,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "What Is Network Automation?",
-      "link": "https://www.netbrain.com/blog/what-is-network-automation/",
-      "published": "2026-04-03T13:14:16Z",
-      "published_parsed": "2026-04-03T13:14:16+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "Network automation is the use of software, scripts, and intelligent workflows to efficiently perform network tasks without the need for constant manual input. According to Gartner’s Market Guide for Network Automation Platforms, 67%...",
-      "tags": [
-        "automated troubleshooting",
-        "change management",
-        "network assessment",
-        "network observability",
-        "network security",
-        "network visibility",
-        "networking"
       ]
     }
   ]
