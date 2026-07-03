@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-02T19:28:15.801775+00:00",
-  "article_count": 1957,
+  "last_updated": "2026-07-03T00:08:34.354656+00:00",
+  "article_count": 1958,
   "articles": [
+    {
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "published": "Thu, 02 Jul 2026 19:38:57 +0000",
+      "published_parsed": "2026-07-02T19:38:57+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "infostealers",
+        "macos malware",
+        "security"
+      ]
+    },
     {
       "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
       "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
