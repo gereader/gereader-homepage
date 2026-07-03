@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-03T04:43:42.568422+00:00",
-  "article_count": 1958,
+  "last_updated": "2026-07-03T10:06:12.862026+00:00",
+  "article_count": 1959,
   "articles": [
+    {
+      "title": "How to Dynamically Create MCP Servers with FastMCP",
+      "link": "https://www.packetcoders.io/how-to-dynamically-create-mcp-servers-with-fastmcp-2/",
+      "published": "Fri, 03 Jul 2026 08:00:52 GMT",
+      "published_parsed": "2026-07-03T08:00:52+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/06/Tips-logo.webp",
+      "summary": "MCP has gained a huge amount of popularity. And for good reason, it's easy to use and can allow you to really harness the benefits of LLMs. So here's a quick MCP tip! Dynamically create MCP servers with FastMCP by passing a REST API's",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "Newly discovered PamStealer isn't your typical macOS malware",
       "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
