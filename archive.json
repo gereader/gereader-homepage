@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-06T05:14:16.019649+00:00",
-  "article_count": 1959,
+  "last_updated": "2026-07-06T11:38:18.652073+00:00",
+  "article_count": 1960,
   "articles": [
+    {
+      "title": "Worth Reading: More VXLAN and EVPN Labs",
+      "link": "https://blog.ipspace.net/2026/07/worth-reading-more-vxlan-evpn/?utm_source=atom_feed",
+      "published": "2026-07-06T07:44:00+02:00",
+      "published_parsed": "2026-07-06T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Ali Bahadır Coşkun continued his EVPN/VXLAN journey. Using the free netlab-powered EVPN/VXLAN labs , he finished the basic EVPN/VXLAN lab (adding EVPN control plane to VXLAN underlay), and then completed the whole VXLAN/IRB/anycast saga . Want to do something similar? The free EVPN/VXLAN lab...",
+      "tags": [
+        "networking",
+        "vxlan",
+        "worth reading"
+      ]
+    },
     {
       "title": "How to Dynamically Create MCP Servers with FastMCP",
       "link": "https://www.packetcoders.io/how-to-dynamically-create-mcp-servers-with-fastmcp-2/",

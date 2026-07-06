@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T05:14:16.040205+00:00",
-  "article_count": 115,
+  "last_updated": "2026-07-06T11:38:18.678327+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -236,6 +236,20 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: More VXLAN and EVPN Labs",
+      "link": "https://blog.ipspace.net/2026/07/worth-reading-more-vxlan-evpn/?utm_source=atom_feed",
+      "published": "2026-07-06T07:44:00+02:00",
+      "published_parsed": "2026-07-06T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Ali Bahadır Coşkun continued his EVPN/VXLAN journey. Using the free netlab-powered EVPN/VXLAN labs , he finished the basic EVPN/VXLAN lab (adding EVPN control plane to VXLAN underlay), and then completed the whole VXLAN/IRB/anycast saga . Want to do something similar? The free EVPN/VXLAN lab...",
+      "tags": [
+        "networking",
+        "vxlan",
+        "worth reading"
+      ]
+    },
     {
       "title": "How to Dynamically Create MCP Servers with FastMCP",
       "link": "https://www.packetcoders.io/how-to-dynamically-create-mcp-servers-with-fastmcp-2/",
@@ -1874,33 +1888,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Shameless Guesses, Not Hallucinations",
-      "link": "https://blog.ipspace.net/2026/04/worth-reading-ai-shameless-guesses/?utm_source=atom_feed",
-      "published": "2026-04-07T07:36:00+02:00",
-      "published_parsed": "2026-04-07T07:36:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In a recent article, Scott Alexander made an interesting point: What AI produces are not hallucinations but shameless guesses (also known as bullshit ) because the training process rewards the correct answers but does not penalize the incorrect ones. After all, having an AI model say, “I don’t know...",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "How to Run Python Tools Without Installing Them",
-      "link": "https://www.packetcoders.io/how-to-run-python-tools-without-installing-them/",
-      "published": "Tue, 07 Apr 2026 07:00:59 GMT",
-      "published_parsed": "2026-04-07T07:00:59+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/03/Tips-logo-1.webp",
-      "summary": "Use uvx to run development tools without adding them to your project dependencies. uvx runs each tool in an isolated, cached environment, keeping your pyproject.toml clean and focused on actual dependencies. Here's an example: # uvx (alias for uv run tool) # Format and lint code without modifying...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
