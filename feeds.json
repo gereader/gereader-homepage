@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T04:54:03.426465+00:00",
-  "article_count": 114,
+  "last_updated": "2026-07-07T10:26:56.125531+00:00",
+  "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1872,19 +1872,6 @@
       "image": "https://blog.ipspace.net/2026/04/containers.png",
       "summary": "While according to the GIFEE True Believers™, Docker is dead and Kubernetes rules the world, people who want to have a bit of life might be perfectly happy running “obsolete” stuff like Docker on their laptops or Linux VMs. If you happen to be one of the latter, you might like the Introduction to...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Interoperability of EVPN/VXLAN with IPv6 Next Hops",
-      "link": "https://blog.ipspace.net/2026/04/frr-evpn-ipv6-pmsi/?utm_source=atom_feed",
-      "published": "2026-04-08T08:19:00+02:00",
-      "published_parsed": "2026-04-08T08:19:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "FRRouting release 10.6 promised “ BGP IPv6 VTEP support ,” claiming “ it enables EVPN deployments using IPv6 tunnel endpoints while maintaining full backward compatibility with IPv4 VTEPs .” Of course, I had to try it out, and since we already have EVPN over IPv6 running on Arista EOS (since netlab...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
