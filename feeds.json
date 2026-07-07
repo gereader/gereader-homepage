@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T16:32:35.848851+00:00",
+  "last_updated": "2026-07-07T19:58:39.515884+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -56,7 +56,6 @@
     "chips",
     "cloud",
     "codex",
-    "commercial drones",
     "company news",
     "compute",
     "containers",
@@ -71,8 +70,6 @@
     "data centers",
     "design",
     "dhcp",
-    "directv",
-    "disney",
     "dmvpn",
     "dns",
     "docker",
@@ -161,10 +158,11 @@
     "passwords",
     "peoplesoft",
     "phishing",
+    "pixel 11",
+    "pixel watch 5",
     "playstation",
     "plex",
     "podcast",
-    "police",
     "policy",
     "privacy",
     "processors",
@@ -187,6 +185,7 @@
     "signal messenger",
     "silicon",
     "skiff",
+    "smartphones",
     "snmp",
     "social media",
     "software",
@@ -202,12 +201,12 @@
     "supersonic boom",
     "supersonic flight",
     "supersonic travel",
-    "swat",
     "switching",
     "syndication",
     "t-mobile",
     "tcp",
     "tech",
+    "the weather channel",
     "tips",
     "traffic engineering",
     "training",
@@ -223,6 +222,7 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "weather",
     "whatsapp",
     "windows 10",
     "windows 11",
@@ -230,11 +230,41 @@
     "worth reading",
     "x-59",
     "x-plane",
-    "youtube",
-    "youtube tv",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+      "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+      "published": "Tue, 07 Jul 2026 19:08:34 +0000",
+      "published_parsed": "2026-07-07T19:08:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
+      "tags": [
+        "android",
+        "google",
+        "pixel 11",
+        "pixel watch 5",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Weather Channel increases streaming subscription prices by up to $20",
+      "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+      "published": "Tue, 07 Jul 2026 18:29:24 +0000",
+      "published_parsed": "2026-07-07T18:29:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Livestreaming the channel through its app now starts at $5 per month.",
+      "tags": [
+        "streaming",
+        "tech",
+        "the weather channel",
+        "weather"
+      ]
+    },
     {
       "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
       "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
@@ -727,24 +757,6 @@
       ]
     },
     {
-      "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
-      "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
-      "published": "Wed, 24 Jun 2026 20:22:58 +0000",
-      "published_parsed": "2026-06-24T20:22:58+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN.",
-      "tags": [
-        "directv",
-        "disney",
-        "policy",
-        "streaming",
-        "tech",
-        "youtube",
-        "youtube tv"
-      ]
-    },
-    {
       "title": "Anycast-Only Gateways in EVPN Asymmetric IRB",
       "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-only/?utm_source=atom_feed",
       "published": "2026-06-24T08:19:00+02:00",
@@ -772,24 +784,6 @@
         "policy",
         "quantum computing",
         "security"
-      ]
-    },
-    {
-      "title": "Odd police video shows drone removing knife from motionless suspect",
-      "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
-      "published": "Tue, 23 Jun 2026 20:43:42 +0000",
-      "published_parsed": "2026-06-23T20:43:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Promo video comes as more US police departments fly drones as first responders.",
-      "tags": [
-        "aerial surveillance",
-        "commercial drones",
-        "drones",
-        "law enforcement",
-        "police",
-        "swat",
-        "tech"
       ]
     },
     {
