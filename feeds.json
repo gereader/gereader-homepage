@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T04:15:35.920187+00:00",
-  "article_count": 113,
+  "last_updated": "2026-07-08T09:26:00.125469+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -93,6 +93,7 @@
     "gifs",
     "google",
     "gre",
+    "hallucinations",
     "hewlett packard enterprise",
     "high availability",
     "history",
@@ -156,7 +157,6 @@
     "palo alto",
     "parameter to prompt injection",
     "passwords",
-    "peoplesoft",
     "phishing",
     "pixel 11",
     "pixel watch 5",
@@ -181,7 +181,6 @@
     "secure boot",
     "security",
     "service providers",
-    "shinyhunters",
     "signal messenger",
     "silicon",
     "skiff",
@@ -213,6 +212,7 @@
     "transistors",
     "transparent secure memory encryption",
     "tsme",
+    "typosquatting",
     "uefi",
     "unifi",
     "video",
@@ -229,10 +229,39 @@
     "worm",
     "worth reading",
     "x-59",
-    "x-plane",
-    "zerodays"
+    "x-plane"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Scripting Good Practices in Python",
+      "link": "https://blog.ipspace.net/2026/07/worth-reading-python-good-practices/?utm_source=atom_feed",
+      "published": "2026-07-08T07:28:00+02:00",
+      "published_parsed": "2026-07-08T07:28:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Just in case you decide to build a simple Python project over the summer: read scripting good practices in Python by Brett Cannon and tell your AI friend to adhere to them ;)",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "published": "Wed, 08 Jul 2026 07:00:51 +0000",
+      "published_parsed": "2026-07-08T07:00:51+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "tags": [
+        "ai",
+        "biz & it",
+        "hallucinations",
+        "llms",
+        "security",
+        "typosquatting"
+      ]
+    },
     {
       "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
       "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
@@ -1090,23 +1119,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "published": "Fri, 12 Jun 2026 19:26:47 +0000",
-      "published_parsed": "2026-06-12T19:26:47+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-      "tags": [
-        "biz & it",
-        "oracle",
-        "peoplesoft",
-        "security",
-        "shinyhunters",
-        "zerodays"
       ]
     },
     {
