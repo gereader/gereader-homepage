@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-07-08T19:36:04.924899+00:00",
-  "article_count": 1969,
+  "last_updated": "2026-07-09T00:13:00.777080+00:00",
+  "article_count": 1971,
   "articles": [
+    {
+      "title": "2026 NAF Advisory Board Updates",
+      "link": "https://networkautomation.forum/blog/2026-naf-advisory-board-updates",
+      "published": "Wed, 08 Jul 2026 20:53:25 +0000",
+      "published_parsed": "2026-07-08T20:53:25+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "NAF is seeking applications for the next class of its Advisory Board (AB). We are looking for committed individuals to fill six AB positions who can bring fresh insights and active participation to help guide AutoCon content and the future of NAF.",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "published": "Wed, 08 Jul 2026 19:01:19 +0000",
+      "published_parsed": "2026-07-08T19:01:19+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "linux",
+        "local privilege escalation",
+        "security",
+        "vulnerabilities"
+      ]
+    },
     {
       "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
       "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
