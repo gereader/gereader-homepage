@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T10:36:06.926603+00:00",
-  "article_count": 114,
+  "last_updated": "2026-07-09T16:28:28.681378+00:00",
+  "article_count": 115,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -230,6 +230,19 @@
     "x-plane"
   ],
   "articles": [
+    {
+      "title": "netlab: 2000 Pull Requests Later ;))",
+      "link": "https://blog.ipspace.net/2026/07/netlab-2000-pr/?utm_source=atom_feed",
+      "published": "2026-07-09T12:29:00+02:00",
+      "published_parsed": "2026-07-09T12:29:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/07/netlab-2000-pr.jpg",
+      "summary": "Jeroen van Bemmel noticed an interesting fact yesterday evening: the netlab GitHub repository has 2000 merged/closed pull requests . I never expected the tiny “ let’s learn Python while working around the complexities of Vagrantfile ” project to get this far ;)) Thanks a million to everyone who...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "2026 NAF Advisory Board Updates",
       "link": "https://networkautomation.forum/blog/2026-naf-advisory-board-updates",
