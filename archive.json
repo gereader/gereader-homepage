@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-10T16:26:05.273136+00:00",
-  "article_count": 1974,
+  "last_updated": "2026-07-10T19:36:23.359140+00:00",
+  "article_count": 1975,
   "articles": [
+    {
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+      "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "published": "Fri, 10 Jul 2026 16:36:09 +0000",
+      "published_parsed": "2026-07-10T16:36:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Affected users will have to configure their lights and settings all over again.",
+      "tags": [
+        "phillips hue",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
       "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",

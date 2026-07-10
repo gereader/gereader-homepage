@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T16:26:05.299437+00:00",
-  "article_count": 115,
+  "last_updated": "2026-07-10T19:36:23.384498+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -147,6 +147,7 @@
     "overlay networks",
     "palo alto",
     "passwords",
+    "phillips hue",
     "phishing",
     "phoenix tailings",
     "pixel 11",
@@ -175,6 +176,7 @@
     "service providers",
     "signal messenger",
     "skiff",
+    "smart home",
     "smartphones",
     "snmp",
     "social media",
@@ -217,8 +219,6 @@
     "wan",
     "weather",
     "whatsapp",
-    "windows 10",
-    "windows 11",
     "windows defender",
     "worm",
     "worth reading",
@@ -227,6 +227,20 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+      "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "published": "Fri, 10 Jul 2026 16:36:09 +0000",
+      "published_parsed": "2026-07-10T16:36:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Affected users will have to configure their lights and settings all over again.",
+      "tags": [
+        "phillips hue",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
       "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
@@ -814,21 +828,6 @@
       "summary": "I can confirm that an old saying is true: the older you are, the faster years pass. Can’t believe it’s time for another summer break. I hope you’ll manage to get away from work, turn off the Internet, and enjoy a few days in your favorite spot with your loved ones! I also promise I won’t be...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Microsoft adds another year to Windows 10 extended update program",
-      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-      "published": "Thu, 25 Jun 2026 20:24:09 +0000",
-      "published_parsed": "2026-06-25T20:24:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
-      "tags": [
-        "microsoft",
-        "tech",
-        "windows 10",
-        "windows 11"
       ]
     },
     {
@@ -1867,20 +1866,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "UniFi UTR Initial Impressions, Setup and Review",
-      "link": "https://www.packetswitch.co.uk/unifi-utr-initial-impressions-setup-and-review/",
-      "published": "Sat, 11 Apr 2026 18:38:33 GMT",
-      "published_parsed": "2026-04-11T18:38:33+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/04/utr-2-.png",
-      "summary": "The UTR is a small, portable router that you can take anywhere with you. It fits in your pocket. It supports both 2.4GHz and 5GHz bands and can",
-      "tags": [
-        "network",
-        "networking",
-        "unifi"
       ]
     }
   ]
