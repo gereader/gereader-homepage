@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-07-09T19:49:42.577850+00:00",
-  "article_count": 1972,
+  "last_updated": "2026-07-10T00:07:03.470150+00:00",
+  "article_count": 1974,
   "articles": [
+    {
+      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+      "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+      "published": "Thu, 09 Jul 2026 20:52:55 +0000",
+      "published_parsed": "2026-07-09T20:52:55+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "security",
+        "windows defender",
+        "zero days"
+      ]
+    },
+    {
+      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+      "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+      "published": "Thu, 09 Jul 2026 20:28:55 +0000",
+      "published_parsed": "2026-07-09T20:28:55+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Broadcom accuses Allstate of dodging VMware audits.",
+      "tags": [
+        "allstate",
+        "biz & it",
+        "broadcom",
+        "lawsuit",
+        "vmware"
+      ]
+    },
     {
       "title": "netlab: 2000 Pull Requests Later ;))",
       "link": "https://blog.ipspace.net/2026/07/netlab-2000-pr/?utm_source=atom_feed",
