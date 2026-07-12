@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T04:25:49.650137+00:00",
-  "article_count": 114,
+  "last_updated": "2026-07-12T09:03:39.163110+00:00",
+  "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1859,19 +1859,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "netlab 26.04: EXOS, BGP Prefix Origination, More Static Routes",
-      "link": "https://blog.ipspace.net/2026/04/netlab-26-04/?utm_source=atom_feed",
-      "published": "2026-04-13T07:28:00+02:00",
-      "published_parsed": "2026-04-13T07:28:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 26.04 is out. Here are the highlights: Extreme Networks EXOS is supported as a Vagrant box or containerlab node with OSPF, VLAN, and VRRP configuration (by Seb d’Argoeuves ). The new bgp.advertise node attribute allows you to advertise networks in the IP routing table into BGP. It’s...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
