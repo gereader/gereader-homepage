@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T16:36:00.175343+00:00",
+  "last_updated": "2026-07-13T19:25:17.076655+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -23,10 +23,10 @@
     "android",
     "ansible",
     "anticompetitive conduct",
-    "app stores",
     "apple",
     "apps",
     "arp",
+    "artificial intelligence",
     "australia",
     "automated troubleshooting",
     "automation",
@@ -51,6 +51,7 @@
     "cloud",
     "company news",
     "containers",
+    "context bombing\\",
     "crypto stealer",
     "cryptocurrency",
     "cryptography",
@@ -88,6 +89,7 @@
     "gifs",
     "google",
     "gre",
+    "guardrails",
     "hallucinations",
     "high availability",
     "history",
@@ -158,6 +160,7 @@
     "podcast",
     "policy",
     "privacy",
+    "prompt injections",
     "qos",
     "quantum computing",
     "ransomware",
@@ -168,6 +171,7 @@
     "russian shadow fleet",
     "ryzen",
     "samknows",
+    "samsung",
     "san",
     "scams",
     "science",
@@ -229,6 +233,40 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+      "published": "Mon, 13 Jul 2026 17:18:25 +0000",
+      "published_parsed": "2026-07-13T17:18:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
+      "tags": [
+        "apple",
+        "artificial intelligence",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "published": "Mon, 13 Jul 2026 15:06:34 +0000",
+      "published_parsed": "2026-07-13T15:06:34+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "context bombing\\",
+        "guardrails",
+        "llms",
+        "prompt injections",
+        "security"
+      ]
+    },
     {
       "title": "netlab 26.07: GRE, Wireguard, Graceful Restart, and Scale-Out Labs",
       "link": "https://blog.ipspace.net/2026/07/netlab-26-07/?utm_source=atom_feed",
@@ -822,22 +860,6 @@
       ]
     },
     {
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-      "published": "Fri, 26 Jun 2026 20:58:02 +0000",
-      "published_parsed": "2026-06-26T20:58:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
-      "tags": [
-        "android",
-        "app stores",
-        "apple",
-        "russia",
-        "tech"
-      ]
-    },
-    {
       "title": "Time for Another Summer Break?",
       "link": "https://blog.ipspace.net/2026/06/summer-break/?utm_source=atom_feed",
       "published": "2026-06-26T06:08:00+00:00",
@@ -1096,21 +1118,6 @@
         "fortinet",
         "passwords",
         "security"
-      ]
-    },
-    {
-      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-      "published": "Wed, 17 Jun 2026 19:43:13 +0000",
-      "published_parsed": "2026-06-17T19:43:13+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
-      "tags": [
-        "biz & it",
-        "broadcom",
-        "lawsuit",
-        "vmware"
       ]
     },
     {
