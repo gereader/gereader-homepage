@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T19:25:17.076655+00:00",
-  "article_count": 113,
+  "last_updated": "2026-07-13T23:55:23.406815+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -12,7 +12,6 @@
   ],
   "tags": [
     "aci",
-    "ads",
     "aerial surveillance",
     "ai",
     "aiops",
@@ -39,14 +38,13 @@
     "bluetooth",
     "boom supersonic",
     "botnets",
-    "breaches",
     "bridging",
     "broadcom",
     "browsers",
-    "california",
     "certifications",
     "change management",
     "chinese",
+    "cisa",
     "cisco",
     "cloud",
     "company news",
@@ -83,18 +81,17 @@
     "firewall",
     "firewalls",
     "fireworks",
-    "fortinet",
     "gaming",
     "general",
     "gifs",
     "google",
     "gre",
     "guardrails",
+    "hackers",
     "hallucinations",
     "high availability",
     "history",
     "homelab",
-    "illinois",
     "infostealers",
     "internet",
     "ip routing",
@@ -149,7 +146,6 @@
     "ospf",
     "overlay networks",
     "palo alto",
-    "passwords",
     "phillips hue",
     "phishing",
     "phoenix tailings",
@@ -161,14 +157,18 @@
     "policy",
     "privacy",
     "prompt injections",
+    "proxy networks",
     "qos",
     "quantum computing",
     "ransomware",
     "rare earths",
     "reddit",
+    "routers",
     "russia",
+    "russia invasion of ukraine",
     "russia state",
     "russian shadow fleet",
+    "russian war on ukraine",
     "ryzen",
     "samknows",
     "samsung",
@@ -177,8 +177,11 @@
     "science",
     "sd-wan",
     "sdn",
+    "sea drones",
     "security",
     "service providers",
+    "shipping",
+    "ships",
     "signal messenger",
     "skiff",
     "smart home",
@@ -212,6 +215,7 @@
     "training",
     "tsme",
     "typosquatting",
+    "ukraine",
     "ukraine war",
     "unifi",
     "us military",
@@ -233,6 +237,57 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Source Specific Multicast (SSM) VII",
+      "link": "https://www.packetswitch.co.uk/source-specific-multicast-ssm/",
+      "published": "Mon, 13 Jul 2026 21:19:43 GMT",
+      "published_parsed": "2026-07-13T21:19:43+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/03/multicast-8-.png",
+      "summary": "With SSM, receivers specify both the multicast group and the source address they want to receive traffic from. Instead of joining (*, G) and rely",
+      "tags": [
+        "multicast",
+        "networking"
+      ]
+    },
+    {
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "published": "Mon, 13 Jul 2026 21:03:07 +0000",
+      "published_parsed": "2026-07-13T21:03:07+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "tags": [
+        "biz & it",
+        "cisa",
+        "hackers",
+        "proxy networks",
+        "routers",
+        "security"
+      ]
+    },
+    {
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+      "published": "Mon, 13 Jul 2026 20:41:26 +0000",
+      "published_parsed": "2026-07-13T20:41:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+      "tags": [
+        "drones",
+        "military drones",
+        "russia invasion of ukraine",
+        "russian war on ukraine",
+        "sea drones",
+        "shipping",
+        "ships",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
       "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
@@ -843,23 +898,6 @@
       ]
     },
     {
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "published": "Fri, 26 Jun 2026 21:12:07 +0000",
-      "published_parsed": "2026-06-26T21:12:07+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-      "tags": [
-        "ads",
-        "california",
-        "illinois",
-        "policy",
-        "streaming",
-        "tech"
-      ]
-    },
-    {
       "title": "Time for Another Summer Break?",
       "link": "https://blog.ipspace.net/2026/06/summer-break/?utm_source=atom_feed",
       "published": "2026-06-26T06:08:00+00:00",
@@ -1101,23 +1139,6 @@
         "networking",
         "vxlan",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "published": "Wed, 17 Jun 2026 19:54:31 +0000",
-      "published_parsed": "2026-06-17T19:54:31+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
-      "tags": [
-        "biz & it",
-        "breaches",
-        "firewalls",
-        "fortinet",
-        "passwords",
-        "security"
       ]
     },
     {
