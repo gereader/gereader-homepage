@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-07-14T19:22:58.645072+00:00",
-  "article_count": 1983,
+  "last_updated": "2026-07-14T23:54:18.587138+00:00",
+  "article_count": 1985,
   "articles": [
+    {
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "published": "Tue, 14 Jul 2026 22:20:48 +0000",
+      "published_parsed": "2026-07-14T22:20:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+      "tags": [
+        "biz & it",
+        "bootkits",
+        "microsoft",
+        "secure boot",
+        "security",
+        "shims"
+      ]
+    },
+    {
+      "title": "US military sent explosive drone boats into combat for the first time",
+      "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+      "published": "Tue, 14 Jul 2026 18:00:01 +0000",
+      "published_parsed": "2026-07-14T18:00:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
+      "tags": [
+        "ai",
+        "donald trump iran war",
+        "drone boats",
+        "drones",
+        "iran",
+        "military drones",
+        "sea drones",
+        "tech",
+        "ukraine",
+        "us military",
+        "usa-iran war"
+      ]
+    },
     {
       "title": "Worth Reading: Git Oh-Shit Toolkit",
       "link": "https://blog.ipspace.net/2026/07/worth-reading-git-oh-shit-toolkit/?utm_source=atom_feed",
