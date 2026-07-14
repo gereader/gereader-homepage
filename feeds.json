@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T09:05:31.761728+00:00",
-  "article_count": 113,
+  "last_updated": "2026-07-14T15:24:04.286210+00:00",
+  "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -421,6 +421,18 @@
       "summary": "Jeroen van Bemmel noticed an interesting fact yesterday evening: the netlab GitHub repository has 2000 merged/closed pull requests . I never expected the tiny “ let’s learn Python while working around the complexities of Vagrantfile ” project to get this far ;)) Thanks a million to everyone who...",
       "tags": [
         "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "2026 NAF Advisory Board Updates",
+      "link": "https://networkautomation.forum/blog/2026-naf-advisory-board-updates",
+      "published": "Wed, 08 Jul 2026 20:53:25 +0000",
+      "published_parsed": "2026-07-08T20:53:25+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "NAF is seeking applications for the next class of its Advisory Board (AB). We are looking for committed individuals to fill six AB positions who can bring fresh insights and active participation to help guide AutoCon content and the future of NAF.",
+      "tags": [
         "networking"
       ]
     },
