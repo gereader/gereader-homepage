@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T03:57:28.986149+00:00",
-  "article_count": 114,
+  "last_updated": "2026-07-14T09:05:31.761728+00:00",
+  "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -103,7 +103,6 @@
     "lan",
     "law enforcement",
     "lawsuit",
-    "ldp",
     "lethal drones",
     "linux",
     "lisp",
@@ -237,6 +236,19 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Worth Reading: Git Oh-Shit Toolkit",
+      "link": "https://blog.ipspace.net/2026/07/worth-reading-git-oh-shit-toolkit/?utm_source=atom_feed",
+      "published": "2026-07-14T07:15:00+02:00",
+      "published_parsed": "2026-07-14T07:15:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Tony Mattke published a blog post I wish I’d read 10 years ago. His Oh-Shit Toolkit includes several tools one can use after messing up Git branches or commit history. Definitely worth reading, even if you’ve been working with Git for ages.",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Source Specific Multicast (SSM) VII",
       "link": "https://www.packetswitch.co.uk/source-specific-multicast-ssm/",
@@ -409,18 +421,6 @@
       "summary": "Jeroen van Bemmel noticed an interesting fact yesterday evening: the netlab GitHub repository has 2000 merged/closed pull requests . I never expected the tiny “ let’s learn Python while working around the complexities of Vagrantfile ” project to get this far ;)) Thanks a million to everyone who...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "2026 NAF Advisory Board Updates",
-      "link": "https://networkautomation.forum/blog/2026-naf-advisory-board-updates",
-      "published": "Wed, 08 Jul 2026 20:53:25 +0000",
-      "published_parsed": "2026-07-08T20:53:25+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "NAF is seeking applications for the next class of its Advisory Board (AB). We are looking for committed individuals to fill six AB positions who can bring fresh insights and active participation to help guide AutoCon content and the future of NAF.",
-      "tags": [
         "networking"
       ]
     },
@@ -1870,20 +1870,6 @@
       "image": null,
       "summary": "Every other blue moon, I discover a bug in FRRouting ( example ). Because the FRRouting developers care about their work, it usually gets fixed within a few days, often resulting in a “can you test this PR?” question. It turns out that’s surprisingly easy to do with netlab – here’s the step-by-step...",
       "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "BGP Labs: Graceful Degradation for Unsupported Devices",
-      "link": "https://blog.ipspace.net/2026/04/bgp-labs-graceful-degradation/?utm_source=atom_feed",
-      "published": "2026-04-15T07:59:00+02:00",
-      "published_parsed": "2026-04-15T07:59:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A few weeks ago, I described the changes in the online BGP labs that allow you to use most of the common network operating systems as “external” routers 1 . However, while we keep improving it, netlab still can’t configure all BGP features on all supported devices (PRs from Nokia and Mikrotik fans...",
-      "tags": [
-        "bgp",
         "netlab",
         "networking"
       ]

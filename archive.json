@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-14T03:57:28.959566+00:00",
-  "article_count": 1982,
+  "last_updated": "2026-07-14T09:05:31.737390+00:00",
+  "article_count": 1983,
   "articles": [
+    {
+      "title": "Worth Reading: Git Oh-Shit Toolkit",
+      "link": "https://blog.ipspace.net/2026/07/worth-reading-git-oh-shit-toolkit/?utm_source=atom_feed",
+      "published": "2026-07-14T07:15:00+02:00",
+      "published_parsed": "2026-07-14T07:15:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Tony Mattke published a blog post I wish I’d read 10 years ago. His Oh-Shit Toolkit includes several tools one can use after messing up Git branches or commit history. Definitely worth reading, even if you’ve been working with Git for ages.",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Source Specific Multicast (SSM) VII",
       "link": "https://www.packetswitch.co.uk/source-specific-multicast-ssm/",
