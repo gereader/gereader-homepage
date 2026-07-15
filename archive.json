@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-15T04:06:22.224989+00:00",
-  "article_count": 1985,
+  "last_updated": "2026-07-15T09:10:00.179839+00:00",
+  "article_count": 1986,
   "articles": [
+    {
+      "title": "Content: New Parameter in Multiple something_config Ansible Modules",
+      "link": "https://blog.ipspace.net/2026/07/ansible-config-content/?utm_source=atom_feed",
+      "published": "2026-07-15T07:22:00+02:00",
+      "published_parsed": "2026-07-15T07:22:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last December, I wrote a pretty ranty post explaining how Ansible release 12 broke (some?) network device configuration playbooks. The inevitable anonymous troll (why are they always anonymous?) couldn’t resist asking whether I opened an issue on GitHub . I didn’t (more about that later), but when...",
+      "tags": [
+        "ansible",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
       "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",

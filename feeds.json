@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T04:06:22.250562+00:00",
+  "last_updated": "2026-07-15T09:10:00.206318+00:00",
   "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
@@ -232,6 +232,19 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Content: New Parameter in Multiple something_config Ansible Modules",
+      "link": "https://blog.ipspace.net/2026/07/ansible-config-content/?utm_source=atom_feed",
+      "published": "2026-07-15T07:22:00+02:00",
+      "published_parsed": "2026-07-15T07:22:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Last December, I wrote a pretty ranty post explaining how Ansible release 12 broke (some?) network device configuration playbooks. The inevitable anonymous troll (why are they always anonymous?) couldn’t resist asking whether I opened an issue on GitHub . I didn’t (more about that later), but when...",
+      "tags": [
+        "ansible",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
       "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
@@ -1869,19 +1882,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "Testing FRRouting Pull Requests with netlab",
-      "link": "https://blog.ipspace.net/2026/04/frr-pr-testing/?utm_source=atom_feed",
-      "published": "2026-04-16T07:50:00+02:00",
-      "published_parsed": "2026-04-16T07:50:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Every other blue moon, I discover a bug in FRRouting ( example ). Because the FRRouting developers care about their work, it usually gets fixed within a few days, often resulting in a “can you test this PR?” question. It turns out that’s surprisingly easy to do with netlab – here’s the step-by-step...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
