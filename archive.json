@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-07-15T15:26:43.773462+00:00",
-  "article_count": 1986,
+  "last_updated": "2026-07-15T19:15:08.907106+00:00",
+  "article_count": 1987,
   "articles": [
+    {
+      "title": "Google and Epic cancel settlement; third-party app stores coming to Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+      "published": "Wed, 15 Jul 2026 16:55:12 +0000",
+      "published_parsed": "2026-07-15T16:55:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
+      "tags": [
+        "antitrust",
+        "app stores",
+        "apps",
+        "epic",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Content: New Parameter in Multiple something_config Ansible Modules",
       "link": "https://blog.ipspace.net/2026/07/ansible-config-content/?utm_source=atom_feed",

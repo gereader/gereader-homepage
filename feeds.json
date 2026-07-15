@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T15:26:43.794036+00:00",
+  "last_updated": "2026-07-15T19:15:08.933227+00:00",
   "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
@@ -22,6 +22,8 @@
     "android",
     "ansible",
     "anticompetitive conduct",
+    "antitrust",
+    "app stores",
     "apple",
     "apps",
     "arp",
@@ -71,6 +73,7 @@
     "email client",
     "encryption",
     "energy fuels",
+    "epic",
     "europe",
     "evpn",
     "exploits",
@@ -154,7 +157,6 @@
     "plex",
     "podcast",
     "policy",
-    "privacy",
     "prompt injections",
     "proxy networks",
     "qos",
@@ -232,6 +234,23 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Google and Epic cancel settlement; third-party app stores coming to Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+      "published": "Wed, 15 Jul 2026 16:55:12 +0000",
+      "published_parsed": "2026-07-15T16:55:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
+      "tags": [
+        "antitrust",
+        "app stores",
+        "apps",
+        "epic",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "Content: New Parameter in Multiple something_config Ansible Modules",
       "link": "https://blog.ipspace.net/2026/07/ansible-config-content/?utm_source=atom_feed",
@@ -905,21 +924,6 @@
         "playstation",
         "sony",
         "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-      "published": "Mon, 29 Jun 2026 18:21:31 +0000",
-      "published_parsed": "2026-06-29T18:21:31+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
-      "tags": [
-        "europe",
-        "google",
-        "privacy",
         "tech"
       ]
     },
