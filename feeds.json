@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:15:08.933227+00:00",
+  "last_updated": "2026-07-16T00:00:17.182935+00:00",
   "article_count": 114,
   "sources": [
     "Ars Technica - Gadgets",
@@ -33,11 +33,9 @@
     "automation",
     "aws",
     "azure",
-    "beats studio buds",
     "bgp",
     "biz & it",
     "blog",
-    "bluetooth",
     "boom supersonic",
     "bootkits",
     "botnets",
@@ -52,9 +50,8 @@
     "company news",
     "containers",
     "context bombing\\",
-    "crypto stealer",
-    "cryptocurrency",
     "cryptography",
+    "culture",
     "cumulus linux",
     "cybercrime",
     "data center",
@@ -67,7 +64,6 @@
     "drone boats",
     "drones",
     "e-waste",
-    "eavesdropping",
     "eigrp",
     "email",
     "email client",
@@ -104,6 +100,7 @@
     "is-is",
     "jailbreaks",
     "job losses",
+    "jurassic park",
     "lan",
     "law enforcement",
     "lawsuit",
@@ -114,7 +111,6 @@
     "load balancing",
     "local privilege escalation",
     "macos malware",
-    "malware",
     "microsoft",
     "military drones",
     "mp materials",
@@ -207,6 +203,7 @@
     "t-mobile",
     "tcp",
     "tech",
+    "the 90s",
     "the weather channel",
     "tips",
     "traffic engineering",
@@ -216,6 +213,8 @@
     "ukraine",
     "ukraine war",
     "unifi",
+    "unix",
+    "unix operating system",
     "us military",
     "usa-iran war",
     "video",
@@ -227,15 +226,63 @@
     "wan",
     "weather",
     "whatsapp",
+    "windows",
     "windows defender",
-    "worm",
     "worth reading",
     "x-59",
-    "zero days"
+    "zero days",
+    "zerodays"
   ],
   "articles": [
     {
-      "title": "Google and Epic cancel settlement; third-party app stores coming to Google Play",
+      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "published": "Wed, 15 Jul 2026 21:41:56 +0000",
+      "published_parsed": "2026-07-15T21:41:56+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The convenience store chain will use StorMagic instead.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "vmware"
+      ]
+    },
+    {
+      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+      "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "published": "Wed, 15 Jul 2026 21:04:22 +0000",
+      "published_parsed": "2026-07-15T21:04:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Yes, it was, in fact, a Unix system.",
+      "tags": [
+        "culture",
+        "jurassic park",
+        "tech",
+        "the 90s",
+        "unix",
+        "unix operating system"
+      ]
+    },
+    {
+      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+      "published": "Wed, 15 Jul 2026 19:59:48 +0000",
+      "published_parsed": "2026-07-15T19:59:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "security",
+        "windows",
+        "zerodays"
+      ]
+    },
+    {
+      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
       "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
       "published": "Wed, 15 Jul 2026 16:55:12 +0000",
       "published_parsed": "2026-07-15T16:55:12+00:00",
@@ -913,21 +960,6 @@
       ]
     },
     {
-      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-      "published": "Mon, 29 Jun 2026 19:10:57 +0000",
-      "published_parsed": "2026-06-29T19:10:57+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Sony has been scaling down its digitial store for a few years.",
-      "tags": [
-        "playstation",
-        "sony",
-        "streaming",
-        "tech"
-      ]
-    },
-    {
       "title": "Getting Started with netlab @ Cisco DevNet",
       "link": "https://blog.ipspace.net/2026/06/worth-reading-cisco-devnet-netlab-intro/?utm_source=atom_feed",
       "published": "2026-06-29T07:23:00+02:00",
@@ -1117,41 +1149,6 @@
         "ansible",
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "published": "Thu, 18 Jun 2026 23:28:52 +0000",
-      "published_parsed": "2026-06-18T23:28:52+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
-      "tags": [
-        "biz & it",
-        "crypto stealer",
-        "cryptocurrency",
-        "malware",
-        "security",
-        "worm"
-      ]
-    },
-    {
-      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-      "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-      "published": "Thu, 18 Jun 2026 19:41:35 +0000",
-      "published_parsed": "2026-06-18T19:41:35+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
-      "tags": [
-        "apple",
-        "beats studio buds",
-        "biz & it",
-        "bluetooth",
-        "eavesdropping",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
