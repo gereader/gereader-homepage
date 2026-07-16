@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T15:39:39.561270+00:00",
+  "last_updated": "2026-07-16T19:15:01.666084+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,11 +14,10 @@
     "aci",
     "aerial surveillance",
     "ai",
+    "ai data centers",
+    "ai energy",
     "aiops",
     "allstate",
-    "amazon",
-    "amazon alexa",
-    "amd",
     "android",
     "ansible",
     "anticompetitive conduct",
@@ -69,6 +68,7 @@
     "email client",
     "encryption",
     "energy fuels",
+    "energy investment",
     "epic",
     "europe",
     "evpn",
@@ -145,6 +145,7 @@
     "nfv",
     "nornir",
     "nsx",
+    "oneplus",
     "openflow",
     "oracle",
     "ospf",
@@ -172,7 +173,6 @@
     "russia state",
     "russian shadow fleet",
     "russian war on ukraine",
-    "ryzen",
     "samknows",
     "samsung",
     "san",
@@ -208,6 +208,7 @@
     "supersonic travel",
     "surveillance",
     "switching",
+    "syndication",
     "t-mobile",
     "tcp",
     "tech",
@@ -216,7 +217,6 @@
     "tips",
     "traffic engineering",
     "training",
-    "tsme",
     "typosquatting",
     "ukraine",
     "ukraine war",
@@ -243,6 +243,38 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
+      "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+      "published": "Thu, 16 Jul 2026 16:29:46 +0000",
+      "published_parsed": "2026-07-16T16:29:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "OnePlus promises to continue supporting the phones it has already released.",
+      "tags": [
+        "android",
+        "oneplus",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "published": "Thu, 16 Jul 2026 15:48:21 +0000",
+      "published_parsed": "2026-07-16T15:48:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "ai energy",
+        "biz & it",
+        "energy investment",
+        "syndication"
+      ]
+    },
     {
       "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
       "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
@@ -903,20 +935,6 @@
       ]
     },
     {
-      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-      "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-      "published": "Tue, 30 Jun 2026 21:04:53 +0000",
-      "published_parsed": "2026-06-30T21:04:53+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
-      "tags": [
-        "amazon",
-        "amazon alexa",
-        "tech"
-      ]
-    },
-    {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
       "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
       "published": "Tue, 30 Jun 2026 20:03:14 +0000",
@@ -1109,22 +1127,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-      "published": "Mon, 22 Jun 2026 19:16:52 +0000",
-      "published_parsed": "2026-06-22T19:16:52+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
-      "tags": [
-        "amd",
-        "biz & it",
-        "ryzen",
-        "security",
-        "tsme"
       ]
     },
     {

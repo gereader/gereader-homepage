@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-07-16T15:39:39.534982+00:00",
-  "article_count": 1991,
+  "last_updated": "2026-07-16T19:15:01.639079+00:00",
+  "article_count": 1993,
   "articles": [
+    {
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
+      "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+      "published": "Thu, 16 Jul 2026 16:29:46 +0000",
+      "published_parsed": "2026-07-16T16:29:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "OnePlus promises to continue supporting the phones it has already released.",
+      "tags": [
+        "android",
+        "oneplus",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "published": "Thu, 16 Jul 2026 15:48:21 +0000",
+      "published_parsed": "2026-07-16T15:48:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "ai energy",
+        "biz & it",
+        "energy investment",
+        "syndication"
+      ]
+    },
     {
       "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
       "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
