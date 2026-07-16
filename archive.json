@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-07-16T09:16:53.773696+00:00",
-  "article_count": 1990,
+  "last_updated": "2026-07-16T15:39:39.534982+00:00",
+  "article_count": 1991,
   "articles": [
+    {
+      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+      "published": "Thu, 16 Jul 2026 11:00:21 +0000",
+      "published_parsed": "2026-07-16T11:00:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+      "tags": [
+        "global navigation satellite systems",
+        "global positioning systems",
+        "gnss",
+        "gps",
+        "leo",
+        "low earth orbit",
+        "low-earth orbit satellites",
+        "satellites",
+        "space",
+        "tech",
+        "xona space systems"
+      ]
+    },
     {
       "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
       "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T09:16:53.799990+00:00",
+  "last_updated": "2026-07-16T15:39:39.561270+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -83,8 +83,11 @@
     "fireworks",
     "gaming",
     "general",
-    "gifs",
+    "global navigation satellite systems",
+    "global positioning systems",
+    "gnss",
     "google",
+    "gps",
     "gre",
     "guardrails",
     "hackers",
@@ -104,12 +107,15 @@
     "lan",
     "law enforcement",
     "lawsuit",
+    "leo",
     "lethal drones",
     "linux",
     "lisp",
     "llms",
     "load balancing",
     "local privilege escalation",
+    "low earth orbit",
+    "low-earth orbit satellites",
     "macos malware",
     "microsoft",
     "military drones",
@@ -170,6 +176,7 @@
     "samknows",
     "samsung",
     "san",
+    "satellites",
     "scams",
     "science",
     "sd-wan",
@@ -191,6 +198,7 @@
     "software",
     "software gone wild",
     "sony",
+    "space",
     "sr-mpls",
     "srv6",
     "strait of hormuz",
@@ -230,10 +238,33 @@
     "windows defender",
     "worth reading",
     "x-59",
+    "xona space systems",
     "zero days",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+      "published": "Thu, 16 Jul 2026 11:00:21 +0000",
+      "published_parsed": "2026-07-16T11:00:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+      "tags": [
+        "global navigation satellite systems",
+        "global positioning systems",
+        "gnss",
+        "gps",
+        "leo",
+        "low earth orbit",
+        "low-earth orbit satellites",
+        "satellites",
+        "space",
+        "tech",
+        "xona space systems"
+      ]
+    },
     {
       "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
       "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
@@ -882,20 +913,6 @@
       "tags": [
         "amazon",
         "amazon alexa",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-      "published": "Tue, 30 Jun 2026 20:38:51 +0000",
-      "published_parsed": "2026-06-30T20:38:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
-      "tags": [
-        "gifs",
-        "google",
         "tech"
       ]
     },
