@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T04:09:25.340561+00:00",
-  "article_count": 114,
+  "last_updated": "2026-07-16T09:16:53.799990+00:00",
+  "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1869,20 +1869,6 @@
       "tags": [
         "multicast",
         "networking"
-      ]
-    },
-    {
-      "title": "Lab: Integrated Routing and Bridging (IRB) with EVPN MAC-VRF Instances",
-      "link": "https://blog.ipspace.net/2026/04/lab-evpn-irb/?utm_source=atom_feed",
-      "published": "2026-04-17T08:13:00+02:00",
-      "published_parsed": "2026-04-17T08:13:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://evpn.bgplabs.net/evpn/topology-irb.png",
-      "summary": "Most EVPN documentation rushes into the complexities of symmetric IRB, type-5 EVPN routes, and EVPN IP-VRFs, but if you want to master a technology, it’s better to take it slow and proceed with small steps. In today’s lab exercise , we’ll do just that: explore what happens when you add IP addresses...",
-      "tags": [
-        "evpn",
-        "networking",
-        "vxlan"
       ]
     }
   ]
