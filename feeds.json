@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T04:08:32.593649+00:00",
-  "article_count": 112,
+  "last_updated": "2026-07-17T09:10:48.937438+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1858,19 +1858,6 @@
       "tags": [
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Multicast PIM Bootstrap Router (BSR) (VI)",
-      "link": "https://www.packetswitch.co.uk/multicast-pim-bootstrap-router-bsr/",
-      "published": "Sat, 18 Apr 2026 08:32:46 GMT",
-      "published_parsed": "2026-04-18T08:32:46+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/02/multicast-7-.png",
-      "summary": "Instead of manually configuring the RP address on every router, BSR allows routers to learn RP information automatically. A router called the",
-      "tags": [
-        "multicast",
-        "networking"
       ]
     }
   ]
