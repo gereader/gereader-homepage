@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T15:15:38.584036+00:00",
+  "last_updated": "2026-07-17T19:14:03.527428+00:00",
   "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
@@ -20,7 +20,6 @@
     "allstate",
     "android",
     "ansible",
-    "anticompetitive conduct",
     "antitrust",
     "app stores",
     "apple",
@@ -81,6 +80,7 @@
     "firewall",
     "firewalls",
     "fireworks",
+    "fubo",
     "general",
     "global navigation satellite systems",
     "global positioning systems",
@@ -129,6 +129,7 @@
     "nasa",
     "nat",
     "navigation blog",
+    "nbcuniversal",
     "netbox",
     "netconf",
     "netdevops",
@@ -240,6 +241,21 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+      "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+      "published": "Fri, 17 Jul 2026 16:24:21 +0000",
+      "published_parsed": "2026-07-17T16:24:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Fubo subscribers still don't have Versant channels.",
+      "tags": [
+        "fubo",
+        "nbcuniversal",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "NetBox: How to Prevent Direct Changes to the Main Branch",
       "link": "https://www.packetcoders.io/netbox-how-to-prevent-direct-changes-to-main/",
@@ -915,21 +931,6 @@
       "tags": [
         "plex",
         "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-      "published": "Thu, 02 Jul 2026 16:15:41 +0000",
-      "published_parsed": "2026-07-02T16:15:41+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The EU went after Google for the practice of bundling its search engine and browser with Android.",
-      "tags": [
-        "anticompetitive conduct",
-        "europe",
-        "google",
         "tech"
       ]
     },
