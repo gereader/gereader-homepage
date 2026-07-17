@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T19:15:01.666084+00:00",
-  "article_count": 113,
+  "last_updated": "2026-07-17T00:00:38.719374+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -45,17 +45,18 @@
     "change management",
     "cisa",
     "cisco",
+    "clickfix",
     "cloud",
     "company news",
     "containers",
     "context bombing\\",
-    "cryptography",
     "culture",
     "cumulus linux",
     "cybercrime",
     "data center",
     "design",
     "dhcp",
+    "digital markets act",
     "dmvpn",
     "dns",
     "docker",
@@ -66,7 +67,6 @@
     "eigrp",
     "email",
     "email client",
-    "encryption",
     "energy fuels",
     "energy investment",
     "epic",
@@ -81,7 +81,6 @@
     "firewall",
     "firewalls",
     "fireworks",
-    "gaming",
     "general",
     "global navigation satellite systems",
     "global positioning systems",
@@ -95,6 +94,8 @@
     "high availability",
     "history",
     "homelab",
+    "hp",
+    "india",
     "infostealers",
     "internet",
     "ip routing",
@@ -102,7 +103,6 @@
     "iran",
     "is-is",
     "jailbreaks",
-    "job losses",
     "jurassic park",
     "lan",
     "law enforcement",
@@ -147,7 +147,6 @@
     "nsx",
     "oneplus",
     "openflow",
-    "oracle",
     "ospf",
     "overlay networks",
     "palo alto",
@@ -156,17 +155,15 @@
     "phoenix tailings",
     "pixel 11",
     "pixel watch 5",
-    "playstation",
     "plex",
     "podcast",
     "policy",
+    "printers",
     "prompt injections",
     "proxy networks",
     "qos",
-    "quantum computing",
     "ransomware",
     "rare earths",
-    "reddit",
     "routers",
     "russia",
     "russia invasion of ukraine",
@@ -176,6 +173,7 @@
     "samknows",
     "samsung",
     "san",
+    "sandworm",
     "satellites",
     "scams",
     "science",
@@ -197,7 +195,6 @@
     "social psychology",
     "software",
     "software gone wild",
-    "sony",
     "space",
     "sr-mpls",
     "srv6",
@@ -243,6 +240,54 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+      "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+      "published": "Thu, 16 Jul 2026 22:02:31 +0000",
+      "published_parsed": "2026-07-16T22:02:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Resellers threatened to ditch HP printing supplies for counterfeits.",
+      "tags": [
+        "biz & it",
+        "hp",
+        "india",
+        "printers",
+        "tech"
+      ]
+    },
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "published": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "published_parsed": "2026-07-16T20:41:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says these changes could endanger user privacy and security.",
+      "tags": [
+        "ai",
+        "digital markets act",
+        "europe",
+        "google",
+        "tech"
+      ]
+    },
+    {
+      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+      "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+      "published": "Thu, 16 Jul 2026 19:28:33 +0000",
+      "published_parsed": "2026-07-16T19:28:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+      "tags": [
+        "biz & it",
+        "clickfix",
+        "russia",
+        "sandworm",
+        "security"
+      ]
+    },
     {
       "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
       "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
@@ -892,21 +937,6 @@
       ]
     },
     {
-      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
-      "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-      "published": "Wed, 01 Jul 2026 18:41:49 +0000",
-      "published_parsed": "2026-07-01T18:41:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "“We will own nothing, it's truly sad.”",
-      "tags": [
-        "gaming",
-        "playstation",
-        "sony",
-        "tech"
-      ]
-    },
-    {
       "title": "Worth Checking: EVPN Centralized Anycast Gateway",
       "link": "https://blog.ipspace.net/2026/07/worth-reading-evpn-centralized-anycast-gw/?utm_source=atom_feed",
       "published": "2026-07-01T07:16:00+02:00",
@@ -917,21 +947,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Reddit will require you to log in to use old.reddit.com",
-      "link": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
-      "published": "Tue, 30 Jun 2026 21:46:35 +0000",
-      "published_parsed": "2026-06-30T21:46:35+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
-      "tags": [
-        "policy",
-        "reddit",
-        "social media",
-        "tech"
       ]
     },
     {
@@ -1082,38 +1097,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-      "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-      "published": "Tue, 23 Jun 2026 22:30:57 +0000",
-      "published_parsed": "2026-06-23T22:30:57+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
-      "tags": [
-        "biz & it",
-        "cryptography",
-        "encryption",
-        "policy",
-        "quantum computing",
-        "security"
-      ]
-    },
-    {
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "published": "Tue, 23 Jun 2026 20:17:38 +0000",
-      "published_parsed": "2026-06-23T20:17:38+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "job losses",
-        "oracle"
       ]
     },
     {
