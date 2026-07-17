@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T09:10:48.937438+00:00",
-  "article_count": 111,
+  "last_updated": "2026-07-17T15:15:38.584036+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -240,6 +240,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "NetBox: How to Prevent Direct Changes to the Main Branch",
+      "link": "https://www.packetcoders.io/netbox-how-to-prevent-direct-changes-to-main/",
+      "published": "Fri, 17 Jul 2026 12:51:04 GMT",
+      "published_parsed": "2026-07-17T12:51:04+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/06/Tips-logo-1.webp",
+      "summary": "NetBox Tip! Prevent direct changes to the main branch when using the NetBox Changes plugin. Enable protect_main to ensure all changes are made through branches and follow an approval workflow. Here's an example configuration: # ./configuration.py PLUGINS_CONFIG = { \"netbox_changes\": {...",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
       "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
