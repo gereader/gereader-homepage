@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-17T19:14:03.500462+00:00",
-  "article_count": 1998,
+  "last_updated": "2026-07-17T23:54:23.877828+00:00",
+  "article_count": 1999,
   "articles": [
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "published": "Fri, 17 Jul 2026 19:50:18 +0000",
+      "published_parsed": "2026-07-17T19:50:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The FireSat program can spot wildfires that other satellites miss.",
+      "tags": [
+        "ai",
+        "canada",
+        "climate change",
+        "firefighting",
+        "firesat",
+        "global warming",
+        "google",
+        "satellites",
+        "smoke",
+        "space",
+        "tech",
+        "united states",
+        "wildfires"
+      ]
+    },
     {
       "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
       "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
