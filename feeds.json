@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T09:05:21.589886+00:00",
+  "last_updated": "2026-07-19T14:58:11.571038+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -248,6 +248,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "UGREEN NASync DXP4800 GT Review and Initial Setup",
+      "link": "https://www.packetswitch.co.uk/ugreen-nasync-dxp4800-gt-review-and-initial-setup/",
+      "published": "Sun, 19 Jul 2026 10:40:14 GMT",
+      "published_parsed": "2026-07-19T10:40:14+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/07/nas-2-.png",
+      "summary": "UGreen released the NASync DXP4800 GT, a 4-bay NAS that comes with an AMD Ryzen Embedded R2514, dual 10GbE LAN, and dual M.2 NVMe SSD slots",
+      "tags": [
+        "homelab",
+        "networking"
+      ]
+    },
     {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
@@ -1863,19 +1876,6 @@
         "fabric",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "How to Get Network Tools to Work Together, Unify Data, and Orchestrate NetOps",
-      "link": "https://www.netbrain.com/blog/get-network-tools-to-work-together/",
-      "published": "2026-04-20T14:29:30Z",
-      "published_parsed": "2026-04-20T14:29:30+00:00",
-      "source": "NetBrain Blog",
-      "image": null,
-      "summary": "A Practical Integration Guide for Network and Tools Teams Most enterprise network operations teams leverage a dozen tools. Monitoring catches anomalies, ITSM manages the ticket queue, IPAM holds address data,...",
-      "tags": [
-        "company news",
-        "networking"
       ]
     }
   ]

@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-19T09:05:21.563856+00:00",
-  "article_count": 1999,
+  "last_updated": "2026-07-19T14:58:11.543881+00:00",
+  "article_count": 2000,
   "articles": [
+    {
+      "title": "UGREEN NASync DXP4800 GT Review and Initial Setup",
+      "link": "https://www.packetswitch.co.uk/ugreen-nasync-dxp4800-gt-review-and-initial-setup/",
+      "published": "Sun, 19 Jul 2026 10:40:14 GMT",
+      "published_parsed": "2026-07-19T10:40:14+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/07/nas-2-.png",
+      "summary": "UGreen released the NASync DXP4800 GT, a 4-bay NAS that comes with an AMD Ryzen Embedded R2514, dual 10GbE LAN, and dual M.2 NVMe SSD slots",
+      "tags": [
+        "homelab",
+        "networking"
+      ]
+    },
     {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
