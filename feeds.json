@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T04:36:26.667689+00:00",
-  "article_count": 111,
+  "last_updated": "2026-07-20T10:14:18.308097+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1861,21 +1861,6 @@
       "summary": "I spent the last two days in Bologna at ITNOG 10 in the excellent company of Italian networking engineers (many of them personal friends) and a few guests from around the world. As always, the organizers and the program committee didn’t disappoint – it was a smoothly organized, lovely event full of...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Hmmm: Rail-Optimized Networking for AI Workloads",
-      "link": "https://blog.ipspace.net/2026/04/worth-reading-rail-optimized-networking/?utm_source=atom_feed",
-      "published": "2026-04-21T07:44:00+02:00",
-      "published_parsed": "2026-04-21T07:44:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Phil Gervasi wrote an interesting article describing Rail-Optimized Networking for AI Training Workloads . Go read it first; I’ll wait. Does it sound interesting? Were you able to see behind the curtain and figure out what it’s really about? Read more …",
-      "tags": [
-        "data center",
-        "fabric",
-        "networking",
-        "worth reading"
       ]
     }
   ]
