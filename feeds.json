@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T10:14:18.308097+00:00",
+  "last_updated": "2026-07-20T15:52:33.825651+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -306,7 +306,7 @@
       "published": "Fri, 17 Jul 2026 12:51:04 GMT",
       "published_parsed": "2026-07-17T12:51:04+00:00",
       "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/06/Tips-logo-1.webp",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-1.png",
       "summary": "NetBox Tip! Prevent direct changes to the main branch when using the NetBox Changes plugin. Enable protect_main to ensure all changes are made through branches and follow an approval workflow. Here's an example configuration: # ./configuration.py PLUGINS_CONFIG = { \"netbox_changes\": {...",
       "tags": [
         "networking",
@@ -920,7 +920,7 @@
       "published": "Fri, 03 Jul 2026 08:00:52 GMT",
       "published_parsed": "2026-07-03T08:00:52+00:00",
       "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/06/Tips-logo.webp",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-2.png",
       "summary": "MCP has gained a huge amount of popularity. And for good reason, it's easy to use and can allow you to really harness the benefits of LLMs. So here's a quick MCP tip! Dynamically create MCP servers with FastMCP by passing a REST API's",
       "tags": [
         "networking",
@@ -1698,7 +1698,7 @@
       "published": "Tue, 05 May 2026 09:00:12 GMT",
       "published_parsed": "2026-05-05T09:00:12+00:00",
       "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/05/Tips-logo.webp",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-3.png",
       "summary": "NetBox/Ansible Tip: The netbox.netbox.nb_inventory plugin pulls data from multiple NetBox API endpoints. Enable caching and disable unused extra lookups to reduce API calls and improve inventory load times. Here’s what you need to add to your NetBox inventory plugin file: # Cache inventory data...",
       "tags": [
         "networking",
