@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-20T19:45:44.472162+00:00",
-  "article_count": 2000,
+  "last_updated": "2026-07-20T23:57:24.212333+00:00",
+  "article_count": 2001,
   "articles": [
+    {
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "published": "Mon, 20 Jul 2026 21:55:52 +0000",
+      "published_parsed": "2026-07-20T21:55:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "tags": [
+        "ai",
+        "ai drones",
+        "alaska",
+        "california",
+        "drones",
+        "firefighting",
+        "tech",
+        "wildfires",
+        "xprize"
+      ]
+    },
     {
       "title": "UGREEN NASync DXP4800 GT Review and Initial Setup",
       "link": "https://www.packetswitch.co.uk/ugreen-nasync-dxp4800-gt-review-and-initial-setup/",

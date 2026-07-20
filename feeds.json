@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T19:45:44.499084+00:00",
+  "last_updated": "2026-07-20T23:57:24.436620+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,8 +15,10 @@
     "aerial surveillance",
     "ai",
     "ai data centers",
+    "ai drones",
     "ai energy",
     "aiops",
+    "alaska",
     "allstate",
     "android",
     "ansible",
@@ -34,12 +36,12 @@
     "bgp",
     "biz & it",
     "blog",
-    "boom supersonic",
     "bootkits",
     "botnets",
     "bridging",
     "broadcom",
     "browsers",
+    "california",
     "canada",
     "certifications",
     "change management",
@@ -74,10 +76,8 @@
     "europe",
     "evpn",
     "exploits",
-    "faa",
     "fabric",
     "features",
-    "federal aviation administration",
     "firefighters",
     "firefighting",
     "firesat",
@@ -131,7 +131,6 @@
     "mq-9a reaper",
     "mtu",
     "multicast",
-    "nasa",
     "nat",
     "navigation blog",
     "nbcuniversal",
@@ -206,9 +205,6 @@
     "srv6",
     "strait of hormuz",
     "streaming",
-    "supersonic boom",
-    "supersonic flight",
-    "supersonic travel",
     "surveillance",
     "switching",
     "syndication",
@@ -242,12 +238,32 @@
     "windows",
     "windows defender",
     "worth reading",
-    "x-59",
     "xona space systems",
+    "xprize",
     "zero days",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "published": "Mon, 20 Jul 2026 21:55:52 +0000",
+      "published_parsed": "2026-07-20T21:55:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "tags": [
+        "ai",
+        "ai drones",
+        "alaska",
+        "california",
+        "drones",
+        "firefighting",
+        "tech",
+        "wildfires",
+        "xprize"
+      ]
+    },
     {
       "title": "UGREEN NASync DXP4800 GT Review and Initial Setup",
       "link": "https://www.packetswitch.co.uk/ugreen-nasync-dxp4800-gt-review-and-initial-setup/",
@@ -941,27 +957,6 @@
         "infostealers",
         "macos malware",
         "security"
-      ]
-    },
-    {
-      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
-      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
-      "published": "Thu, 02 Jul 2026 17:29:37 +0000",
-      "published_parsed": "2026-07-02T17:29:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
-      "tags": [
-        "boom supersonic",
-        "faa",
-        "federal aviation administration",
-        "nasa",
-        "policy",
-        "supersonic boom",
-        "supersonic flight",
-        "supersonic travel",
-        "tech",
-        "x-59"
       ]
     },
     {
