@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-07-21T15:45:06.968001+00:00",
-  "article_count": 2001,
+  "last_updated": "2026-07-21T19:26:53.960261+00:00",
+  "article_count": 2003,
   "articles": [
+    {
+      "title": "Rock Stars, Frameworks, and the Hallway Track: AutoCon 5 in München",
+      "link": "https://networkautomation.forum/blog/autocon-5-survey-results",
+      "published": "Tue, 21 Jul 2026 19:10:22 +0000",
+      "published_parsed": "2026-07-21T19:10:22+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "In June, more than 650 network automation practitioners packed into Munich for AutoCon 5, joined by another 250+ who came a couple days early for hands-on workshops. Then, like we do after every AutoCon, we asked you to tell us how it went; the good, the annoying, and everything in between…",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "published": "Tue, 21 Jul 2026 15:18:23 +0000",
+      "published_parsed": "2026-07-21T15:18:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
+      "tags": [
+        "apps",
+        "biz & it",
+        "software",
+        "tech"
+      ]
+    },
     {
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
       "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",

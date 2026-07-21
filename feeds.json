@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T15:45:06.994324+00:00",
+  "last_updated": "2026-07-21T19:26:53.987195+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -37,7 +37,6 @@
     "biz & it",
     "blog",
     "bootkits",
-    "botnets",
     "bridging",
     "broadcom",
     "browsers",
@@ -55,7 +54,6 @@
     "context bombing\\",
     "culture",
     "cumulus linux",
-    "cybercrime",
     "data center",
     "design",
     "dhcp",
@@ -166,20 +164,17 @@
     "prompt injections",
     "proxy networks",
     "qos",
-    "ransomware",
     "rare earths",
     "routers",
     "russia",
     "russia invasion of ukraine",
     "russia state",
-    "russian shadow fleet",
     "russian war on ukraine",
     "samknows",
     "samsung",
     "san",
     "sandworm",
     "satellites",
-    "scams",
     "science",
     "sd-wan",
     "sdn",
@@ -244,6 +239,33 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Rock Stars, Frameworks, and the Hallway Track: AutoCon 5 in München",
+      "link": "https://networkautomation.forum/blog/autocon-5-survey-results",
+      "published": "Tue, 21 Jul 2026 19:10:22 +0000",
+      "published_parsed": "2026-07-21T19:10:22+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "In June, more than 650 network automation practitioners packed into Munich for AutoCon 5, joined by another 250+ who came a couple days early for hands-on workshops. Then, like we do after every AutoCon, we asked you to tell us how it went; the good, the annoying, and everything in between…",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "published": "Tue, 21 Jul 2026 15:18:23 +0000",
+      "published_parsed": "2026-07-21T15:18:23+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
+      "tags": [
+        "apps",
+        "biz & it",
+        "software",
+        "tech"
+      ]
+    },
     {
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
       "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
@@ -900,23 +922,6 @@
       ]
     },
     {
-      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-      "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-      "published": "Mon, 06 Jul 2026 20:52:42 +0000",
-      "published_parsed": "2026-07-06T20:52:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
-      "tags": [
-        "aerial surveillance",
-        "drones",
-        "military drones",
-        "russia",
-        "russian shadow fleet",
-        "tech"
-      ]
-    },
-    {
       "title": "Worth Reading: More VXLAN and EVPN Labs",
       "link": "https://blog.ipspace.net/2026/07/worth-reading-more-vxlan-evpn/?utm_source=atom_feed",
       "published": "2026-07-06T07:44:00+02:00",
@@ -1104,25 +1109,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-      "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-      "published": "Wed, 24 Jun 2026 21:03:34 +0000",
-      "published_parsed": "2026-06-24T21:03:34+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
-      "tags": [
-        "biz & it",
-        "botnets",
-        "cybercrime",
-        "law enforcement",
-        "policy",
-        "ransomware",
-        "scams",
-        "security"
       ]
     },
     {
