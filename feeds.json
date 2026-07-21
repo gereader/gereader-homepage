@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T04:16:04.531717+00:00",
-  "article_count": 110,
+  "last_updated": "2026-07-21T09:28:11.455271+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1844,18 +1844,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Ten Years of ITNOG",
-      "link": "https://blog.ipspace.net/2026/04/itnog-10/?utm_source=atom_feed",
-      "published": "2026-04-22T07:25:00+02:00",
-      "published_parsed": "2026-04-22T07:25:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I spent the last two days in Bologna at ITNOG 10 in the excellent company of Italian networking engineers (many of them personal friends) and a few guests from around the world. As always, the organizers and the program committee didn’t disappoint – it was a smoothly organized, lovely event full of...",
-      "tags": [
-        "networking"
       ]
     }
   ]
