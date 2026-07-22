@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T04:17:47.375747+00:00",
+  "last_updated": "2026-07-22T09:27:32.668920+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -239,6 +239,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "On the Futility of Opening Ansible Issues",
+      "link": "https://blog.ipspace.net/2026/07/futility-opening-ansible-issues/?utm_source=atom_feed",
+      "published": "2026-07-22T08:03:00+02:00",
+      "published_parsed": "2026-07-22T08:03:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Remember the anonymous troll who chided me for writing a rant instead of opening a GitHub issue in the relevant Ansible repository? Well, I decided to be an open-source poster boy when I stumbled upon the next Ansible bug, and ended up feeling like a sweet summer child :( Read more …",
+      "tags": [
+        "ansible",
+        "networking"
+      ]
+    },
     {
       "title": "Rock Stars, Frameworks, and the Hallway Track: AutoCon 5 in München",
       "link": "https://networkautomation.forum/blog/autocon-5-survey-results",
@@ -1817,19 +1830,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "Worth Reading: AI and Knowledge Stagnation",
-      "link": "https://blog.ipspace.net/2026/04/worth-reading-ai-lost-knowledge/?utm_source=atom_feed",
-      "published": "2026-04-23T07:48:00+02:00",
-      "published_parsed": "2026-04-23T07:48:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Another week, another interesting AI article (is anyone writing about anything else these days?), this time from Noah Smith (another author worth following). I found this gem hidden in his weekly roundup : Instead of trying to write a piece of code from scratch, or prove a math theorem from...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
