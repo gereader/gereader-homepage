@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T04:16:01.308497+00:00",
-  "article_count": 109,
+  "last_updated": "2026-07-23T09:24:57.615104+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1824,21 +1824,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "State of Network Automation with Urs Baumann",
-      "link": "https://blog.ipspace.net/2026/04/state-network-automation/?utm_source=atom_feed",
-      "published": "2026-04-24T07:41:00+01:00",
-      "published_parsed": "2026-04-24T07:41:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I stopped tracking the (lack of) progress in network automation years ago, when I realized I had nothing new to say. As an eternal optimist, I hoped I was just missing something, but Urs Baumann (the guest of Software Gone Wild Episode 206 ) destroyed my hopes when he said, “ I can still use the...",
-      "tags": [
-        "automation",
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
