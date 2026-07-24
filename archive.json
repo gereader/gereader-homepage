@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-07-24T09:22:21.173292+00:00",
-  "article_count": 2009,
+  "last_updated": "2026-07-24T15:26:01.517906+00:00",
+  "article_count": 2010,
   "articles": [
+    {
+      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+      "published": "Fri, 24 Jul 2026 11:20:43 +0000",
+      "published_parsed": "2026-07-24T11:20:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+      "tags": [
+        "carnegie mellon university",
+        "earthquakes",
+        "natural disasters",
+        "robotics",
+        "robots",
+        "tech",
+        "venezuela"
+      ]
+    },
     {
       "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
       "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
