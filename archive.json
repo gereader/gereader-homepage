@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-07-23T19:21:29.023709+00:00",
-  "article_count": 2007,
+  "last_updated": "2026-07-24T00:02:59.517868+00:00",
+  "article_count": 2009,
   "articles": [
+    {
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "published": "Thu, 23 Jul 2026 20:47:33 +0000",
+      "published_parsed": "2026-07-23T20:47:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/LG-McAfee-pop-up-e1784837368961-640x293.jpg",
+      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "tags": [
+        "ads",
+        "lg",
+        "mcafee",
+        "microsoft",
+        "monitors",
+        "software",
+        "tech",
+        "windows",
+        "windows 11"
+      ]
+    },
+    {
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "published": "Thu, 23 Jul 2026 19:14:25 +0000",
+      "published_parsed": "2026-07-23T19:14:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "tags": [
+        "facial recognition",
+        "google",
+        "security",
+        "selfies",
+        "tech"
+      ]
+    },
     {
       "title": "I wanted a clock that never needed setting. Things escalated.",
       "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",

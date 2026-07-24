@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T19:21:29.050268+00:00",
-  "article_count": 108,
+  "last_updated": "2026-07-24T00:02:59.544029+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -14,6 +14,7 @@
     "3d print",
     "3d printer",
     "aci",
+    "ads",
     "aerial surveillance",
     "ai",
     "ai data centers",
@@ -79,6 +80,7 @@
     "evpn",
     "exploits",
     "fabric",
+    "facial recognition",
     "features",
     "firefighters",
     "firefighting",
@@ -117,6 +119,7 @@
     "law enforcement",
     "lawsuit",
     "leo",
+    "lg",
     "linux",
     "lisp",
     "llms",
@@ -126,10 +129,12 @@
     "low-earth orbit satellites",
     "macos malware",
     "maker",
+    "mcafee",
     "microsoft",
     "military",
     "military drones",
     "military robots",
+    "monitors",
     "mp materials",
     "mpls",
     "mpls vpn",
@@ -190,6 +195,7 @@
     "sea drones",
     "secure boot",
     "security",
+    "selfies",
     "service providers",
     "shims",
     "shipping",
@@ -200,8 +206,6 @@
     "smartphones",
     "smoke",
     "snmp",
-    "social media",
-    "social psychology",
     "software",
     "software gone wild",
     "space",
@@ -237,6 +241,7 @@
     "whatsapp",
     "wildfires",
     "windows",
+    "windows 11",
     "windows defender",
     "worth reading",
     "xona space systems",
@@ -245,6 +250,42 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "published": "Thu, 23 Jul 2026 20:47:33 +0000",
+      "published_parsed": "2026-07-23T20:47:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/LG-McAfee-pop-up-e1784837368961-640x293.jpg",
+      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "tags": [
+        "ads",
+        "lg",
+        "mcafee",
+        "microsoft",
+        "monitors",
+        "software",
+        "tech",
+        "windows",
+        "windows 11"
+      ]
+    },
+    {
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "published": "Thu, 23 Jul 2026 19:14:25 +0000",
+      "published_parsed": "2026-07-23T19:14:25+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "tags": [
+        "facial recognition",
+        "google",
+        "security",
+        "selfies",
+        "tech"
+      ]
+    },
     {
       "title": "I wanted a clock that never needed setting. Things escalated.",
       "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
@@ -879,21 +920,6 @@
         "e-waste",
         "policy",
         "samknows",
-        "tech"
-      ]
-    },
-    {
-      "title": "TikTok users don't have as much agency over their FYPs as they think",
-      "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
-      "published": "Wed, 08 Jul 2026 18:00:49 +0000",
-      "published_parsed": "2026-07-08T18:00:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs",
-      "tags": [
-        "science",
-        "social media",
-        "social psychology",
         "tech"
       ]
     },
