@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-24T19:27:25.479409+00:00",
-  "article_count": 2010,
+  "last_updated": "2026-07-25T00:05:30.708141+00:00",
+  "article_count": 2011,
   "articles": [
+    {
+      "title": "Roku raises streaming stick prices by up to 60 percent",
+      "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+      "published": "Fri, 24 Jul 2026 19:41:06 +0000",
+      "published_parsed": "2026-07-24T19:41:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+      "tags": [
+        "ram",
+        "roku",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
       "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",

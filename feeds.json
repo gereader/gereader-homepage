@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T19:27:25.505996+00:00",
+  "last_updated": "2026-07-25T00:05:30.735437+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,7 +15,6 @@
     "3d printer",
     "aci",
     "ads",
-    "aerial surveillance",
     "ai",
     "ai data centers",
     "ai drones",
@@ -84,12 +83,10 @@
     "fabric",
     "facial recognition",
     "features",
-    "firefighters",
     "firefighting",
     "firesat",
     "firewall",
     "firewalls",
-    "fireworks",
     "foldables",
     "fubo",
     "galaxy z fold",
@@ -118,7 +115,6 @@
     "jailbreaks",
     "jurassic park",
     "lan",
-    "law enforcement",
     "lawsuit",
     "leo",
     "lg",
@@ -177,10 +173,12 @@
     "prompt injections",
     "proxy networks",
     "qos",
+    "ram",
     "rare earths",
     "raspberry pi",
     "robotics",
     "robots",
+    "roku",
     "routers",
     "russia",
     "russia invasion of ukraine",
@@ -214,7 +212,6 @@
     "sr-mpls",
     "srv6",
     "streaming",
-    "surveillance",
     "switching",
     "syndication",
     "t-mobile",
@@ -253,6 +250,21 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Roku raises streaming stick prices by up to 60 percent",
+      "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+      "published": "Fri, 24 Jul 2026 19:41:06 +0000",
+      "published_parsed": "2026-07-24T19:41:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+      "tags": [
+        "ram",
+        "roku",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
       "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
@@ -818,24 +830,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-      "link": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
-      "published": "Fri, 10 Jul 2026 22:37:22 +0000",
-      "published_parsed": "2026-07-10T22:37:22+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "More police and firefighters use drones to catch and deter illegal fireworks.",
-      "tags": [
-        "aerial surveillance",
-        "drones",
-        "firefighters",
-        "fireworks",
-        "law enforcement",
-        "surveillance",
-        "tech"
       ]
     },
     {
