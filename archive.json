@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-07-27T16:22:28.081275+00:00",
-  "article_count": 2011,
+  "last_updated": "2026-07-27T19:37:19.041186+00:00",
+  "article_count": 2013,
   "articles": [
+    {
+      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+      "published": "Mon, 27 Jul 2026 15:58:34 +0000",
+      "published_parsed": "2026-07-27T15:58:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
+      "tags": [
+        "android",
+        "government",
+        "legal",
+        "privacy",
+        "security",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+      "published": "Mon, 27 Jul 2026 15:02:45 +0000",
+      "published_parsed": "2026-07-27T15:02:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Framework's latest modular laptop trades one set of problems for another.",
+      "tags": [
+        "features",
+        "framework",
+        "framework laptop",
+        "framework laptop 13",
+        "framework laptop 13 pro",
+        "intel",
+        "intel core",
+        "intel core ultra",
+        "panther lake",
+        "tech"
+      ]
+    },
     {
       "title": "Roku raises streaming stick prices by up to 60 percent",
       "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",

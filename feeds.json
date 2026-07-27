@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T16:22:28.108248+00:00",
+  "last_updated": "2026-07-27T19:37:19.067775+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -29,7 +29,6 @@
     "apple",
     "apps",
     "arp",
-    "artificial intelligence",
     "australia",
     "automated troubleshooting",
     "automation",
@@ -88,6 +87,10 @@
     "firewall",
     "firewalls",
     "foldables",
+    "framework",
+    "framework laptop",
+    "framework laptop 13",
+    "framework laptop 13 pro",
     "fubo",
     "galaxy z fold",
     "general",
@@ -96,6 +99,7 @@
     "global warming",
     "gnss",
     "google",
+    "government",
     "gps",
     "gre",
     "guardrails",
@@ -107,6 +111,9 @@
     "hp",
     "india",
     "infostealers",
+    "intel",
+    "intel core",
+    "intel core ultra",
     "internet",
     "ip routing",
     "ipv6",
@@ -116,6 +123,7 @@
     "jurassic park",
     "lan",
     "lawsuit",
+    "legal",
     "leo",
     "lg",
     "linux",
@@ -164,11 +172,13 @@
     "ospf",
     "overlay networks",
     "palo alto",
+    "panther lake",
     "phishing",
     "phoenix tailings",
     "podcast",
     "policy",
     "printers",
+    "privacy",
     "programming",
     "prompt injections",
     "proxy networks",
@@ -181,7 +191,6 @@
     "roku",
     "routers",
     "russia",
-    "russia invasion of ukraine",
     "russia state",
     "russian invasion of ukraine",
     "russian war on ukraine",
@@ -199,8 +208,6 @@
     "selfies",
     "service providers",
     "shims",
-    "shipping",
-    "ships",
     "signal messenger",
     "skiff",
     "smartphones",
@@ -250,6 +257,45 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+      "published": "Mon, 27 Jul 2026 15:58:34 +0000",
+      "published_parsed": "2026-07-27T15:58:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
+      "tags": [
+        "android",
+        "government",
+        "legal",
+        "privacy",
+        "security",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+      "published": "Mon, 27 Jul 2026 15:02:45 +0000",
+      "published_parsed": "2026-07-27T15:02:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Framework's latest modular laptop trades one set of problems for another.",
+      "tags": [
+        "features",
+        "framework",
+        "framework laptop",
+        "framework laptop 13",
+        "framework laptop 13 pro",
+        "intel",
+        "intel core",
+        "intel core ultra",
+        "panther lake",
+        "tech"
+      ]
+    },
     {
       "title": "Roku raises streaming stick prices by up to 60 percent",
       "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
@@ -762,43 +808,6 @@
         "proxy networks",
         "routers",
         "security"
-      ]
-    },
-    {
-      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-      "published": "Mon, 13 Jul 2026 20:41:26 +0000",
-      "published_parsed": "2026-07-13T20:41:26+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
-      "tags": [
-        "drones",
-        "military drones",
-        "russia invasion of ukraine",
-        "russian war on ukraine",
-        "sea drones",
-        "shipping",
-        "ships",
-        "tech",
-        "ukraine",
-        "ukraine war"
-      ]
-    },
-    {
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "published": "Mon, 13 Jul 2026 17:18:25 +0000",
-      "published_parsed": "2026-07-13T17:18:25+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "tags": [
-        "apple",
-        "artificial intelligence",
-        "samsung",
-        "smartphones",
-        "tech"
       ]
     },
     {
