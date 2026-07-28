@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T16:05:22.258732+00:00",
-  "article_count": 107,
+  "last_updated": "2026-07-28T19:27:24.566486+00:00",
+  "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1800,19 +1800,6 @@
       "summary": "At ITNOG 10, I’ve seen something that I haven’t seen in a very long time: a mini-Interop-style physical lab using a dozen devices from different vendors. The network core was a leaf-and-spine fabric with off-path BGP route reflectors and numerous other devices attached to it. I’ve configured a few...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Pytest for Automated Network Testing (I)",
-      "link": "https://www.packetswitch.co.uk/pytest-for-automated-network-testing-i/",
-      "published": "Wed, 29 Apr 2026 18:25:34 GMT",
-      "published_parsed": "2026-04-29T18:25:34+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/pytest-2-.png",
-      "summary": "Pytest gives you full control. You write the test, you decide exactly what to check, and you get a clear pass or fail result. You can test one device",
-      "tags": [
-        "netdevops",
         "networking"
       ]
     }
