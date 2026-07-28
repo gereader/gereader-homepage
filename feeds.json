@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T04:12:10.514294+00:00",
-  "article_count": 108,
+  "last_updated": "2026-07-28T09:36:57.469434+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1813,19 +1813,6 @@
       "summary": "Pytest gives you full control. You write the test, you decide exactly what to check, and you get a clear pass or fail result. You can test one device",
       "tags": [
         "netdevops",
-        "networking"
-      ]
-    },
-    {
-      "title": "On Generating EVPN MAC/IP Routes",
-      "link": "https://blog.ipspace.net/2026/04/evpn-generating-macip-routes/?utm_source=atom_feed",
-      "published": "2026-04-29T07:38:00+02:00",
-      "published_parsed": "2026-04-29T07:38:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Naveen Kumar Devaraj was reading my Integrated Routing and Bridging (IRB) with EVPN MAC-VRF Instances lab exercise and spotted this detail: Arista EOS originates MAC-IP routes with and without IP addresses, effectively doubling the size of the EVPN BGP table He kindly wrote a LinkedIn comment...",
-      "tags": [
-        "evpn",
         "networking"
       ]
     }
