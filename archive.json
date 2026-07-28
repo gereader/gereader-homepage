@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-07-27T19:37:19.041186+00:00",
-  "article_count": 2013,
+  "last_updated": "2026-07-28T00:03:52.241151+00:00",
+  "article_count": 2015,
   "articles": [
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "published": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "published_parsed": "2026-07-27T21:56:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "microsoft",
+        "security"
+      ]
+    },
+    {
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "published": "Mon, 27 Jul 2026 20:32:45 +0000",
+      "published_parsed": "2026-07-27T20:32:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
+      "tags": [
+        "apple",
+        "tech"
+      ]
+    },
     {
       "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
       "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
