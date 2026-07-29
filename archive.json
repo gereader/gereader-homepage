@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-29T15:49:42.746091+00:00",
-  "article_count": 2017,
+  "last_updated": "2026-07-29T19:19:53.026412+00:00",
+  "article_count": 2018,
   "articles": [
+    {
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "published": "Wed, 29 Jul 2026 18:08:22 +0000",
+      "published_parsed": "2026-07-29T18:08:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's new API relies on parents to set age ranges in Family Link.",
+      "tags": [
+        "age verification",
+        "apps",
+        "google",
+        "privacy",
+        "tech"
+      ]
+    },
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
