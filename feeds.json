@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T00:01:30.901757+00:00",
+  "last_updated": "2026-07-30T04:06:54.790918+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -251,13 +251,13 @@
   ],
   "articles": [
     {
-      "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
       "published": "Wed, 29 Jul 2026 22:07:06 +0000",
       "published_parsed": "2026-07-29T22:07:06+00:00",
       "source": "Ars Technica - Tech",
       "image": null,
-      "summary": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
       "tags": [
         "ai",
         "biz & it",
