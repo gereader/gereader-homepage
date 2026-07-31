@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T04:23:56.836229+00:00",
-  "article_count": 104,
+  "last_updated": "2026-07-31T09:46:13.376647+00:00",
+  "article_count": 105,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -250,6 +250,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Installing CLIs with uv",
+      "link": "https://www.packetcoders.io/installing-clis-with-uv/",
+      "published": "Fri, 31 Jul 2026 07:00:05 GMT",
+      "published_parsed": "2026-07-31T07:00:05+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973.png",
+      "summary": "🐍 Python Tip! Tired of typing uv run every time? Install any Python CLI as a standalone uv tool and call it directly from anywhere, with no venv and no prefix. # Before: prefix every call with `uv run` uv run mytool --help uv run mytool serve # After: install once... uv",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
