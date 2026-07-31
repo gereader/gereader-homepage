@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T09:46:13.376647+00:00",
-  "article_count": 105,
+  "last_updated": "2026-07-31T16:02:00.134116+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -29,9 +29,11 @@
     "airplanes",
     "alaska",
     "allstate",
+    "amazon",
     "android",
     "ansible",
     "apple",
+    "apple earnings",
     "apps",
     "arp",
     "australia",
@@ -61,8 +63,10 @@
     "company news",
     "containers",
     "context bombing\\",
+    "copernicus",
     "cumulus linux",
     "data center",
+    "data centers",
     "design",
     "devops",
     "dhcp",
@@ -70,6 +74,7 @@
     "dmvpn",
     "dns",
     "docker",
+    "donald trump iran war",
     "drones",
     "e-waste",
     "earthquakes",
@@ -94,13 +99,9 @@
     "fubo",
     "galaxy z fold",
     "general",
-    "global navigation satellite systems",
-    "global positioning systems",
     "global warming",
-    "gnss",
     "google",
     "government",
-    "gps",
     "gre",
     "guardrails",
     "hackers",
@@ -117,26 +118,28 @@
     "intel core ultra",
     "internet",
     "ip routing",
+    "ipad",
+    "iphone",
     "ipv6",
+    "iran",
     "is-is",
     "jfrog",
     "lan",
     "large langage models",
     "lawsuit",
     "legal",
-    "leo",
     "lg",
     "linux",
     "lisp",
     "llms",
     "load balancing",
     "local privilege escalation",
-    "low earth orbit",
-    "low-earth orbit satellites",
     "macos malware",
     "maker",
     "mcafee",
+    "memory shortage",
     "microsoft",
+    "microsoft exchange",
     "military",
     "military drones",
     "military robots",
@@ -167,7 +170,7 @@
     "nfv",
     "nornir",
     "nsx",
-    "oneplus",
+    "oil",
     "openai",
     "openflow",
     "ospf",
@@ -199,7 +202,9 @@
     "samsung",
     "san",
     "sandworm",
+    "satellite imagery",
     "satellites",
+    "saudi arabia",
     "science",
     "sd-wan",
     "sdn",
@@ -207,6 +212,7 @@
     "secure boot",
     "security",
     "selfies",
+    "sentinel satellites",
     "service providers",
     "shims",
     "smartphones",
@@ -217,12 +223,13 @@
     "space",
     "sr-mpls",
     "srv6",
+    "strait of hormuz",
     "streaming",
     "switching",
     "syndication",
-    "t-mobile",
     "tcp",
     "tech",
+    "tim cook",
     "tips",
     "traffic engineering",
     "training",
@@ -231,6 +238,7 @@
     "ukraine war",
     "unifi",
     "united states",
+    "usa-iran war",
     "venezuela",
     "video",
     "virtualization",
@@ -244,7 +252,6 @@
     "windows 11",
     "windows defender",
     "worth reading",
-    "xona space systems",
     "xprize",
     "zero days",
     "zerodays"
@@ -261,6 +268,64 @@
       "tags": [
         "networking",
         "tips"
+      ]
+    },
+    {
+      "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+      "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+      "published": "Thu, 30 Jul 2026 22:05:35 +0000",
+      "published_parsed": "2026-07-30T22:05:35+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
+      "tags": [
+        "apple",
+        "apple earnings",
+        "ipad",
+        "iphone",
+        "memory shortage",
+        "tech",
+        "tim cook"
+      ]
+    },
+    {
+      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+      "published": "Thu, 30 Jul 2026 20:57:22 +0000",
+      "published_parsed": "2026-07-30T20:57:22+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "microsoft exchange",
+        "security",
+        "zerodays"
+      ]
+    },
+    {
+      "title": "Iran struck Amazon data centers again amid widening war, satellites show",
+      "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+      "published": "Thu, 30 Jul 2026 20:45:39 +0000",
+      "published_parsed": "2026-07-30T20:45:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Satellites show burn scars and fires at AWS data centers and Saudi oil refinery.",
+      "tags": [
+        "amazon",
+        "copernicus",
+        "data centers",
+        "donald trump iran war",
+        "iran",
+        "oil",
+        "satellite imagery",
+        "satellites",
+        "saudi arabia",
+        "sentinel satellites",
+        "strait of hormuz",
+        "tech",
+        "usa-iran war"
       ]
     },
     {
@@ -703,21 +768,6 @@
       ]
     },
     {
-      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
-      "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
-      "published": "Thu, 16 Jul 2026 16:29:46 +0000",
-      "published_parsed": "2026-07-16T16:29:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "OnePlus promises to continue supporting the phones it has already released.",
-      "tags": [
-        "android",
-        "oneplus",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
       "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "published": "Thu, 16 Jul 2026 15:48:21 +0000",
@@ -732,28 +782,6 @@
         "biz & it",
         "energy investment",
         "syndication"
-      ]
-    },
-    {
-      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
-      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-      "published": "Thu, 16 Jul 2026 11:00:21 +0000",
-      "published_parsed": "2026-07-16T11:00:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
-      "tags": [
-        "global navigation satellite systems",
-        "global positioning systems",
-        "gnss",
-        "gps",
-        "leo",
-        "low earth orbit",
-        "low-earth orbit satellites",
-        "satellites",
-        "space",
-        "tech",
-        "xona space systems"
       ]
     },
     {
@@ -1071,22 +1099,6 @@
         "infostealers",
         "macos malware",
         "security"
-      ]
-    },
-    {
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "published": "Wed, 01 Jul 2026 21:21:21 +0000",
-      "published_parsed": "2026-07-01T21:21:21+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-      "tags": [
-        "biz & it",
-        "broadcom",
-        "lawsuit",
-        "t-mobile",
-        "vmware"
       ]
     },
     {
@@ -1777,19 +1789,6 @@
       "summary": "This is where wg-easy comes in. It is a simple open-source web UI that sits on top of WireGuard and takes care of all the boring bits for you.",
       "tags": [
         "homelab",
-        "networking"
-      ]
-    },
-    {
-      "title": "I Vibe-Coded My CV Into a CLI",
-      "link": "https://www.packetswitch.co.uk/i-vibe-coded-my-cv-into-a-cli/",
-      "published": "Sat, 02 May 2026 10:29:40 GMT",
-      "published_parsed": "2026-05-02T10:29:40+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/cli-cv.png",
-      "summary": "The idea is that a site that looks and feels like a CLI, where you can run the usual show commands and get output, except the output is my CV.",
-      "tags": [
-        "general",
         "networking"
       ]
     }
