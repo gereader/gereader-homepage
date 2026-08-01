@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T15:02:01.054615+00:00",
-  "article_count": 104,
+  "last_updated": "2026-08-01T19:11:23.506616+00:00",
+  "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1774,19 +1774,6 @@
       "image": null,
       "summary": "Last week’s SwiNOG was (as expected) great fun at a phenomenal location , starting with the first slide of the first presentation: “6 Stages of Network De-sh*tification”. I particularly loved the “talk less, chat more” schedule. The longer breaks gave us plenty of time to catch up with old friends...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Simple Wireguard VPN Setup with wg-easy",
-      "link": "https://www.packetswitch.co.uk/simple-wireguard-vpn-setup-with-wg-easy/",
-      "published": "Sun, 03 May 2026 16:18:45 GMT",
-      "published_parsed": "2026-05-03T16:18:45+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/BLOG-COVERS.png",
-      "summary": "This is where wg-easy comes in. It is a simple open-source web UI that sits on top of WireGuard and takes care of all the boring bits for you.",
-      "tags": [
-        "homelab",
         "networking"
       ]
     }
