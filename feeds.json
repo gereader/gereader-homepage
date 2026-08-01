@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:37:03.460141+00:00",
+  "last_updated": "2026-08-01T00:03:04.244200+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -32,6 +32,7 @@
     "amazon",
     "android",
     "ansible",
+    "anthropic",
     "apple",
     "apple earnings",
     "apps",
@@ -54,6 +55,7 @@
     "change management",
     "cisa",
     "cisco",
+    "claude",
     "clickfix",
     "climate change",
     "clock",
@@ -68,9 +70,9 @@
     "data center",
     "data centers",
     "design",
+    "developer verification",
     "devops",
     "dhcp",
-    "digital markets act",
     "dmvpn",
     "dns",
     "docker",
@@ -81,7 +83,6 @@
     "eigrp",
     "energy fuels",
     "energy investment",
-    "europe",
     "evpn",
     "exploits",
     "fabric",
@@ -112,7 +113,6 @@
     "hp",
     "hugging face",
     "india",
-    "infostealers",
     "intel",
     "intel core",
     "intel core ultra",
@@ -134,7 +134,6 @@
     "llms",
     "load balancing",
     "local privilege escalation",
-    "macos malware",
     "maker",
     "mcafee",
     "memory shortage",
@@ -257,6 +256,37 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Google plans to exempt sanctioned nations from Android developer verification",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+      "published": "Fri, 31 Jul 2026 21:35:56 +0000",
+      "published_parsed": "2026-07-31T21:35:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+      "tags": [
+        "android",
+        "developer verification",
+        "google",
+        "tech"
+      ]
+    },
+    {
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "published": "Fri, 31 Jul 2026 20:39:14 +0000",
+      "published_parsed": "2026-07-31T20:39:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biz & it",
+        "claude",
+        "security"
+      ]
+    },
     {
       "title": "Installing CLIs with uv",
       "link": "https://www.packetcoders.io/installing-clis-with-uv/",
@@ -736,22 +766,6 @@
       ]
     },
     {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "published": "Thu, 16 Jul 2026 20:41:45 +0000",
-      "published_parsed": "2026-07-16T20:41:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google says these changes could endanger user privacy and security.",
-      "tags": [
-        "ai",
-        "digital markets act",
-        "europe",
-        "google",
-        "tech"
-      ]
-    },
-    {
       "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
@@ -1083,22 +1097,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "published": "Thu, 02 Jul 2026 19:38:57 +0000",
-      "published_parsed": "2026-07-02T19:38:57+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
-      "tags": [
-        "apple",
-        "biz & it",
-        "infostealers",
-        "macos malware",
-        "security"
       ]
     },
     {
