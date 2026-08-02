@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T04:24:30.253849+00:00",
-  "article_count": 103,
+  "last_updated": "2026-08-02T09:09:53.031234+00:00",
+  "article_count": 102,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1762,18 +1762,6 @@
       "summary": "Adding IRB to a EVPN MAC-VRFs (the fancy way of saying stretched VLANs ) seems like a no-brainer: Add IP addresses to VLAN interfaces Optionally add a shared anycast gateway Declare “Mission Accomplished” (and try to ignore the inevitable phone call at 2 AM on a Sunday night) Making that work in a...",
       "tags": [
         "evpn",
-        "networking"
-      ]
-    },
-    {
-      "title": "SwiNOG 41: It Was Nice to Be Back",
-      "link": "https://blog.ipspace.net/2026/05/swinog-41/?utm_source=atom_feed",
-      "published": "2026-05-04T07:09:00+02:00",
-      "published_parsed": "2026-05-04T07:09:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Last week’s SwiNOG was (as expected) great fun at a phenomenal location , starting with the first slide of the first presentation: “6 Stages of Network De-sh*tification”. I particularly loved the “talk less, chat more” schedule. The longer breaks gave us plenty of time to catch up with old friends...",
-      "tags": [
         "networking"
       ]
     }
