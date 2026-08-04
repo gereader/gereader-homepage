@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T16:12:49.391678+00:00",
-  "article_count": 99,
+  "last_updated": "2026-08-04T19:39:47.852630+00:00",
+  "article_count": 101,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -99,6 +99,7 @@
     "framework laptop 13 pro",
     "fubo",
     "galaxy z fold",
+    "gemini",
     "general",
     "global warming",
     "google",
@@ -127,6 +128,7 @@
     "lan",
     "large langage models",
     "lawsuit",
+    "leds",
     "legal",
     "lg",
     "linux",
@@ -256,6 +258,35 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Minisforum MS-A2 Review for Network Labs/Homelab",
+      "link": "https://www.packetswitch.co.uk/minisforum-ms-a2-review-for-network-labs-homelab/",
+      "published": "Tue, 04 Aug 2026 16:38:03 GMT",
+      "published_parsed": "2026-08-04T16:38:03+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/08/labs-budget-3-.png",
+      "summary": "Sharing my experience using the Minisforum MS-A2 for network labs. It costs £1160 with an AMD Ryzen 9 9955HX, 32GB DDR5 RAM, and 1TB storage.",
+      "tags": [
+        "homelab",
+        "networking"
+      ]
+    },
+    {
+      "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+      "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+      "published": "Tue, 04 Aug 2026 16:11:05 +0000",
+      "published_parsed": "2026-08-04T16:11:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+      "tags": [
+        "gemini",
+        "google",
+        "leds",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Google plans to exempt sanctioned nations from Android developer verification",
       "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
