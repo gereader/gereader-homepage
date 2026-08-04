@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T04:15:36.810787+00:00",
-  "article_count": 100,
+  "last_updated": "2026-08-04T09:38:59.092798+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1724,19 +1724,6 @@
         "arp",
         "bridging",
         "networking"
-      ]
-    },
-    {
-      "title": "Hmmm: Cloudflare's Automatic Return Routing",
-      "link": "https://blog.ipspace.net/2026/05/worth-reading-cloudflare-automatic-return-routing/?utm_source=atom_feed",
-      "published": "2026-05-06T08:12:00+02:00",
-      "published_parsed": "2026-05-06T08:12:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A while ago, I found the How Automatic Return Routing solves IP overlap article on Cloudflare’s blog. They evidently have a technology that addresses a pain point well worth solving (access to shared resources from clients using overlapping address ranges). I just hate how they’re selling it. Go...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
