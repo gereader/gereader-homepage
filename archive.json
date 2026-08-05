@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-08-05T16:01:22.087435+00:00",
-  "article_count": 2027,
+  "last_updated": "2026-08-05T19:38:01.945385+00:00",
+  "article_count": 2029,
   "articles": [
+    {
+      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+      "published": "Wed, 05 Aug 2026 17:12:39 +0000",
+      "published_parsed": "2026-08-05T17:12:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
+      "tags": [
+        "disney plus",
+        "netflix",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "published": "Wed, 05 Aug 2026 15:30:02 +0000",
+      "published_parsed": "2026-08-05T15:30:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google assistant",
+        "tech"
+      ]
+    },
     {
       "title": "Minisforum MS-A2 Review for Network Labs/Homelab",
       "link": "https://www.packetswitch.co.uk/minisforum-ms-a2-review-for-network-labs-homelab/",

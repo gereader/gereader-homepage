@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T16:01:22.187900+00:00",
+  "last_updated": "2026-08-05T19:38:01.966380+00:00",
   "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
@@ -49,7 +49,6 @@
     "bridging",
     "broadcom",
     "california",
-    "canada",
     "carnegie mellon university",
     "certifications",
     "change management",
@@ -57,7 +56,6 @@
     "cisco",
     "claude",
     "clickfix",
-    "climate change",
     "clock",
     "cloud",
     "commercial airlines",
@@ -73,6 +71,7 @@
     "developer verification",
     "devops",
     "dhcp",
+    "disney plus",
     "dmvpn",
     "dns",
     "docker",
@@ -89,7 +88,6 @@
     "facial recognition",
     "features",
     "firefighting",
-    "firesat",
     "firewall",
     "firewalls",
     "foldables",
@@ -97,12 +95,11 @@
     "framework laptop",
     "framework laptop 13",
     "framework laptop 13 pro",
-    "fubo",
     "galaxy z fold",
     "gemini",
     "general",
-    "global warming",
     "google",
+    "google assistant",
     "government",
     "gre",
     "guardrails",
@@ -154,10 +151,10 @@
     "nat",
     "natural disasters",
     "navigation blog",
-    "nbcuniversal",
     "netbox",
     "netconf",
     "netdevops",
+    "netflix",
     "netlab",
     "network",
     "network assessment",
@@ -217,11 +214,9 @@
     "service providers",
     "shims",
     "smartphones",
-    "smoke",
     "snmp",
     "software",
     "software gone wild",
-    "space",
     "sr-mpls",
     "srv6",
     "strait of hormuz",
@@ -238,7 +233,6 @@
     "ukraine",
     "ukraine war",
     "unifi",
-    "united states",
     "usa-iran war",
     "venezuela",
     "video",
@@ -258,6 +252,37 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+      "published": "Wed, 05 Aug 2026 17:12:39 +0000",
+      "published_parsed": "2026-08-05T17:12:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
+      "tags": [
+        "disney plus",
+        "netflix",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "published": "Wed, 05 Aug 2026 15:30:02 +0000",
+      "published_parsed": "2026-08-05T15:30:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "google assistant",
+        "tech"
+      ]
+    },
     {
       "title": "Minisforum MS-A2 Review for Network Labs/Homelab",
       "link": "https://www.packetswitch.co.uk/minisforum-ms-a2-review-for-network-labs-homelab/",
@@ -726,45 +751,6 @@
       "tags": [
         "homelab",
         "networking"
-      ]
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "published": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "published_parsed": "2026-07-17T19:50:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The FireSat program can spot wildfires that other satellites miss.",
-      "tags": [
-        "ai",
-        "canada",
-        "climate change",
-        "firefighting",
-        "firesat",
-        "global warming",
-        "google",
-        "satellites",
-        "smoke",
-        "space",
-        "tech",
-        "united states",
-        "wildfires"
-      ]
-    },
-    {
-      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
-      "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
-      "published": "Fri, 17 Jul 2026 16:24:21 +0000",
-      "published_parsed": "2026-07-17T16:24:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Fubo subscribers still don't have Versant channels.",
-      "tags": [
-        "fubo",
-        "nbcuniversal",
-        "streaming",
-        "tech"
       ]
     },
     {
