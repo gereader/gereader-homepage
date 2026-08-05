@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T04:11:44.631316+00:00",
-  "article_count": 101,
+  "last_updated": "2026-08-05T09:37:48.430956+00:00",
+  "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1740,20 +1740,6 @@
       "image": "https://blog.ipspace.net/2026/05/chat-segment-inspection.png",
       "summary": "In the spring of 2017, Jeff Tantsura , the IETF Routing Area chair , delivered a short “ Introduction to Segment Routing ” webinar. In mid-April 2026, we had ~100 people at ITNOG 10 attending the excellent “Segment Routing: From Theory to Practice” workshop by the great Tiziano Tofoni . The future...",
       "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "On ARP and MAC Aging Timers",
-      "link": "https://blog.ipspace.net/2026/05/arp-mac-aging-timers/?utm_source=atom_feed",
-      "published": "2026-05-07T08:14:00+02:00",
-      "published_parsed": "2026-05-07T08:14:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Naveen Kumar Devaraj mentioned an interesting fact in his EVPN-related comment : The EOS default ARP timeout is 4 hours, and MAC aging is 5 minutes. Arista is not the only platform using these default values; did you ever wonder where they came from? Read more …",
-      "tags": [
-        "arp",
-        "bridging",
         "networking"
       ]
     }
