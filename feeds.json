@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T19:38:01.966380+00:00",
-  "article_count": 100,
+  "last_updated": "2026-08-06T00:01:00.392356+00:00",
+  "article_count": 102,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -18,7 +18,6 @@
     "age verification",
     "ai",
     "ai data centers",
-    "ai drones",
     "ai energy",
     "aiops",
     "airbus",
@@ -27,7 +26,6 @@
     "airlines",
     "airplane",
     "airplanes",
-    "alaska",
     "allstate",
     "amazon",
     "android",
@@ -37,18 +35,20 @@
     "apple earnings",
     "apps",
     "arp",
+    "artificial intelligence",
     "australia",
     "automated troubleshooting",
     "automation",
     "aws",
     "azure",
+    "baseboard management controller",
     "bgp",
     "biz & it",
     "blog",
+    "bmcs",
     "bootkits",
     "bridging",
     "broadcom",
-    "california",
     "carnegie mellon university",
     "certifications",
     "change management",
@@ -87,7 +87,6 @@
     "fabric",
     "facial recognition",
     "features",
-    "firefighting",
     "firewall",
     "firewalls",
     "foldables",
@@ -100,11 +99,11 @@
     "general",
     "google",
     "google assistant",
+    "google deepmind",
     "government",
     "gre",
     "guardrails",
     "hackers",
-    "hallucinations",
     "high availability",
     "history",
     "homelab",
@@ -189,6 +188,7 @@
     "ram",
     "rare earths",
     "raspberry pi",
+    "reddit",
     "robotics",
     "robots",
     "roku",
@@ -215,6 +215,7 @@
     "shims",
     "smartphones",
     "snmp",
+    "social media",
     "software",
     "software gone wild",
     "sr-mpls",
@@ -229,7 +230,6 @@
     "tips",
     "traffic engineering",
     "training",
-    "typosquatting",
     "ukraine",
     "ukraine war",
     "unifi",
@@ -242,16 +242,73 @@
     "vulnerabilities",
     "vxlan",
     "wan",
-    "wildfires",
     "windows",
     "windows 11",
     "windows defender",
     "worth reading",
-    "xprize",
     "zero days",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "published": "Wed, 05 Aug 2026 22:35:20 +0000",
+      "published_parsed": "2026-08-05T22:35:20+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "tags": [
+        "baseboard management controller",
+        "biz & it",
+        "bmcs",
+        "exploits",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "Why I loved AutoCon 5",
+      "link": "https://networkautomation.forum/blog/why-i-loved-autocon-5",
+      "published": "Wed, 05 Aug 2026 22:09:00 +0000",
+      "published_parsed": "2026-08-05T22:09:00+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "While every AutoCon has been important and unique, AC5 was significantly different for me in the best possible way. Let me give you my personal take…",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "published": "Wed, 05 Aug 2026 20:01:32 +0000",
+      "published_parsed": "2026-08-05T20:01:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+      "tags": [
+        "ai",
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
+    {
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "published": "Wed, 05 Aug 2026 19:05:58 +0000",
+      "published_parsed": "2026-08-05T19:05:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's AI brain drain continues.",
+      "tags": [
+        "artificial intelligence",
+        "google",
+        "google deepmind",
+        "tech"
+      ]
+    },
     {
       "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
       "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
@@ -721,26 +778,6 @@
       ]
     },
     {
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-      "published": "Mon, 20 Jul 2026 21:55:52 +0000",
-      "published_parsed": "2026-07-20T21:55:52+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-      "tags": [
-        "ai",
-        "ai drones",
-        "alaska",
-        "california",
-        "drones",
-        "firefighting",
-        "tech",
-        "wildfires",
-        "xprize"
-      ]
-    },
-    {
       "title": "UGREEN NASync DXP4800 GT Review and Initial Setup",
       "link": "https://www.packetswitch.co.uk/ugreen-nasync-dxp4800-gt-review-and-initial-setup/",
       "published": "Sun, 19 Jul 2026 10:40:14 GMT",
@@ -1069,24 +1106,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "published": "Wed, 08 Jul 2026 07:00:51 +0000",
-      "published_parsed": "2026-07-08T07:00:51+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "tags": [
-        "ai",
-        "biz & it",
-        "features",
-        "hallucinations",
-        "llms",
-        "security",
-        "typosquatting"
       ]
     },
     {
