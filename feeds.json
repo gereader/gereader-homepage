@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T04:14:06.162138+00:00",
-  "article_count": 102,
+  "last_updated": "2026-08-06T09:40:42.423899+00:00",
+  "article_count": 101,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1732,18 +1732,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "I created nine sample SR-MPLS topologies for the ITNOG 10 SR-MPLS workshop , and of course, we ran out of time. I plan to cover those topologies and resulting printouts in a series of blog posts; to prepare for those, I cleaned up and reorganized the Segment Routing blog category, which is now...",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
-      "title": "Public Videos: Segment Routing 101",
-      "link": "https://blog.ipspace.net/2026/05/sr101-videos/?utm_source=atom_feed",
-      "published": "2026-05-08T07:38:00+01:00",
-      "published_parsed": "2026-05-08T07:38:00+01:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/05/chat-segment-inspection.png",
-      "summary": "In the spring of 2017, Jeff Tantsura , the IETF Routing Area chair , delivered a short “ Introduction to Segment Routing ” webinar. In mid-April 2026, we had ~100 people at ITNOG 10 attending the excellent “Segment Routing: From Theory to Practice” workshop by the great Tiziano Tofoni . The future...",
       "tags": [
         "networking"
       ]
