@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-08-07T19:00:01.483609+00:00",
-  "article_count": 2037,
+  "last_updated": "2026-08-07T23:35:24.774659+00:00",
+  "article_count": 2038,
   "articles": [
+    {
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "published": "Fri, 07 Aug 2026 21:48:21 +0000",
+      "published_parsed": "2026-08-07T21:48:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "tags": [
+        "copernicus",
+        "european space agency",
+        "satellite imagery",
+        "satellite imaging",
+        "sentinel satellites",
+        "tech",
+        "wildfire",
+        "wildfires"
+      ]
+    },
     {
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
       "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",

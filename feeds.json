@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T19:00:01.511169+00:00",
+  "last_updated": "2026-08-07T23:35:24.795357+00:00",
   "article_count": 101,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,7 +12,6 @@
   ],
   "tags": [
     "aci",
-    "ads",
     "age verification",
     "ai",
     "ai data centers",
@@ -84,6 +83,7 @@
     "eigrp",
     "energy fuels",
     "energy investment",
+    "european space agency",
     "evpn",
     "exploits",
     "fabric",
@@ -130,18 +130,15 @@
     "lawsuit",
     "leds",
     "legal",
-    "lg",
     "linux",
     "lisp",
     "llms",
     "load balancing",
     "local privilege escalation",
     "lycos",
-    "mcafee",
     "memory shortage",
     "microsoft",
     "microsoft exchange",
-    "monitors",
     "mp materials",
     "mpls",
     "mpls vpn",
@@ -200,6 +197,7 @@
     "san",
     "sandworm",
     "satellite imagery",
+    "satellite imaging",
     "satellites",
     "saudi arabia",
     "science",
@@ -242,14 +240,34 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "wildfire",
+    "wildfires",
     "windows",
-    "windows 11",
     "windows defender",
     "worth reading",
     "zero days",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "published": "Fri, 07 Aug 2026 21:48:21 +0000",
+      "published_parsed": "2026-08-07T21:48:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "tags": [
+        "copernicus",
+        "european space agency",
+        "satellite imagery",
+        "satellite imaging",
+        "sentinel satellites",
+        "tech",
+        "wildfire",
+        "wildfires"
+      ]
+    },
     {
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
       "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
@@ -717,26 +735,6 @@
         "robots",
         "tech",
         "venezuela"
-      ]
-    },
-    {
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-      "published": "Thu, 23 Jul 2026 20:47:33 +0000",
-      "published_parsed": "2026-07-23T20:47:33+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/LG-McAfee-pop-up-e1784837368961-640x293.jpg",
-      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-      "tags": [
-        "ads",
-        "lg",
-        "mcafee",
-        "microsoft",
-        "monitors",
-        "software",
-        "tech",
-        "windows",
-        "windows 11"
       ]
     },
     {
