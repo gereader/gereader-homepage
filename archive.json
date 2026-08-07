@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-08-06T09:40:42.397506+00:00",
-  "article_count": 2033,
+  "last_updated": "2026-08-07T00:03:43.653418+00:00",
+  "article_count": 2035,
   "articles": [
+    {
+      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+      "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+      "published": "Thu, 06 Aug 2026 22:01:55 +0000",
+      "published_parsed": "2026-08-06T22:01:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+      "tags": [
+        "airport",
+        "anti-drone",
+        "counterterrorism",
+        "drones",
+        "germany",
+        "russia",
+        "russia invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "terrorism",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "AI isn’t enough to protect social media communities from AI",
+      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "published": "Thu, 06 Aug 2026 11:00:44 +0000",
+      "published_parsed": "2026-08-06T11:00:44+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Why humans need to moderate humans.",
+      "tags": [
+        "ai",
+        "discord",
+        "facebook",
+        "generative ai",
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
     {
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
       "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
