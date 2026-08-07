@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-07T08:15:11.038192+00:00",
-  "article_count": 2035,
+  "last_updated": "2026-08-07T14:54:11.796376+00:00",
+  "article_count": 2036,
   "articles": [
+    {
+      "title": "Remembering the pre-Google web, when search was an experiment",
+      "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+      "published": "Fri, 07 Aug 2026 11:00:06 +0000",
+      "published_parsed": "2026-08-07T11:00:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+      "tags": [
+        "altavista",
+        "ask jeeves",
+        "features",
+        "google",
+        "hotbot",
+        "inktomi",
+        "lycos",
+        "pagerank",
+        "search",
+        "tech"
+      ]
+    },
     {
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
       "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",

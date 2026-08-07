@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T08:15:11.065326+00:00",
+  "last_updated": "2026-08-07T14:54:11.857291+00:00",
   "article_count": 101,
   "sources": [
     "Ars Technica - Gadgets",
@@ -11,8 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "3d print",
-    "3d printer",
     "aci",
     "ads",
     "age verification",
@@ -28,6 +26,7 @@
     "airplanes",
     "airport",
     "allstate",
+    "altavista",
     "amazon",
     "android",
     "ansible",
@@ -38,6 +37,7 @@
     "apps",
     "arp",
     "artificial intelligence",
+    "ask jeeves",
     "australia",
     "automated troubleshooting",
     "automation",
@@ -58,7 +58,6 @@
     "cisco",
     "claude",
     "clickfix",
-    "clock",
     "cloud",
     "commercial airlines",
     "commercial airplanes",
@@ -72,7 +71,6 @@
     "data centers",
     "design",
     "developer verification",
-    "devops",
     "dhcp",
     "discord",
     "disney plus",
@@ -112,9 +110,11 @@
     "high availability",
     "history",
     "homelab",
+    "hotbot",
     "hp",
     "hugging face",
     "india",
+    "inktomi",
     "intel",
     "intel core",
     "intel core ultra",
@@ -137,7 +137,7 @@
     "llms",
     "load balancing",
     "local privilege escalation",
-    "maker",
+    "lycos",
     "mcafee",
     "memory shortage",
     "microsoft",
@@ -174,6 +174,7 @@
     "openflow",
     "ospf",
     "overlay networks",
+    "pagerank",
     "palo alto",
     "panther lake",
     "phoenix tailings",
@@ -181,7 +182,6 @@
     "policy",
     "printers",
     "privacy",
-    "programming",
     "project sunrise",
     "prompt injections",
     "proxy networks",
@@ -189,7 +189,6 @@
     "qos",
     "ram",
     "rare earths",
-    "raspberry pi",
     "reddit",
     "robotics",
     "robots",
@@ -207,6 +206,7 @@
     "science",
     "sd-wan",
     "sdn",
+    "search",
     "secure boot",
     "security",
     "selfies",
@@ -251,6 +251,27 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Remembering the pre-Google web, when search was an experiment",
+      "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+      "published": "Fri, 07 Aug 2026 11:00:06 +0000",
+      "published_parsed": "2026-08-07T11:00:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+      "tags": [
+        "altavista",
+        "ask jeeves",
+        "features",
+        "google",
+        "hotbot",
+        "inktomi",
+        "lycos",
+        "pagerank",
+        "search",
+        "tech"
+      ]
+    },
     {
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
       "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
@@ -717,26 +738,6 @@
         "google",
         "security",
         "selfies",
-        "tech"
-      ]
-    },
-    {
-      "title": "I wanted a clock that never needed setting. Things escalated.",
-      "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "published": "Thu, 23 Jul 2026 11:00:50 +0000",
-      "published_parsed": "2026-07-23T11:00:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
-      "tags": [
-        "3d print",
-        "3d printer",
-        "clock",
-        "devops",
-        "features",
-        "maker",
-        "programming",
-        "raspberry pi",
         "tech"
       ]
     },
