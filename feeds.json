@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T14:54:11.857291+00:00",
+  "last_updated": "2026-08-07T19:00:01.511169+00:00",
   "article_count": 101,
   "sources": [
     "Ars Technica - Gadgets",
@@ -88,7 +88,6 @@
     "exploits",
     "fabric",
     "facebook",
-    "facial recognition",
     "features",
     "firewall",
     "firewalls",
@@ -209,10 +208,10 @@
     "search",
     "secure boot",
     "security",
-    "selfies",
     "sentinel satellites",
     "service providers",
     "shims",
+    "smart home",
     "smartphones",
     "snmp",
     "social media",
@@ -251,6 +250,21 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "published": "Fri, 07 Aug 2026 17:36:22 +0000",
+      "published_parsed": "2026-08-07T17:36:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "tags": [
+        "ai",
+        "openai",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Remembering the pre-Google web, when search was an experiment",
       "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
@@ -723,22 +737,6 @@
         "tech",
         "windows",
         "windows 11"
-      ]
-    },
-    {
-      "title": "Forgot your Google password? Now you can log in with a selfie.",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-      "published": "Thu, 23 Jul 2026 19:14:25 +0000",
-      "published_parsed": "2026-07-23T19:14:25+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
-      "tags": [
-        "facial recognition",
-        "google",
-        "security",
-        "selfies",
-        "tech"
       ]
     },
     {
