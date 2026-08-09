@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T03:02:03.007062+00:00",
-  "article_count": 101,
+  "last_updated": "2026-08-09T07:54:16.523267+00:00",
+  "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1722,18 +1722,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Reorganized ipSpace.net Segment Routing Resources",
-      "link": "https://blog.ipspace.net/2026/05/sr-reorg/?utm_source=atom_feed",
-      "published": "2026-05-11T08:18:00+02:00",
-      "published_parsed": "2026-05-11T08:18:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I created nine sample SR-MPLS topologies for the ITNOG 10 SR-MPLS workshop , and of course, we ran out of time. I plan to cover those topologies and resulting printouts in a series of blog posts; to prepare for those, I cleaned up and reorganized the Segment Routing blog category, which is now...",
-      "tags": [
-        "networking"
       ]
     }
   ]
