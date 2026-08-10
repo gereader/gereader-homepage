@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-10T08:39:57.715381+00:00",
-  "article_count": 2038,
+  "last_updated": "2026-08-10T15:00:12.057513+00:00",
+  "article_count": 2039,
   "articles": [
+    {
+      "title": "netlab 26.08: ArcOS, VPP (FD.io), ACLs, and DNS",
+      "link": "https://blog.ipspace.net/2026/08/netlab-26-08/?utm_source=atom_feed",
+      "published": "2026-08-10T11:58:00+02:00",
+      "published_parsed": "2026-08-10T11:58:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.08 brings a few humongous additions: ArcOS support by @roc-ops VPP (FD.io) with FRR or BIRD control plane by @jbemmel SONiC containers (also by @roc-ops ) IPv4/IPv6 access control lists in the routing module by @DanPartelly But wait, there’s more: Read more …",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Europe's free satellite service just made it easier to track wildfires",
       "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
