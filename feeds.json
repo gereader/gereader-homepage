@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T03:11:40.982223+00:00",
-  "article_count": 100,
+  "last_updated": "2026-08-10T08:39:57.739487+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1708,20 +1708,6 @@
       "tags": [
         "netdevops",
         "networking"
-      ]
-    },
-    {
-      "title": "MUST READ: The Future of Everything is Lies, I Guess",
-      "link": "https://blog.ipspace.net/2026/05/worth-reading-future-everything-lies/?utm_source=atom_feed",
-      "published": "2026-05-12T08:05:00+02:00",
-      "published_parsed": "2026-05-12T08:05:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Kyle Kingsbury published a long (10-part) article about his frustrations with AI, aptly named The Future of Everything is Lies, I Guess . Regardless of where you are on the skeptic-to-fanboy spectrum, I would highly recommend you read it, even if you believe you’ll disagree with everything he wrote.",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
       ]
     }
   ]
