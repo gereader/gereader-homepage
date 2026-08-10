@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T15:00:12.084213+00:00",
-  "article_count": 100,
+  "last_updated": "2026-08-10T18:59:50.826562+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -31,6 +31,7 @@
     "ansible",
     "anthropic",
     "anti-drone",
+    "antitrust",
     "apple",
     "apple earnings",
     "apps",
@@ -50,7 +51,6 @@
     "bootkits",
     "bridging",
     "broadcom",
-    "carnegie mellon university",
     "certifications",
     "change management",
     "cisa",
@@ -79,10 +79,10 @@
     "donald trump iran war",
     "drones",
     "e-waste",
-    "earthquakes",
     "eigrp",
     "energy fuels",
     "energy investment",
+    "epic games",
     "european space agency",
     "evpn",
     "exploits",
@@ -95,6 +95,7 @@
     "framework laptop",
     "framework laptop 13",
     "framework laptop 13 pro",
+    "games",
     "gemini",
     "general",
     "generative ai",
@@ -102,6 +103,8 @@
     "google",
     "google assistant",
     "google deepmind",
+    "google play",
+    "google v. epic",
     "government",
     "gre",
     "guardrails",
@@ -146,7 +149,6 @@
     "mtu",
     "multicast",
     "nat",
-    "natural disasters",
     "navigation blog",
     "netbox",
     "netconf",
@@ -174,6 +176,7 @@
     "palo alto",
     "panther lake",
     "phoenix tailings",
+    "play store",
     "podcast",
     "policy",
     "printers",
@@ -186,8 +189,6 @@
     "ram",
     "rare earths",
     "reddit",
-    "robotics",
-    "robots",
     "roku",
     "routers",
     "russia",
@@ -232,7 +233,6 @@
     "ukraine war",
     "unifi",
     "usa-iran war",
-    "venezuela",
     "video",
     "virtualization",
     "vmware",
@@ -249,6 +249,26 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+      "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+      "published": "Mon, 10 Aug 2026 15:44:45 +0000",
+      "published_parsed": "2026-08-10T15:44:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+      "tags": [
+        "antitrust",
+        "apps",
+        "epic games",
+        "games",
+        "google",
+        "google play",
+        "google v. epic",
+        "play store",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.08: ArcOS, VPP (FD.io), ACLs, and DNS",
       "link": "https://blog.ipspace.net/2026/08/netlab-26-08/?utm_source=atom_feed",
@@ -730,24 +750,6 @@
         "roku",
         "streaming",
         "tech"
-      ]
-    },
-    {
-      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-      "published": "Fri, 24 Jul 2026 11:20:43 +0000",
-      "published_parsed": "2026-07-24T11:20:43+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
-      "tags": [
-        "carnegie mellon university",
-        "earthquakes",
-        "natural disasters",
-        "robotics",
-        "robots",
-        "tech",
-        "venezuela"
       ]
     },
     {
@@ -1708,19 +1710,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Pytest for Automated Network Testing (II)",
-      "link": "https://www.packetswitch.co.uk/pytest-for-automated-network-testing-ii/",
-      "published": "Tue, 12 May 2026 16:11:38 GMT",
-      "published_parsed": "2026-05-12T16:11:38+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/pytest-1-.png",
-      "summary": "In this part, we will cover inventory management with Nornir and pytest fixtures. Nornir is a Python automation framework designed for network",
-      "tags": [
-        "netdevops",
-        "networking"
       ]
     }
   ]

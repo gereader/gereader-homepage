@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-10T15:00:12.057513+00:00",
-  "article_count": 2039,
+  "last_updated": "2026-08-10T18:59:50.799499+00:00",
+  "article_count": 2040,
   "articles": [
+    {
+      "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+      "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+      "published": "Mon, 10 Aug 2026 15:44:45 +0000",
+      "published_parsed": "2026-08-10T15:44:45+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+      "tags": [
+        "antitrust",
+        "apps",
+        "epic games",
+        "games",
+        "google",
+        "google play",
+        "google v. epic",
+        "play store",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.08: ArcOS, VPP (FD.io), ACLs, and DNS",
       "link": "https://blog.ipspace.net/2026/08/netlab-26-08/?utm_source=atom_feed",
