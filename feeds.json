@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T08:09:31.982679+00:00",
+  "last_updated": "2026-08-11T14:59:29.147590+00:00",
   "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
@@ -40,6 +40,7 @@
     "artificial intelligence",
     "ask jeeves",
     "australia",
+    "authentication",
     "automated troubleshooting",
     "automation",
     "aws",
@@ -82,7 +83,6 @@
     "drones",
     "e-waste",
     "eigrp",
-    "energy fuels",
     "energy investment",
     "epic games",
     "european space agency",
@@ -102,6 +102,7 @@
     "google",
     "google assistant",
     "google deepmind",
+    "google password manager",
     "google play",
     "google v. epic",
     "government",
@@ -140,7 +141,6 @@
     "meta",
     "microsoft",
     "microsoft exchange",
-    "mp materials",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -174,7 +174,7 @@
     "overlay networks",
     "pagerank",
     "palo alto",
-    "phoenix tailings",
+    "passkeys",
     "play store",
     "podcast",
     "policy",
@@ -185,7 +185,6 @@
     "proxy networks",
     "qantas",
     "qos",
-    "rare earths",
     "reddit",
     "routers",
     "russia",
@@ -198,7 +197,6 @@
     "satellite imaging",
     "satellites",
     "saudi arabia",
-    "science",
     "sd-wan",
     "sdn",
     "search",
@@ -250,6 +248,23 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "published": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "published_parsed": "2026-08-11T11:30:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Why passkey apps treat Windows differently than other operating systems.",
+      "tags": [
+        "authentication",
+        "biz & it",
+        "google password manager",
+        "passkeys",
+        "security",
+        "windows"
+      ]
+    },
     {
       "title": "On ACLs and AI-Generated Device Configurations",
       "link": "https://blog.ipspace.net/2026/08/netlab-acls-generated-configs/?utm_source=atom_feed",
@@ -1105,23 +1120,6 @@
         "policy",
         "samknows",
         "tech"
-      ]
-    },
-    {
-      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-      "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-      "published": "Wed, 08 Jul 2026 13:26:10 +0000",
-      "published_parsed": "2026-07-08T13:26:10+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
-      "tags": [
-        "biz & it",
-        "energy fuels",
-        "mp materials",
-        "phoenix tailings",
-        "rare earths",
-        "science"
       ]
     },
     {
