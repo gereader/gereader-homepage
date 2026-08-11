@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T14:59:29.147590+00:00",
+  "last_updated": "2026-08-11T19:04:00.369636+00:00",
   "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
@@ -50,6 +50,7 @@
     "biz & it",
     "blog",
     "bmcs",
+    "books",
     "bootkits",
     "bridging",
     "broadcom",
@@ -68,6 +69,7 @@
     "context bombing\\",
     "copernicus",
     "counterterrorism",
+    "culture",
     "cumulus linux",
     "data center",
     "data centers",
@@ -105,7 +107,6 @@
     "google password manager",
     "google play",
     "google v. epic",
-    "government",
     "gre",
     "guardrails",
     "hackers",
@@ -129,7 +130,6 @@
     "large langage models",
     "lawsuit",
     "leds",
-    "legal",
     "linux",
     "lisp",
     "llms",
@@ -248,6 +248,21 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
+      "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+      "published": "Tue, 11 Aug 2026 16:07:34 +0000",
+      "published_parsed": "2026-08-11T16:07:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Claire Stapleton's new book, Don't Be Evil , recounts her journey from company cheerleader to outspoken dissident.",
+      "tags": [
+        "books",
+        "culture",
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
       "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
@@ -760,24 +775,6 @@
       "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
       "tags": [
         "apple",
-        "tech"
-      ]
-    },
-    {
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-      "published": "Mon, 27 Jul 2026 15:58:34 +0000",
-      "published_parsed": "2026-07-27T15:58:34+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
-      "tags": [
-        "android",
-        "government",
-        "legal",
-        "privacy",
-        "security",
-        "smartphones",
         "tech"
       ]
     },
