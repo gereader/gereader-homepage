@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T19:04:00.369636+00:00",
-  "article_count": 99,
+  "last_updated": "2026-08-11T23:41:55.670698+00:00",
+  "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,6 +11,7 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "account takeovers",
     "aci",
     "age verification",
     "ai",
@@ -39,7 +40,6 @@
     "arp",
     "artificial intelligence",
     "ask jeeves",
-    "australia",
     "authentication",
     "automated troubleshooting",
     "automation",
@@ -57,7 +57,6 @@
     "certifications",
     "change management",
     "cisa",
-    "cisco",
     "claude",
     "clickfix",
     "cloud",
@@ -73,8 +72,10 @@
     "cumulus linux",
     "data center",
     "data centers",
+    "dbscs",
     "design",
     "developer verification",
+    "device bound session credentials",
     "dhcp",
     "discord",
     "disney plus",
@@ -83,11 +84,11 @@
     "docker",
     "donald trump iran war",
     "drones",
-    "e-waste",
     "eigrp",
     "energy investment",
     "epic games",
     "european space agency",
+    "european union",
     "evpn",
     "exploits",
     "fabric",
@@ -141,12 +142,15 @@
     "meta",
     "microsoft",
     "microsoft exchange",
+    "military drones",
     "mpls",
     "mpls vpn",
     "mpls-te",
     "mtu",
     "multicast",
     "nat",
+    "nato",
+    "natural gas",
     "navigation blog",
     "netbox",
     "netconf",
@@ -177,7 +181,6 @@
     "passkeys",
     "play store",
     "podcast",
-    "policy",
     "printers",
     "privacy",
     "project sunrise",
@@ -186,11 +189,12 @@
     "qantas",
     "qos",
     "reddit",
+    "romania",
     "routers",
     "russia",
     "russia invasion of ukraine",
+    "russian invasion of ukraine",
     "russian war on ukraine",
-    "samknows",
     "san",
     "sandworm",
     "satellite imagery",
@@ -204,6 +208,8 @@
     "security",
     "sentinel satellites",
     "service providers",
+    "session cookie",
+    "session cookie theft",
     "shims",
     "ships",
     "smart home",
@@ -249,6 +255,60 @@
   ],
   "articles": [
     {
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "published": "Tue, 11 Aug 2026 21:20:11 +0000",
+      "published_parsed": "2026-08-11T21:20:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+      "tags": [
+        "drones",
+        "european union",
+        "military drones",
+        "nato",
+        "natural gas",
+        "romania",
+        "russia",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "published": "Tue, 11 Aug 2026 20:59:52 +0000",
+      "published_parsed": "2026-08-11T20:59:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "tags": [
+        "account takeovers",
+        "biz & it",
+        "dbscs",
+        "device bound session credentials",
+        "google",
+        "security",
+        "session cookie",
+        "session cookie theft"
+      ]
+    },
+    {
+      "title": "Meet Your 2026 NAF Advisory Board",
+      "link": "https://networkautomation.forum/blog/meet-your-2026-naf-advisory-board",
+      "published": "Tue, 11 Aug 2026 20:15:21 +0000",
+      "published_parsed": "2026-08-11T20:15:21+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "The NAF Advisory Board (AB) is the amazing group of volunteers who keep AutoCon practitioner-first, vendor-neutral, and community-responsive.",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
       "title": "A Google insider spills the tea on how the company forsook its founding ideals",
       "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
       "published": "Tue, 11 Aug 2026 16:07:34 +0000",
@@ -274,6 +334,7 @@
       "tags": [
         "authentication",
         "biz & it",
+        "features",
         "google password manager",
         "passkeys",
         "security",
@@ -766,19 +827,6 @@
       ]
     },
     {
-      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-      "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-      "published": "Mon, 27 Jul 2026 20:32:45 +0000",
-      "published_parsed": "2026-07-27T20:32:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
-      "tags": [
-        "apple",
-        "tech"
-      ]
-    },
-    {
       "title": "On the Futility of Opening Ansible Issues",
       "link": "https://blog.ipspace.net/2026/07/futility-opening-ansible-issues/?utm_source=atom_feed",
       "published": "2026-07-22T08:03:00+02:00",
@@ -1099,24 +1147,6 @@
         "local privilege escalation",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
-      "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
-      "published": "Wed, 08 Jul 2026 18:10:16 +0000",
-      "published_parsed": "2026-07-08T18:10:16+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "But the devices could \"easily be reflashed.\"",
-      "tags": [
-        "australia",
-        "biz & it",
-        "cisco",
-        "e-waste",
-        "policy",
-        "samknows",
-        "tech"
       ]
     },
     {

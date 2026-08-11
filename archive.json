@@ -1,7 +1,61 @@
 {
-  "last_updated": "2026-08-11T19:04:00.342297+00:00",
-  "article_count": 2045,
+  "last_updated": "2026-08-11T23:41:55.643468+00:00",
+  "article_count": 2048,
   "articles": [
+    {
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "published": "Tue, 11 Aug 2026 21:20:11 +0000",
+      "published_parsed": "2026-08-11T21:20:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+      "tags": [
+        "drones",
+        "european union",
+        "military drones",
+        "nato",
+        "natural gas",
+        "romania",
+        "russia",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "published": "Tue, 11 Aug 2026 20:59:52 +0000",
+      "published_parsed": "2026-08-11T20:59:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "tags": [
+        "account takeovers",
+        "biz & it",
+        "dbscs",
+        "device bound session credentials",
+        "google",
+        "security",
+        "session cookie",
+        "session cookie theft"
+      ]
+    },
+    {
+      "title": "Meet Your 2026 NAF Advisory Board",
+      "link": "https://networkautomation.forum/blog/meet-your-2026-naf-advisory-board",
+      "published": "Tue, 11 Aug 2026 20:15:21 +0000",
+      "published_parsed": "2026-08-11T20:15:21+00:00",
+      "source": "Network Automation Forum",
+      "image": null,
+      "summary": "The NAF Advisory Board (AB) is the amazing group of volunteers who keep AutoCon practitioner-first, vendor-neutral, and community-responsive.",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "A Google insider spills the tea on how the company forsook its founding ideals",
       "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
