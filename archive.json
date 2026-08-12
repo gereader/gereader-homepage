@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-12T08:19:01.126670+00:00",
-  "article_count": 2050,
+  "last_updated": "2026-08-12T14:58:40.092904+00:00",
+  "article_count": 2051,
   "articles": [
+    {
+      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "published": "Wed, 12 Aug 2026 14:00:51 +0000",
+      "published_parsed": "2026-08-12T14:00:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+      "tags": [
+        "android",
+        "google",
+        "pixel 11",
+        "pixel watch 5",
+        "tech"
+      ]
+    },
     {
       "title": "Compress netlab Lab Topologies with Dot Notation",
       "link": "https://blog.ipspace.net/2026/08/netlab-compress-lab-topology/?utm_source=atom_feed",

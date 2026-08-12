@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T08:19:01.153556+00:00",
+  "last_updated": "2026-08-12T14:58:40.108691+00:00",
   "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,12 +18,6 @@
     "ai data centers",
     "ai energy",
     "aiops",
-    "airbus",
-    "aircraft",
-    "airliners",
-    "airlines",
-    "airplane",
-    "airplanes",
     "airport",
     "ais",
     "allstate",
@@ -61,8 +55,6 @@
     "clickfix",
     "cloud",
     "cloud gaming",
-    "commercial airlines",
-    "commercial airplanes",
     "company news",
     "containers",
     "context bombing\\",
@@ -177,14 +169,14 @@
     "pagerank",
     "palo alto",
     "passkeys",
+    "pixel 11",
+    "pixel watch 5",
     "play store",
     "podcast",
     "printers",
     "privacy",
-    "project sunrise",
     "prompt injections",
     "proxy networks",
-    "qantas",
     "qos",
     "reddit",
     "romania",
@@ -252,6 +244,22 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "published": "Wed, 12 Aug 2026 14:00:51 +0000",
+      "published_parsed": "2026-08-12T14:00:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+      "tags": [
+        "android",
+        "google",
+        "pixel 11",
+        "pixel watch 5",
+        "tech"
+      ]
+    },
     {
       "title": "Compress netlab Lab Topologies with Dot Notation",
       "link": "https://blog.ipspace.net/2026/08/netlab-compress-lab-topology/?utm_source=atom_feed",
@@ -811,28 +819,6 @@
         "llms",
         "openai",
         "security"
-      ]
-    },
-    {
-      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-      "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-      "published": "Tue, 28 Jul 2026 18:43:36 +0000",
-      "published_parsed": "2026-07-28T18:43:36+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Test flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
-      "tags": [
-        "airbus",
-        "aircraft",
-        "airliners",
-        "airlines",
-        "airplane",
-        "airplanes",
-        "commercial airlines",
-        "commercial airplanes",
-        "project sunrise",
-        "qantas",
-        "tech"
       ]
     },
     {
