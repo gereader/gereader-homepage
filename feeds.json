@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T03:23:15.936456+00:00",
+  "last_updated": "2026-08-12T08:19:01.153556+00:00",
   "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
@@ -252,6 +252,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Compress netlab Lab Topologies with Dot Notation",
+      "link": "https://blog.ipspace.net/2026/08/netlab-compress-lab-topology/?utm_source=atom_feed",
+      "published": "2026-08-12T07:55:00+02:00",
+      "published_parsed": "2026-08-12T07:55:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab is using the Python Box library to make the code easier to read 1 . When I started the project, I hated the way you fetch values from Python dictionaries with stuff like node['ospf']['area'] ; Python Box lets you write node.ospf.area . Even better 2 , you can tell Python Box to create...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
       "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
@@ -1716,19 +1729,6 @@
         "evpn",
         "networking",
         "vxlan"
-      ]
-    },
-    {
-      "title": "ARP with EVPN Asymmetric IRB",
-      "link": "https://blog.ipspace.net/2026/05/arp-issues-evpn-asymmetric-irb/?utm_source=atom_feed",
-      "published": "2026-05-14T07:45:00+02:00",
-      "published_parsed": "2026-05-14T07:45:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/05/evpn-fwd-asymmetric-irb.png",
-      "summary": "In a previous blog post , I described the ARP issues you’ll encounter when using centralized routing (on a spine switch) between two EVPN MAC-VRF instances (a fancy name for a VLAN encapsulated in VXLAN or MPLS). That blog post established a baseline that will help us unravel the ARP behavior in a...",
-      "tags": [
-        "evpn",
-        "networking"
       ]
     }
   ]

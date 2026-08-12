@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-12T03:23:15.908831+00:00",
-  "article_count": 2049,
+  "last_updated": "2026-08-12T08:19:01.126670+00:00",
+  "article_count": 2050,
   "articles": [
+    {
+      "title": "Compress netlab Lab Topologies with Dot Notation",
+      "link": "https://blog.ipspace.net/2026/08/netlab-compress-lab-topology/?utm_source=atom_feed",
+      "published": "2026-08-12T07:55:00+02:00",
+      "published_parsed": "2026-08-12T07:55:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab is using the Python Box library to make the code easier to read 1 . When I started the project, I hated the way you fetch values from Python dictionaries with stuff like node['ospf']['area'] ; Python Box lets you write node.ospf.area . Even better 2 , you can tell Python Box to create...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
       "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
