@@ -1,7 +1,68 @@
 {
-  "last_updated": "2026-08-12T19:03:43.136595+00:00",
-  "article_count": 2051,
+  "last_updated": "2026-08-12T23:43:27.342343+00:00",
+  "article_count": 2054,
   "articles": [
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "published": "Wed, 12 Aug 2026 21:43:21 +0000",
+      "published_parsed": "2026-08-12T21:43:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "litellm",
+        "security",
+        "supply chain attacks",
+        "teampcp"
+      ]
+    },
+    {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "published": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "published_parsed": "2026-08-12T21:00:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "tags": [
+        "ai",
+        "amazon",
+        "generative ai",
+        "policy",
+        "social media",
+        "tech",
+        "twitch"
+      ]
+    },
+    {
+      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+      "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+      "published": "Wed, 12 Aug 2026 19:40:46 +0000",
+      "published_parsed": "2026-08-12T19:40:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
+      "tags": [
+        "ai drones",
+        "animals",
+        "cbp",
+        "customs and border protection",
+        "drones",
+        "flies",
+        "health",
+        "livestock",
+        "new world screwworm",
+        "screwworm",
+        "screwworms",
+        "tech",
+        "us department of agriculture",
+        "usda",
+        "wildlife"
+      ]
+    },
     {
       "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
       "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
