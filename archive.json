@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-13T03:27:13.317681+00:00",
-  "article_count": 2054,
+  "last_updated": "2026-08-13T08:22:11.525233+00:00",
+  "article_count": 2055,
   "articles": [
+    {
+      "title": "Worth Reading: LLM Prompts for Network Engineers",
+      "link": "https://blog.ipspace.net/2026/08/worth-reading-llm-prompts-for-network-engineers/?utm_source=atom_feed",
+      "published": "2026-08-13T08:07:00+02:00",
+      "published_parsed": "2026-08-13T08:07:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Tony Mattke put together a long list of recommendations that might help you get more out of your LLM tokens. Definitely worth reading instead of yelling at the stupid AI .",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
