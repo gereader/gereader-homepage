@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T19:04:47.846303+00:00",
+  "last_updated": "2026-08-13T23:43:02.910636+00:00",
   "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
@@ -28,8 +28,6 @@
     "anthropic",
     "anti-drone",
     "antitrust",
-    "apple",
-    "apple earnings",
     "apps",
     "arp",
     "artificial intelligence",
@@ -64,10 +62,10 @@
     "culture",
     "cumulus linux",
     "customs and border protection",
+    "cyber",
     "data center",
     "dbscs",
     "design",
-    "developer verification",
     "device bound session credentials",
     "dhcp",
     "discord",
@@ -115,8 +113,6 @@
     "inktomi",
     "internet",
     "ip routing",
-    "ipad",
-    "iphone",
     "ipv6",
     "is-is",
     "jfrog",
@@ -130,7 +126,6 @@
     "load balancing",
     "lycos",
     "mark zuckerberg",
-    "memory shortage",
     "meta",
     "microsoft",
     "microsoft exchange",
@@ -176,6 +171,7 @@
     "play store",
     "podcast",
     "policy",
+    "presidential memorandum",
     "printers",
     "prompt injections",
     "proxy networks",
@@ -222,7 +218,6 @@
     "teampcp",
     "tech",
     "terrorism",
-    "tim cook",
     "tips",
     "traffic engineering",
     "training",
@@ -231,6 +226,7 @@
     "ukraine war",
     "unifi",
     "us department of agriculture",
+    "us military",
     "usda",
     "video",
     "virtualization",
@@ -239,17 +235,67 @@
     "vulnerabilities",
     "vxlan",
     "wan",
+    "white house",
     "wildfire",
     "wildfires",
     "wildlife",
     "windows",
-    "windows defender",
     "worth reading",
     "yacht",
-    "zero days",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "published": "Thu, 13 Aug 2026 19:38:58 +0000",
+      "published_parsed": "2026-08-13T19:38:58+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "tags": [
+        "biz & it",
+        "cyber",
+        "policy",
+        "presidential memorandum",
+        "security",
+        "white house"
+      ]
+    },
+    {
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "published": "Thu, 13 Aug 2026 18:31:56 +0000",
+      "published_parsed": "2026-08-13T18:31:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+      "tags": [
+        "ai drones",
+        "drones",
+        "military drones",
+        "russia invasion of ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war",
+        "us military"
+      ]
+    },
+    {
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "published": "Thu, 13 Aug 2026 17:53:53 +0000",
+      "published_parsed": "2026-08-13T17:53:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"I've lost trust ...\"",
+      "tags": [
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Reading: LLM Prompts for Network Engineers",
       "link": "https://blog.ipspace.net/2026/08/worth-reading-llm-prompts-for-network-engineers/?utm_source=atom_feed",
@@ -752,21 +798,6 @@
       ]
     },
     {
-      "title": "Google plans to exempt sanctioned nations from Android developer verification",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-      "published": "Fri, 31 Jul 2026 21:35:56 +0000",
-      "published_parsed": "2026-07-31T21:35:56+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
-      "tags": [
-        "android",
-        "developer verification",
-        "google",
-        "tech"
-      ]
-    },
-    {
       "title": "Claude published malicious code to the Internet and attacked 3 real companies",
       "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "published": "Fri, 31 Jul 2026 20:39:14 +0000",
@@ -793,24 +824,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-      "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-      "published": "Thu, 30 Jul 2026 22:05:35 +0000",
-      "published_parsed": "2026-07-30T22:05:35+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
-      "tags": [
-        "apple",
-        "apple earnings",
-        "ipad",
-        "iphone",
-        "memory shortage",
-        "tech",
-        "tim cook"
       ]
     },
     {
@@ -1124,22 +1137,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-      "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "published": "Thu, 09 Jul 2026 20:52:55 +0000",
-      "published_parsed": "2026-07-09T20:52:55+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
-      "tags": [
-        "biz & it",
-        "microsoft",
-        "security",
-        "windows defender",
-        "zero days"
       ]
     },
     {
