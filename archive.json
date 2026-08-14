@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-08-14T18:57:10.726658+00:00",
-  "article_count": 2062,
+  "last_updated": "2026-08-14T23:23:34.983782+00:00",
+  "article_count": 2065,
   "articles": [
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "published": "Fri, 14 Aug 2026 18:32:14 +0000",
+      "published_parsed": "2026-08-14T18:32:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "exploits",
+        "macos",
+        "macs",
+        "screen sharing",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "published": "Fri, 14 Aug 2026 18:00:23 +0000",
+      "published_parsed": "2026-08-14T18:00:23+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "tags": [
+        "air canada",
+        "aircraft",
+        "airlines",
+        "airplanes",
+        "aviation",
+        "electric airplanes",
+        "heart aerospace",
+        "hybrid air",
+        "tech",
+        "united airlines"
+      ]
+    },
+    {
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "published": "Fri, 14 Aug 2026 17:03:54 +0000",
+      "published_parsed": "2026-08-14T17:03:54+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "tags": [
+        "biz & it",
+        "cloud",
+        "cloud storage",
+        "data center",
+        "pbs"
+      ]
+    },
     {
       "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
       "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
