@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-14T14:53:13.453895+00:00",
-  "article_count": 2060,
+  "last_updated": "2026-08-14T18:57:10.726658+00:00",
+  "article_count": 2062,
   "articles": [
+    {
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "published": "Fri, 14 Aug 2026 15:46:40 +0000",
+      "published_parsed": "2026-08-14T15:46:40+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Third-party app stores are about to become more visible in Google Play.",
+      "tags": [
+        "antitrust",
+        "app stores",
+        "epic games",
+        "google",
+        "play store",
+        "tech"
+      ]
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "published": "Fri, 14 Aug 2026 14:27:14 +0000",
+      "published_parsed": "2026-08-14T14:27:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biz & it",
+        "openai",
+        "syndication"
+      ]
+    },
     {
       "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
       "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
