@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-08-14T08:17:16.282493+00:00",
-  "article_count": 2059,
+  "last_updated": "2026-08-14T14:53:13.453895+00:00",
+  "article_count": 2060,
   "articles": [
+    {
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+      "published": "Fri, 14 Aug 2026 11:00:05 +0000",
+      "published_parsed": "2026-08-14T11:00:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
+      "tags": [
+        "features",
+        "foldables",
+        "reviews",
+        "samsung",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Automatically Archive Old NetBox Branches",
       "link": "https://www.packetcoders.io/automatically-archive-old-netbox-branches/",
