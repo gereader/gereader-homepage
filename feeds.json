@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T03:24:37.010255+00:00",
-  "article_count": 100,
+  "last_updated": "2026-08-14T08:17:16.310627+00:00",
+  "article_count": 101,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -245,6 +245,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Automatically Archive Old NetBox Branches",
+      "link": "https://www.packetcoders.io/automatically-archive-old-netbox-branches/",
+      "published": "Fri, 14 Aug 2026 08:00:15 GMT",
+      "published_parsed": "2026-08-14T08:00:15+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-43.png",
+      "summary": "A common question we get from students using NetBox Branching is: How can I automatically remove stale branches from NetBox? Therefore, I thought I’d share the latest addition to NetBox Branching, introduced in v1.1.2 . This release adds the auto_archive_days setting, allowing you to automatically",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
     {
       "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
