@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T07:31:55.078085+00:00",
-  "article_count": 101,
+  "last_updated": "2026-08-15T14:24:44.860882+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1719,33 +1719,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Automatic SSL with Caddy, Cloudflare and Let's Encrypt",
-      "link": "https://www.packetswitch.co.uk/automatic-ssl-with-caddy-cloudflare-and-lets-encrypt/",
-      "published": "Sun, 17 May 2026 12:40:48 GMT",
-      "published_parsed": "2026-05-17T12:40:48+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/nornir-netbox-4-.png",
-      "summary": "In this post, I'll show you how to get there using Caddy, Cloudflare, and Let's Encrypt with very minimal effort. To make this work, we need the",
-      "tags": [
-        "homelab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Using NetBox as a Dynamic Inventory Source for Nornir",
-      "link": "https://www.packetswitch.co.uk/using-netbox-as-a-dynamic-inventory-source-for-nornir/",
-      "published": "Sun, 17 May 2026 07:35:01 GMT",
-      "published_parsed": "2026-05-17T07:35:01+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/05/nornir-netbox-3-.png",
-      "summary": "Instead of maintaining a separate YAML inventory alongside NetBox, you can pull your inventory directly from NetBox at runtime. That way, Nornir",
-      "tags": [
-        "netdevops",
-        "networking",
-        "nornir"
       ]
     }
   ]
