@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16T18:31:35.353764+00:00",
-  "article_count": 98,
+  "last_updated": "2026-08-16T23:21:13.521088+00:00",
+  "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1692,19 +1692,6 @@
       "summary": "netlab release 26.05 is out. Here are the highlights: Support for global BGP routes with SRv6 next hops (inspired by proof-of-concept by @jvbemmel ) on FRR and IOS XR Junos OSPF/IS-IS route redistribution , VRF IS-IS instances , and OSPF interface parameters Streamline and speed up the FortiOS...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "NERC CIP Compliance with Network Automation for Energy CISOs",
-      "link": "https://www.netbrain.com/blog/nerc-cip-compliance-for-energy-cisos/",
-      "published": "2026-05-18T19:07:34Z",
-      "published_parsed": "2026-05-18T19:07:34+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/01/background-1024x567.jpg",
-      "summary": "NERC CIP compliance automation is the continuous use of network automation to satisfy the requirements of NERC’s Critical Infrastructure Protection standards and FERC’s 2023 rule on Internal Network Security Monitoring...",
-      "tags": [
-        "company news",
         "networking"
       ]
     }
