@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-17T14:29:58.448654+00:00",
-  "article_count": 2066,
+  "last_updated": "2026-08-17T18:41:46.537513+00:00",
+  "article_count": 2067,
   "articles": [
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
+      "published_parsed": "2026-08-17T14:22:54+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "tags": [
+        "biz & it",
+        "nvidia",
+        "spacex",
+        "syndication"
+      ]
+    },
     {
       "title": "The Never-Ending IPv6 Loopback Prefix Saga",
       "link": "https://blog.ipspace.net/2026/08/ipv6-loopback-saga/?utm_source=atom_feed",
