@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T02:20:02.626519+00:00",
+  "last_updated": "2026-08-17T07:53:38.260644+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -248,6 +248,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "The Never-Ending IPv6 Loopback Prefix Saga",
+      "link": "https://blog.ipspace.net/2026/08/ipv6-loopback-saga/?utm_source=atom_feed",
+      "published": "2026-08-17T08:02:00+02:00",
+      "published_parsed": "2026-08-17T08:02:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Remember the sage advice to simplify your life and use the IPv6 /64 prefixes everywhere? Not only does it make your life simpler (and wastes immesuarably less address space than the crazy “let’s assign /64 to every device ” stupidity), it also reduces the hardware requirements in your high-speed...",
+      "tags": [
+        "ipv6",
+        "networking"
+      ]
+    },
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
@@ -1679,19 +1692,6 @@
       "tags": [
         "blog",
         "netbox",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 26.05: BGP-free SRv6 Core, Junos Features",
-      "link": "https://blog.ipspace.net/2026/05/netlab-26-05/?utm_source=atom_feed",
-      "published": "2026-05-19T08:02:00+02:00",
-      "published_parsed": "2026-05-19T08:02:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 26.05 is out. Here are the highlights: Support for global BGP routes with SRv6 next hops (inspired by proof-of-concept by @jvbemmel ) on FRR and IOS XR Junos OSPF/IS-IS route redistribution , VRF IS-IS instances , and OSPF interface parameters Streamline and speed up the FortiOS...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }

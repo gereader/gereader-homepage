@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-17T02:20:02.598992+00:00",
-  "article_count": 2065,
+  "last_updated": "2026-08-17T07:53:38.233787+00:00",
+  "article_count": 2066,
   "articles": [
+    {
+      "title": "The Never-Ending IPv6 Loopback Prefix Saga",
+      "link": "https://blog.ipspace.net/2026/08/ipv6-loopback-saga/?utm_source=atom_feed",
+      "published": "2026-08-17T08:02:00+02:00",
+      "published_parsed": "2026-08-17T08:02:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Remember the sage advice to simplify your life and use the IPv6 /64 prefixes everywhere? Not only does it make your life simpler (and wastes immesuarably less address space than the crazy “let’s assign /64 to every device ” stupidity), it also reduces the hardware requirements in your high-speed...",
+      "tags": [
+        "ipv6",
+        "networking"
+      ]
+    },
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
