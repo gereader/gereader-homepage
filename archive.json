@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-17T18:41:46.537513+00:00",
-  "article_count": 2067,
+  "last_updated": "2026-08-17T23:24:23.217910+00:00",
+  "article_count": 2068,
   "articles": [
+    {
+      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+      "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+      "published": "Mon, 17 Aug 2026 18:43:51 +0000",
+      "published_parsed": "2026-08-17T18:43:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
+      "tags": [
+        "outage",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",

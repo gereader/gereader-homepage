@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T18:41:46.559381+00:00",
+  "last_updated": "2026-08-17T23:24:23.233534+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -36,7 +36,6 @@
     "apple",
     "apps",
     "arp",
-    "artificial intelligence",
     "ask jeeves",
     "authentication",
     "automated troubleshooting",
@@ -99,7 +98,6 @@
     "generative ai",
     "germany",
     "google",
-    "google deepmind",
     "google password manager",
     "google play",
     "google v. epic",
@@ -167,6 +165,7 @@
     "openai",
     "openflow",
     "ospf",
+    "outage",
     "overlay networks",
     "pagerank",
     "palo alto",
@@ -250,6 +249,20 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+      "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+      "published": "Mon, 17 Aug 2026 18:43:51 +0000",
+      "published_parsed": "2026-08-17T18:43:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
+      "tags": [
+        "outage",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
@@ -871,21 +884,6 @@
         "ai",
         "reddit",
         "social media",
-        "tech"
-      ]
-    },
-    {
-      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-      "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-      "published": "Wed, 05 Aug 2026 19:05:58 +0000",
-      "published_parsed": "2026-08-05T19:05:58+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google's AI brain drain continues.",
-      "tags": [
-        "artificial intelligence",
-        "google",
-        "google deepmind",
         "tech"
       ]
     },
