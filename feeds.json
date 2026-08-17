@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T07:53:38.260644+00:00",
-  "article_count": 97,
+  "last_updated": "2026-08-17T14:29:58.476387+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1679,20 +1679,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Using Authentication Credentials within NetBox Webhooks",
-      "link": "https://www.packetcoders.io/using-authentication-credentials-within-netbox-webhooks/",
-      "published": "Tue, 19 May 2026 10:30:32 GMT",
-      "published_parsed": "2026-05-19T10:30:32+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/05/Heading--20-.png",
-      "summary": "Background A question that came up during a recent NetBox training session was: \"How should authentication credentials be provided within NetBox webhooks?\" For example, you may need to send a webhook from NetBox to an external system such as: CI/CD platforms internal APIs configuration management...",
-      "tags": [
-        "blog",
-        "netbox",
-        "networking"
       ]
     }
   ]
