@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T02:16:03.260746+00:00",
+  "last_updated": "2026-08-18T07:39:16.458274+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -249,6 +249,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Exploring the BGP Neighbor CONNECT State",
+      "link": "https://blog.ipspace.net/2026/08/exploring-bgp-connect-state/?utm_source=atom_feed",
+      "published": "2026-08-18T07:16:00+02:00",
+      "published_parsed": "2026-08-18T07:16:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Sakar left an interesting comment on my The Curious Case of the BGP Connect State blog post, claiming that Cisco IOS/XE goes through a CONNECT state when opening an incoming BGP session. I wanted to double-check this behavior, so I needed a scenario where one router would keep sending TCP SYN...",
+      "tags": [
+        "bgp",
+        "networking"
+      ]
+    },
     {
       "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
       "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
@@ -1664,20 +1677,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Worth Reading: Agentic AI Setup: Sandboxes and Worktrees",
-      "link": "https://blog.ipspace.net/2026/05/worth-reading-agentic-ai-sandboxes-worktrees/?utm_source=atom_feed",
-      "published": "2026-05-20T07:22:00+02:00",
-      "published_parsed": "2026-05-20T07:22:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Most of the hyperventilated AI “success stories” are as useful as the “ ANSIBLE!!! ” movement was a few years ago. It’s thus always a pleasure to find someone with well-established software development chops who took the time to describe what works for them. One cannot argue with Mike McQuaid’s...",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
       ]
     }
   ]
