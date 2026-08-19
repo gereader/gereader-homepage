@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T18:37:47.210614+00:00",
+  "last_updated": "2026-08-19T23:24:18.312174+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -58,7 +58,6 @@
     "comcast",
     "company news",
     "containers",
-    "copernicus",
     "copilot",
     "culture",
     "cumulus linux",
@@ -66,18 +65,19 @@
     "cyber",
     "data center",
     "dbscs",
+    "delivery drones",
     "design",
     "device bound session credentials",
     "dhcp",
     "dmvpn",
     "dns",
     "docker",
+    "doordash",
     "drones",
     "eigrp",
     "electric airplanes",
     "energy investment",
     "epic games",
-    "european space agency",
     "european union",
     "evpn",
     "exploits",
@@ -88,6 +88,7 @@
     "firewalls",
     "flies",
     "foldables",
+    "framework",
     "games",
     "gaming",
     "general",
@@ -116,6 +117,7 @@
     "israeli defense force",
     "jfrog",
     "lan",
+    "laptops",
     "large langage models",
     "lisp",
     "litellm",
@@ -175,6 +177,7 @@
     "podcast",
     "policy",
     "presidential memorandum",
+    "prime air",
     "printers",
     "qos",
     "repairability",
@@ -187,15 +190,12 @@
     "samsung",
     "san",
     "sandworm",
-    "satellite imagery",
-    "satellite imaging",
     "screen sharing",
     "screwworm",
     "screwworms",
     "sd-wan",
     "sdn",
     "security",
-    "sentinel satellites",
     "service providers",
     "session cookie",
     "session cookie theft",
@@ -223,6 +223,7 @@
     "traffic engineering",
     "training",
     "twitch",
+    "uber",
     "ukraine",
     "ukraine war",
     "unifi",
@@ -235,17 +236,52 @@
     "vpn",
     "vulnerabilities",
     "vxlan",
+    "walmart",
     "wan",
     "white house",
-    "wildfire",
-    "wildfires",
     "wildlife",
     "windows",
     "worth reading",
     "yacht",
-    "zerodays"
+    "zerodays",
+    "zipline"
   ],
   "articles": [
+    {
+      "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+      "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+      "published": "Wed, 19 Aug 2026 22:02:38 +0000",
+      "published_parsed": "2026-08-19T22:02:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+      "tags": [
+        "ai drones",
+        "amazon",
+        "delivery drones",
+        "doordash",
+        "drones",
+        "prime air",
+        "tech",
+        "uber",
+        "walmart",
+        "zipline"
+      ]
+    },
+    {
+      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+      "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "published": "Wed, 19 Aug 2026 20:21:59 +0000",
+      "published_parsed": "2026-08-19T20:21:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
+      "tags": [
+        "framework",
+        "laptops",
+        "tech"
+      ]
+    },
     {
       "title": "Google Pixel 11 series review: Is the magic fading?",
       "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
@@ -863,40 +899,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "published": "Fri, 07 Aug 2026 21:48:21 +0000",
-      "published_parsed": "2026-08-07T21:48:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-      "tags": [
-        "copernicus",
-        "european space agency",
-        "satellite imagery",
-        "satellite imaging",
-        "sentinel satellites",
-        "tech",
-        "wildfire",
-        "wildfires"
-      ]
-    },
-    {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "published": "Fri, 07 Aug 2026 17:36:22 +0000",
-      "published_parsed": "2026-08-07T17:36:22+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "tags": [
-        "ai",
-        "openai",
-        "smart home",
-        "tech"
       ]
     },
     {

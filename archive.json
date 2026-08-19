@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-08-19T18:37:47.182274+00:00",
-  "article_count": 2075,
+  "last_updated": "2026-08-19T23:24:18.284378+00:00",
+  "article_count": 2077,
   "articles": [
+    {
+      "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+      "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+      "published": "Wed, 19 Aug 2026 22:02:38 +0000",
+      "published_parsed": "2026-08-19T22:02:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+      "tags": [
+        "ai drones",
+        "amazon",
+        "delivery drones",
+        "doordash",
+        "drones",
+        "prime air",
+        "tech",
+        "uber",
+        "walmart",
+        "zipline"
+      ]
+    },
+    {
+      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+      "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "published": "Wed, 19 Aug 2026 20:21:59 +0000",
+      "published_parsed": "2026-08-19T20:21:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
+      "tags": [
+        "framework",
+        "laptops",
+        "tech"
+      ]
+    },
     {
       "title": "Google Pixel 11 series review: Is the magic fading?",
       "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
