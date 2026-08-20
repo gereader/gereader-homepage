@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-20T18:41:20.553431+00:00",
-  "article_count": 2080,
+  "last_updated": "2026-08-20T23:27:04.152310+00:00",
+  "article_count": 2081,
   "articles": [
+    {
+      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+      "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+      "published": "Thu, 20 Aug 2026 22:00:11 +0000",
+      "published_parsed": "2026-08-20T22:00:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+      "tags": [
+        "humanoid robots",
+        "industrial robots",
+        "medical robots",
+        "robo inc.",
+        "robostore",
+        "robotics",
+        "robots",
+        "tech",
+        "unitree robotics"
+      ]
+    },
     {
       "title": "Reverse-lookup service exposed millions of photos of people’s faces",
       "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
