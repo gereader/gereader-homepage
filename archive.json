@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-08-20T07:42:10.015198+00:00",
-  "article_count": 2078,
+  "last_updated": "2026-08-20T14:37:43.776339+00:00",
+  "article_count": 2080,
   "articles": [
+    {
+      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+      "published": "Thu, 20 Aug 2026 13:29:54 +0000",
+      "published_parsed": "2026-08-20T13:29:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+      "tags": [
+        "claritycheck",
+        "people search",
+        "syndication",
+        "tech"
+      ]
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "published_parsed": "2026-08-20T13:00:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "cryptography",
+        "llm security",
+        "prompt injections",
+        "security"
+      ]
+    },
     {
       "title": "Worth Reading: Reading the Git Crime Scene",
       "link": "https://blog.ipspace.net/2026/08/worth-reading-git-crime-scene/?utm_source=atom_feed",

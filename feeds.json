@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T07:42:10.042287+00:00",
+  "last_updated": "2026-08-20T14:37:43.804219+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,9 +14,7 @@
     "account takeovers",
     "aci",
     "ai",
-    "ai data centers",
     "ai drones",
-    "ai energy",
     "aiops",
     "air canada",
     "aircraft",
@@ -50,6 +48,7 @@
     "cbp",
     "certifications",
     "change management",
+    "claritycheck",
     "claude",
     "clickfix",
     "cloud",
@@ -59,6 +58,7 @@
     "company news",
     "containers",
     "copilot",
+    "cryptography",
     "culture",
     "cumulus linux",
     "customs and border protection",
@@ -76,7 +76,6 @@
     "drones",
     "eigrp",
     "electric airplanes",
-    "energy investment",
     "epic games",
     "european union",
     "evpn",
@@ -89,14 +88,11 @@
     "flies",
     "foldables",
     "framework",
-    "games",
     "gaming",
     "general",
     "generative ai",
     "google",
     "google password manager",
-    "google play",
-    "google v. epic",
     "gre",
     "guardrails",
     "health",
@@ -122,6 +118,7 @@
     "lisp",
     "litellm",
     "livestock",
+    "llm security",
     "llms",
     "load balancing",
     "macos",
@@ -171,6 +168,7 @@
     "passkeys",
     "pbs",
     "peacock",
+    "people search",
     "pixel 11",
     "pixel watch 5",
     "play store",
@@ -179,6 +177,7 @@
     "presidential memorandum",
     "prime air",
     "printers",
+    "prompt injections",
     "qos",
     "repairability",
     "reviews",
@@ -247,6 +246,38 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+      "published": "Thu, 20 Aug 2026 13:29:54 +0000",
+      "published_parsed": "2026-08-20T13:29:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+      "tags": [
+        "claritycheck",
+        "people search",
+        "syndication",
+        "tech"
+      ]
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "published_parsed": "2026-08-20T13:00:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "cryptography",
+        "llm security",
+        "prompt injections",
+        "security"
+      ]
+    },
     {
       "title": "Worth Reading: Reading the Git Crime Scene",
       "link": "https://blog.ipspace.net/2026/08/worth-reading-git-crime-scene/?utm_source=atom_feed",
@@ -882,26 +913,6 @@
       ]
     },
     {
-      "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-      "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-      "published": "Mon, 10 Aug 2026 15:44:45 +0000",
-      "published_parsed": "2026-08-10T15:44:45+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
-      "tags": [
-        "antitrust",
-        "apps",
-        "epic games",
-        "games",
-        "google",
-        "google play",
-        "google v. epic",
-        "play store",
-        "tech"
-      ]
-    },
-    {
       "title": "netlab 26.08: ArcOS, VPP (FD.io), ACLs, and DNS",
       "link": "https://blog.ipspace.net/2026/08/netlab-26-08/?utm_source=atom_feed",
       "published": "2026-08-10T11:58:00+02:00",
@@ -1145,23 +1156,6 @@
         "russia",
         "sandworm",
         "security"
-      ]
-    },
-    {
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "published": "Thu, 16 Jul 2026 15:48:21 +0000",
-      "published_parsed": "2026-07-16T15:48:21+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Companies coming to market are raising money at fastest pace this century.",
-      "tags": [
-        "ai",
-        "ai data centers",
-        "ai energy",
-        "biz & it",
-        "energy investment",
-        "syndication"
       ]
     },
     {
