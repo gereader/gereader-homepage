@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-08-21T14:36:49.288073+00:00",
-  "article_count": 2081,
+  "last_updated": "2026-08-21T18:38:44.177725+00:00",
+  "article_count": 2085,
   "articles": [
+    {
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "published": "Fri, 21 Aug 2026 16:48:59 +0000",
+      "published_parsed": "2026-08-21T16:48:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+      "tags": [
+        "drone boats",
+        "drones",
+        "europe",
+        "military drones",
+        "nato",
+        "romania",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "published": "Fri, 21 Aug 2026 13:11:35 +0000",
+      "published_parsed": "2026-08-21T13:11:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "tags": [
+        "biz & it",
+        "cars",
+        "robotaxi",
+        "syndication",
+        "uber",
+        "waymo"
+      ]
+    },
     {
       "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
       "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
@@ -1400,6 +1442,20 @@
       ]
     },
     {
+      "title": "How to Best Use Panorama Templates and Stacks?",
+      "link": "https://www.packetswitch.co.uk/how-to-best-use-panorama-templates-and-stacks/",
+      "published": "Fri, 17 Jul 2026 18:59:00 GMT",
+      "published_parsed": "2026-07-17T18:59:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-templates.png",
+      "summary": "A good practice is to always start with creating a ‘global’ template. This is where you define configurations that all firewalls across the company should have.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
       "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
       "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
       "published": "Fri, 17 Jul 2026 16:24:21 +0000",
@@ -1457,6 +1513,20 @@
         "europe",
         "google",
         "tech"
+      ]
+    },
+    {
+      "title": "Panorama Device Groups and Templates (with examples)",
+      "link": "https://www.packetswitch.co.uk/panorama-device-groups-and-templates/",
+      "published": "Thu, 16 Jul 2026 20:15:00 GMT",
+      "published_parsed": "2026-07-16T20:15:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-dg-tp.png",
+      "summary": "To create an Address Object on the firewall directly, you navigate to Objects > Addresses. If you were to create the object through Panorama",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {

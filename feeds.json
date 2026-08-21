@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T14:36:49.313049+00:00",
-  "article_count": 96,
+  "last_updated": "2026-08-21T18:38:44.199342+00:00",
+  "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -44,14 +44,13 @@
     "bmcs",
     "books",
     "bridging",
+    "cars",
     "cbp",
     "certifications",
     "change management",
     "claritycheck",
     "claude",
-    "clickfix",
     "cloud",
-    "cloud gaming",
     "cloud storage",
     "comcast",
     "company news",
@@ -72,10 +71,12 @@
     "dns",
     "docker",
     "doordash",
+    "drone boats",
     "drones",
     "eigrp",
     "electric airplanes",
     "epic games",
+    "europe",
     "european union",
     "evpn",
     "exploits",
@@ -87,7 +88,6 @@
     "flies",
     "foldables",
     "framework",
-    "gaming",
     "general",
     "generative ai",
     "google",
@@ -154,8 +154,6 @@
     "networking fundamentals",
     "new world screwworm",
     "nfv",
-    "nintendo",
-    "nintendo switch",
     "nornir",
     "nsx",
     "nvidia",
@@ -183,16 +181,17 @@
     "reviews",
     "robo inc.",
     "robostore",
+    "robotaxi",
     "robotics",
     "robots",
     "romania",
     "russia",
     "russia invasion of ukraine",
+    "russia war on ukraine",
     "russian invasion of ukraine",
     "russian war on ukraine",
     "samsung",
     "san",
-    "sandworm",
     "screen sharing",
     "screwworm",
     "screwworms",
@@ -239,6 +238,7 @@
     "vxlan",
     "walmart",
     "wan",
+    "waymo",
     "white house",
     "wildlife",
     "windows",
@@ -247,6 +247,48 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "published": "Fri, 21 Aug 2026 16:48:59 +0000",
+      "published_parsed": "2026-08-21T16:48:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+      "tags": [
+        "drone boats",
+        "drones",
+        "europe",
+        "military drones",
+        "nato",
+        "romania",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "published": "Fri, 21 Aug 2026 13:11:35 +0000",
+      "published_parsed": "2026-08-21T13:11:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "tags": [
+        "biz & it",
+        "cars",
+        "robotaxi",
+        "syndication",
+        "uber",
+        "waymo"
+      ]
+    },
     {
       "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
       "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
@@ -898,23 +940,6 @@
       ]
     },
     {
-      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-      "published": "Mon, 10 Aug 2026 21:26:38 +0000",
-      "published_parsed": "2026-08-10T21:26:38+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "A reminder of the perils of digital ownership.",
-      "tags": [
-        "cloud",
-        "cloud gaming",
-        "gaming",
-        "nintendo",
-        "nintendo switch",
-        "tech"
-      ]
-    },
-    {
       "title": "netlab 26.08: ArcOS, VPP (FD.io), ACLs, and DNS",
       "link": "https://blog.ipspace.net/2026/08/netlab-26-08/?utm_source=atom_feed",
       "published": "2026-08-10T11:58:00+02:00",
@@ -1116,6 +1141,20 @@
       ]
     },
     {
+      "title": "How to Best Use Panorama Templates and Stacks?",
+      "link": "https://www.packetswitch.co.uk/how-to-best-use-panorama-templates-and-stacks/",
+      "published": "Fri, 17 Jul 2026 18:59:00 GMT",
+      "published_parsed": "2026-07-17T18:59:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-templates.png",
+      "summary": "A good practice is to always start with creating a ‘global’ template. This is where you define configurations that all firewalls across the company should have.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
       "title": "NetBox: How to Prevent Direct Changes to the Main Branch",
       "link": "https://www.packetcoders.io/netbox-how-to-prevent-direct-changes-to-main/",
       "published": "Fri, 17 Jul 2026 12:51:04 GMT",
@@ -1145,19 +1184,17 @@
       ]
     },
     {
-      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-      "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-      "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "published_parsed": "2026-07-16T19:28:33+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+      "title": "Panorama Device Groups and Templates (with examples)",
+      "link": "https://www.packetswitch.co.uk/panorama-device-groups-and-templates/",
+      "published": "Thu, 16 Jul 2026 20:15:00 GMT",
+      "published_parsed": "2026-07-16T20:15:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-dg-tp.png",
+      "summary": "To create an Address Object on the firewall directly, you navigate to Objects > Addresses. If you were to create the object through Panorama",
       "tags": [
-        "biz & it",
-        "clickfix",
-        "russia",
-        "sandworm",
-        "security"
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
