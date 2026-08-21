@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:38:44.199342+00:00",
+  "last_updated": "2026-08-21T23:25:47.994345+00:00",
   "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
@@ -42,13 +42,13 @@
     "biz & it",
     "blog",
     "bmcs",
-    "books",
     "bridging",
     "cars",
     "cbp",
     "certifications",
     "change management",
     "claritycheck",
+    "class action",
     "claude",
     "cloud",
     "cloud storage",
@@ -57,7 +57,6 @@
     "containers",
     "copilot",
     "cryptography",
-    "culture",
     "cumulus linux",
     "customs and border protection",
     "cyber",
@@ -77,7 +76,6 @@
     "electric airplanes",
     "epic games",
     "europe",
-    "european union",
     "evpn",
     "exploits",
     "fabric",
@@ -92,6 +90,7 @@
     "generative ai",
     "google",
     "google password manager",
+    "grapheneos",
     "gre",
     "guardrails",
     "health",
@@ -116,12 +115,14 @@
     "lan",
     "laptops",
     "large langage models",
+    "lawsuit",
     "lisp",
     "litellm",
     "livestock",
     "llm security",
     "llms",
     "load balancing",
+    "logitech",
     "macos",
     "macs",
     "medical robots",
@@ -136,7 +137,6 @@
     "multicast",
     "nat",
     "nato",
-    "natural gas",
     "navigation blog",
     "nbcuniversal",
     "netbox",
@@ -175,6 +175,7 @@
     "presidential memorandum",
     "prime air",
     "printers",
+    "privacy",
     "prompt injections",
     "qos",
     "repairability",
@@ -215,6 +216,7 @@
     "switching",
     "syndication",
     "tanks",
+    "tariffs",
     "tcp",
     "teampcp",
     "tech",
@@ -247,6 +249,40 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+      "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+      "published": "Fri, 21 Aug 2026 19:32:29 +0000",
+      "published_parsed": "2026-08-21T19:32:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The private Android-based OS will expand beyond Pixels next year.",
+      "tags": [
+        "android",
+        "google",
+        "grapheneos",
+        "privacy",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+      "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+      "published": "Fri, 21 Aug 2026 19:04:41 +0000",
+      "published_parsed": "2026-08-21T19:04:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Logitech increased prices by up to 25 percent last year.",
+      "tags": [
+        "class action",
+        "lawsuit",
+        "logitech",
+        "policy",
+        "tariffs",
+        "tech"
+      ]
+    },
     {
       "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
       "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
@@ -840,29 +876,6 @@
       ]
     },
     {
-      "title": "Russian drones found near vital European offshore gas site, get blown up",
-      "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-      "published": "Tue, 11 Aug 2026 21:20:11 +0000",
-      "published_parsed": "2026-08-11T21:20:11+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
-      "tags": [
-        "drones",
-        "european union",
-        "military drones",
-        "nato",
-        "natural gas",
-        "romania",
-        "russia",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war"
-      ]
-    },
-    {
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
       "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "published": "Tue, 11 Aug 2026 20:59:52 +0000",
@@ -891,21 +904,6 @@
       "summary": "The NAF Advisory Board (AB) is the amazing group of volunteers who keep AutoCon practitioner-first, vendor-neutral, and community-responsive.",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-      "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-      "published": "Tue, 11 Aug 2026 16:07:34 +0000",
-      "published_parsed": "2026-08-11T16:07:34+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Claire Stapleton's new book, Don't Be Evil , recounts her journey from company cheerleader to outspoken dissident.",
-      "tags": [
-        "books",
-        "culture",
-        "google",
-        "tech"
       ]
     },
     {
