@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T07:58:32.698476+00:00",
+  "last_updated": "2026-08-24T14:44:03.178405+00:00",
   "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
@@ -47,6 +47,7 @@
     "cbp",
     "certifications",
     "change management",
+    "chuwi",
     "claritycheck",
     "class action",
     "claude",
@@ -105,6 +106,7 @@
     "hybrid air",
     "india",
     "industrial robots",
+    "intel core series 3",
     "internet",
     "ip routing",
     "ipv6",
@@ -123,6 +125,7 @@
     "llms",
     "load balancing",
     "logitech",
+    "macbook neo",
     "macos",
     "macs",
     "medical robots",
@@ -168,7 +171,6 @@
     "peacock",
     "people search",
     "pixel 11",
-    "pixel watch 5",
     "play store",
     "podcast",
     "policy",
@@ -242,6 +244,7 @@
     "wan",
     "waymo",
     "white house",
+    "wildcat lake",
     "wildlife",
     "windows",
     "worth reading",
@@ -249,6 +252,23 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "published": "Mon, 24 Aug 2026 11:00:01 +0000",
+      "published_parsed": "2026-08-24T11:00:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Unibook is a weird entry-level laptop for people with patience.",
+      "tags": [
+        "chuwi",
+        "features",
+        "intel core series 3",
+        "macbook neo",
+        "tech",
+        "wildcat lake"
+      ]
+    },
     {
       "title": "Arista cEOS Does Not Apply ACLs to Control-Plane Traffic",
       "link": "https://blog.ipspace.net/2026/08/arista-ceos-acl-control-plane-traffic/?utm_source=atom_feed",
@@ -845,22 +865,6 @@
         "us department of agriculture",
         "usda",
         "wildlife"
-      ]
-    },
-    {
-      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "published": "Wed, 12 Aug 2026 14:00:51 +0000",
-      "published_parsed": "2026-08-12T14:00:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-      "tags": [
-        "android",
-        "google",
-        "pixel 11",
-        "pixel watch 5",
-        "tech"
       ]
     },
     {

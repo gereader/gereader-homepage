@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-08-24T07:58:32.673506+00:00",
-  "article_count": 2088,
+  "last_updated": "2026-08-24T14:44:03.150078+00:00",
+  "article_count": 2089,
   "articles": [
+    {
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "published": "Mon, 24 Aug 2026 11:00:01 +0000",
+      "published_parsed": "2026-08-24T11:00:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Unibook is a weird entry-level laptop for people with patience.",
+      "tags": [
+        "chuwi",
+        "features",
+        "intel core series 3",
+        "macbook neo",
+        "tech",
+        "wildcat lake"
+      ]
+    },
     {
       "title": "Arista cEOS Does Not Apply ACLs to Control-Plane Traffic",
       "link": "https://blog.ipspace.net/2026/08/arista-ceos-acl-control-plane-traffic/?utm_source=atom_feed",
