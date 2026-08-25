@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-25T18:41:27.482290+00:00",
-  "article_count": 2093,
+  "last_updated": "2026-08-25T23:26:00.307778+00:00",
+  "article_count": 2094,
   "articles": [
+    {
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "published": "Tue, 25 Aug 2026 18:32:30 +0000",
+      "published_parsed": "2026-08-25T18:32:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "tags": [
+        "android",
+        "google",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Multivendor SR-MPLS",
       "link": "https://blog.ipspace.net/2026/08/sr-mpls-multivendor/?utm_source=atom_feed",
