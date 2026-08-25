@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-25T02:18:18.760905+00:00",
-  "article_count": 2092,
+  "last_updated": "2026-08-25T07:45:19.177675+00:00",
+  "article_count": 2093,
   "articles": [
+    {
+      "title": "Multivendor SR-MPLS",
+      "link": "https://blog.ipspace.net/2026/08/sr-mpls-multivendor/?utm_source=atom_feed",
+      "published": "2026-08-25T07:44:00+02:00",
+      "published_parsed": "2026-08-25T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/05/sr-mpls-intro.png",
+      "summary": "Summer is almost over, and it’s time to resume regular programming with the next example from the Segment Routing workshop I had at ITNOG10: multi-vendor SR-MPLS . I used the same lab topology as in the previous examples but deployed Arista EOS on PE1, FRRouting on P, and SR Linux on PE2 1 Read...",
+      "tags": [
+        "netlab",
+        "networking",
+        "sr-mpls"
+      ]
+    },
     {
       "title": "Data centers become \"killer application\" for new power transformer tech",
       "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
