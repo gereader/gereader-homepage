@@ -1,7 +1,65 @@
 {
-  "last_updated": "2026-08-24T23:23:58.330887+00:00",
-  "article_count": 2089,
+  "last_updated": "2026-08-25T02:18:18.760905+00:00",
+  "article_count": 2092,
   "articles": [
+    {
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "published": "Mon, 24 Aug 2026 21:32:16 +0000",
+      "published_parsed": "2026-08-24T21:32:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "tags": [
+        "ai chips",
+        "ai data centers",
+        "data centers",
+        "electricity",
+        "electricity demand",
+        "electricity grid",
+        "ev charging",
+        "power grids",
+        "power transformers",
+        "solid-state transformers",
+        "tech"
+      ]
+    },
+    {
+      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "published": "Mon, 24 Aug 2026 20:17:41 +0000",
+      "published_parsed": "2026-08-24T20:17:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Monitor vendors are playing with fire.",
+      "tags": [
+        "ads",
+        "lg",
+        "monitors",
+        "samsung",
+        "smart home",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+      "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+      "published": "Mon, 24 Aug 2026 19:19:21 +0000",
+      "published_parsed": "2026-08-24T19:19:21+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+      "tags": [
+        "aliexpress",
+        "biz & it",
+        "browser fingerprinting",
+        "chromium",
+        "firefox",
+        "safari",
+        "security"
+      ]
+    },
     {
       "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
       "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
