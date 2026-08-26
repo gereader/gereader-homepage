@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-26T02:24:43.725562+00:00",
-  "article_count": 2094,
+  "last_updated": "2026-08-26T07:48:50.886702+00:00",
+  "article_count": 2095,
   "articles": [
+    {
+      "title": "Dear Junos, Tunnels Are Not Virtual Links",
+      "link": "https://blog.ipspace.net/2026/08/junos-ospfv3-tunnels/?utm_source=atom_feed",
+      "published": "2026-08-26T07:55:00+02:00",
+      "published_parsed": "2026-08-26T07:55:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In late June, we added GRE tunnels to netlab , including a Junos implementation . It looked great (as in “everything worked”) until I changed the integration tests to have GRE tunnels between a tested device and a pair of FRR containers. All other implementations worked as before, but Junos failed...",
+      "tags": [
+        "netlab",
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
       "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
