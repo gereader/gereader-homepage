@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-26T19:48:47.217372+00:00",
-  "article_count": 2095,
+  "last_updated": "2026-08-27T04:23:04.981232+00:00",
+  "article_count": 2096,
   "articles": [
+    {
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "published": "Wed, 26 Aug 2026 21:25:27 +0000",
+      "published_parsed": "2026-08-26T21:25:27+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "job losses",
+        "jobs",
+        "meta"
+      ]
+    },
     {
       "title": "Dear Junos, Tunnels Are Not Virtual Links",
       "link": "https://blog.ipspace.net/2026/08/junos-ospfv3-tunnels/?utm_source=atom_feed",
