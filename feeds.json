@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T06:48:31.230388+00:00",
+  "last_updated": "2026-08-28T19:18:37.231232+00:00",
   "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
@@ -32,6 +32,7 @@
     "antitrust",
     "app stores",
     "apple",
+    "apple tv",
     "armor",
     "arp",
     "authentication",
@@ -122,6 +123,7 @@
     "jobs",
     "lan",
     "laptops",
+    "law enforcement",
     "lawsuit",
     "lg",
     "lisp",
@@ -238,7 +240,6 @@
     "unifi",
     "united airlines",
     "unitree robotics",
-    "us military",
     "video",
     "virtualization",
     "vpn",
@@ -250,11 +251,44 @@
     "white house",
     "wildcat lake",
     "windows",
+    "worms",
     "worth reading",
     "zerodays",
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+      "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+      "published": "Fri, 28 Aug 2026 17:23:53 +0000",
+      "published_parsed": "2026-08-28T17:23:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Annual subscriptions see the biggest bump.",
+      "tags": [
+        "apple",
+        "apple tv",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "published": "Fri, 28 Aug 2026 11:15:05 +0000",
+      "published_parsed": "2026-08-28T11:15:05+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+      "tags": [
+        "biz & it",
+        "law enforcement",
+        "security",
+        "supply chain attacks",
+        "teampcp",
+        "worms"
+      ]
+    },
     {
       "title": "Using netlab in Software Testing with Dinesh Dutt",
       "link": "https://blog.ipspace.net/2026/08/using-netlab-in-software-testing/?utm_source=atom_feed",
@@ -944,27 +978,6 @@
       ]
     },
     {
-      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-      "published": "Thu, 13 Aug 2026 18:31:56 +0000",
-      "published_parsed": "2026-08-13T18:31:56+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-      "tags": [
-        "ai drones",
-        "drones",
-        "military drones",
-        "russia invasion of ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war",
-        "us military"
-      ]
-    },
-    {
       "title": "Worth Reading: LLM Prompts for Network Engineers",
       "link": "https://blog.ipspace.net/2026/08/worth-reading-llm-prompts-for-network-engineers/?utm_source=atom_feed",
       "published": "2026-08-13T08:07:00+02:00",
@@ -1181,20 +1194,6 @@
         "microsoft exchange",
         "security",
         "zerodays"
-      ]
-    },
-    {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "published": "Wed, 29 Jul 2026 22:07:06 +0000",
-      "published_parsed": "2026-07-29T22:07:06+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "security"
       ]
     },
     {
