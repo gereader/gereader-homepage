@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T18:08:29.210168+00:00",
-  "article_count": 98,
+  "last_updated": "2026-08-28T06:48:31.230388+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -255,6 +255,21 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Using netlab in Software Testing with Dinesh Dutt",
+      "link": "https://blog.ipspace.net/2026/08/using-netlab-in-software-testing/?utm_source=atom_feed",
+      "published": "2026-08-28T07:26:00+01:00",
+      "published_parsed": "2026-08-28T07:26:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I know a few software development companies use netlab to test their network management software (and contribute back to netlab – thanks a million!), and I always wanted to chat about that. As I have known Dinesh Dutt for ages, it wasn’t hard to decide who to invite to have that chat with ;) As it...",
+      "tags": [
+        "netlab",
+        "networking",
+        "podcast",
+        "software gone wild"
+      ]
+    },
     {
       "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
       "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
