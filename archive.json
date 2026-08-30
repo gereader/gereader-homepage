@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-08-30T01:08:42.405774+00:00",
-  "article_count": 2102,
+  "last_updated": "2026-08-30T12:39:28.720631+00:00",
+  "article_count": 2103,
   "articles": [
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "published": "Sun, 30 Aug 2026 11:03:47 +0000",
+      "published_parsed": "2026-08-30T11:03:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "biz & it",
+        "data centers",
+        "shoot many robots",
+        "syndication"
+      ]
+    },
     {
       "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
       "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",

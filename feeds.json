@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T01:08:42.434023+00:00",
-  "article_count": 99,
+  "last_updated": "2026-08-30T12:39:28.747847+00:00",
+  "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -139,7 +139,6 @@
     "medical robots",
     "meta",
     "microsoft",
-    "microsoft exchange",
     "military",
     "military drones",
     "monitors",
@@ -213,6 +212,7 @@
     "service providers",
     "session cookie",
     "session cookie theft",
+    "shoot many robots",
     "smart home",
     "smartphones",
     "snmp",
@@ -253,10 +253,26 @@
     "windows",
     "worms",
     "worth reading",
-    "zerodays",
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "published": "Sun, 30 Aug 2026 11:03:47 +0000",
+      "published_parsed": "2026-08-30T11:03:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "biz & it",
+        "data centers",
+        "shoot many robots",
+        "syndication"
+      ]
+    },
     {
       "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
       "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
@@ -1181,22 +1197,6 @@
       ]
     },
     {
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "published": "Thu, 30 Jul 2026 20:57:22 +0000",
-      "published_parsed": "2026-07-30T20:57:22+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
-      "tags": [
-        "biz & it",
-        "exploits",
-        "microsoft exchange",
-        "security",
-        "zerodays"
-      ]
-    },
-    {
       "title": "On the Futility of Opening Ansible Issues",
       "link": "https://blog.ipspace.net/2026/07/futility-opening-ansible-issues/?utm_source=atom_feed",
       "published": "2026-07-22T08:03:00+02:00",
@@ -1723,20 +1723,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "SR-MPLS over Unnumbered Interfaces",
-      "link": "https://blog.ipspace.net/2026/06/sr-mpls-unnumbered/?utm_source=atom_feed",
-      "published": "2026-06-01T08:03:00+02:00",
-      "published_parsed": "2026-06-01T08:03:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/05/sr-mpls-intro.png",
-      "summary": "After the simple SR-MPLS demo and the dual-stack SR-MPLS setup , it was time for the next obvious question: Does SR-MPLS work over unnumbered IPv4 interfaces 1 , assuming the implementation of the underlying routing protocol supports them? Of course it does; let’s go through the details, using the...",
-      "tags": [
-        "netlab",
-        "networking",
-        "sr-mpls"
       ]
     }
   ]
