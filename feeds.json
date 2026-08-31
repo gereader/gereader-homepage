@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T14:55:05.251301+00:00",
+  "last_updated": "2026-08-31T22:37:20.390125+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -55,7 +55,6 @@
     "chuwi",
     "claritycheck",
     "class action",
-    "claude",
     "cloud",
     "cloud storage",
     "comcast",
@@ -75,6 +74,7 @@
     "dmvpn",
     "dns",
     "docker",
+    "donald trump",
     "doordash",
     "drone boats",
     "drones",
@@ -94,11 +94,12 @@
     "firefox",
     "firewall",
     "firewalls",
-    "foldables",
     "framework",
     "general",
     "google",
+    "google maps",
     "google password manager",
+    "government",
     "grapheneos",
     "gre",
     "guardrails",
@@ -136,6 +137,7 @@
     "macos",
     "macs",
     "malware",
+    "media streaming",
     "medical robots",
     "meta",
     "microsoft",
@@ -188,7 +190,9 @@
     "prime air",
     "privacy",
     "prompt injections",
+    "proxy networks",
     "qos",
+    "remote access",
     "repairability",
     "reviews",
     "robo inc.",
@@ -256,6 +260,38 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Think twice before installing this device promising free movies",
+      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "published": "Mon, 31 Aug 2026 16:33:38 +0000",
+      "published_parsed": "2026-08-31T16:33:38+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+      "tags": [
+        "biz & it",
+        "media streaming",
+        "proxy networks",
+        "remote access",
+        "security"
+      ]
+    },
+    {
+      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "published": "Mon, 31 Aug 2026 15:33:32 +0000",
+      "published_parsed": "2026-08-31T15:33:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
+      "tags": [
+        "donald trump",
+        "google",
+        "google maps",
+        "government",
+        "tech"
+      ]
+    },
     {
       "title": "Inside Meta’s push to put robots to work in data centers",
       "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
@@ -947,23 +983,6 @@
       ]
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-      "published": "Fri, 14 Aug 2026 11:00:05 +0000",
-      "published_parsed": "2026-08-14T11:00:05+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
-      "tags": [
-        "features",
-        "foldables",
-        "reviews",
-        "samsung",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "Automatically Archive Old NetBox Branches",
       "link": "https://www.packetcoders.io/automatically-archive-old-netbox-branches/",
       "published": "Fri, 14 Aug 2026 08:00:15 GMT",
@@ -1165,22 +1184,6 @@
       "tags": [
         "homelab",
         "networking"
-      ]
-    },
-    {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "published": "Fri, 31 Jul 2026 20:39:14 +0000",
-      "published_parsed": "2026-07-31T20:39:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-      "tags": [
-        "ai",
-        "anthropic",
-        "biz & it",
-        "claude",
-        "security"
       ]
     },
     {

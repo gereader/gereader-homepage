@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-08-31T14:55:05.223534+00:00",
-  "article_count": 2103,
+  "last_updated": "2026-08-31T22:37:20.362187+00:00",
+  "article_count": 2105,
   "articles": [
+    {
+      "title": "Think twice before installing this device promising free movies",
+      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "published": "Mon, 31 Aug 2026 16:33:38 +0000",
+      "published_parsed": "2026-08-31T16:33:38+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+      "tags": [
+        "biz & it",
+        "media streaming",
+        "proxy networks",
+        "remote access",
+        "security"
+      ]
+    },
+    {
+      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "published": "Mon, 31 Aug 2026 15:33:32 +0000",
+      "published_parsed": "2026-08-31T15:33:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
+      "tags": [
+        "donald trump",
+        "google",
+        "google maps",
+        "government",
+        "tech"
+      ]
+    },
     {
       "title": "Inside Meta’s push to put robots to work in data centers",
       "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
