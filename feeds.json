@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T01:42:38.880186+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-01T12:25:29.102195+00:00",
+  "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -260,6 +260,32 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Track LLM API Costs with genai-prices",
+      "link": "https://www.packetcoders.io/track-llm-api-costs-with-genai-prices/",
+      "published": "Tue, 01 Sep 2026 11:16:32 GMT",
+      "published_parsed": "2026-09-01T11:16:32+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/08/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973.png",
+      "summary": "Tip: Use the genai-prices Python library to calculate the estimated cost of calling LLM inference APIs. This avoids maintaining your own pricing table and lets you report token counts and cost for each request. Below is an example: # Install: uv add openai genai-prices from openai import OpenAI from",
+      "tags": [
+        "networking",
+        "tips"
+      ]
+    },
+    {
+      "title": "MUST READ: Git – Going Pro",
+      "link": "https://blog.ipspace.net/2026/09/worth-reading-git-going-pro/?utm_source=atom_feed",
+      "published": "2026-09-01T07:31:00+02:00",
+      "published_parsed": "2026-09-01T07:31:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I sure wish Tony Mattke had started publishing his Git-related blog posts in 2017 when I was still struggling with the basics. In his latest Going Pro article he covers: Using SSH keys with Git and GitHub Pre-commit hooks GitHub Actions and linting GitHub Branch protection PR reviews gh CLI...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Think twice before installing this device promising free movies",
       "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
@@ -1699,19 +1725,6 @@
       "summary": "A happy netlab user sent me an unexpected use case: they successfully used its multi-vendor capabilities to argue with a vendor TAC. Here’s the gist of the story (edited/anonymized for obvious reasons): They deployed a configuration change that resulted in an unexpected outage. The outage partially...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "EVPN Centralized Routing with Arista EOS",
-      "link": "https://blog.ipspace.net/2026/06/arista-eos-evpn-central-routing/?utm_source=atom_feed",
-      "published": "2026-06-03T07:44:00+02:00",
-      "published_parsed": "2026-06-03T07:44:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/05/evpn-fwd-central-routing.png",
-      "summary": "A month ago, I described ARP issues in EVPN centralized routing design , and Naveen Kumar Devaraj was kind enough to add some Arista EOS implementation details . Today, let’s explore what EVPN routes Arista EOS generates in that scenario. We’ll use a very simple lab topology with a spine switch...",
-      "tags": [
-        "evpn",
         "networking"
       ]
     }
