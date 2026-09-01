@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T17:41:14.477894+00:00",
+  "last_updated": "2026-09-01T20:44:21.402538+00:00",
   "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
@@ -29,8 +29,6 @@
     "android",
     "ansible",
     "anthropic",
-    "antitrust",
-    "app stores",
     "apple",
     "apple tv",
     "armor",
@@ -83,7 +81,6 @@
     "electricity",
     "electricity demand",
     "electricity grid",
-    "epic games",
     "europe",
     "ev charging",
     "evpn",
@@ -181,7 +178,6 @@
     "peacock",
     "people search",
     "pixel 11",
-    "play store",
     "podcast",
     "policy",
     "power grids",
@@ -260,6 +256,21 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+      "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+      "published": "Tue, 01 Sep 2026 18:00:02 +0000",
+      "published_parsed": "2026-09-01T18:00:02+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "New features are rolling out across the Android ecosystem starting today.",
+      "tags": [
+        "android",
+        "google",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Track LLM API Costs with genai-prices",
       "link": "https://www.packetcoders.io/track-llm-api-costs-with-genai-prices/",
@@ -973,23 +984,6 @@
         "cloud storage",
         "data center",
         "pbs"
-      ]
-    },
-    {
-      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-      "published": "Fri, 14 Aug 2026 15:46:40 +0000",
-      "published_parsed": "2026-08-14T15:46:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Third-party app stores are about to become more visible in Google Play.",
-      "tags": [
-        "antitrust",
-        "app stores",
-        "epic games",
-        "google",
-        "play store",
-        "tech"
       ]
     },
     {
