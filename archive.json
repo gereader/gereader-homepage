@@ -1,7 +1,56 @@
 {
-  "last_updated": "2026-09-02T11:59:40.596814+00:00",
-  "article_count": 2109,
+  "last_updated": "2026-09-02T17:42:13.798780+00:00",
+  "article_count": 2112,
   "articles": [
+    {
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "published": "Wed, 02 Sep 2026 16:30:11 +0000",
+      "published_parsed": "2026-09-02T16:30:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+      "tags": [
+        "google",
+        "google ad tech monopoly",
+        "google adtech",
+        "google antitrust",
+        "google antitrust trial",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Army just used a 20-kilowatt laser to take out three drones",
+      "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+      "published": "Wed, 02 Sep 2026 13:04:59 +0000",
+      "published_parsed": "2026-09-02T13:04:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Army says its laser system can track and destroy hostile drones.",
+      "tags": [
+        "army",
+        "drones",
+        "lasers",
+        "syndication",
+        "tech"
+      ]
+    },
+    {
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "published": "Wed, 02 Sep 2026 11:00:43 +0000",
+      "published_parsed": "2026-09-02T11:00:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+      "tags": [
+        "bgp",
+        "biz & it",
+        "border gateway protocol",
+        "security",
+        "supply chain attack"
+      ]
+    },
     {
       "title": "Networking Aspects of Running VMs in Containers",
       "link": "https://blog.ipspace.net/2026/09/running-virtual-machines-in-containers/?utm_source=atom_feed",

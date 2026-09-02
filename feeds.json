@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T11:59:40.621992+00:00",
+  "last_updated": "2026-09-02T17:42:13.826655+00:00",
   "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
@@ -20,10 +20,6 @@
     "ai data centers",
     "ai drones",
     "aiops",
-    "air canada",
-    "aircraft",
-    "airlines",
-    "airplanes",
     "aliexpress",
     "amazon",
     "android",
@@ -32,18 +28,17 @@
     "apple",
     "apple tv",
     "armor",
+    "army",
     "arp",
     "authentication",
     "automated troubleshooting",
     "automation",
-    "aviation",
     "aws",
     "azure",
-    "baseboard management controller",
     "bgp",
     "biz & it",
     "blog",
-    "bmcs",
+    "border gateway protocol",
     "bridging",
     "browser fingerprinting",
     "cars",
@@ -77,7 +72,6 @@
     "drone boats",
     "drones",
     "eigrp",
-    "electric airplanes",
     "electricity",
     "electricity demand",
     "electricity grid",
@@ -94,20 +88,22 @@
     "framework",
     "general",
     "google",
+    "google ad tech monopoly",
+    "google adtech",
+    "google antitrust",
+    "google antitrust trial",
     "google maps",
     "google password manager",
     "government",
     "grapheneos",
     "gre",
     "guardrails",
-    "heart aerospace",
     "hezbollah",
     "high availability",
     "history",
     "homelab",
     "hugging face",
     "humanoid robots",
-    "hybrid air",
     "industrial robots",
     "infections",
     "intel core series 3",
@@ -121,6 +117,7 @@
     "jobs",
     "lan",
     "laptops",
+    "lasers",
     "law enforcement",
     "lawsuit",
     "lg",
@@ -170,7 +167,6 @@
     "openai",
     "openflow",
     "ospf",
-    "outage",
     "overlay networks",
     "palo alto",
     "passkeys",
@@ -222,6 +218,7 @@
     "sr-mpls",
     "srv6",
     "streaming",
+    "supply chain attack",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -238,7 +235,6 @@
     "ukraine",
     "ukraine war",
     "unifi",
-    "united airlines",
     "unitree robotics",
     "video",
     "virtualization",
@@ -256,6 +252,55 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "published": "Wed, 02 Sep 2026 16:30:11 +0000",
+      "published_parsed": "2026-09-02T16:30:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+      "tags": [
+        "google",
+        "google ad tech monopoly",
+        "google adtech",
+        "google antitrust",
+        "google antitrust trial",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Army just used a 20-kilowatt laser to take out three drones",
+      "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+      "published": "Wed, 02 Sep 2026 13:04:59 +0000",
+      "published_parsed": "2026-09-02T13:04:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Army says its laser system can track and destroy hostile drones.",
+      "tags": [
+        "army",
+        "drones",
+        "lasers",
+        "syndication",
+        "tech"
+      ]
+    },
+    {
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "published": "Wed, 02 Sep 2026 11:00:43 +0000",
+      "published_parsed": "2026-09-02T11:00:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+      "tags": [
+        "bgp",
+        "biz & it",
+        "border gateway protocol",
+        "security",
+        "supply chain attack"
+      ]
+    },
     {
       "title": "Networking Aspects of Running VMs in Containers",
       "link": "https://blog.ipspace.net/2026/09/running-virtual-machines-in-containers/?utm_source=atom_feed",
@@ -903,20 +948,6 @@
       ]
     },
     {
-      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-      "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-      "published": "Mon, 17 Aug 2026 18:43:51 +0000",
-      "published_parsed": "2026-08-17T18:43:51+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
-      "tags": [
-        "outage",
-        "smart home",
-        "tech"
-      ]
-    },
-    {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "published": "Mon, 17 Aug 2026 14:22:54 +0000",
@@ -961,27 +992,6 @@
         "screen sharing",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-      "published": "Fri, 14 Aug 2026 18:00:23 +0000",
-      "published_parsed": "2026-08-14T18:00:23+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-      "tags": [
-        "air canada",
-        "aircraft",
-        "airlines",
-        "airplanes",
-        "aviation",
-        "electric airplanes",
-        "heart aerospace",
-        "hybrid air",
-        "tech",
-        "united airlines"
       ]
     },
     {
@@ -1176,23 +1186,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "published": "Wed, 05 Aug 2026 22:35:20 +0000",
-      "published_parsed": "2026-08-05T22:35:20+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-      "tags": [
-        "baseboard management controller",
-        "biz & it",
-        "bmcs",
-        "exploits",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
