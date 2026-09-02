@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-02T05:31:34.745983+00:00",
-  "article_count": 2108,
+  "last_updated": "2026-09-02T11:59:40.596814+00:00",
+  "article_count": 2109,
   "articles": [
+    {
+      "title": "Networking Aspects of Running VMs in Containers",
+      "link": "https://blog.ipspace.net/2026/09/running-virtual-machines-in-containers/?utm_source=atom_feed",
+      "published": "2026-09-02T07:44:00+02:00",
+      "published_parsed": "2026-09-02T07:44:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The vrnetlab project and its containerlab fork implement a wonderful idea: let’s package virtual machines (primarily network devices that cannot be containerized) as containers to use reliable orchestration tools like containerlab to provision network topologies. That approach might have a few...",
+      "tags": [
+        "netlab",
+        "networking",
+        "virtualization"
+      ]
+    },
     {
       "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
       "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
