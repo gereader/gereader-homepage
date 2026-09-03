@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-09-03T17:37:39.534975+00:00",
-  "article_count": 2115,
+  "last_updated": "2026-09-03T20:41:26.553546+00:00",
+  "article_count": 2117,
   "articles": [
+    {
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "published": "Thu, 03 Sep 2026 19:52:06 +0000",
+      "published_parsed": "2026-09-03T19:52:06+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "multi-hop",
+        "security",
+        "single-hop",
+        "virtual private networks",
+        "vpns"
+      ]
+    },
+    {
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "published": "Thu, 03 Sep 2026 18:58:31 +0000",
+      "published_parsed": "2026-09-03T18:58:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "virtualization",
+        "vmware"
+      ]
+    },
     {
       "title": "Netpicker AI Assistant: AI-Assisted Network Operations and Compliance",
       "link": "https://www.packetcoders.io/netpicker-ai-assistant-ai-assisted-network-operations-and-compliance/",
