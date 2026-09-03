@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-03T11:59:26.390374+00:00",
-  "article_count": 2114,
+  "last_updated": "2026-09-03T17:37:39.534975+00:00",
+  "article_count": 2115,
   "articles": [
+    {
+      "title": "Netpicker AI Assistant: AI-Assisted Network Operations and Compliance",
+      "link": "https://www.packetcoders.io/netpicker-ai-assistant-ai-assisted-network-operations-and-compliance/",
+      "published": "Thu, 03 Sep 2026 12:27:49 GMT",
+      "published_parsed": "2026-09-03T12:27:49+00:00",
+      "source": "Packet Coders",
+      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/09/Heading--22-.png",
+      "summary": "Introduction The real value is not in asking a model how BGP works or how to configure a VLAN. It comes from connecting AI to the tools and data we already use to operate the network, including configuration backups, compliance results, CVE data, device state and automation jobs. This is",
+      "tags": [
+        "blog",
+        "networking"
+      ]
+    },
     {
       "title": "BGP-Free Core with SR-MPLS",
       "link": "https://blog.ipspace.net/2026/09/sr-mpls-bgp-free/?utm_source=atom_feed",
