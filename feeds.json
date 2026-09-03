@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T05:40:22.546388+00:00",
-  "article_count": 99,
+  "last_updated": "2026-09-03T11:59:26.418738+00:00",
+  "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1713,20 +1713,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Lab: Implementing VRF-Lite with VXLAN",
-      "link": "https://blog.ipspace.net/2026/06/lab-vxlan-vrf-lite/?utm_source=atom_feed",
-      "published": "2026-06-05T08:21:00+01:00",
-      "published_parsed": "2026-06-05T08:21:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Did you know that you can implement a VRF-Lite design with VXLAN? All you need are devices that can run VRF routing protocols over VXLAN-backed VLAN segments. Compared to the “traditional” VRF-Lite design, in which you need a set of VLANs on every link and every device running the routing protocol...",
-      "tags": [
-        "evpn",
-        "networking",
-        "vxlan"
       ]
     }
   ]
