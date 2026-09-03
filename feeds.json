@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T00:59:47.259628+00:00",
-  "article_count": 98,
+  "last_updated": "2026-09-03T05:40:22.546388+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -251,6 +251,20 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "BGP-Free Core with SR-MPLS",
+      "link": "https://blog.ipspace.net/2026/09/sr-mpls-bgp-free/?utm_source=atom_feed",
+      "published": "2026-09-03T07:30:00+02:00",
+      "published_parsed": "2026-09-03T07:30:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/09/sr-mpls-fun.png",
+      "summary": "The beauty of SR-MPLS is that it’s a drop-in replacement for the traditional (LDP- or RSVP-based) MPLS control plane. For example, you could replace LDP with SR-MPLS in a network using MPLS to implement a BGP-free transport core , and it just keeps working. This scenario was the first “fun”...",
+      "tags": [
+        "netlab",
+        "networking",
+        "sr-mpls"
+      ]
+    },
     {
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
