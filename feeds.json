@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T12:00:52.048464+00:00",
+  "last_updated": "2026-09-04T17:26:18.431290+00:00",
   "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
@@ -184,8 +184,8 @@
     "proxy networks",
     "qos",
     "remote access",
-    "repairability",
     "reviews",
+    "right to repair",
     "robo inc.",
     "robostore",
     "robotaxi",
@@ -252,6 +252,23 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+      "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "published": "Fri, 04 Sep 2026 11:00:05 +0000",
+      "published_parsed": "2026-09-04T11:00:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+      "tags": [
+        "android",
+        "fairphone",
+        "features",
+        "right to repair",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Please Help Me Follow Your Content",
       "link": "https://blog.ipspace.net/2026/09/help-me-follow-your-content/?utm_source=atom_feed",
@@ -987,22 +1004,6 @@
         "nbcuniversal",
         "peacock",
         "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Fairphone's latest repairable phone is finally available in the US for $650",
-      "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-      "published": "Tue, 18 Aug 2026 16:05:00 +0000",
-      "published_parsed": "2026-08-18T16:05:00+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
-      "tags": [
-        "android",
-        "fairphone",
-        "repairability",
-        "smartphones",
         "tech"
       ]
     },
