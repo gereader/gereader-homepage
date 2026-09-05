@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T20:27:58.318722+00:00",
+  "last_updated": "2026-09-05T00:42:09.157398+00:00",
   "article_count": 100,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,12 +18,12 @@
     "ai chips",
     "ai data centers",
     "ai drones",
+    "ai insecurity",
     "aiops",
     "aliexpress",
     "amazon",
     "android",
     "ansible",
-    "anthropic",
     "apple",
     "apple tv",
     "armor",
@@ -250,6 +250,23 @@
     "zipline"
   ],
   "articles": [
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "published_parsed": "2026-09-04T22:17:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "ai insecurity",
+        "biz & it",
+        "openai",
+        "security"
+      ]
+    },
     {
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
@@ -1129,22 +1146,6 @@
         "cloud storage",
         "data center",
         "pbs"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "published": "Fri, 14 Aug 2026 14:27:14 +0000",
-      "published_parsed": "2026-08-14T14:27:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "tags": [
-        "ai",
-        "anthropic",
-        "biz & it",
-        "openai",
-        "syndication"
       ]
     },
     {

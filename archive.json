@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-04T20:27:58.290637+00:00",
-  "article_count": 2121,
+  "last_updated": "2026-09-05T00:42:09.135300+00:00",
+  "article_count": 2122,
   "articles": [
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "published_parsed": "2026-09-04T22:17:36+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "ai insecurity",
+        "biz & it",
+        "openai",
+        "security"
+      ]
+    },
     {
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
