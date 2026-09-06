@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T05:38:44.091553+00:00",
-  "article_count": 100,
+  "last_updated": "2026-09-06T11:33:15.428414+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1724,19 +1724,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "netlab 26.06: OSPFv3 on FortiOS, MPLS/VPN on SR Linux",
-      "link": "https://blog.ipspace.net/2026/06/netlab-26-06/?utm_source=atom_feed",
-      "published": "2026-06-08T08:13:00+02:00",
-      "published_parsed": "2026-06-08T08:13:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 26.06 adds OSPFv3 support on FortiOS (by @a-v-popov ) and MPLS/VPN support on SR Linux. We also ensured the installation scripts work on Ubuntu 26.04 (everything else was OK) and updated the installed Vagrant version to 2.4.9 (we’re not using new Vagrant features; you don’t have to...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
