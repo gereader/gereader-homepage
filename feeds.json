@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T00:59:29.559359+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-08T05:51:31.139648+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1683,20 +1683,6 @@
       "summary": "Leo Fleskes sent me an interesting question after reading my Generate Partial Device Configurations with netlab blog post: What is stopping us from eventually, given enough usage and coverage, using netlab to configure devices in the live network? In theory, nothing. In practice, you might hit a...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Goodbye, Leaf-and-Spine Networks?",
-      "link": "https://blog.ipspace.net/2026/06/goodbye-leaf-spine-networks/?utm_source=atom_feed",
-      "published": "2026-06-10T07:42:00+02:00",
-      "published_parsed": "2026-06-10T07:42:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A friend of mine sent me links to a new paper published by AWS engineers , and an associated LinkedIn post which claims: We got lean, resilient, massive aggregation fabrics that provide 33% better throughput with 69% fewer routers, savings 27% of costs, cutting power usage by 40%, and reducing CO2...",
-      "tags": [
-        "data center",
-        "fabric",
         "networking"
       ]
     }
