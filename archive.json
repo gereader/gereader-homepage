@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-08T05:51:31.112057+00:00",
-  "article_count": 2122,
+  "last_updated": "2026-09-08T12:01:06.227011+00:00",
+  "article_count": 2124,
   "articles": [
+    {
+      "title": "Testing Your Network with Netpicker",
+      "link": "https://www.packetswitch.co.uk/testing-your-network-with-netpicker/",
+      "published": "Tue, 08 Sep 2026 09:45:31 GMT",
+      "published_parsed": "2026-09-08T09:45:31+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/pytest-3-.png",
+      "summary": "See how Netpicker runs your pytest network tests through a GUI, with scheduling, device tagging, and an AI agent to help write new rules.",
+      "tags": [
+        "netdevops",
+        "networking"
+      ]
+    },
+    {
+      "title": "Worth Reading: An Interactive Introduction to the STP",
+      "link": "https://blog.ipspace.net/2026/09/worth-reading-interactive-stp-intro/?utm_source=atom_feed",
+      "published": "2026-09-08T07:55:00+02:00",
+      "published_parsed": "2026-09-08T07:55:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I can’t even start imagining how much time Vincent Bernat spent creating his interactive introduction to the spanning tree protocol (starting with STP implemented in WebAssembly); the results are simply phenomenal (there’s also a video version for people who forgot how to read). I don’t think we’ll...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
