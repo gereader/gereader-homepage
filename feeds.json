@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T01:05:12.660302+00:00",
-  "article_count": 98,
+  "last_updated": "2026-09-09T12:12:25.574287+00:00",
+  "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1697,19 +1697,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "Using netlab to Configure Live Devices",
-      "link": "https://blog.ipspace.net/2026/06/netlab-live-device-config/?utm_source=atom_feed",
-      "published": "2026-06-11T08:02:00+02:00",
-      "published_parsed": "2026-06-11T08:02:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Leo Fleskes sent me an interesting question after reading my Generate Partial Device Configurations with netlab blog post: What is stopping us from eventually, given enough usage and coverage, using netlab to configure devices in the live network? In theory, nothing. In practice, you might hit a...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]
