@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-09-09T20:39:35.283116+00:00",
-  "article_count": 2128,
+  "last_updated": "2026-09-10T00:54:18.248353+00:00",
+  "article_count": 2134,
   "articles": [
+    {
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "published": "Wed, 09 Sep 2026 20:55:02 +0000",
+      "published_parsed": "2026-09-09T20:55:02+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "tags": [
+        "biz & it",
+        "chrome",
+        "chromium",
+        "exploits",
+        "security",
+        "windows"
+      ]
+    },
+    {
+      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+      "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+      "published": "Wed, 09 Sep 2026 19:42:00 +0000",
+      "published_parsed": "2026-09-09T19:42:00+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple's first foldable can be yours next month.",
+      "tags": [
+        "apple",
+        "foldables",
+        "iphone duo",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+      "published": "Wed, 09 Sep 2026 18:58:24 +0000",
+      "published_parsed": "2026-09-09T18:58:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+      "tags": [
+        "airpods",
+        "airpods 5",
+        "apple",
+        "earphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+      "published": "Wed, 09 Sep 2026 18:47:07 +0000",
+      "published_parsed": "2026-09-09T18:47:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Picture1-640x356.png",
+      "summary": "New Apple Intelligence features, too.",
+      "tags": [
+        "apple",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+      "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
+      "published": "Wed, 09 Sep 2026 17:38:53 +0000",
+      "published_parsed": "2026-09-09T17:38:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "There's also a new thermal management system, reducing overheating.",
+      "tags": [
+        "apple",
+        "iphone",
+        "iphone 18",
+        "iphone 18 pro",
+        "iphone 18 ultra",
+        "tech"
+      ]
+    },
+    {
+      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
+      "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+      "published": "Wed, 09 Sep 2026 17:11:46 +0000",
+      "published_parsed": "2026-09-09T17:11:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "UN-backed Equal Earth map has educational value but won’t alter navigation apps.",
+      "tags": [
+        "apple maps",
+        "google earth",
+        "google maps",
+        "navigation",
+        "navigation systems",
+        "tech",
+        "united nations",
+        "world maps"
+      ]
+    },
     {
       "title": "LG TV shown scanning LAN for third-party phones and other devices",
       "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
