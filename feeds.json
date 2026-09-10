@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T05:41:36.987862+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-10T12:06:11.586295+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1649,21 +1649,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "AI in Networking with Andrew Yourtchenko",
-      "link": "https://blog.ipspace.net/2026/06/ai-in-networking/?utm_source=atom_feed",
-      "published": "2026-06-12T07:41:00+01:00",
-      "published_parsed": "2026-06-12T07:41:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I always wanted to find someone who is more positive about AI than I am, while having solid “can deliver working stuff at scale” credentials. Andrew Yourtchenko definitely fits the bill. I first met him (online) when he was still an engineer in Cisco TAC, and when we finally met in person, he was...",
-      "tags": [
-        "ai",
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
