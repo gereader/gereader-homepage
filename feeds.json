@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T17:32:29.417709+00:00",
+  "last_updated": "2026-09-10T20:34:24.469076+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -52,7 +52,6 @@
     "chrome",
     "chromium",
     "chuwi",
-    "class action",
     "cloud",
     "company news",
     "containers",
@@ -61,14 +60,18 @@
     "cumulus linux",
     "data center",
     "data centers",
+    "delivery drones",
     "design",
     "dhcp",
     "digital markets act",
+    "dji",
+    "dji flycart 100",
     "dmvpn",
     "dns",
     "docker",
     "donald trump",
     "drivers licenses",
+    "drone deliveries",
     "drones",
     "earphones",
     "eigrp",
@@ -96,7 +99,6 @@
     "google earth",
     "google maps",
     "government",
-    "grapheneos",
     "gre",
     "guardrails",
     "high availability",
@@ -122,14 +124,12 @@
     "lan",
     "lasers",
     "law enforcement",
-    "lawsuit",
     "lg",
     "lisp",
     "llm",
     "llm security",
     "llms",
     "load balancing",
-    "logitech",
     "macbook neo",
     "malware",
     "media streaming",
@@ -147,6 +147,9 @@
     "navigation",
     "navigation blog",
     "navigation systems",
+    "nepal",
+    "nepal flood disaster",
+    "nepal floods",
     "netbox",
     "netconf",
     "netdevops",
@@ -168,8 +171,8 @@
     "ospf",
     "overlay networks",
     "palo alto",
+    "passwords",
     "podcast",
-    "policy",
     "power grids",
     "power transformers",
     "privacy",
@@ -207,7 +210,6 @@
     "switching",
     "syndication",
     "taiwan semiconductor manufacturing company",
-    "tariffs",
     "tcp",
     "teampcp",
     "tech",
@@ -235,6 +237,43 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Android can now securely migrate your logins between password managers",
+      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "published": "Thu, 10 Sep 2026 18:41:09 +0000",
+      "published_parsed": "2026-09-10T18:41:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "App support is slim right now, but Google says more are coming.",
+      "tags": [
+        "android",
+        "google",
+        "passwords",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "published": "Thu, 10 Sep 2026 16:53:52 +0000",
+      "published_parsed": "2026-09-10T16:53:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+      "tags": [
+        "china",
+        "delivery drones",
+        "dji",
+        "dji flycart 100",
+        "drone deliveries",
+        "drones",
+        "nepal",
+        "nepal flood disaster",
+        "nepal floods",
+        "tech"
+      ]
+    },
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
@@ -985,40 +1024,6 @@
         "netlab",
         "networking",
         "security"
-      ]
-    },
-    {
-      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-      "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-      "published": "Fri, 21 Aug 2026 19:32:29 +0000",
-      "published_parsed": "2026-08-21T19:32:29+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The private Android-based OS will expand beyond Pixels next year.",
-      "tags": [
-        "android",
-        "google",
-        "grapheneos",
-        "privacy",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-      "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-      "published": "Fri, 21 Aug 2026 19:04:41 +0000",
-      "published_parsed": "2026-08-21T19:04:41+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Logitech increased prices by up to 25 percent last year.",
-      "tags": [
-        "class action",
-        "lawsuit",
-        "logitech",
-        "policy",
-        "tariffs",
-        "tech"
       ]
     },
     {

@@ -1,7 +1,44 @@
 {
-  "last_updated": "2026-09-10T17:32:29.387897+00:00",
-  "article_count": 2134,
+  "last_updated": "2026-09-10T20:34:24.441129+00:00",
+  "article_count": 2136,
   "articles": [
+    {
+      "title": "Android can now securely migrate your logins between password managers",
+      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "published": "Thu, 10 Sep 2026 18:41:09 +0000",
+      "published_parsed": "2026-09-10T18:41:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "App support is slim right now, but Google says more are coming.",
+      "tags": [
+        "android",
+        "google",
+        "passwords",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "published": "Thu, 10 Sep 2026 16:53:52 +0000",
+      "published_parsed": "2026-09-10T16:53:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+      "tags": [
+        "china",
+        "delivery drones",
+        "dji",
+        "dji flycart 100",
+        "drone deliveries",
+        "drones",
+        "nepal",
+        "nepal flood disaster",
+        "nepal floods",
+        "tech"
+      ]
+    },
     {
       "title": "4 groups caught using the same Chrome and Windows exploit kit",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
