@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-11T12:04:16.747016+00:00",
-  "article_count": 2137,
+  "last_updated": "2026-09-11T17:37:10.758631+00:00",
+  "article_count": 2138,
   "articles": [
+    {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "published": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "published_parsed": "2026-09-11T11:30:58+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "tags": [
+        "biz & it",
+        "clickfix",
+        "macos",
+        "malware",
+        "security",
+        "windows"
+      ]
+    },
     {
       "title": "Worth Reading: NatJack",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-natjack-nat-security/?utm_source=atom_feed",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T12:04:16.823059+00:00",
+  "last_updated": "2026-09-11T17:37:10.786916+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -52,6 +52,7 @@
     "chrome",
     "chromium",
     "chuwi",
+    "clickfix",
     "cloud",
     "company news",
     "containers",
@@ -131,6 +132,7 @@
     "llms",
     "load balancing",
     "macbook neo",
+    "macos",
     "malware",
     "media streaming",
     "memory chips",
@@ -165,7 +167,6 @@
     "nfv",
     "nornir",
     "nsx",
-    "nvidia",
     "openai",
     "openflow",
     "ospf",
@@ -200,7 +201,6 @@
     "snmp",
     "software gone wild",
     "solid-state transformers",
-    "spacex",
     "spam filter evasion",
     "sr-mpls",
     "srv6",
@@ -237,6 +237,23 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "published": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "published_parsed": "2026-09-11T11:30:58+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "tags": [
+        "biz & it",
+        "clickfix",
+        "macos",
+        "malware",
+        "security",
+        "windows"
+      ]
+    },
     {
       "title": "Worth Reading: NatJack",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-natjack-nat-security/?utm_source=atom_feed",
@@ -1130,21 +1147,6 @@
       "tags": [
         "bgp",
         "networking"
-      ]
-    },
-    {
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "published_parsed": "2026-08-17T14:22:54+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "tags": [
-        "biz & it",
-        "nvidia",
-        "spacex",
-        "syndication"
       ]
     },
     {
