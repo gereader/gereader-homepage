@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T11:30:53.437588+00:00",
+  "last_updated": "2026-09-12T16:49:24.592611+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -47,6 +47,7 @@
     "certifications",
     "change management",
     "china",
+    "chinese robots",
     "chip manufacturing",
     "chipmakers",
     "chipmaking",
@@ -137,7 +138,6 @@
     "memory chips",
     "meta",
     "microsoft",
-    "monitors",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -188,7 +188,9 @@
     "renewable power",
     "renewables",
     "right to repair",
+    "robot dog",
     "robotaxi",
+    "robots",
     "safari",
     "samsung",
     "samsung electronics",
@@ -202,7 +204,6 @@
     "shoot many robots",
     "single-hop",
     "sk hynix",
-    "smart home",
     "smartphones",
     "snmp",
     "software gone wild",
@@ -227,6 +228,8 @@
     "tvs",
     "uber",
     "united nations",
+    "unitree",
+    "unitree robotics",
     "video",
     "virtual private networks",
     "virtualization",
@@ -243,6 +246,26 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "published": "Sat, 12 Sep 2026 11:00:53 +0000",
+      "published_parsed": "2026-09-12T11:00:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "tags": [
+        "ai",
+        "china",
+        "chinese robots",
+        "robot dog",
+        "robots",
+        "syndication",
+        "tech",
+        "unitree",
+        "unitree robotics"
+      ]
+    },
     {
       "title": "Oracle tries to appease Stargate data center opponents with renewables push",
       "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
@@ -1018,24 +1041,6 @@
         "power transformers",
         "solid-state transformers",
         "tech"
-      ]
-    },
-    {
-      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "published": "Mon, 24 Aug 2026 20:17:41 +0000",
-      "published_parsed": "2026-08-24T20:17:41+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Monitor vendors are playing with fire.",
-      "tags": [
-        "ads",
-        "lg",
-        "monitors",
-        "samsung",
-        "smart home",
-        "tech",
-        "tvs"
       ]
     },
     {
