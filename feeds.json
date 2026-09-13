@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T05:44:05.338628+00:00",
+  "last_updated": "2026-09-13T12:36:01.741908+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -246,6 +246,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Automating Let's Encrypt Certificate Renewal for Palo Alto GlobalProtect",
+      "link": "https://www.packetswitch.co.uk/automating-lets-encrypt-certificate-renewal-for-palo-alto-globalprotect/",
+      "published": "Sun, 13 Sep 2026 09:05:54 GMT",
+      "published_parsed": "2026-09-13T09:05:54+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-4-.png",
+      "summary": "Automate Let's Encrypt certificate renewal for Palo Alto GlobalProtect VPN using Ansible, Cloudflare DNS, and the PAN-OS collection.",
+      "tags": [
+        "ansible",
+        "networking",
+        "palo alto"
+      ]
+    },
     {
       "title": "I spent $4,000 on a robot dog from China",
       "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
@@ -1674,20 +1688,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "SR-MPLS with OSPFv2",
-      "link": "https://blog.ipspace.net/2026/06/sr-mpls-ospf/?utm_source=atom_feed",
-      "published": "2026-06-15T08:12:00+02:00",
-      "published_parsed": "2026-06-15T08:12:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/05/sr-mpls-intro.png",
-      "summary": "I started my part of the Segment Routing workshop @ ITNOG10 exploring SR-MPLS with IS-IS ( simple SR-MPLS , dual-stack SR-MPLS , SR-MPLS over unnumbered IPv4 interfaces ). Next step: let’s change the routing protocol to OSPF while using the same network topology: Read more …",
-      "tags": [
-        "netlab",
-        "networking",
-        "sr-mpls"
       ]
     }
   ]
