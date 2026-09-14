@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T13:44:20.074663+00:00",
+  "last_updated": "2026-09-14T19:05:04.716129+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -201,6 +201,7 @@
     "smartphones",
     "snmp",
     "software gone wild",
+    "solar power",
     "spam filter evasion",
     "sr-mpls",
     "srv6",
@@ -239,6 +240,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "\"Offensively cheap\": Solar power is looking up",
+      "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+      "published": "Mon, 14 Sep 2026 16:29:18 +0000",
+      "published_parsed": "2026-09-14T16:29:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
+      "tags": [
+        "solar power",
+        "syndication",
+        "tech"
+      ]
+    },
     {
       "title": "Configuring Management IP Addresses to Virtual Network Devices",
       "link": "https://blog.ipspace.net/2026/09/network-lab-management-ip/?utm_source=atom_feed",
@@ -1025,21 +1040,6 @@
         "netlab",
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-      "published": "Tue, 25 Aug 2026 18:32:30 +0000",
-      "published_parsed": "2026-08-25T18:32:30+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It's currently only appearing on Pixels running Android 17.",
-      "tags": [
-        "android",
-        "google",
-        "smartphones",
-        "tech"
       ]
     },
     {
