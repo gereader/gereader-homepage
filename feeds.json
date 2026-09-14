@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T05:55:16.220333+00:00",
-  "article_count": 98,
+  "last_updated": "2026-09-14T13:44:20.074663+00:00",
+  "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1674,19 +1674,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Leading Intelligent Networks",
-      "link": "https://blog.ipspace.net/2026/06/worth-reading-heroes-teams/?utm_source=atom_feed",
-      "published": "2026-06-16T08:06:00+02:00",
-      "published_parsed": "2026-06-16T08:06:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Chris Grundemann wrote an interesting article arguing that you should structure your network operations around teams, not heroes . Even if you feel you’re perfectly OK with your network being held together by exhausted heroes (and duct tape), it could be a bit harder to deploy network automation in...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
