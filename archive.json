@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-14T00:49:02.243308+00:00",
-  "article_count": 2142,
+  "last_updated": "2026-09-14T05:55:16.182634+00:00",
+  "article_count": 2143,
   "articles": [
+    {
+      "title": "Configuring Management IP Addresses to Virtual Network Devices",
+      "link": "https://blog.ipspace.net/2026/09/network-lab-management-ip/?utm_source=atom_feed",
+      "published": "2026-09-14T07:29:00+02:00",
+      "published_parsed": "2026-09-14T07:29:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "It goes without saying that if you want to configure (virtual) network devices with any semi-sane configuration mechanism 1 , the device must have a working IP address. Here’s the time-honored method 2 to assign an IP address to a virtual network device: Start the virtual machine (using a GUI) 3...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
       "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
