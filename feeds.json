@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T19:05:04.716129+00:00",
+  "last_updated": "2026-09-15T01:15:37.919756+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,11 +21,13 @@
     "airpods",
     "airpods 5",
     "aliexpress",
+    "altman",
+    "amodei",
     "android",
     "ansible",
+    "anthropic",
     "apple",
     "apple maps",
-    "apple tv",
     "army",
     "arp",
     "ascii smuggling",
@@ -56,9 +58,9 @@
     "cloud",
     "company news",
     "containers",
-    "copilot",
     "cryptography",
     "cumulus linux",
+    "dario amodei",
     "data center",
     "data centers",
     "delivery drones",
@@ -70,7 +72,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "donald trump",
     "drivers licenses",
     "drone deliveries",
     "drones",
@@ -87,6 +88,7 @@
     "firewall",
     "firewalls",
     "foldables",
+    "frontier",
     "fuel cells",
     "general",
     "google",
@@ -96,15 +98,15 @@
     "google antitrust trial",
     "google earth",
     "google maps",
-    "government",
     "gre",
-    "guardrails",
     "high availability",
     "history",
     "homelab",
     "hugging face",
+    "humanoid robots",
     "id scans",
     "identity theft",
+    "ilands",
     "infections",
     "intel",
     "internet",
@@ -133,7 +135,6 @@
     "media streaming",
     "memory chips",
     "meta",
-    "microsoft",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -186,6 +187,7 @@
     "robotaxi",
     "robots",
     "safari",
+    "sam altman",
     "samsung",
     "samsung electronics",
     "san",
@@ -198,15 +200,17 @@
     "shoot many robots",
     "single-hop",
     "sk hynix",
+    "slop",
     "smartphones",
     "snmp",
     "software gone wild",
     "solar power",
+    "spam",
     "spam filter evasion",
+    "speed",
     "sr-mpls",
     "srv6",
     "stargate",
-    "streaming",
     "supply chain attack",
     "supply chain attacks",
     "switching",
@@ -240,6 +244,63 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "published": "Mon, 14 Sep 2026 21:04:32 +0000",
+      "published_parsed": "2026-09-14T21:04:32+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "tags": [
+        "ai",
+        "biz & it",
+        "ilands",
+        "slop",
+        "spam"
+      ]
+    },
+    {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "published": "Mon, 14 Sep 2026 19:38:46 +0000",
+      "published_parsed": "2026-09-14T19:38:46+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "tags": [
+        "ai",
+        "china",
+        "chinese robots",
+        "humanoid robots",
+        "robot dog",
+        "robots",
+        "tech",
+        "unitree robotics"
+      ]
+    },
+    {
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "published": "Mon, 14 Sep 2026 19:06:13 +0000",
+      "published_parsed": "2026-09-14T19:06:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "tags": [
+        "ai",
+        "altman",
+        "amodei",
+        "anthropic",
+        "china",
+        "dario amodei",
+        "frontier",
+        "openai",
+        "sam altman",
+        "speed",
+        "tech"
+      ]
+    },
     {
       "title": "\"Offensively cheap\": Solar power is looking up",
       "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
@@ -883,22 +944,6 @@
       ]
     },
     {
-      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
-      "published": "Mon, 31 Aug 2026 15:33:32 +0000",
-      "published_parsed": "2026-08-31T15:33:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
-      "tags": [
-        "donald trump",
-        "google",
-        "google maps",
-        "government",
-        "tech"
-      ]
-    },
-    {
       "title": "Inside Meta’s push to put robots to work in data centers",
       "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
       "published": "Sun, 30 Aug 2026 11:03:47 +0000",
@@ -913,21 +958,6 @@
         "data centers",
         "shoot many robots",
         "syndication"
-      ]
-    },
-    {
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-      "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "published": "Fri, 28 Aug 2026 17:23:53 +0000",
-      "published_parsed": "2026-08-28T17:23:53+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Annual Apple TV subscriptions get the biggest bump.",
-      "tags": [
-        "apple",
-        "apple tv",
-        "streaming",
-        "tech"
       ]
     },
     {
@@ -1147,24 +1177,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "published": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "published_parsed": "2026-08-18T13:00:04+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "copilot",
-        "exploits",
-        "guardrails",
-        "microsoft",
-        "security"
       ]
     },
     {
