@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T01:15:37.919756+00:00",
+  "last_updated": "2026-09-15T12:30:44.959658+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -244,6 +244,20 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "MPLS/VPN with SR-MPLS Core",
+      "link": "https://blog.ipspace.net/2026/09/sr-mpls-vpn/?utm_source=atom_feed",
+      "published": "2026-09-15T07:45:00+02:00",
+      "published_parsed": "2026-09-15T07:45:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/09/sr-mpls-fun.png",
+      "summary": "As we discussed in the BGP-Free Core with SR-MPLS blog post, SR-MPLS works as a drop-in replacement for the traditional MPLS control plane. No wonder it works well (when properly implemented) with MPLS/VPN services – the second “ fun ” scenario in my ITNOG10 Segment Routing workshop . It uses the...",
+      "tags": [
+        "netlab",
+        "networking",
+        "sr-mpls"
+      ]
+    },
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
@@ -1673,19 +1687,6 @@
         "networking",
         "vxlan",
         "worth reading"
-      ]
-    },
-    {
-      "title": "ARP with Anycast Gateways in EVPN Asymmetric IRB",
-      "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-unicast/?utm_source=atom_feed",
-      "published": "2026-06-17T08:19:00+02:00",
-      "published_parsed": "2026-06-17T08:19:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In previous blog posts, I described the ARP issues in EVPN environments, starting with centralized routing , and then asymmetric IRB with unicast (per-leaf-switch) first-hop gateways . Of course, no self-respecting vendor would tell you to do that; anycast gateways are all the rage these days. As...",
-      "tags": [
-        "evpn",
-        "networking"
       ]
     }
   ]
