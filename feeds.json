@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T01:09:27.285785+00:00",
+  "last_updated": "2026-09-16T12:28:41.618344+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -244,6 +244,19 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "How vagrant-libvirt Plugin Deals with Duplicate Subnets",
+      "link": "https://blog.ipspace.net/2026/09/vagrant-libvirt-duplicate-subnets/?utm_source=atom_feed",
+      "published": "2026-09-16T08:27:00+02:00",
+      "published_parsed": "2026-09-16T08:27:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: Badly. The vagrant-libvirt plugin mysteriously crashes when an existing virtual network (with a different libvirt name) uses the same IP subnet as the desired management network. Background: netlab is using the vagrant-libvirt plugin to manage libvirt/KVM virtual machines with Vagrant . As I...",
+      "tags": [
+        "networking",
+        "virtualization"
+      ]
+    },
     {
       "title": "MPLS/VPN with SR-MPLS Core",
       "link": "https://blog.ipspace.net/2026/09/sr-mpls-vpn/?utm_source=atom_feed",
@@ -1673,20 +1686,6 @@
         "ansible",
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "Worth Reading: Extending a VLAN with Static VXLAN",
-      "link": "https://blog.ipspace.net/2026/06/worth-reading-single-vlan-static-vxlan/?utm_source=atom_feed",
-      "published": "2026-06-18T07:37:00+02:00",
-      "published_parsed": "2026-06-18T07:37:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Ali Bahadır Coşkun wrote a nice article describing how he mastered extending a VLAN with static VXLAN with the help of free netlab-powered VXLAN labs . The same set of lab exercises includes six VXLAN labs , almost a dozen EVPN labs , and a few EVPN designs . I might add a lab or two during the...",
-      "tags": [
-        "networking",
-        "vxlan",
-        "worth reading"
       ]
     }
   ]
