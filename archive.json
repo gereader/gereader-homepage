@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-09-16T12:28:41.589486+00:00",
-  "article_count": 2149,
+  "last_updated": "2026-09-16T18:00:27.785286+00:00",
+  "article_count": 2151,
   "articles": [
+    {
+      "title": "Strata Cloud Manager - Worth the Hype?",
+      "link": "https://www.packetswitch.co.uk/strata-cloud-manager-worth-the-hype/",
+      "published": "Wed, 16 Sep 2026 17:46:44 GMT",
+      "published_parsed": "2026-09-16T17:46:44+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-6-.png",
+      "summary": "Palo Alto's Strata Cloud Manager reviewed - folders, variables, snippets, HA setup, PAN-OS upgrades, and automation options, from real world use.",
+      "tags": [
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
+      "title": "macOS 27 Golden Gate: The Ars Technica review",
+      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "published": "Wed, 16 Sep 2026 14:50:06 +0000",
+      "published_parsed": "2026-09-16T14:50:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "features",
+        "macos",
+        "macos 27",
+        "macos 27 golden gate",
+        "macos golden gate",
+        "tech"
+      ]
+    },
     {
       "title": "How vagrant-libvirt Plugin Deals with Duplicate Subnets",
       "link": "https://blog.ipspace.net/2026/09/vagrant-libvirt-duplicate-subnets/?utm_source=atom_feed",

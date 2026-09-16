@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T12:28:41.618344+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-16T18:00:27.807802+00:00",
+  "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -28,6 +28,7 @@
     "anthropic",
     "apple",
     "apple maps",
+    "apple silicon",
     "army",
     "arp",
     "ascii smuggling",
@@ -131,6 +132,9 @@
     "llms",
     "load balancing",
     "macos",
+    "macos 27",
+    "macos 27 golden gate",
+    "macos golden gate",
     "malware",
     "media streaming",
     "memory chips",
@@ -244,6 +248,38 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Strata Cloud Manager - Worth the Hype?",
+      "link": "https://www.packetswitch.co.uk/strata-cloud-manager-worth-the-hype/",
+      "published": "Wed, 16 Sep 2026 17:46:44 GMT",
+      "published_parsed": "2026-09-16T17:46:44+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-6-.png",
+      "summary": "Palo Alto's Strata Cloud Manager reviewed - folders, variables, snippets, HA setup, PAN-OS upgrades, and automation options, from real world use.",
+      "tags": [
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
+      "title": "macOS 27 Golden Gate: The Ars Technica review",
+      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "published": "Wed, 16 Sep 2026 14:50:06 +0000",
+      "published_parsed": "2026-09-16T14:50:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+      "tags": [
+        "apple",
+        "apple silicon",
+        "features",
+        "macos",
+        "macos 27",
+        "macos 27 golden gate",
+        "macos golden gate",
+        "tech"
+      ]
+    },
     {
       "title": "How vagrant-libvirt Plugin Deals with Duplicate Subnets",
       "link": "https://blog.ipspace.net/2026/09/vagrant-libvirt-duplicate-subnets/?utm_source=atom_feed",
@@ -911,21 +947,6 @@
         "netlab",
         "networking",
         "virtualization"
-      ]
-    },
-    {
-      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-      "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-      "published": "Tue, 01 Sep 2026 18:00:02 +0000",
-      "published_parsed": "2026-09-01T18:00:02+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "New features are rolling out across the Android ecosystem starting today.",
-      "tags": [
-        "android",
-        "google",
-        "smartphones",
-        "tech"
       ]
     },
     {
