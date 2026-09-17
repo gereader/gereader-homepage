@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T18:00:27.807802+00:00",
+  "last_updated": "2026-09-17T01:09:11.214503+00:00",
   "article_count": 98,
   "sources": [
     "Ars Technica - Gadgets",
@@ -22,6 +22,9 @@
     "airpods 5",
     "aliexpress",
     "altman",
+    "amazon",
+    "amazon aws",
+    "amazon web services",
     "amodei",
     "android",
     "ansible",
@@ -29,13 +32,13 @@
     "apple",
     "apple maps",
     "apple silicon",
-    "army",
     "arp",
     "ascii smuggling",
     "asml",
     "automated troubleshooting",
     "automation",
     "aws",
+    "aws outage",
     "azure",
     "bgp",
     "biz & it",
@@ -57,10 +60,11 @@
     "chromium",
     "clickfix",
     "cloud",
+    "cloud services",
     "company news",
     "containers",
-    "cryptography",
     "cumulus linux",
+    "cyberattacks",
     "dario amodei",
     "data center",
     "data centers",
@@ -100,6 +104,7 @@
     "google earth",
     "google maps",
     "gre",
+    "hacking",
     "high availability",
     "history",
     "homelab",
@@ -118,17 +123,16 @@
     "iphone 18 ultra",
     "iphone duo",
     "ipv6",
+    "iran",
     "is-is",
     "job losses",
     "jobs",
     "john deere",
     "lan",
-    "lasers",
     "law enforcement",
     "lg",
     "lisp",
     "llm",
-    "llm security",
     "llms",
     "load balancing",
     "macos",
@@ -139,6 +143,8 @@
     "media streaming",
     "memory chips",
     "meta",
+    "meteors",
+    "military drones",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -195,6 +201,7 @@
     "samsung",
     "samsung electronics",
     "san",
+    "science",
     "sd-wan",
     "sdn",
     "search",
@@ -209,6 +216,7 @@
     "snmp",
     "software gone wild",
     "solar power",
+    "space",
     "spam",
     "spam filter evasion",
     "speed",
@@ -232,6 +240,7 @@
     "united nations",
     "unitree",
     "unitree robotics",
+    "usa-iran war",
     "video",
     "virtual private networks",
     "virtualization",
@@ -249,6 +258,24 @@
   ],
   "articles": [
     {
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "published": "Wed, 16 Sep 2026 21:08:14 +0000",
+      "published_parsed": "2026-09-16T21:08:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Group plans to be largely out of commission for several weeks.",
+      "tags": [
+        "biz & it",
+        "cyberattacks",
+        "hacking",
+        "meteors",
+        "science",
+        "security",
+        "space"
+      ]
+    },
+    {
       "title": "Strata Cloud Manager - Worth the Hype?",
       "link": "https://www.packetswitch.co.uk/strata-cloud-manager-worth-the-hype/",
       "published": "Wed, 16 Sep 2026 17:46:44 GMT",
@@ -259,6 +286,29 @@
       "tags": [
         "networking",
         "palo alto"
+      ]
+    },
+    {
+      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+      "published": "Wed, 16 Sep 2026 16:40:11 +0000",
+      "published_parsed": "2026-09-16T16:40:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+      "tags": [
+        "ai data centers",
+        "amazon",
+        "amazon aws",
+        "amazon web services",
+        "aws",
+        "aws outage",
+        "cloud services",
+        "data centers",
+        "iran",
+        "military drones",
+        "tech",
+        "usa-iran war"
       ]
     },
     {
@@ -904,22 +954,6 @@
       ]
     },
     {
-      "title": "The Army just used a 20-kilowatt laser to take out three drones",
-      "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
-      "published": "Wed, 02 Sep 2026 13:04:59 +0000",
-      "published_parsed": "2026-09-02T13:04:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The Army says its laser system can track and destroy hostile drones.",
-      "tags": [
-        "army",
-        "drones",
-        "lasers",
-        "syndication",
-        "tech"
-      ]
-    },
-    {
       "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
       "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "published": "Wed, 02 Sep 2026 11:00:43 +0000",
@@ -1181,23 +1215,6 @@
         "syndication",
         "uber",
         "waymo"
-      ]
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "published_parsed": "2026-08-20T13:00:35+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "cryptography",
-        "llm security",
-        "prompt injections",
-        "security"
       ]
     },
     {
