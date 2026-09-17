@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T01:09:11.214503+00:00",
-  "article_count": 98,
+  "last_updated": "2026-09-17T12:28:26.248029+00:00",
+  "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -257,6 +257,19 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Sunsetting netlab Vagrant/libvirt provider",
+      "link": "https://blog.ipspace.net/2026/09/sunsetting-vagrant-libvirt/?utm_source=atom_feed",
+      "published": "2026-09-17T07:51:00+02:00",
+      "published_parsed": "2026-09-17T07:51:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I started the netlab project , Vagrant was the go-to tool if you wanted to build a virtual environment described in a text configuration file (an idea popularized as infrastructure-as-code ). It wasn’t ideal for what we were doing, but a tool rarely does a great job when used far away from its...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
       "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
