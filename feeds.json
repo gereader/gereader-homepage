@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T01:06:08.032745+00:00",
+  "last_updated": "2026-09-18T12:06:56.550757+00:00",
   "article_count": 99,
   "sources": [
     "Ars Technica - Gadgets",
@@ -48,7 +48,6 @@
     "bridging",
     "broadcom",
     "browser fingerprinting",
-    "cars",
     "certifications",
     "change management",
     "china",
@@ -194,7 +193,6 @@
     "renewables",
     "right to repair",
     "robot dog",
-    "robotaxi",
     "robots",
     "safari",
     "sam altman",
@@ -236,7 +234,6 @@
     "training",
     "tsmc",
     "tvs",
-    "uber",
     "united nations",
     "unitree",
     "unitree robotics",
@@ -250,13 +247,30 @@
     "vulnerability discovery",
     "vxlan",
     "wan",
-    "waymo",
+    "watermarking",
     "windows",
     "world maps",
     "worms",
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "published_parsed": "2026-09-17T18:33:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biz & it",
+        "llms",
+        "security",
+        "watermarking"
+      ]
+    },
     {
       "title": "Sunsetting netlab Vagrant/libvirt provider",
       "link": "https://blog.ipspace.net/2026/09/sunsetting-vagrant-libvirt/?utm_source=atom_feed",
@@ -1211,23 +1225,6 @@
         "netlab",
         "networking",
         "security"
-      ]
-    },
-    {
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "published": "Fri, 21 Aug 2026 13:11:35 +0000",
-      "published_parsed": "2026-08-21T13:11:35+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "tags": [
-        "biz & it",
-        "cars",
-        "robotaxi",
-        "syndication",
-        "uber",
-        "waymo"
       ]
     },
     {

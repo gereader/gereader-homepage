@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-18T01:06:08.004793+00:00",
-  "article_count": 2154,
+  "last_updated": "2026-09-18T12:06:56.521514+00:00",
+  "article_count": 2155,
   "articles": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "published_parsed": "2026-09-17T18:33:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biz & it",
+        "llms",
+        "security",
+        "watermarking"
+      ]
+    },
     {
       "title": "Sunsetting netlab Vagrant/libvirt provider",
       "link": "https://blog.ipspace.net/2026/09/sunsetting-vagrant-libvirt/?utm_source=atom_feed",
