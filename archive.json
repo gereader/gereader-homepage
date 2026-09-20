@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-20T12:05:23.273264+00:00",
-  "article_count": 2155,
+  "last_updated": "2026-09-20T17:20:36.520638+00:00",
+  "article_count": 2156,
   "articles": [
+    {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
+      "published_parsed": "2026-09-20T11:07:00+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "tags": [
+        "biz & it",
+        "google",
+        "mole",
+        "security",
+        "supply chain attack",
+        "supply chain hacking",
+        "syndication",
+        "teampcp"
+      ]
+    },
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
       "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
