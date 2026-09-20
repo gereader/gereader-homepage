@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T05:51:00.800490+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-20T12:05:23.301005+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1691,20 +1691,6 @@
       "image": null,
       "summary": "Claudia de Luna published a step-by-step description of how you can use SuzieQ data with an AI agent . That’s definitely interesting, but I found the list of MCP resources at the end of her blog post even more valuable; that’s a keeper even if you never looked at SuzieQ (in which case you REALLY...",
       "tags": [
-        "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "Worth Reading: AI Enthusiasts Against AI Skeptics",
-      "link": "https://blog.ipspace.net/2026/06/worth-reading-ai-enthusiasts-skeptics/?utm_source=atom_feed",
-      "published": "2026-06-22T08:25:00+02:00",
-      "published_parsed": "2026-06-22T08:25:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Charity Majors wrote an excellent article describing AI enthusiasts in a race against time and AI skeptics in a race against entropy . Fair warning: its very first sentence triggered an acute case of PTSD: I recently attended a talk where one of the presenters made some pretty…astonishing claims...",
-      "tags": [
-        "ai",
         "networking",
         "worth reading"
       ]
