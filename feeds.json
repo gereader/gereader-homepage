@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T05:59:25.886561+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-21T13:43:46.631051+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -29,6 +29,7 @@
     "ansible",
     "anthropic",
     "apple",
+    "apple m6",
     "apple maps",
     "apple silicon",
     "arp",
@@ -84,7 +85,6 @@
     "evpn",
     "exploits",
     "fabric",
-    "fairphone",
     "features",
     "firewall",
     "firewalls",
@@ -93,10 +93,6 @@
     "fuel cells",
     "general",
     "google",
-    "google ad tech monopoly",
-    "google adtech",
-    "google antitrust",
-    "google antitrust trial",
     "google earth",
     "google maps",
     "gre",
@@ -131,6 +127,7 @@
     "llm",
     "llms",
     "load balancing",
+    "mac mini",
     "macos",
     "macos 27",
     "macos 27 golden gate",
@@ -252,6 +249,37 @@
     "worth reading"
   ],
   "articles": [
+    {
+      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "published": "Mon, 21 Sep 2026 13:00:24 +0000",
+      "published_parsed": "2026-09-21T13:00:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The M4 Mac mini was one of Apple's best values ever. This one, not so much.",
+      "tags": [
+        "apple",
+        "apple m6",
+        "apple silicon",
+        "features",
+        "mac mini",
+        "macos 27 golden gate",
+        "tech"
+      ]
+    },
+    {
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "published": "Mon, 21 Sep 2026 13:00:11 +0000",
+      "published_parsed": "2026-09-21T13:00:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "tags": [
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.09: Syslog, More DNS, Netmiko",
       "link": "https://blog.ipspace.net/2026/09/netlab-26-09/?utm_source=atom_feed",
@@ -887,23 +915,6 @@
       ]
     },
     {
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-      "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "published": "Fri, 04 Sep 2026 11:00:05 +0000",
-      "published_parsed": "2026-09-04T11:00:05+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
-      "tags": [
-        "android",
-        "fairphone",
-        "features",
-        "right to repair",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "Please Help Me Follow Your Content",
       "link": "https://blog.ipspace.net/2026/09/help-me-follow-your-content/?utm_source=atom_feed",
       "published": "2026-09-04T07:37:00+02:00",
@@ -991,23 +1002,6 @@
         "identity theft",
         "privacy",
         "security"
-      ]
-    },
-    {
-      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-      "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-      "published": "Wed, 02 Sep 2026 16:30:11 +0000",
-      "published_parsed": "2026-09-02T16:30:11+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
-      "tags": [
-        "google",
-        "google ad tech monopoly",
-        "google adtech",
-        "google antitrust",
-        "google antitrust trial",
-        "tech"
       ]
     },
     {
@@ -1692,19 +1686,6 @@
       "tags": [
         "evpn",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: My Network is Talking Back Thanks to SuzieQ MCP",
-      "link": "https://blog.ipspace.net/2026/06/worth-reading-suzieq-mcp/?utm_source=atom_feed",
-      "published": "2026-06-23T08:19:00+02:00",
-      "published_parsed": "2026-06-23T08:19:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Claudia de Luna published a step-by-step description of how you can use SuzieQ data with an AI agent . That’s definitely interesting, but I found the list of MCP resources at the end of her blog post even more valuable; that’s a keeper even if you never looked at SuzieQ (in which case you REALLY...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]

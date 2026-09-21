@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-09-21T05:59:25.857701+00:00",
-  "article_count": 2157,
+  "last_updated": "2026-09-21T13:43:46.601929+00:00",
+  "article_count": 2159,
   "articles": [
+    {
+      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "published": "Mon, 21 Sep 2026 13:00:24 +0000",
+      "published_parsed": "2026-09-21T13:00:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The M4 Mac mini was one of Apple's best values ever. This one, not so much.",
+      "tags": [
+        "apple",
+        "apple m6",
+        "apple silicon",
+        "features",
+        "mac mini",
+        "macos 27 golden gate",
+        "tech"
+      ]
+    },
+    {
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "published": "Mon, 21 Sep 2026 13:00:11 +0000",
+      "published_parsed": "2026-09-21T13:00:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "tags": [
+        "google",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.09: Syslog, More DNS, Netmiko",
       "link": "https://blog.ipspace.net/2026/09/netlab-26-09/?utm_source=atom_feed",
