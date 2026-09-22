@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-09-22T17:59:15.755317+00:00",
-  "article_count": 2164,
+  "last_updated": "2026-09-22T21:12:20.930269+00:00",
+  "article_count": 2166,
   "articles": [
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "published_parsed": "2026-09-22T19:45:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "tags": [
+        "ai",
+        "ai attack",
+        "biz & it",
+        "chatbots",
+        "security",
+        "spam"
+      ]
+    },
+    {
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "published": "Tue, 22 Sep 2026 19:08:58 +0000",
+      "published_parsed": "2026-09-22T19:08:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+      "tags": [
+        "adobe",
+        "android",
+        "apps",
+        "google",
+        "tech",
+        "video editing"
+      ]
+    },
     {
       "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
       "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",

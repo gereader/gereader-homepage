@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T17:59:15.783119+00:00",
+  "last_updated": "2026-09-22T21:12:20.960811+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,10 +12,11 @@
   ],
   "tags": [
     "aci",
-    "ads",
+    "adobe",
     "ai",
     "ai agents",
     "ai assistants",
+    "ai attack",
     "ai data centers",
     "ai insecurity",
     "aiops",
@@ -33,6 +34,7 @@
     "apple m6",
     "apple maps",
     "apple silicon",
+    "apps",
     "arp",
     "ascii smuggling",
     "automated troubleshooting",
@@ -49,6 +51,7 @@
     "broadcom",
     "certifications",
     "change management",
+    "chatbots",
     "china",
     "chinese robots",
     "chrome",
@@ -105,7 +108,6 @@
     "id scans",
     "identity theft",
     "ilands",
-    "infections",
     "internet",
     "ip routing",
     "iphone",
@@ -119,7 +121,6 @@
     "john deere",
     "lan",
     "law enforcement",
-    "lg",
     "lisp",
     "llm",
     "llms",
@@ -221,7 +222,6 @@
     "toothbrush",
     "traffic engineering",
     "training",
-    "tvs",
     "ukraine",
     "ukraine war",
     "uncrewed surface vessels",
@@ -230,6 +230,7 @@
     "unitree robotics",
     "usa-iran war",
     "video",
+    "video editing",
     "virtual private networks",
     "virtualization",
     "vmware",
@@ -246,6 +247,40 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "published_parsed": "2026-09-22T19:45:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "tags": [
+        "ai",
+        "ai attack",
+        "biz & it",
+        "chatbots",
+        "security",
+        "spam"
+      ]
+    },
+    {
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "published": "Tue, 22 Sep 2026 19:08:58 +0000",
+      "published_parsed": "2026-09-22T19:08:58+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+      "tags": [
+        "adobe",
+        "android",
+        "apps",
+        "google",
+        "tech",
+        "video editing"
+      ]
+    },
     {
       "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
       "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
@@ -848,21 +883,6 @@
       ]
     },
     {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices",
-      "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "published": "Tue, 08 Sep 2026 21:52:29 +0000",
-      "published_parsed": "2026-09-08T21:52:29+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "“It doesn’t cost a lot to store text forever.”",
-      "tags": [
-        "ads",
-        "lg",
-        "tech",
-        "tvs"
-      ]
-    },
-    {
       "title": "Why this month's Microsoft patch release is a doozy",
       "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "published": "Tue, 08 Sep 2026 21:11:46 +0000",
@@ -1162,25 +1182,6 @@
         "networking",
         "podcast",
         "software gone wild"
-      ]
-    },
-    {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "published": "Thu, 27 Aug 2026 14:00:13 +0000",
-      "published_parsed": "2026-08-27T14:00:13+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "tags": [
-        "ai",
-        "ai agents",
-        "biz & it",
-        "features",
-        "infections",
-        "llms",
-        "malware",
-        "security"
       ]
     },
     {
