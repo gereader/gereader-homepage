@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T01:29:05.451460+00:00",
+  "last_updated": "2026-09-22T12:26:41.229811+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -252,6 +252,20 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "EVPN with SR-MPLS Core",
+      "link": "https://blog.ipspace.net/2026/09/sr-mpls-evpn/?utm_source=atom_feed",
+      "published": "2026-09-22T07:25:00+02:00",
+      "published_parsed": "2026-09-22T07:25:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/09/sr-mpls-fun.png",
+      "summary": "After a long journey , we finally we got to the final scenario in my ITNOG10 Segment Routing workshop : EVPN services over an SR-MPLS core. I used the same lab topology as in the previous services-focused scenarios blog post, replacing two PE-to-host subnets with a stretched VLAN. EVPN over SR-MPLS...",
+      "tags": [
+        "netlab",
+        "networking",
+        "sr-mpls"
+      ]
+    },
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
@@ -1681,19 +1695,6 @@
         "ai",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Anycast-Only Gateways in EVPN Asymmetric IRB",
-      "link": "https://blog.ipspace.net/2026/06/arp-issues-evpn-anycast-only/?utm_source=atom_feed",
-      "published": "2026-06-24T08:19:00+02:00",
-      "published_parsed": "2026-06-24T08:19:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/06/evpn-fwd-asymmetric-anycast-only.png",
-      "summary": "In the previous blog post , I described how ARP works in an EVPN asymmetric IRB environment where the PE devices share an anycast MAC/IP address in addition to a unicast MAC/IP address. Today, let’s see how well things work if the PE devices have only the anycast MAC/IP address: Packet forwarding...",
-      "tags": [
-        "evpn",
-        "networking"
       ]
     }
   ]
