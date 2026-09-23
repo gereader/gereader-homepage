@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T01:18:53.271621+00:00",
+  "last_updated": "2026-09-23T12:37:31.641044+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -247,6 +247,19 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "The OSPF MTU Mismatch Saga",
+      "link": "https://blog.ipspace.net/2026/09/ospf-mtu-saga/?utm_source=atom_feed",
+      "published": "2026-09-23T08:07:00+02:00",
+      "published_parsed": "2026-09-23T08:07:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The OSPF is stuck in database exchange state symptom is probably familiar to every networking engineer who ever had to pass a certification exam. It’s caused by the MTU mismatch between adjacent OSPF routers. The recent (unexpected) trip into the how crazy is it to declare your interface MTU to be...",
+      "tags": [
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
@@ -1665,20 +1678,6 @@
       "summary": "I can confirm that an old saying is true: the older you are, the faster years pass. Can’t believe it’s time for another summer break. I hope you’ll manage to get away from work, turn off the Internet, and enjoy a few days in your favorite spot with your loved ones! I also promise I won’t be...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Appearing Productive in The Workplace",
-      "link": "https://blog.ipspace.net/2026/06/worth-reading-workplace-ai-slop/?utm_source=atom_feed",
-      "published": "2026-06-25T07:25:00+02:00",
-      "published_parsed": "2026-06-25T07:25:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "The Appearing Productive in The Workplace article I stumbled upon is yet another masterful description of how AI slop, used by Expert Beginners, wastes everyone’s time and energy. Try to have fun reading it, even though it may be way too close to the mark.",
-      "tags": [
-        "ai",
-        "networking",
-        "worth reading"
       ]
     }
   ]
