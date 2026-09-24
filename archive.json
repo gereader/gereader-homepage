@@ -1,7 +1,76 @@
 {
-  "last_updated": "2026-09-23T18:17:56.716999+00:00",
-  "article_count": 2167,
+  "last_updated": "2026-09-24T01:13:16.646687+00:00",
+  "article_count": 2171,
   "articles": [
+    {
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "published": "Wed, 23 Sep 2026 21:18:53 +0000",
+      "published_parsed": "2026-09-23T21:18:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "tags": [
+        "disney",
+        "disney plus",
+        "hulu",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "published": "Wed, 23 Sep 2026 20:28:42 +0000",
+      "published_parsed": "2026-09-23T20:28:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
+      "tags": [
+        "ai",
+        "ai drones",
+        "autonomous drones",
+        "drones",
+        "firefighting",
+        "satellites",
+        "tech",
+        "wildfire",
+        "wildfires",
+        "xprize"
+      ]
+    },
+    {
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "published": "Wed, 23 Sep 2026 19:35:53 +0000",
+      "published_parsed": "2026-09-23T19:35:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "google",
+        "tech",
+        "video streaming",
+        "youtube"
+      ]
+    },
+    {
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "published": "Wed, 23 Sep 2026 17:39:39 +0000",
+      "published_parsed": "2026-09-23T17:39:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "\"So absurd and embarrassing ...\"",
+      "tags": [
+        "ai",
+        "samsung",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "The OSPF MTU Mismatch Saga",
       "link": "https://blog.ipspace.net/2026/09/ospf-mtu-saga/?utm_source=atom_feed",
