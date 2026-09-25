@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-09-24T18:18:43.630386+00:00",
-  "article_count": 2174,
+  "last_updated": "2026-09-25T01:13:46.230021+00:00",
+  "article_count": 2176,
   "articles": [
+    {
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "published": "Thu, 24 Sep 2026 19:30:42 +0000",
+      "published_parsed": "2026-09-24T19:30:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+      "tags": [
+        "app stores",
+        "apps",
+        "f-droid",
+        "google",
+        "tech"
+      ]
+    },
+    {
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "published": "Thu, 24 Sep 2026 18:39:47 +0000",
+      "published_parsed": "2026-09-24T18:39:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+      "tags": [
+        "military robots",
+        "robots",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "There's a new way to break RSA that's faster than anything we've seen before",
       "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",

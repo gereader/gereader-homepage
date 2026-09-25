@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T18:18:43.648636+00:00",
+  "last_updated": "2026-09-25T01:13:46.261150+00:00",
   "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
@@ -29,6 +29,7 @@
     "android",
     "ansible",
     "anthropic",
+    "app stores",
     "apple",
     "apple m3 ultra",
     "apple m4 max",
@@ -73,19 +74,15 @@
     "data center",
     "data centers",
     "data loss",
-    "delivery drones",
     "design",
     "dhcp",
     "disney",
     "disney plus",
-    "dji",
-    "dji flycart 100",
     "dmvpn",
     "dns",
     "docker",
     "drivers licenses",
     "drone boats",
-    "drone deliveries",
     "drones",
     "dyson",
     "eigrp",
@@ -93,6 +90,7 @@
     "enshittification",
     "evpn",
     "exploits",
+    "f-droid",
     "fabric",
     "factoring",
     "features",
@@ -138,6 +136,7 @@
     "meta",
     "meteors",
     "military drones",
+    "military robots",
     "mole",
     "mpls",
     "mpls vpn",
@@ -148,9 +147,6 @@
     "nat",
     "natural gas",
     "navigation blog",
-    "nepal",
-    "nepal flood disaster",
-    "nepal floods",
     "netbox",
     "netconf",
     "netdevops",
@@ -173,7 +169,6 @@
     "ospf",
     "overlay networks",
     "palo alto",
-    "passwords",
     "podcast",
     "privacy",
     "project jupiter",
@@ -190,6 +185,7 @@
     "rsa",
     "russia invasion of ukraine",
     "russia war on ukraine",
+    "russian invasion of ukraine",
     "russian war on ukraine",
     "sam altman",
     "samsung",
@@ -204,7 +200,6 @@
     "single-hop",
     "slop",
     "smart home",
-    "smartphones",
     "snmp",
     "software gone wild",
     "solar power",
@@ -254,6 +249,42 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "published": "Thu, 24 Sep 2026 19:30:42 +0000",
+      "published_parsed": "2026-09-24T19:30:42+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+      "tags": [
+        "app stores",
+        "apps",
+        "f-droid",
+        "google",
+        "tech"
+      ]
+    },
+    {
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "published": "Thu, 24 Sep 2026 18:39:47 +0000",
+      "published_parsed": "2026-09-24T18:39:47+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+      "tags": [
+        "military robots",
+        "robots",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "There's a new way to break RSA that's faster than anything we've seen before",
       "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
@@ -886,43 +917,6 @@
         "nat",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Android can now securely migrate your logins between password managers",
-      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
-      "published": "Thu, 10 Sep 2026 18:41:09 +0000",
-      "published_parsed": "2026-09-10T18:41:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "App support is slim right now, but Google says more are coming.",
-      "tags": [
-        "android",
-        "google",
-        "passwords",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-      "published": "Thu, 10 Sep 2026 16:53:52 +0000",
-      "published_parsed": "2026-09-10T16:53:52+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-      "tags": [
-        "china",
-        "delivery drones",
-        "dji",
-        "dji flycart 100",
-        "drone deliveries",
-        "drones",
-        "nepal",
-        "nepal flood disaster",
-        "nepal floods",
-        "tech"
       ]
     },
     {
