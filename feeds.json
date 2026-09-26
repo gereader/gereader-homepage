@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T01:16:18.391093+00:00",
+  "last_updated": "2026-09-26T12:06:22.828143+00:00",
   "article_count": 97,
   "sources": [
     "Ars Technica - Gadgets",
@@ -131,6 +131,7 @@
     "macos 27",
     "macos 27 golden gate",
     "macos golden gate",
+    "malicious ads",
     "malware",
     "media streaming",
     "meta",
@@ -186,12 +187,12 @@
     "samsung",
     "san",
     "satellites",
+    "scareware",
     "science",
     "sd-wan",
     "sdn",
     "security",
     "service providers",
-    "shoot many robots",
     "single-hop",
     "slop",
     "smart home",
@@ -243,6 +244,22 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "published": "Fri, 25 Sep 2026 19:38:59 +0000",
+      "published_parsed": "2026-09-25T19:38:59+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Ads appearing all over the Internet are trying to scam people.",
+      "tags": [
+        "biz & it",
+        "google",
+        "malicious ads",
+        "scareware",
+        "security"
+      ]
+    },
     {
       "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
       "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
@@ -1186,23 +1203,6 @@
         "proxy networks",
         "remote access",
         "security"
-      ]
-    },
-    {
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "published": "Sun, 30 Aug 2026 11:03:47 +0000",
-      "published_parsed": "2026-08-30T11:03:47+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The company is testing robots on tasks that can performed by technicians.",
-      "tags": [
-        "ai",
-        "ai data centers",
-        "biz & it",
-        "data centers",
-        "shoot many robots",
-        "syndication"
       ]
     },
     {
