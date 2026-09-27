@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T01:10:00.853746+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-27T12:51:15.952749+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1675,19 +1675,6 @@
       "summary": "The most important NOC at the 2026 FIFA World Cup won’t make the broadcast. No feature story. If everything goes right, no one will know it existed at all. That’s...",
       "tags": [
         "company news",
-        "networking"
-      ]
-    },
-    {
-      "title": "Getting Started with netlab @ Cisco DevNet",
-      "link": "https://blog.ipspace.net/2026/06/worth-reading-cisco-devnet-netlab-intro/?utm_source=atom_feed",
-      "published": "2026-06-29T07:23:00+02:00",
-      "published_parsed": "2026-06-29T07:23:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Cisco DevNet channel has published an hour-long Getting Started with netlab interview with Suresh Vina , resulting in netlab.tools documentation having more weekly visits than ipspace.net blog for the first time. Thanks a million ;)) If you’re new to netlab , I hope you’ll enjoy the video. If you...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
