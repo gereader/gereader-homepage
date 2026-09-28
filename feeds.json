@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T15:04:32.307077+00:00",
-  "article_count": 97,
+  "last_updated": "2026-09-28T23:01:48.356609+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -42,6 +42,7 @@
     "arp",
     "artificial intelligence",
     "ascii smuggling",
+    "asus",
     "automated troubleshooting",
     "automation",
     "autonomous drones",
@@ -60,6 +61,8 @@
     "china",
     "chinese robots",
     "chrome",
+    "chromebooks",
+    "chromeos",
     "chromium",
     "clickfix",
     "cloud",
@@ -74,6 +77,7 @@
     "data center",
     "data centers",
     "data loss",
+    "dell",
     "design",
     "dhcp",
     "disney",
@@ -100,6 +104,7 @@
     "frontier",
     "general",
     "google",
+    "googlebooks",
     "gre",
     "hacking",
     "healthcare",
@@ -107,6 +112,7 @@
     "history",
     "homelab",
     "hospitals",
+    "hp",
     "hulu",
     "humanoid robots",
     "id scans",
@@ -121,6 +127,7 @@
     "key forgery",
     "lan",
     "laptops",
+    "lenovo",
     "lisp",
     "llm",
     "llms",
@@ -220,7 +227,6 @@
     "ukraine",
     "ukraine war",
     "uncrewed surface vessels",
-    "unitree",
     "unitree robotics",
     "usa-iran war",
     "video",
@@ -244,6 +250,23 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+      "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+      "published": "Mon, 28 Sep 2026 18:04:59 +0000",
+      "published_parsed": "2026-09-28T18:04:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+      "tags": [
+        "chromebooks",
+        "chromeos",
+        "google",
+        "googlebooks",
+        "laptops",
+        "tech"
+      ]
+    },
     {
       "title": "Prefix Sets: Simplifying netlab ACLs and Prefix Filters",
       "link": "https://blog.ipspace.net/2026/09/netlab-prefix-sets/?utm_source=atom_feed",
@@ -618,7 +641,14 @@
       "image": null,
       "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
       "tags": [
+        "android",
+        "asus",
+        "dell",
         "google",
+        "googlebooks",
+        "hp",
+        "laptops",
+        "lenovo",
         "tech"
       ]
     },
@@ -895,26 +925,6 @@
         "ansible",
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "I spent $4,000 on a robot dog from China",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "published": "Sat, 12 Sep 2026 11:00:53 +0000",
-      "published_parsed": "2026-09-12T11:00:53+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Unitree might be the world’s most important robotics company.",
-      "tags": [
-        "ai",
-        "china",
-        "chinese robots",
-        "robot dog",
-        "robots",
-        "syndication",
-        "tech",
-        "unitree",
-        "unitree robotics"
       ]
     },
     {
@@ -1663,32 +1673,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "The Substitution Decision: How Agentic NetOps Changes What You Need From Your Network Team",
-      "link": "https://www.netbrain.com/blog/agentic-netops-and-your-network-team/",
-      "published": "2026-06-30T16:18:18Z",
-      "published_parsed": "2026-06-30T16:18:18+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/06/background-4-1024x576.webp",
-      "summary": "The best teams at the 2026 World Cup won’t be the ones with the most stars. They’ll be the ones with the best depth and support strategy. Great teams win...",
-      "tags": [
-        "company news",
-        "networking"
-      ]
-    },
-    {
-      "title": "5 Billion Eyes: What the World Cup&#8217;s Network Teams Know About Zero-Outage Operations",
-      "link": "https://www.netbrain.com/blog/zero-outage-operations/",
-      "published": "2026-06-30T15:53:31Z",
-      "published_parsed": "2026-06-30T15:53:31+00:00",
-      "source": "NetBrain Blog",
-      "image": "https://www.netbrain.com/wp-content/uploads/2026/06/background-2-1024x576.webp",
-      "summary": "The most important NOC at the 2026 FIFA World Cup won’t make the broadcast. No feature story. If everything goes right, no one will know it existed at all. That’s...",
-      "tags": [
-        "company news",
-        "networking"
       ]
     }
   ]
