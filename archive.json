@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-28T01:27:09.480719+00:00",
-  "article_count": 2179,
+  "last_updated": "2026-09-28T15:04:32.275796+00:00",
+  "article_count": 2180,
   "articles": [
+    {
+      "title": "Prefix Sets: Simplifying netlab ACLs and Prefix Filters",
+      "link": "https://blog.ipspace.net/2026/09/netlab-prefix-sets/?utm_source=atom_feed",
+      "published": "2026-09-28T08:16:00+02:00",
+      "published_parsed": "2026-09-28T08:16:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When I implemented prefix filters in netlab ( release 1.9.0 ), I wanted them to match the final device configurations as closely as possible, including the one prefix per entry rule to match the device configuration sequence numbers. That worked well, but resulted in YAML bloat, since each matching...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
       "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
