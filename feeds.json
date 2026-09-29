@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T13:51:01.219910+00:00",
+  "last_updated": "2026-09-29T19:11:59.027243+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,6 +21,7 @@
     "ai drones",
     "ai insecurity",
     "aiops",
+    "ajit varma",
     "altman",
     "amazon",
     "amazon aws",
@@ -99,9 +100,11 @@
     "factoring",
     "features",
     "firefighting",
+    "firefox",
     "firewall",
     "firewalls",
     "frontier",
+    "gecko",
     "general",
     "google",
     "googlebooks",
@@ -123,7 +126,6 @@
     "ipv6",
     "iran",
     "is-is",
-    "john deere",
     "key forgery",
     "lan",
     "laptops",
@@ -148,6 +150,7 @@
     "military drones",
     "military robots",
     "mole",
+    "mozilla",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -175,6 +178,7 @@
     "openflow",
     "ospf",
     "overlay networks",
+    "paddy harrington",
     "palo alto",
     "podcast",
     "privacy",
@@ -182,7 +186,6 @@
     "proxy networks",
     "qos",
     "remote access",
-    "right to repair",
     "robot dog",
     "robots",
     "rsa",
@@ -241,6 +244,7 @@
     "vxlan",
     "wan",
     "watermarking",
+    "web browser",
     "wildfire",
     "wildfires",
     "windows",
@@ -250,6 +254,27 @@
     "zero days"
   ],
   "articles": [
+    {
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "published": "Tue, 29 Sep 2026 13:00:19 +0000",
+      "published_parsed": "2026-09-29T13:00:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+      "tags": [
+        "ai",
+        "ajit varma",
+        "chromium",
+        "features",
+        "firefox",
+        "gecko",
+        "mozilla",
+        "paddy harrington",
+        "tech",
+        "web browser"
+      ]
+    },
     {
       "title": "MUST Bookmark: Watch the Net",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-watch-the-net/?utm_source=atom_feed",
@@ -909,21 +934,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-      "published": "Sun, 13 Sep 2026 11:00:41 +0000",
-      "published_parsed": "2026-09-13T11:00:41+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/PXL_20260820_203706917-640x850.jpg",
-      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
-      "tags": [
-        "john deere",
-        "right to repair",
-        "syndication",
-        "tech"
       ]
     },
     {
