@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-28T23:01:48.328174+00:00",
-  "article_count": 2181,
+  "last_updated": "2026-09-29T06:39:23.319219+00:00",
+  "article_count": 2182,
   "articles": [
+    {
+      "title": "MUST Bookmark: Watch the Net",
+      "link": "https://blog.ipspace.net/2026/09/worth-reading-watch-the-net/?utm_source=atom_feed",
+      "published": "2026-09-29T08:22:00+02:00",
+      "published_parsed": "2026-09-29T08:22:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Andre Toonk published yet another Internet-measuring tool: watchthenet.com tries to ping every IPv4 address every few hours (probing every /24 every 49 seconds), resulting in a rapidly updated state of the Internet. If an ISP has a bad hair day, Andre knows within minutes. Make sure you bookmark...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
       "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
