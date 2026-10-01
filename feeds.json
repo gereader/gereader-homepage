@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T14:17:51.986752+00:00",
-  "article_count": 95,
+  "last_updated": "2026-10-01T22:27:24.759992+00:00",
+  "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -53,6 +53,7 @@
     "bgp",
     "biz & it",
     "blog",
+    "breaches",
     "bridging",
     "broadcom",
     "certifications",
@@ -76,6 +77,7 @@
     "data centers",
     "data loss",
     "dell",
+    "department of defense",
     "design",
     "dhcp",
     "discord",
@@ -84,7 +86,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "drivers licenses",
     "drone boats",
     "drones",
     "dyson",
@@ -96,6 +97,7 @@
     "f-droid",
     "fabric",
     "factoring",
+    "fbi",
     "features",
     "firefighting",
     "firefox",
@@ -114,8 +116,6 @@
     "hospitals",
     "hp",
     "hulu",
-    "id scans",
-    "identity theft",
     "ilands",
     "internet",
     "ip routing",
@@ -133,15 +133,14 @@
     "mac mini",
     "mac studio",
     "macos",
-    "macos 27",
     "macos 27 golden gate",
-    "macos golden gate",
     "malicious ads",
     "malware",
     "mergers",
     "mergers and acquisitions",
     "meta",
     "meteors",
+    "micron",
     "microsoft",
     "microsoft surface",
     "military drones",
@@ -155,6 +154,7 @@
     "multi-hop",
     "multicast",
     "nat",
+    "national security",
     "navigation blog",
     "netbox",
     "netconf",
@@ -184,6 +184,7 @@
     "prompt injections",
     "qos",
     "quantum computing",
+    "ram",
     "reddit",
     "remote code injection",
     "robots",
@@ -253,6 +254,39 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+      "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+      "published": "Thu, 01 Oct 2026 20:28:45 +0000",
+      "published_parsed": "2026-10-01T20:28:45+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "It has been a bad month for federal government cybersecurity.",
+      "tags": [
+        "biz & it",
+        "breaches",
+        "department of defense",
+        "fbi",
+        "hacking",
+        "national security",
+        "security"
+      ]
+    },
+    {
+      "title": "Memory executives expect RAM shortage to continue through 2028",
+      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+      "published": "Thu, 01 Oct 2026 17:49:56 +0000",
+      "published_parsed": "2026-10-01T17:49:56+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+      "tags": [
+        "biz & it",
+        "micron",
+        "ram",
+        "tech"
+      ]
+    },
     {
       "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
       "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
@@ -900,25 +934,6 @@
       ]
     },
     {
-      "title": "macOS 27 Golden Gate: The Ars Technica review",
-      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-      "published": "Wed, 16 Sep 2026 14:50:06 +0000",
-      "published_parsed": "2026-09-16T14:50:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-      "tags": [
-        "apple",
-        "apple silicon",
-        "features",
-        "macos",
-        "macos 27",
-        "macos 27 golden gate",
-        "macos golden gate",
-        "tech"
-      ]
-    },
-    {
       "title": "How vagrant-libvirt Plugin Deals with Duplicate Subnets",
       "link": "https://blog.ipspace.net/2026/09/vagrant-libvirt-duplicate-subnets/?utm_source=atom_feed",
       "published": "2026-09-16T08:27:00+02:00",
@@ -1158,21 +1173,6 @@
       ]
     },
     {
-      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-      "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-      "published": "Thu, 03 Sep 2026 18:58:31 +0000",
-      "published_parsed": "2026-09-03T18:58:31+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
-      "tags": [
-        "biz & it",
-        "broadcom",
-        "virtualization",
-        "vmware"
-      ]
-    },
-    {
       "title": "Netpicker AI Assistant: AI-Assisted Network Operations and Compliance",
       "link": "https://www.packetcoders.io/netpicker-ai-assistant-ai-assisted-network-operations-and-compliance/",
       "published": "Thu, 03 Sep 2026 12:27:49 GMT",
@@ -1197,24 +1197,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "I rented a car, and within hours, my driver's license was for sale",
-      "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-      "published": "Wed, 02 Sep 2026 20:32:02 +0000",
-      "published_parsed": "2026-09-02T20:32:02+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-      "tags": [
-        "biz & it",
-        "drivers licenses",
-        "features",
-        "id scans",
-        "identity theft",
-        "privacy",
-        "security"
       ]
     },
     {
