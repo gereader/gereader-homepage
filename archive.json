@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-09-30T18:53:29.471239+00:00",
-  "article_count": 2186,
+  "last_updated": "2026-10-01T01:51:24.118735+00:00",
+  "article_count": 2189,
   "articles": [
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "published": "Wed, 30 Sep 2026 20:44:48 +0000",
+      "published_parsed": "2026-09-30T20:44:48+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "remote code injection",
+        "security",
+        "vulnerabilities",
+        "zimbra collaboration server"
+      ]
+    },
+    {
+      "title": "Reddit is putting more limits on Old.Reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+      "published": "Wed, 30 Sep 2026 19:53:33 +0000",
+      "published_parsed": "2026-09-30T19:53:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Reddit says it's fighting \"automated abuse.\"",
+      "tags": [
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
+    {
+      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+      "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+      "published": "Wed, 30 Sep 2026 19:22:19 +0000",
+      "published_parsed": "2026-09-30T19:22:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Boycotting Disney is hard.",
+      "tags": [
+        "acquisitions",
+        "disney",
+        "hulu",
+        "mergers",
+        "mergers and acquisitions",
+        "paramount",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "Discord gives more advertisers more tools to target its users",
       "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
