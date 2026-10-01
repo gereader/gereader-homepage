@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T01:51:24.148064+00:00",
-  "article_count": 96,
+  "last_updated": "2026-10-01T14:17:51.986752+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1676,19 +1676,6 @@
         "networking",
         "vxlan",
         "worth reading"
-      ]
-    },
-    {
-      "title": "How to Dynamically Create MCP Servers with FastMCP",
-      "link": "https://www.packetcoders.io/how-to-dynamically-create-mcp-servers-with-fastmcp-2/",
-      "published": "Fri, 03 Jul 2026 08:00:52 GMT",
-      "published_parsed": "2026-07-03T08:00:52+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-2.png",
-      "summary": "MCP has gained a huge amount of popularity. And for good reason, it's easy to use and can allow you to really harness the benefits of LLMs. So here's a quick MCP tip! Dynamically create MCP servers with FastMCP by passing a REST API's",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
