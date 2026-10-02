@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T02:03:03.726918+00:00",
-  "article_count": 94,
+  "last_updated": "2026-10-02T13:40:00.828332+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -19,14 +19,10 @@
     "ai agents",
     "ai assistants",
     "ai attack",
-    "ai data centers",
     "ai drones",
     "ai insecurity",
     "aiops",
     "ajit varma",
-    "amazon",
-    "amazon aws",
-    "amazon web services",
     "android",
     "ansible",
     "anthropic",
@@ -48,7 +44,6 @@
     "automation",
     "autonomous drones",
     "aws",
-    "aws outage",
     "azure",
     "bgp",
     "biz & it",
@@ -65,7 +60,6 @@
     "chromium",
     "clickfix",
     "cloud",
-    "cloud services",
     "company news",
     "containers",
     "copilot",
@@ -74,7 +68,6 @@
     "cumulus linux",
     "cyberattacks",
     "data center",
-    "data centers",
     "data loss",
     "dell",
     "department of defense",
@@ -120,7 +113,6 @@
     "internet",
     "ip routing",
     "ipv6",
-    "iran",
     "is-is",
     "key forgery",
     "lan",
@@ -145,6 +137,7 @@
     "microsoft surface",
     "military drones",
     "military robots",
+    "mini led",
     "mole",
     "mozilla",
     "mpls",
@@ -218,6 +211,7 @@
     "supply chain hacking",
     "switching",
     "syndication",
+    "tcl",
     "tcp",
     "teampcp",
     "tech",
@@ -225,10 +219,10 @@
     "toothbrush",
     "traffic engineering",
     "training",
+    "tvs",
     "ukraine",
     "ukraine war",
     "uncrewed surface vessels",
-    "usa-iran war",
     "video",
     "video editing",
     "video streaming",
@@ -254,6 +248,36 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+      "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+      "published": "Fri, 02 Oct 2026 10:30:11 +0000",
+      "published_parsed": "2026-10-02T10:30:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Can it be Mini LED without a FALD backlight?",
+      "tags": [
+        "features",
+        "mini led",
+        "samsung",
+        "tcl",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Worth Reading: Don't Fight the Users' Desire Paths",
+      "link": "https://blog.ipspace.net/2026/10/worth-reading-desire-paths/?utm_source=atom_feed",
+      "published": "2026-10-02T07:38:00+02:00",
+      "published_parsed": "2026-10-02T07:38:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Chris Siebenmann publishes articles written from an interesting perspective: he’s a Unix herder at a university (based on my ancient, similar experience, that’s usually worse than herding cats). In one of his recent articles, he applied the desire paths ideas to IT: don’t fight how people are doing...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
@@ -908,29 +932,6 @@
       "tags": [
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-      "published": "Wed, 16 Sep 2026 16:40:11 +0000",
-      "published_parsed": "2026-09-16T16:40:11+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
-      "tags": [
-        "ai data centers",
-        "amazon",
-        "amazon aws",
-        "amazon web services",
-        "aws",
-        "aws outage",
-        "cloud services",
-        "data centers",
-        "iran",
-        "military drones",
-        "tech",
-        "usa-iran war"
       ]
     },
     {

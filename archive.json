@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-02T02:03:03.710294+00:00",
-  "article_count": 2191,
+  "last_updated": "2026-10-02T13:40:00.800748+00:00",
+  "article_count": 2193,
   "articles": [
+    {
+      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+      "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+      "published": "Fri, 02 Oct 2026 10:30:11 +0000",
+      "published_parsed": "2026-10-02T10:30:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Can it be Mini LED without a FALD backlight?",
+      "tags": [
+        "features",
+        "mini led",
+        "samsung",
+        "tcl",
+        "tech",
+        "tvs"
+      ]
+    },
+    {
+      "title": "Worth Reading: Don't Fight the Users' Desire Paths",
+      "link": "https://blog.ipspace.net/2026/10/worth-reading-desire-paths/?utm_source=atom_feed",
+      "published": "2026-10-02T07:38:00+02:00",
+      "published_parsed": "2026-10-02T07:38:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Chris Siebenmann publishes articles written from an interesting perspective: he’s a Unix herder at a university (based on my ancient, similar experience, that’s usually worse than herding cats). In one of his recent articles, he applied the desire paths ideas to IT: don’t fight how people are doing...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
