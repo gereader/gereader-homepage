@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-10-02T13:40:00.800748+00:00",
-  "article_count": 2193,
+  "last_updated": "2026-10-02T19:02:18.805295+00:00",
+  "article_count": 2195,
   "articles": [
+    {
+      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "published": "Fri, 02 Oct 2026 17:20:21 +0000",
+      "published_parsed": "2026-10-02T17:20:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
+      "tags": [
+        "air conditioning",
+        "batteries",
+        "battery",
+        "electric utilities",
+        "electrical utilities",
+        "electricity demand",
+        "electricity grid",
+        "every electric",
+        "peak electricity load",
+        "power grid",
+        "power grids",
+        "tech",
+        "utilities"
+      ]
+    },
+    {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "published": "Fri, 02 Oct 2026 14:52:16 +0000",
+      "published_parsed": "2026-10-02T14:52:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "nvidia",
+        "nvidia shield tv",
+        "price increase",
+        "tech"
+      ]
+    },
     {
       "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
       "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
