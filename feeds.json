@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T19:02:18.832016+00:00",
+  "last_updated": "2026-10-03T01:46:44.630092+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -146,8 +146,8 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
-    "multi-hop",
     "multicast",
+    "muse",
     "nat",
     "national security",
     "navigation blog",
@@ -203,7 +203,6 @@
     "sdn",
     "security",
     "service providers",
-    "single-hop",
     "slop",
     "smart home",
     "snmp",
@@ -235,11 +234,9 @@
     "video",
     "video editing",
     "video streaming",
-    "virtual private networks",
     "virtualization",
     "vmware",
     "vpn",
-    "vpns",
     "vulnerabilities",
     "vulnerability discovery",
     "vxlan",
@@ -257,6 +254,24 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "published_parsed": "2026-10-02T23:03:16+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "tags": [
+        "ai",
+        "apple",
+        "biz & it",
+        "meta",
+        "muse",
+        "privacy",
+        "security"
+      ]
+    },
     {
       "title": "How I kept cool with NYC's free battery program for window AC units",
       "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
@@ -1165,24 +1180,6 @@
       "summary": "Finding good content in the swamp of AI slop is hard, and whenever I find a blog post worth reading, I’d like to know when the author publishes the next one. For stupid reasons (like a day having only 24 hours, and me having a life), I can’t periodically scan all websites I find interesting, but...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-      "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-      "published": "Thu, 03 Sep 2026 19:52:06 +0000",
-      "published_parsed": "2026-09-03T19:52:06+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
-      "tags": [
-        "apple",
-        "biz & it",
-        "multi-hop",
-        "security",
-        "single-hop",
-        "virtual private networks",
-        "vpns"
       ]
     },
     {
