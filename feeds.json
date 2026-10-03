@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T01:46:44.630092+00:00",
+  "last_updated": "2026-10-03T12:19:56.751535+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -79,7 +79,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "drone boats",
     "drones",
     "dyson",
     "eigrp",
@@ -91,6 +90,7 @@
     "enshittification",
     "every electric",
     "evpn",
+    "exoskeleton",
     "exploits",
     "f-droid",
     "fabric",
@@ -137,7 +137,6 @@
     "micron",
     "microsoft",
     "microsoft surface",
-    "military drones",
     "military robots",
     "mini led",
     "mole",
@@ -188,6 +187,7 @@
     "ram",
     "reddit",
     "remote code injection",
+    "robotic exoskeleton",
     "robots",
     "rsa",
     "russia invasion of ukraine",
@@ -229,7 +229,6 @@
     "tvs",
     "ukraine",
     "ukraine war",
-    "uncrewed surface vessels",
     "utilities",
     "video",
     "video editing",
@@ -254,6 +253,23 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "The dawn of the age of the exoskeleton",
+      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "published": "Sat, 03 Oct 2026 11:15:33 +0000",
+      "published_parsed": "2026-10-03T11:15:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "tags": [
+        "exoskeleton",
+        "robotic exoskeleton",
+        "robots",
+        "science",
+        "syndication",
+        "tech"
+      ]
+    },
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
@@ -846,26 +862,6 @@
         "privacy",
         "security",
         "zero days"
-      ]
-    },
-    {
-      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
-      "published": "Mon, 21 Sep 2026 21:07:05 +0000",
-      "published_parsed": "2026-09-21T21:07:05+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
-      "tags": [
-        "drone boats",
-        "military drones",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war",
-        "uncrewed surface vessels"
       ]
     },
     {
