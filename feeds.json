@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T02:26:45.794575+00:00",
-  "article_count": 95,
+  "last_updated": "2026-10-04T13:04:46.010658+00:00",
+  "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1649,20 +1649,6 @@
       "summary": "Just in case you decide to build a simple Python project over the summer: read scripting good practices in Python by Brett Cannon and tell your AI friend to adhere to them ;)",
       "tags": [
         "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "Worth Reading: More VXLAN and EVPN Labs",
-      "link": "https://blog.ipspace.net/2026/07/worth-reading-more-vxlan-evpn/?utm_source=atom_feed",
-      "published": "2026-07-06T07:44:00+02:00",
-      "published_parsed": "2026-07-06T07:44:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Ali Bahadır Coşkun continued his EVPN/VXLAN journey. Using the free netlab-powered EVPN/VXLAN labs , he finished the basic EVPN/VXLAN lab (adding EVPN control plane to VXLAN underlay), and then completed the whole VXLAN/IRB/anycast saga . Want to do something similar? The free EVPN/VXLAN lab...",
-      "tags": [
-        "networking",
-        "vxlan",
         "worth reading"
       ]
     }
