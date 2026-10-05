@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T15:39:30.841972+00:00",
+  "last_updated": "2026-10-05T23:51:36.242342+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,8 +13,8 @@
   "tags": [
     "aci",
     "acquisitions",
-    "adobe",
     "ads",
+    "agentic ai",
     "ai",
     "ai agents",
     "ai assistants",
@@ -24,7 +24,6 @@
     "aiops",
     "air conditioning",
     "ajit varma",
-    "android",
     "ansible",
     "anthropic",
     "app stores",
@@ -38,7 +37,6 @@
     "apps",
     "arp",
     "artificial intelligence",
-    "ascii smuggling",
     "automated troubleshooting",
     "automation",
     "autonomous drones",
@@ -69,6 +67,7 @@
     "cumulus linux",
     "cyberattacks",
     "data center",
+    "data centers",
     "data loss",
     "department of defense",
     "design",
@@ -129,6 +128,7 @@
     "macos",
     "malicious ads",
     "malware",
+    "mcp",
     "mechanical keyboards",
     "mergers",
     "mergers and acquisitions",
@@ -139,6 +139,8 @@
     "microsoft surface",
     "military robots",
     "mini led",
+    "mobile phone service",
+    "model context protocol",
     "mole",
     "mozilla",
     "mpls",
@@ -181,7 +183,7 @@
     "power grids",
     "price increase",
     "privacy",
-    "prompt injections",
+    "prompt injection",
     "qos",
     "quantum computing",
     "ram",
@@ -210,7 +212,6 @@
     "software gone wild",
     "space",
     "spam",
-    "spam filter evasion",
     "sr-mpls",
     "srv6",
     "streaming",
@@ -222,6 +223,7 @@
     "tcp",
     "teampcp",
     "tech",
+    "telecommunications",
     "tips",
     "traffic engineering",
     "training",
@@ -230,7 +232,6 @@
     "ukraine war",
     "utilities",
     "video",
-    "video editing",
     "video streaming",
     "virtualization",
     "vmware",
@@ -252,6 +253,45 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "published": "Mon, 05 Oct 2026 22:26:35 +0000",
+      "published_parsed": "2026-10-05T22:26:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "tags": [
+        "agentic ai",
+        "ai",
+        "biz & it",
+        "mcp",
+        "model context protocol",
+        "prompt injection",
+        "security"
+      ]
+    },
+    {
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "published": "Mon, 05 Oct 2026 17:21:11 +0000",
+      "published_parsed": "2026-10-05T17:21:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+      "tags": [
+        "data centers",
+        "mobile phone service",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "telecommunications",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
       "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
@@ -810,23 +850,6 @@
       ]
     },
     {
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "published": "Tue, 22 Sep 2026 19:08:58 +0000",
-      "published_parsed": "2026-09-22T19:08:58+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "tags": [
-        "adobe",
-        "android",
-        "apps",
-        "google",
-        "tech",
-        "video editing"
-      ]
-    },
-    {
       "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
       "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
       "published": "Tue, 22 Sep 2026 16:55:40 +0000",
@@ -1157,23 +1180,6 @@
         "broadcom",
         "virtualization",
         "vmware"
-      ]
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "published": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "published_parsed": "2026-09-04T17:18:12+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "tags": [
-        "ai",
-        "ascii smuggling",
-        "biz & it",
-        "prompt injections",
-        "security",
-        "spam filter evasion"
       ]
     },
     {
