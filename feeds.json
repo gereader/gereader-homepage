@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T01:43:13.606423+00:00",
-  "article_count": 94,
+  "last_updated": "2026-10-05T15:39:30.841972+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -80,14 +80,12 @@
     "dns",
     "docker",
     "drones",
-    "dyson",
     "eigrp",
     "electric utilities",
     "electrical utilities",
     "electricity demand",
     "electricity grid",
     "england",
-    "enshittification",
     "every electric",
     "evpn",
     "exoskeleton",
@@ -119,6 +117,7 @@
     "ipv6",
     "is-is",
     "key forgery",
+    "keyboards",
     "lan",
     "laptops",
     "lisp",
@@ -130,6 +129,7 @@
     "macos",
     "malicious ads",
     "malware",
+    "mechanical keyboards",
     "mergers",
     "mergers and acquisitions",
     "meta",
@@ -223,7 +223,6 @@
     "teampcp",
     "tech",
     "tips",
-    "toothbrush",
     "traffic engineering",
     "training",
     "tvs",
@@ -253,6 +252,34 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+      "published": "Mon, 05 Oct 2026 11:00:41 +0000",
+      "published_parsed": "2026-10-05T11:00:41+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ars Technica's guide to new keyboard sensing technologies.",
+      "tags": [
+        "features",
+        "keyboards",
+        "mechanical keyboards",
+        "tech"
+      ]
+    },
+    {
+      "title": "netlab 26.10: SRv6, More Netmiko",
+      "link": "https://blog.ipspace.net/2026/10/netlab-26-10/?utm_source=atom_feed",
+      "published": "2026-10-05T07:53:00+02:00",
+      "published_parsed": "2026-10-05T07:53:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.10 adds new SRv6 implementations and features : Full SRv6 support (IS-IS, layer-3 services, L3VPN) on Junos SRv6 with IS-IS and SRv6 layer-3 services on Nokia SR Linux IPv4 layer-3 services with SRv6 locators exchanged over EBGP on FRRouting and Cisco IOS XR Other new features...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "The dawn of the age of the exoskeleton",
       "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
@@ -813,23 +840,6 @@
         "england",
         "healthcare",
         "hospitals"
-      ]
-    },
-    {
-      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
-      "link": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-      "published": "Tue, 22 Sep 2026 13:33:16 +0000",
-      "published_parsed": "2026-09-22T13:33:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
-      "tags": [
-        "ai",
-        "dyson",
-        "enshittification",
-        "syndication",
-        "tech",
-        "toothbrush"
       ]
     },
     {
