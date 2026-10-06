@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T07:18:56.008437+00:00",
+  "last_updated": "2026-10-06T19:20:13.639987+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -20,10 +20,15 @@
     "ai assistants",
     "ai attack",
     "ai drones",
-    "ai insecurity",
     "aiops",
     "air conditioning",
     "ajit varma",
+    "allignment",
+    "amazon",
+    "amazon alexa",
+    "amazon echo",
+    "android",
+    "android 17",
     "ansible",
     "anthropic",
     "app stores",
@@ -232,7 +237,6 @@
     "ukraine war",
     "utilities",
     "video",
-    "video streaming",
     "virtualization",
     "vmware",
     "vpn",
@@ -243,16 +247,81 @@
     "warner bros. discovery",
     "watermarking",
     "web browser",
+    "wikipedia",
     "wildfire",
     "wildfires",
     "windows",
     "worth reading",
     "xprize",
-    "youtube",
     "zero days",
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+      "published": "Tue, 06 Oct 2026 17:03:16 +0000",
+      "published_parsed": "2026-10-06T17:03:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
+      "tags": [
+        "amazon",
+        "amazon alexa",
+        "amazon echo",
+        "smart home",
+        "tech"
+      ]
+    },
+    {
+      "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+      "link": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+      "published": "Tue, 06 Oct 2026 16:15:50 +0000",
+      "published_parsed": "2026-10-06T16:15:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
+      "tags": [
+        "android",
+        "android 17",
+        "google",
+        "googlebooks",
+        "samsung",
+        "tech"
+      ]
+    },
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "published": "Tue, 06 Oct 2026 12:21:53 +0000",
+      "published_parsed": "2026-10-06T12:21:53+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "tags": [
+        "ai",
+        "ai agents",
+        "allignment",
+        "biz & it",
+        "openai",
+        "security",
+        "wikipedia"
+      ]
+    },
+    {
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "published": "Tue, 06 Oct 2026 12:00:31 +0000",
+      "published_parsed": "2026-10-06T12:00:31+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "vmware"
+      ]
+    },
     {
       "title": "The Crappy Cisco IOS CLI Error Reporting",
       "link": "https://blog.ipspace.net/2026/10/crappy-cisco-ios-cli-error-reporting/?utm_source=atom_feed",
@@ -801,38 +870,6 @@
       ]
     },
     {
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-      "published": "Wed, 23 Sep 2026 19:35:53 +0000",
-      "published_parsed": "2026-09-23T19:35:53+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "google",
-        "tech",
-        "video streaming",
-        "youtube"
-      ]
-    },
-    {
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-      "published": "Wed, 23 Sep 2026 17:39:39 +0000",
-      "published_parsed": "2026-09-23T17:39:39+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "\"So absurd and embarrassing ...\"",
-      "tags": [
-        "ai",
-        "samsung",
-        "smart home",
-        "tech"
-      ]
-    },
-    {
       "title": "The OSPF MTU Mismatch Saga",
       "link": "https://blog.ipspace.net/2026/09/ospf-mtu-saga/?utm_source=atom_feed",
       "published": "2026-09-23T08:07:00+02:00",
@@ -1161,38 +1198,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "published_parsed": "2026-09-04T22:17:36+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "tags": [
-        "ai",
-        "ai agents",
-        "ai insecurity",
-        "biz & it",
-        "openai",
-        "security"
-      ]
-    },
-    {
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "published": "Fri, 04 Sep 2026 17:35:02 +0000",
-      "published_parsed": "2026-09-04T17:35:02+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
-      "tags": [
-        "biz & it",
-        "broadcom",
-        "virtualization",
-        "vmware"
       ]
     },
     {
