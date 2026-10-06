@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T23:51:36.242342+00:00",
+  "last_updated": "2026-10-06T07:18:56.008437+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -253,6 +253,19 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "The Crappy Cisco IOS CLI Error Reporting",
+      "link": "https://blog.ipspace.net/2026/10/crappy-cisco-ios-cli-error-reporting/?utm_source=atom_feed",
+      "published": "2026-10-06T07:23:00+02:00",
+      "published_parsed": "2026-10-06T07:23:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: It’s really hard to figure out when a Cisco IOS box configured via its CLI reports a configuration error. One of the drawbacks of using Netmiko to configure network devices is its inherent lack of error detection – while it can switch into configuration mode and exit it (including a commit...",
+      "tags": [
+        "automation",
+        "networking"
+      ]
+    },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
@@ -1653,19 +1666,6 @@
       "summary": "NAF is seeking applications for the next class of its Advisory Board (AB). We are looking for committed individuals to fill six AB positions who can bring fresh insights and active participation to help guide AutoCon content and the future of NAF.",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Scripting Good Practices in Python",
-      "link": "https://blog.ipspace.net/2026/07/worth-reading-python-good-practices/?utm_source=atom_feed",
-      "published": "2026-07-08T07:28:00+02:00",
-      "published_parsed": "2026-07-08T07:28:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Just in case you decide to build a simple Python project over the summer: read scripting good practices in Python by Brett Cannon and tell your AI friend to adhere to them ;)",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
