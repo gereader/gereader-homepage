@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-10-06T19:20:13.611023+00:00",
-  "article_count": 2206,
+  "last_updated": "2026-10-07T02:09:37.987257+00:00",
+  "article_count": 2209,
   "articles": [
+    {
+      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "published": "Tue, 06 Oct 2026 21:31:10 +0000",
+      "published_parsed": "2026-10-06T21:31:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "tags": [
+        "drones",
+        "military drones",
+        "nato",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "sea drones",
+        "ships",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
+      "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+      "published": "Tue, 06 Oct 2026 20:32:12 +0000",
+      "published_parsed": "2026-10-06T20:32:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A combined service could lead to higher prices.",
+      "tags": [
+        "acquisitions",
+        "discovery plus",
+        "hbo max",
+        "mergers",
+        "mergers and acquisitions",
+        "paramount",
+        "paramount plus",
+        "paramount skydance",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "published": "Tue, 06 Oct 2026 19:21:14 +0000",
+      "published_parsed": "2026-10-06T19:21:14+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "tags": [
+        "biz & it",
+        "browser",
+        "certificate",
+        "certificate authority",
+        "security",
+        "tls",
+        "transport layer security"
+      ]
+    },
     {
       "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
       "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
