@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T02:09:38.015602+00:00",
+  "last_updated": "2026-10-07T14:17:53.298192+00:00",
   "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
@@ -261,6 +261,19 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "BGP-Free Network Core with SRv6",
+      "link": "https://blog.ipspace.net/2026/10/srv6-bgp-free-core/?utm_source=atom_feed",
+      "published": "2026-10-07T07:27:00+02:00",
+      "published_parsed": "2026-10-07T07:27:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The concept of a BGP-free core is decades old: The network core routers (P routers in MPLS terminology) do not carry BGP routes; BGP routes are exchanged solely between network edge routers. The core routers thus cannot use the customer IP addresses in the packet forwarding process. The edge...",
+      "tags": [
+        "networking",
+        "srv6"
+      ]
+    },
     {
       "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
       "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
@@ -1658,19 +1671,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "The highlights of netlab release 26.07 include: The multiserver plugin by @muddyblack distributes containerlab devices across multiple servers. The GRE tunnel plugin supports GRE tunnels on Cisco IOS, FRR, VyOS, and Junos (vSRX and vJunos-router) (most device implementations done by @ssasso and...",
-      "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab: 2000 Pull Requests Later ;))",
-      "link": "https://blog.ipspace.net/2026/07/netlab-2000-pr/?utm_source=atom_feed",
-      "published": "2026-07-09T12:29:00+02:00",
-      "published_parsed": "2026-07-09T12:29:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/07/netlab-2000-pr.jpg",
-      "summary": "Jeroen van Bemmel noticed an interesting fact yesterday evening: the netlab GitHub repository has 2000 merged/closed pull requests . I never expected the tiny “ let’s learn Python while working around the complexities of Vagrantfile ” project to get this far ;)) Thanks a million to everyone who...",
       "tags": [
         "netlab",
         "networking"
