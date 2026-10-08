@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T02:35:23.558508+00:00",
-  "article_count": 94,
+  "last_updated": "2026-10-08T14:26:01.374250+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -258,6 +258,18 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Please Respond: State of Network Automation Survey",
+      "link": "https://blog.ipspace.net/2026/10/state-network-automation-survey/?utm_source=atom_feed",
+      "published": "2026-10-08T07:56:00+02:00",
+      "published_parsed": "2026-10-08T07:56:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The Network Automation Forum is running the annual State of Network Automation Survey ( here are the 2025 results). If you’re involved in network automation in any way (I hope you are), please take a few minutes and complete it. Thank you! Start here",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
