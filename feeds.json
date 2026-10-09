@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T23:04:06.866876+00:00",
-  "article_count": 95,
+  "last_updated": "2026-10-09T07:12:02.443153+00:00",
+  "article_count": 96,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -30,9 +30,7 @@
     "android 17",
     "ansible",
     "anthropic",
-    "app stores",
     "apple",
-    "apps",
     "arp",
     "artificial intelligence",
     "automated troubleshooting",
@@ -89,7 +87,6 @@
     "evpn",
     "exoskeleton",
     "exploits",
-    "f-droid",
     "fabric",
     "factoring",
     "fbi",
@@ -109,6 +106,7 @@
     "history",
     "homelab",
     "hospitals",
+    "https",
     "hulu",
     "hybrid intelligence",
     "ilands",
@@ -120,6 +118,7 @@
     "keyboards",
     "lan",
     "laptops",
+    "let's encrypt",
     "lisp",
     "llms",
     "load balancing",
@@ -209,6 +208,7 @@
     "sd-wan",
     "sdn",
     "sea drones",
+    "secure sockets layer",
     "security",
     "service providers",
     "ships",
@@ -221,6 +221,7 @@
     "spam",
     "sr-mpls",
     "srv6",
+    "ssl",
     "streaming",
     "supply chain attack",
     "supply chain hacking",
@@ -234,6 +235,7 @@
     "telecommunications",
     "tips",
     "tls",
+    "tls transport layer security",
     "traffic engineering",
     "training",
     "transport layer security",
@@ -258,6 +260,37 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Netmiko vs Ansible: Does It Matter?",
+      "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-performance/?utm_source=atom_feed",
+      "published": "2026-10-09T08:10:00+02:00",
+      "published_parsed": "2026-10-09T08:10:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "We launched device configuration with Netmiko in the September 2026 netlab release and made it easier to use in the October 2026 release . It will become the default configuration method for several popular platforms (Arista EOS, Cisco IOS, Cisco Nexus OS, Cisco IOS XR, FRRouting virtual machines)...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+      "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+      "published": "Thu, 08 Oct 2026 19:57:17 +0000",
+      "published_parsed": "2026-10-08T19:57:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+      "tags": [
+        "https",
+        "let's encrypt",
+        "secure sockets layer",
+        "security",
+        "ssl",
+        "tech",
+        "tls transport layer security"
+      ]
+    },
     {
       "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
       "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
@@ -865,22 +898,6 @@
       "summary": "The 5-hour Reliability Theory: Networking through a Systems Analysis Lens webinar by Rachel Traylor is now available without a valid ipSpace.net account. Enjoy! Explore To watch more free ipSpace.net videos, browse them here , or click the Access Free Content button in any webinar roadmap .",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-      "published": "Thu, 24 Sep 2026 19:30:42 +0000",
-      "published_parsed": "2026-09-24T19:30:42+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-      "tags": [
-        "app stores",
-        "apps",
-        "f-droid",
-        "google",
-        "tech"
       ]
     },
     {
