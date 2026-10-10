@@ -1,7 +1,80 @@
 {
-  "last_updated": "2026-10-09T19:19:22.196596+00:00",
-  "article_count": 2215,
+  "last_updated": "2026-10-10T02:09:41.781218+00:00",
+  "article_count": 2219,
   "articles": [
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "published": "Fri, 09 Oct 2026 22:04:07 +0000",
+      "published_parsed": "2026-10-09T22:04:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "data centers",
+        "drones",
+        "military drones",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war",
+        "yandex"
+      ]
+    },
+    {
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "published": "Fri, 09 Oct 2026 21:51:12 +0000",
+      "published_parsed": "2026-10-09T21:51:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "tags": [
+        "apple",
+        "cray-1",
+        "mac mini",
+        "macos",
+        "supercomputer",
+        "tech"
+      ]
+    },
+    {
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "published": "Fri, 09 Oct 2026 18:54:52 +0000",
+      "published_parsed": "2026-10-09T18:54:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+      "tags": [
+        "biz & it",
+        "desktops",
+        "idc",
+        "laptops",
+        "tech"
+      ]
+    },
+    {
+      "title": "Your artwork could be featured in the next Debian release",
+      "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+      "published": "Fri, 09 Oct 2026 18:33:26 +0000",
+      "published_parsed": "2026-10-09T18:33:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+      "tags": [
+        "debian linux",
+        "desktop theme",
+        "forky",
+        "tech"
+      ]
+    },
     {
       "title": "Netmiko vs Ansible: Does It Matter?",
       "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-performance/?utm_source=atom_feed",

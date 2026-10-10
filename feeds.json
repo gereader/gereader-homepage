@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T19:19:22.219527+00:00",
-  "article_count": 96,
+  "last_updated": "2026-10-10T02:09:41.810124+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -13,15 +13,14 @@
   "tags": [
     "aci",
     "acquisitions",
-    "ads",
     "agentic ai",
     "ai",
     "ai agents",
     "ai assistants",
     "ai attack",
+    "ai data centers",
     "aiops",
     "air conditioning",
-    "ajit varma",
     "allignment",
     "amazon",
     "amazon alexa",
@@ -51,15 +50,11 @@
     "certifications",
     "change management",
     "chatbots",
-    "chrome",
-    "chromebooks",
-    "chromeos",
-    "chromium",
     "clickfix",
     "cloud",
     "company news",
     "containers",
-    "copilot",
+    "cray-1",
     "cryptanalysis",
     "cryptography",
     "cumulus linux",
@@ -67,10 +62,12 @@
     "data center",
     "data centers",
     "data loss",
+    "debian linux",
     "department of defense",
     "design",
+    "desktop theme",
+    "desktops",
     "dhcp",
-    "discord",
     "discovery plus",
     "disney",
     "dmvpn",
@@ -91,10 +88,9 @@
     "factoring",
     "fbi",
     "features",
-    "firefox",
     "firewall",
     "firewalls",
-    "gecko",
+    "forky",
     "general",
     "google",
     "googlebooks",
@@ -109,6 +105,7 @@
     "https",
     "hulu",
     "hybrid intelligence",
+    "idc",
     "ilands",
     "internet",
     "ip routing",
@@ -122,6 +119,7 @@
     "lisp",
     "llms",
     "load balancing",
+    "mac mini",
     "macos",
     "malicious ads",
     "malware",
@@ -132,9 +130,7 @@
     "meta",
     "meteors",
     "micron",
-    "microsoft",
     "microsoft rtx spark dev box",
-    "microsoft surface",
     "microsoft surface laptop ultra",
     "microsoft windows",
     "military drones",
@@ -142,7 +138,6 @@
     "mobile phone service",
     "model context protocol",
     "mole",
-    "mozilla",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -175,7 +170,6 @@
     "openflow",
     "ospf",
     "overlay networks",
-    "paddy harrington",
     "palo alto",
     "paramount",
     "paramount plus",
@@ -223,6 +217,7 @@
     "srv6",
     "ssl",
     "streaming",
+    "supercomputer",
     "supply chain attack",
     "supply chain hacking",
     "switching",
@@ -252,14 +247,87 @@
     "wan",
     "warner bros. discovery",
     "watermarking",
-    "web browser",
     "wikipedia",
     "windows",
     "worth reading",
+    "yandex",
     "zero days",
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "published": "Fri, 09 Oct 2026 22:04:07 +0000",
+      "published_parsed": "2026-10-09T22:04:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "data centers",
+        "drones",
+        "military drones",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war",
+        "yandex"
+      ]
+    },
+    {
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "published": "Fri, 09 Oct 2026 21:51:12 +0000",
+      "published_parsed": "2026-10-09T21:51:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "tags": [
+        "apple",
+        "cray-1",
+        "mac mini",
+        "macos",
+        "supercomputer",
+        "tech"
+      ]
+    },
+    {
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "published": "Fri, 09 Oct 2026 18:54:52 +0000",
+      "published_parsed": "2026-10-09T18:54:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+      "tags": [
+        "biz & it",
+        "desktops",
+        "idc",
+        "laptops",
+        "tech"
+      ]
+    },
+    {
+      "title": "Your artwork could be featured in the next Debian release",
+      "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+      "published": "Fri, 09 Oct 2026 18:33:26 +0000",
+      "published_parsed": "2026-10-09T18:33:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+      "tags": [
+        "debian linux",
+        "desktop theme",
+        "forky",
+        "tech"
+      ]
+    },
     {
       "title": "Netmiko vs Ansible: Does It Matter?",
       "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-performance/?utm_source=atom_feed",
@@ -749,20 +817,6 @@
       ]
     },
     {
-      "title": "Discord gives more advertisers more tools to target its users",
-      "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-      "published": "Wed, 30 Sep 2026 15:01:40 +0000",
-      "published_parsed": "2026-09-30T15:01:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
-      "tags": [
-        "ads",
-        "discord",
-        "tech"
-      ]
-    },
-    {
       "title": "Cloudflare plans to issue quantum-safe TLS certificates",
       "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
       "published": "Wed, 30 Sep 2026 11:15:14 +0000",
@@ -792,27 +846,6 @@
       ]
     },
     {
-      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-      "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-      "published": "Tue, 29 Sep 2026 13:00:19 +0000",
-      "published_parsed": "2026-09-29T13:00:19+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
-      "tags": [
-        "ai",
-        "ajit varma",
-        "chromium",
-        "features",
-        "firefox",
-        "gecko",
-        "mozilla",
-        "paddy harrington",
-        "tech",
-        "web browser"
-      ]
-    },
-    {
       "title": "MUST Bookmark: Watch the Net",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-watch-the-net/?utm_source=atom_feed",
       "published": "2026-09-29T08:22:00+02:00",
@@ -823,23 +856,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-      "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-      "published": "Mon, 28 Sep 2026 18:04:59 +0000",
-      "published_parsed": "2026-09-28T18:04:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-      "tags": [
-        "chromebooks",
-        "chromeos",
-        "google",
-        "googlebooks",
-        "laptops",
-        "tech"
       ]
     },
     {
@@ -869,23 +885,6 @@
         "malicious ads",
         "scareware",
         "security"
-      ]
-    },
-    {
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "published": "Fri, 25 Sep 2026 17:57:37 +0000",
-      "published_parsed": "2026-09-25T17:57:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-      "tags": [
-        "ai",
-        "copilot",
-        "laptops",
-        "microsoft",
-        "microsoft surface",
-        "tech"
       ]
     },
     {
@@ -1200,23 +1199,6 @@
         "nat",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Four groups caught using the same Chrome and Windows exploit kit",
-      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-      "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "published_parsed": "2026-09-09T20:55:02+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-      "tags": [
-        "biz & it",
-        "chrome",
-        "chromium",
-        "exploits",
-        "security",
-        "windows"
       ]
     },
     {
