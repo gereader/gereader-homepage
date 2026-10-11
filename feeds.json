@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T01:38:08.486411+00:00",
-  "article_count": 95,
+  "last_updated": "2026-10-11T13:50:46.963527+00:00",
+  "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1659,19 +1659,6 @@
       "summary": "With SSM, receivers specify both the multicast group and the source address they want to receive traffic from. Instead of joining (*, G) and rely",
       "tags": [
         "multicast",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 26.07: GRE, Wireguard, Graceful Restart, and Scale-Out Labs",
-      "link": "https://blog.ipspace.net/2026/07/netlab-26-07/?utm_source=atom_feed",
-      "published": "2026-07-13T08:23:00+02:00",
-      "published_parsed": "2026-07-13T08:23:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "The highlights of netlab release 26.07 include: The multiserver plugin by @muddyblack distributes containerlab devices across multiple servers. The GRE tunnel plugin supports GRE tunnels on Cisco IOS, FRR, VyOS, and Junos (vSRX and vJunos-router) (most device implementations done by @ssasso and...",
-      "tags": [
-        "netlab",
         "networking"
       ]
     }
