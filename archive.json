@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-11T18:41:11.706206+00:00",
-  "article_count": 2219,
+  "last_updated": "2026-10-12T02:09:17.058226+00:00",
+  "article_count": 2220,
   "articles": [
+    {
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "published": "Sun, 11 Oct 2026 18:10:54 +0000",
+      "published_parsed": "2026-10-11T18:10:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "tags": [
+        "alex gibney",
+        "bleecker street",
+        "culture",
+        "elon musk",
+        "entertainment",
+        "musk documentary",
+        "reviews",
+        "tech"
+      ]
+    },
     {
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",

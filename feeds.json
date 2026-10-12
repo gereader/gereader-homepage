@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T18:41:11.735099+00:00",
-  "article_count": 94,
+  "last_updated": "2026-10-12T02:09:17.086813+00:00",
+  "article_count": 93,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -21,6 +21,7 @@
     "ai data centers",
     "aiops",
     "air conditioning",
+    "alex gibney",
     "allignment",
     "amazon",
     "amazon alexa",
@@ -40,6 +41,7 @@
     "battery",
     "bgp",
     "biz & it",
+    "bleecker street",
     "blog",
     "breaches",
     "bridging",
@@ -57,6 +59,7 @@
     "cray-1",
     "cryptanalysis",
     "cryptography",
+    "culture",
     "cumulus linux",
     "cyberattacks",
     "data center",
@@ -69,7 +72,6 @@
     "desktops",
     "dhcp",
     "discovery plus",
-    "disney",
     "dmvpn",
     "dns",
     "docker",
@@ -79,7 +81,9 @@
     "electrical utilities",
     "electricity demand",
     "electricity grid",
+    "elon musk",
     "england",
+    "entertainment",
     "every electric",
     "evpn",
     "exoskeleton",
@@ -103,7 +107,6 @@
     "homelab",
     "hospitals",
     "https",
-    "hulu",
     "hybrid intelligence",
     "idc",
     "ilands",
@@ -144,6 +147,7 @@
     "mtu",
     "multicast",
     "muse",
+    "musk documentary",
     "mxc",
     "nat",
     "national security",
@@ -187,6 +191,7 @@
     "ram",
     "reddit",
     "remote code injection",
+    "reviews",
     "robotic exoskeleton",
     "robots",
     "rsa",
@@ -255,6 +260,25 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "published": "Sun, 11 Oct 2026 18:10:54 +0000",
+      "published_parsed": "2026-10-11T18:10:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "tags": [
+        "alex gibney",
+        "bleecker street",
+        "culture",
+        "elon musk",
+        "entertainment",
+        "musk documentary",
+        "reviews",
+        "tech"
+      ]
+    },
     {
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
@@ -794,26 +818,6 @@
         "reddit",
         "social media",
         "tech"
-      ]
-    },
-    {
-      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
-      "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-      "published": "Wed, 30 Sep 2026 19:22:19 +0000",
-      "published_parsed": "2026-09-30T19:22:19+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Boycotting Disney is hard.",
-      "tags": [
-        "acquisitions",
-        "disney",
-        "hulu",
-        "mergers",
-        "mergers and acquisitions",
-        "paramount",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {
@@ -1647,19 +1651,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Source Specific Multicast (SSM) VII",
-      "link": "https://www.packetswitch.co.uk/source-specific-multicast-ssm/",
-      "published": "Mon, 13 Jul 2026 21:19:43 GMT",
-      "published_parsed": "2026-07-13T21:19:43+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/03/multicast-8-.png",
-      "summary": "With SSM, receivers specify both the multicast group and the source address they want to receive traffic from. Instead of joining (*, G) and rely",
-      "tags": [
-        "multicast",
-        "networking"
       ]
     }
   ]
