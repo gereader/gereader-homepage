@@ -1,7 +1,54 @@
 {
-  "last_updated": "2026-10-12T02:09:17.058226+00:00",
-  "article_count": 2220,
+  "last_updated": "2026-10-12T16:34:19.953747+00:00",
+  "article_count": 2223,
   "articles": [
+    {
+      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "published": "Mon, 12 Oct 2026 13:00:52 +0000",
+      "published_parsed": "2026-10-12T13:00:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "tags": [
+        "fitbit",
+        "fitbit edge",
+        "google",
+        "tech",
+        "wearables"
+      ]
+    },
+    {
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "published": "Mon, 12 Oct 2026 12:43:10 +0000",
+      "published_parsed": "2026-10-12T12:43:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "tags": [
+        "ai",
+        "amazon",
+        "features",
+        "robotics",
+        "robots",
+        "tech"
+      ]
+    },
+    {
+      "title": "Sample netlab SRv6 Lab Topologies",
+      "link": "https://blog.ipspace.net/2026/10/srv6-examples/?utm_source=atom_feed",
+      "published": "2026-10-12T07:37:00+02:00",
+      "published_parsed": "2026-10-12T07:37:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "With the growing number of SRv6 implementations that netlab supports , it made sense to create a set of topologies to help you get started exploring the SRv6 world. The sample topologies include: SRv6 with IS-IS including LLA-only core links Multivendor SRv6 IPv4 Islands over SRv6-Enabled IPv6 Core...",
+      "tags": [
+        "netlab",
+        "networking",
+        "srv6"
+      ]
+    },
     {
       "title": "Review: 4-hour Musk documentary feels like two different films",
       "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",

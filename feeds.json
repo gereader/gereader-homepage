@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T02:09:17.086813+00:00",
-  "article_count": 93,
+  "last_updated": "2026-10-12T16:34:19.982237+00:00",
+  "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -94,6 +94,8 @@
     "features",
     "firewall",
     "firewalls",
+    "fitbit",
+    "fitbit edge",
     "forky",
     "general",
     "google",
@@ -189,10 +191,10 @@
     "qos",
     "quantum computing",
     "ram",
-    "reddit",
     "remote code injection",
     "reviews",
     "robotic exoskeleton",
+    "robotics",
     "robots",
     "rsa",
     "russia",
@@ -214,7 +216,6 @@
     "slop",
     "smart home",
     "snmp",
-    "social media",
     "software gone wild",
     "space",
     "spam",
@@ -252,6 +253,7 @@
     "wan",
     "warner bros. discovery",
     "watermarking",
+    "wearables",
     "wikipedia",
     "windows",
     "worth reading",
@@ -260,6 +262,53 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "published": "Mon, 12 Oct 2026 13:00:52 +0000",
+      "published_parsed": "2026-10-12T13:00:52+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "tags": [
+        "fitbit",
+        "fitbit edge",
+        "google",
+        "tech",
+        "wearables"
+      ]
+    },
+    {
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "published": "Mon, 12 Oct 2026 12:43:10 +0000",
+      "published_parsed": "2026-10-12T12:43:10+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "tags": [
+        "ai",
+        "amazon",
+        "features",
+        "robotics",
+        "robots",
+        "tech"
+      ]
+    },
+    {
+      "title": "Sample netlab SRv6 Lab Topologies",
+      "link": "https://blog.ipspace.net/2026/10/srv6-examples/?utm_source=atom_feed",
+      "published": "2026-10-12T07:37:00+02:00",
+      "published_parsed": "2026-10-12T07:37:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "With the growing number of SRv6 implementations that netlab supports , it made sense to create a set of topologies to help you get started exploring the SRv6 world. The sample topologies include: SRv6 with IS-IS including LLA-only core links Multivendor SRv6 IPv4 Islands over SRv6-Enabled IPv6 Core...",
+      "tags": [
+        "netlab",
+        "networking",
+        "srv6"
+      ]
+    },
     {
       "title": "Review: 4-hour Musk documentary feels like two different films",
       "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
@@ -804,20 +853,6 @@
         "security",
         "vulnerabilities",
         "zimbra collaboration server"
-      ]
-    },
-    {
-      "title": "Reddit is putting more limits on Old.Reddit.com",
-      "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
-      "published": "Wed, 30 Sep 2026 19:53:33 +0000",
-      "published_parsed": "2026-09-30T19:53:33+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Reddit says it's fighting \"automated abuse.\"",
-      "tags": [
-        "reddit",
-        "social media",
-        "tech"
       ]
     },
     {
@@ -1638,19 +1673,6 @@
       "tags": [
         "ansible",
         "networking"
-      ]
-    },
-    {
-      "title": "Worth Reading: Git Oh-Shit Toolkit",
-      "link": "https://blog.ipspace.net/2026/07/worth-reading-git-oh-shit-toolkit/?utm_source=atom_feed",
-      "published": "2026-07-14T07:15:00+02:00",
-      "published_parsed": "2026-07-14T07:15:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Tony Mattke published a blog post I wish I’d read 10 years ago. His Oh-Shit Toolkit includes several tools one can use after messing up Git branches or commit history. Definitely worth reading, even if you’ve been working with Git for ages.",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
