@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-10-13T07:27:09.526502+00:00",
-  "article_count": 2228,
+  "last_updated": "2026-10-13T20:06:56.661544+00:00",
+  "article_count": 2229,
   "articles": [
+    {
+      "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+      "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+      "published": "Tue, 13 Oct 2026 15:29:17 +0000",
+      "published_parsed": "2026-10-13T15:29:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "It can recognize up to six users with its camera.",
+      "tags": [
+        "apple",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "Crazy Delay: IOS XR OSPFv2 Default Route Origination",
       "link": "https://blog.ipspace.net/2026/10/iosxr-ospf-default/?utm_source=atom_feed",
