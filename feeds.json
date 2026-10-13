@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T00:17:48.576048+00:00",
+  "last_updated": "2026-10-13T07:27:09.556603+00:00",
   "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
@@ -99,7 +99,6 @@
     "fitbit",
     "fitbit edge",
     "forky",
-    "general",
     "google",
     "googlebooks",
     "gre",
@@ -189,6 +188,7 @@
     "price increase",
     "privacy",
     "prompt injection",
+    "python-intro",
     "qos",
     "quantum computing",
     "ram",
@@ -262,6 +262,20 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Crazy Delay: IOS XR OSPFv2 Default Route Origination",
+      "link": "https://blog.ipspace.net/2026/10/iosxr-ospf-default/?utm_source=atom_feed",
+      "published": "2026-10-13T08:41:00+02:00",
+      "published_parsed": "2026-10-13T08:41:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I decided to make Netmiko the default configuration deployment method netlab uses for Cisco IOS XR. It works great, and I don’t have to worry about whether the user runs IOS XRd control-plane (in which case scripts work) or vRouter (in which case there’s a VM inside the container, so no luck)....",
+      "tags": [
+        "netlab",
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Russia was not ready for the data center war it started with Ukraine",
       "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
@@ -1670,19 +1684,6 @@
         "firewall",
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "Content: New Parameter in Multiple something_config Ansible Modules",
-      "link": "https://blog.ipspace.net/2026/07/ansible-config-content/?utm_source=atom_feed",
-      "published": "2026-07-15T07:22:00+02:00",
-      "published_parsed": "2026-07-15T07:22:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Last December, I wrote a pretty ranty post explaining how Ansible release 12 broke (some?) network device configuration playbooks. The inevitable anonymous troll (why are they always anonymous?) couldn’t resist asking whether I opened an issue on GitHub . I didn’t (more about that later), but when...",
-      "tags": [
-        "ansible",
-        "networking"
       ]
     }
   ]

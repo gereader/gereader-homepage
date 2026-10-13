@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-10-13T00:17:48.547276+00:00",
-  "article_count": 2224,
+  "last_updated": "2026-10-13T07:27:09.526502+00:00",
+  "article_count": 2228,
   "articles": [
+    {
+      "title": "Crazy Delay: IOS XR OSPFv2 Default Route Origination",
+      "link": "https://blog.ipspace.net/2026/10/iosxr-ospf-default/?utm_source=atom_feed",
+      "published": "2026-10-13T08:41:00+02:00",
+      "published_parsed": "2026-10-13T08:41:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I decided to make Netmiko the default configuration deployment method netlab uses for Cisco IOS XR. It works great, and I don’t have to worry about whether the user runs IOS XRd control-plane (in which case scripts work) or vRouter (in which case there’s a VM inside the container, so no luck)....",
+      "tags": [
+        "netlab",
+        "networking",
+        "ospf"
+      ]
+    },
     {
       "title": "Russia was not ready for the data center war it started with Ukraine",
       "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
@@ -4968,6 +4982,19 @@
       ]
     },
     {
+      "title": "Python Parsing Command Output with TextFSM",
+      "link": "https://www.packetswitch.co.uk/python-parsing-command-output-with-textfsm/",
+      "published": "Tue, 23 Jun 2026 07:19:00 GMT",
+      "published_parsed": "2026-06-23T07:19:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-15-.png",
+      "summary": "This is where TextFSM comes in. It is a small library that turns messy device output into clean, structured data, usually a list of dictionaries.",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
       "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
       "published": "Mon, 22 Jun 2026 19:16:52 +0000",
@@ -4998,6 +5025,19 @@
       ]
     },
     {
+      "title": "Python Managing Credentials and Secrets",
+      "link": "https://www.packetswitch.co.uk/python-managing-credentials-and-secrets/",
+      "published": "Mon, 22 Jun 2026 07:11:00 GMT",
+      "published_parsed": "2026-06-22T07:11:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-14--1.png",
+      "summary": "In this part, we will look at safer ways to manage credentials in your scripts. We will cover a few different approaches, from the simplest",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "Rebuilding My Proxmox Cluster for the Version 9 Upgrade",
       "link": "https://www.packetswitch.co.uk/rebuilding-my-proxmox-cluster-for-the-version-9-upgrade/",
       "published": "Sun, 21 Jun 2026 15:46:40 GMT",
@@ -5008,6 +5048,19 @@
       "tags": [
         "homelab",
         "networking"
+      ]
+    },
+    {
+      "title": "Python - Working With Netmiko",
+      "link": "https://www.packetswitch.co.uk/python-working-with-netmiko/",
+      "published": "Sun, 21 Jun 2026 07:05:00 GMT",
+      "published_parsed": "2026-06-21T07:05:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-13-.png",
+      "summary": "In this part, we will look at what else Netmiko has to offer. We will cover how to run multiple commands, push configuration changes, load config",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {
