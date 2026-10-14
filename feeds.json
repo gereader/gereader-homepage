@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T01:40:46.865080+00:00",
-  "article_count": 94,
+  "last_updated": "2026-10-14T12:42:16.628832+00:00",
+  "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -48,6 +48,7 @@
     "certifications",
     "change management",
     "chatbots",
+    "china",
     "cloud",
     "company news",
     "containers",
@@ -78,12 +79,12 @@
     "england",
     "entertainment",
     "evpn",
-    "exoskeleton",
     "exploits",
     "fabric",
     "factoring",
     "fbi",
     "features",
+    "fiber optic cable",
     "firewall",
     "firewalls",
     "fitbit",
@@ -106,6 +107,7 @@
     "internet",
     "ip routing",
     "ipv6",
+    "iran",
     "is-is",
     "key forgery",
     "keyboards",
@@ -159,6 +161,7 @@
     "nfv",
     "nornir",
     "nsx",
+    "oceans",
     "openai",
     "openflow",
     "ospf",
@@ -167,8 +170,10 @@
     "paramount",
     "paramount plus",
     "paramount skydance",
+    "pipelines",
     "podcast",
     "post-quantum encryption",
+    "power grids",
     "privacy",
     "prompt injection",
     "python-intro",
@@ -177,7 +182,6 @@
     "ram",
     "remote code injection",
     "reviews",
-    "robotic exoskeleton",
     "robotics",
     "robots",
     "rsa",
@@ -208,6 +212,8 @@
     "srv6",
     "ssl",
     "streaming",
+    "submarines",
+    "subsea cables",
     "supercomputer",
     "supercomputers",
     "supply chain attack",
@@ -228,6 +234,8 @@
     "transport layer security",
     "ukraine",
     "ukraine war",
+    "undersea cables",
+    "usa-iran war",
     "video",
     "virtualization",
     "vmware",
@@ -245,6 +253,43 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "The Internet’s undersea backbone is slipping into the danger zone",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+      "published": "Wed, 14 Oct 2026 11:15:24 +0000",
+      "published_parsed": "2026-10-14T11:15:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
+      "tags": [
+        "china",
+        "fiber optic cable",
+        "iran",
+        "oceans",
+        "pipelines",
+        "power grids",
+        "russia",
+        "ships",
+        "submarines",
+        "subsea cables",
+        "tech",
+        "undersea cables",
+        "usa-iran war"
+      ]
+    },
+    {
+      "title": "Configuring SRv6 Layer-3 Services on Junos",
+      "link": "https://blog.ipspace.net/2026/10/junos-srv6-layer3-services/?utm_source=atom_feed",
+      "published": "2026-10-14T08:15:00+02:00",
+      "published_parsed": "2026-10-14T08:15:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Now that we know what we need to make layer-3 services ( BGP-free core transporting IPv4 and IPv6 traffic) work with SRv6 , let’s go through the steps needed to configure them on Junos, continuing from the baseline SRv6 with IS-IS configuration (and again relying on the excellent SRv6 Micro-SID...",
+      "tags": [
+        "networking",
+        "srv6"
+      ]
+    },
     {
       "title": "Topgolf saved over $11.3 million after leaving VMware",
       "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
@@ -766,23 +811,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "The dawn of the age of the exoskeleton",
-      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-      "published": "Sat, 03 Oct 2026 11:15:33 +0000",
-      "published_parsed": "2026-10-03T11:15:33+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-      "tags": [
-        "exoskeleton",
-        "robotic exoskeleton",
-        "robots",
-        "science",
-        "syndication",
-        "tech"
       ]
     },
     {
