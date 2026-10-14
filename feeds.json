@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T20:06:56.685033+00:00",
+  "last_updated": "2026-10-14T01:40:46.865080+00:00",
   "article_count": 94,
   "sources": [
     "Ars Technica - Gadgets",
@@ -20,7 +20,6 @@
     "ai attack",
     "ai data centers",
     "aiops",
-    "air conditioning",
     "alex gibney",
     "allignment",
     "amazon",
@@ -36,8 +35,6 @@
     "automation",
     "aws",
     "azure",
-    "batteries",
-    "battery",
     "bgp",
     "biz & it",
     "bleecker street",
@@ -51,7 +48,6 @@
     "certifications",
     "change management",
     "chatbots",
-    "clickfix",
     "cloud",
     "company news",
     "containers",
@@ -78,14 +74,9 @@
     "drone strikes",
     "drones",
     "eigrp",
-    "electric utilities",
-    "electrical utilities",
-    "electricity demand",
-    "electricity grid",
     "elon musk",
     "england",
     "entertainment",
-    "every electric",
     "evpn",
     "exoskeleton",
     "exploits",
@@ -127,7 +118,6 @@
     "mac mini",
     "macos",
     "malicious ads",
-    "malware",
     "mcp",
     "mechanical keyboards",
     "mergers",
@@ -177,11 +167,8 @@
     "paramount",
     "paramount plus",
     "paramount skydance",
-    "peak electricity load",
     "podcast",
     "post-quantum encryption",
-    "power grid",
-    "power grids",
     "privacy",
     "prompt injection",
     "python-intro",
@@ -210,6 +197,7 @@
     "security",
     "service providers",
     "ships",
+    "skydance",
     "slop",
     "smart home",
     "snmp",
@@ -234,12 +222,12 @@
     "tips",
     "tls",
     "tls transport layer security",
+    "topgolf",
     "traffic engineering",
     "training",
     "transport layer security",
     "ukraine",
     "ukraine war",
-    "utilities",
     "video",
     "virtualization",
     "vmware",
@@ -251,13 +239,43 @@
     "watermarking",
     "wearables",
     "wikipedia",
-    "windows",
     "worth reading",
     "yandex",
     "zero days",
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Topgolf saved over $11.3 million after leaving VMware",
+      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "published": "Tue, 13 Oct 2026 21:33:43 +0000",
+      "published_parsed": "2026-10-13T21:33:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "topgolf",
+        "vmware"
+      ]
+    },
+    {
+      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+      "published": "Tue, 13 Oct 2026 18:06:06 +0000",
+      "published_parsed": "2026-10-13T18:06:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The higher prices are said to be unrelated to the Skydance merger.",
+      "tags": [
+        "discovery plus",
+        "skydance",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "Apple’s first smart display is the 7-inch HomeView for $299",
       "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
@@ -786,30 +804,6 @@
       ]
     },
     {
-      "title": "This startup pays NYC residents to run air conditioners on free batteries",
-      "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
-      "published": "Fri, 02 Oct 2026 17:20:21 +0000",
-      "published_parsed": "2026-10-02T17:20:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
-      "tags": [
-        "air conditioning",
-        "batteries",
-        "battery",
-        "electric utilities",
-        "electrical utilities",
-        "electricity demand",
-        "electricity grid",
-        "every electric",
-        "peak electricity load",
-        "power grid",
-        "power grids",
-        "tech",
-        "utilities"
-      ]
-    },
-    {
       "title": "Worth Reading: Don't Fight the Users' Desire Paths",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-desire-paths/?utm_source=atom_feed",
       "published": "2026-10-02T07:38:00+02:00",
@@ -1224,23 +1218,6 @@
         "ansible",
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "published": "Fri, 11 Sep 2026 11:30:58 +0000",
-      "published_parsed": "2026-09-11T11:30:58+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "tags": [
-        "biz & it",
-        "clickfix",
-        "macos",
-        "malware",
-        "security",
-        "windows"
       ]
     },
     {

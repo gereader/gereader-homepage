@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-10-13T20:06:56.661544+00:00",
-  "article_count": 2229,
+  "last_updated": "2026-10-14T01:40:46.836247+00:00",
+  "article_count": 2231,
   "articles": [
+    {
+      "title": "Topgolf saved over $11.3 million after leaving VMware",
+      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "published": "Tue, 13 Oct 2026 21:33:43 +0000",
+      "published_parsed": "2026-10-13T21:33:43+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+      "tags": [
+        "biz & it",
+        "broadcom",
+        "topgolf",
+        "vmware"
+      ]
+    },
+    {
+      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+      "published": "Tue, 13 Oct 2026 18:06:06 +0000",
+      "published_parsed": "2026-10-13T18:06:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The higher prices are said to be unrelated to the Skydance merger.",
+      "tags": [
+        "discovery plus",
+        "skydance",
+        "streaming",
+        "tech",
+        "warner bros. discovery"
+      ]
+    },
     {
       "title": "Apple’s first smart display is the 7-inch HomeView for $299",
       "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
