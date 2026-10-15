@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T01:16:43.808828+00:00",
-  "article_count": 95,
+  "last_updated": "2026-10-15T12:30:19.482541+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -28,6 +28,7 @@
     "android",
     "android 17",
     "ansible",
+    "ansible-course",
     "anthropic",
     "apple",
     "arp",
@@ -134,7 +135,6 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
-    "multicast",
     "muse",
     "musk documentary",
     "mxc",
@@ -146,6 +146,7 @@
     "netconf",
     "netdevops",
     "netlab",
+    "network",
     "network assessment",
     "network automation",
     "network management",
@@ -246,6 +247,110 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Ansible Loops, Conditionals, and Handlers",
+      "link": "https://www.packetswitch.co.uk/ansible-loops-conditionals-and-handlers/",
+      "published": "Thu, 15 Oct 2026 09:02:38 GMT",
+      "published_parsed": "2026-10-15T09:02:38+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-6-.png",
+      "summary": "Loops let you run the same task multiple times, once for each item in a list. Conditionals let you run a task only when a certain condition is true",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Ansible Ad-hoc Commands, Facts, and Registering Output",
+      "link": "https://www.packetswitch.co.uk/ansible-ad-hoc-commands-facts-and-registering-output/",
+      "published": "Thu, 15 Oct 2026 08:51:47 GMT",
+      "published_parsed": "2026-10-15T08:51:47+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-5-.png",
+      "summary": "In this post, we'll look at three ways to do that. First, we'll cover ad-hoc commands, which let you run a single task against your devices straight",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Ansible Vault",
+      "link": "https://www.packetswitch.co.uk/ansible-vault/",
+      "published": "Thu, 15 Oct 2026 08:44:20 GMT",
+      "published_parsed": "2026-10-15T08:44:20+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-4-.png",
+      "summary": "Vault is a feature built into Ansible that lets you encrypt sensitive data, such as passwords, so it can't be read without a vault password.",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Netmiko vs Ansible: Executing Scripts",
+      "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-script-performance/?utm_source=atom_feed",
+      "published": "2026-10-15T07:52:00+02:00",
+      "published_parsed": "2026-10-15T07:52:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "My initial “ configuring Arista cEOS with Netmiko or Ansible ” test was a bit biased. netlab generates the final configuration snippets in both cases (due to Ansible FUBARs we had to deal with), but then Netmiko just sends the configuration commands to the switch (after entering configuration...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "Working with Ansible Inventory and Variables",
+      "link": "https://www.packetswitch.co.uk/working-with-ansible-inventory-and-variables/",
+      "published": "Thu, 15 Oct 2026 06:59:06 GMT",
+      "published_parsed": "2026-10-15T06:59:06+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-3-.png",
+      "summary": "In this chapter, we'll look at how to organise the inventory and variables properly using group_vars and host_vars. We'll move the VLANs out of",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Pushing Configuration with Ansible",
+      "link": "https://www.packetswitch.co.uk/pushing-configuration-with-ansible/",
+      "published": "Thu, 15 Oct 2026 06:53:58 GMT",
+      "published_parsed": "2026-10-15T06:53:58+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-2-.png",
+      "summary": "We'll start small by creating a single VLAN on a single switch. From there, we'll create multiple VLANs, then run the same playbook against more",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Understanding YAML and Ansible Playbooks",
+      "link": "https://www.packetswitch.co.uk/understanding-yaml-and-ansible-playbooks/",
+      "published": "Thu, 15 Oct 2026 06:50:11 GMT",
+      "published_parsed": "2026-10-15T06:50:11+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-1-.png",
+      "summary": "In Ansible, almost everything you write is in YAML, including playbooks, inventory files, and variables. You've already seen two YAML files in the",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Why Network Automation and Why Ansible?",
+      "link": "https://www.packetswitch.co.uk/why-network-automation-and-why-ansible/",
+      "published": "Thu, 15 Oct 2026 06:45:31 GMT",
+      "published_parsed": "2026-10-15T06:45:31+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course.png",
+      "summary": "Ansible is an open-source automation tool, now maintained by Red Hat. It was originally built to manage servers, but over the years it has gained",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
       "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
@@ -508,6 +613,19 @@
       ]
     },
     {
+      "title": "Strata Cloud Manager - Worth the Hype?",
+      "link": "https://www.packetswitch.co.uk/strata-cloud-manager-worth-the-hype/",
+      "published": "Sat, 10 Oct 2026 17:46:00 GMT",
+      "published_parsed": "2026-10-10T17:46:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-6-.png",
+      "summary": "Palo Alto's Strata Cloud Manager reviewed - folders, variables, snippets, HA setup, PAN-OS upgrades, and automation options, from real world use.",
+      "tags": [
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
       "published": "Fri, 09 Oct 2026 22:04:07 +0000",
@@ -624,6 +742,20 @@
         "android",
         "tablets",
         "tech"
+      ]
+    },
+    {
+      "title": "Network Labs on a Budget",
+      "link": "https://www.packetswitch.co.uk/network-labs-on-a-budget/",
+      "published": "Thu, 08 Oct 2026 12:11:00 GMT",
+      "published_parsed": "2026-10-08T12:11:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/10/labs-budget-1-.png",
+      "summary": "In this post, I’ll go over some budget-friendly options and a few tools you can use to build your own network lab without spending too much.",
+      "tags": [
+        "homelab",
+        "network",
+        "networking"
       ]
     },
     {
@@ -953,6 +1085,19 @@
       ]
     },
     {
+      "title": "Python Generating Configs with Jinja2",
+      "link": "https://www.packetswitch.co.uk/python-generating-configs-with-jinja2/",
+      "published": "Wed, 30 Sep 2026 06:12:00 GMT",
+      "published_parsed": "2026-09-30T06:12:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-24-.png",
+      "summary": "In this post, I will walk you through how Jinja2 works, cover the syntax you actually need, and we will end up generating the same config for Cisco",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "MUST Bookmark: Watch the Net",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-watch-the-net/?utm_source=atom_feed",
       "published": "2026-09-29T08:22:00+02:00",
@@ -966,6 +1111,19 @@
       ]
     },
     {
+      "title": "Python Working with REST APIs",
+      "link": "https://www.packetswitch.co.uk/python-working-with-rest-apis/",
+      "published": "Tue, 29 Sep 2026 06:07:00 GMT",
+      "published_parsed": "2026-09-29T06:07:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-23-.png",
+      "summary": "By the end of this post, you will know how to make GET and POST requests, handle authentication, parse JSON responses, filter results with query",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "Prefix Sets: Simplifying netlab ACLs and Prefix Filters",
       "link": "https://blog.ipspace.net/2026/09/netlab-prefix-sets/?utm_source=atom_feed",
       "published": "2026-09-28T08:16:00+02:00",
@@ -976,6 +1134,19 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Managing Python Projects with uv",
+      "link": "https://www.packetswitch.co.uk/managing-python-projects-with-uv/",
+      "published": "Mon, 28 Sep 2026 06:00:00 GMT",
+      "published_parsed": "2026-09-28T06:00:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-22-.png",
+      "summary": "uv is a relatively new tool that bundles all of this into one command. It manages Python version installs, virtual environments, package installs",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {
@@ -1187,19 +1358,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Strata Cloud Manager - Worth the Hype?",
-      "link": "https://www.packetswitch.co.uk/strata-cloud-manager-worth-the-hype/",
-      "published": "Wed, 16 Sep 2026 17:46:44 GMT",
-      "published_parsed": "2026-09-16T17:46:44+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-6-.png",
-      "summary": "Palo Alto's Strata Cloud Manager reviewed - folders, variables, snippets, HA setup, PAN-OS upgrades, and automation options, from real world use.",
-      "tags": [
-        "networking",
-        "palo alto"
       ]
     },
     {
@@ -1588,19 +1746,6 @@
       ]
     },
     {
-      "title": "Minisforum MS-A2 Review for Network Labs/Homelab",
-      "link": "https://www.packetswitch.co.uk/minisforum-ms-a2-review-for-network-labs-homelab/",
-      "published": "Tue, 04 Aug 2026 16:38:03 GMT",
-      "published_parsed": "2026-08-04T16:38:03+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/08/labs-budget-3-.png",
-      "summary": "Sharing my experience using the Minisforum MS-A2 for network labs. It costs £1160 with an AMD Ryzen 9 9955HX, 32GB DDR5 RAM, and 1TB storage.",
-      "tags": [
-        "homelab",
-        "networking"
-      ]
-    },
-    {
       "title": "Installing CLIs with uv",
       "link": "https://www.packetcoders.io/installing-clis-with-uv/",
       "published": "Fri, 31 Jul 2026 07:00:05 GMT",
@@ -1636,33 +1781,6 @@
       "summary": "In June, more than 650 network automation practitioners packed into Munich for AutoCon 5, joined by another 250+ who came a couple days early for hands-on workshops. Then, like we do after every AutoCon, we asked you to tell us how it went; the good, the annoying, and everything in between…",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "UGREEN NASync DXP4800 GT Review and Initial Setup",
-      "link": "https://www.packetswitch.co.uk/ugreen-nasync-dxp4800-gt-review-and-initial-setup/",
-      "published": "Sun, 19 Jul 2026 10:40:14 GMT",
-      "published_parsed": "2026-07-19T10:40:14+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/07/nas-2-.png",
-      "summary": "UGreen released the NASync DXP4800 GT, a 4-bay NAS that comes with an AMD Ryzen Embedded R2514, dual 10GbE LAN, and dual M.2 NVMe SSD slots",
-      "tags": [
-        "homelab",
-        "networking"
-      ]
-    },
-    {
-      "title": "How to Best Use Panorama Templates and Stacks?",
-      "link": "https://www.packetswitch.co.uk/how-to-best-use-panorama-templates-and-stacks/",
-      "published": "Fri, 17 Jul 2026 18:59:00 GMT",
-      "published_parsed": "2026-07-17T18:59:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-templates.png",
-      "summary": "A good practice is to always start with creating a ‘global’ template. This is where you define configurations that all firewalls across the company should have.",
-      "tags": [
-        "firewall",
-        "networking",
-        "palo alto"
       ]
     },
     {

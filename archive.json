@@ -1,7 +1,111 @@
 {
-  "last_updated": "2026-10-15T01:16:43.791652+00:00",
-  "article_count": 2242,
+  "last_updated": "2026-10-15T12:30:19.452656+00:00",
+  "article_count": 2253,
   "articles": [
+    {
+      "title": "Ansible Loops, Conditionals, and Handlers",
+      "link": "https://www.packetswitch.co.uk/ansible-loops-conditionals-and-handlers/",
+      "published": "Thu, 15 Oct 2026 09:02:38 GMT",
+      "published_parsed": "2026-10-15T09:02:38+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-6-.png",
+      "summary": "Loops let you run the same task multiple times, once for each item in a list. Conditionals let you run a task only when a certain condition is true",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Ansible Ad-hoc Commands, Facts, and Registering Output",
+      "link": "https://www.packetswitch.co.uk/ansible-ad-hoc-commands-facts-and-registering-output/",
+      "published": "Thu, 15 Oct 2026 08:51:47 GMT",
+      "published_parsed": "2026-10-15T08:51:47+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-5-.png",
+      "summary": "In this post, we'll look at three ways to do that. First, we'll cover ad-hoc commands, which let you run a single task against your devices straight",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Ansible Vault",
+      "link": "https://www.packetswitch.co.uk/ansible-vault/",
+      "published": "Thu, 15 Oct 2026 08:44:20 GMT",
+      "published_parsed": "2026-10-15T08:44:20+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-4-.png",
+      "summary": "Vault is a feature built into Ansible that lets you encrypt sensitive data, such as passwords, so it can't be read without a vault password.",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Netmiko vs Ansible: Executing Scripts",
+      "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-script-performance/?utm_source=atom_feed",
+      "published": "2026-10-15T07:52:00+02:00",
+      "published_parsed": "2026-10-15T07:52:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "My initial “ configuring Arista cEOS with Netmiko or Ansible ” test was a bit biased. netlab generates the final configuration snippets in both cases (due to Ansible FUBARs we had to deal with), but then Netmiko just sends the configuration commands to the switch (after entering configuration...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
+    {
+      "title": "Working with Ansible Inventory and Variables",
+      "link": "https://www.packetswitch.co.uk/working-with-ansible-inventory-and-variables/",
+      "published": "Thu, 15 Oct 2026 06:59:06 GMT",
+      "published_parsed": "2026-10-15T06:59:06+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-3-.png",
+      "summary": "In this chapter, we'll look at how to organise the inventory and variables properly using group_vars and host_vars. We'll move the VLANs out of",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Pushing Configuration with Ansible",
+      "link": "https://www.packetswitch.co.uk/pushing-configuration-with-ansible/",
+      "published": "Thu, 15 Oct 2026 06:53:58 GMT",
+      "published_parsed": "2026-10-15T06:53:58+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-2-.png",
+      "summary": "We'll start small by creating a single VLAN on a single switch. From there, we'll create multiple VLANs, then run the same playbook against more",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Understanding YAML and Ansible Playbooks",
+      "link": "https://www.packetswitch.co.uk/understanding-yaml-and-ansible-playbooks/",
+      "published": "Thu, 15 Oct 2026 06:50:11 GMT",
+      "published_parsed": "2026-10-15T06:50:11+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-1-.png",
+      "summary": "In Ansible, almost everything you write is in YAML, including playbooks, inventory files, and variables. You've already seen two YAML files in the",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Why Network Automation and Why Ansible?",
+      "link": "https://www.packetswitch.co.uk/why-network-automation-and-why-ansible/",
+      "published": "Thu, 15 Oct 2026 06:45:31 GMT",
+      "published_parsed": "2026-10-15T06:45:31+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course.png",
+      "summary": "Ansible is an open-source automation tool, now maintained by Red Hat. It was originally built to manage servers, but over the years it has gained",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
       "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
@@ -868,6 +972,19 @@
       ]
     },
     {
+      "title": "Python Generating Configs with Jinja2",
+      "link": "https://www.packetswitch.co.uk/python-generating-configs-with-jinja2/",
+      "published": "Wed, 30 Sep 2026 06:12:00 GMT",
+      "published_parsed": "2026-09-30T06:12:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-24-.png",
+      "summary": "In this post, I will walk you through how Jinja2 works, cover the syntax you actually need, and we will end up generating the same config for Cisco",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
       "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
       "published": "Tue, 29 Sep 2026 13:00:19 +0000",
@@ -902,6 +1019,19 @@
       ]
     },
     {
+      "title": "Python Working with REST APIs",
+      "link": "https://www.packetswitch.co.uk/python-working-with-rest-apis/",
+      "published": "Tue, 29 Sep 2026 06:07:00 GMT",
+      "published_parsed": "2026-09-29T06:07:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-23-.png",
+      "summary": "By the end of this post, you will know how to make GET and POST requests, handle authentication, parse JSON responses, filter results with query",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
       "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
       "published": "Mon, 28 Sep 2026 18:04:59 +0000",
@@ -929,6 +1059,19 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Managing Python Projects with uv",
+      "link": "https://www.packetswitch.co.uk/managing-python-projects-with-uv/",
+      "published": "Mon, 28 Sep 2026 06:00:00 GMT",
+      "published_parsed": "2026-09-28T06:00:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-22-.png",
+      "summary": "uv is a relatively new tool that bundles all of this into one command. It manages Python version installs, virtual environments, package installs",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {
