@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T12:30:19.482541+00:00",
-  "article_count": 104,
+  "last_updated": "2026-10-15T18:04:49.899813+00:00",
+  "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1781,19 +1781,6 @@
       "summary": "In June, more than 650 network automation practitioners packed into Munich for AutoCon 5, joined by another 250+ who came a couple days early for hands-on workshops. Then, like we do after every AutoCon, we asked you to tell us how it went; the good, the annoying, and everything in between…",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "NetBox: How to Prevent Direct Changes to the Main Branch",
-      "link": "https://www.packetcoders.io/netbox-how-to-prevent-direct-changes-to-main/",
-      "published": "Fri, 17 Jul 2026 12:51:04 GMT",
-      "published_parsed": "2026-07-17T12:51:04+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-1.png",
-      "summary": "NetBox Tip! Prevent direct changes to the main branch when using the NetBox Changes plugin. Enable protect_main to ensure all changes are made through branches and follow an approval workflow. Here's an example configuration: # ./configuration.py PLUGINS_CONFIG = { \"netbox_changes\": {...",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
