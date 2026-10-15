@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-10-14T18:22:45.659933+00:00",
-  "article_count": 2235,
+  "last_updated": "2026-10-15T01:16:43.791652+00:00",
+  "article_count": 2242,
   "articles": [
+    {
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "published": "Wed, 14 Oct 2026 21:35:09 +0000",
+      "published_parsed": "2026-10-14T21:35:09+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "tags": [
+        "biz & it",
+        "cybersecurity",
+        "hacking",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "published": "Wed, 14 Oct 2026 21:03:11 +0000",
+      "published_parsed": "2026-10-14T21:03:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "tags": [
+        "drone strikes",
+        "drones",
+        "military drones",
+        "nato",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "sea drones",
+        "ships",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
@@ -888,6 +929,19 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Python Regular Expressions",
+      "link": "https://www.packetswitch.co.uk/python-regular-expressions/",
+      "published": "Sun, 27 Sep 2026 21:28:00 GMT",
+      "published_parsed": "2026-09-27T21:28:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-21-.png",
+      "summary": "Regular expressions (regex for short) are a way to describe patterns in text. Instead of asking \"does this string contain the exact word up?\"",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {
@@ -4814,6 +4868,32 @@
       ]
     },
     {
+      "title": "Python Pre and Post-Change Validation",
+      "link": "https://www.packetswitch.co.uk/python-pre-and-post-change-validation/",
+      "published": "Sat, 27 Jun 2026 21:25:00 GMT",
+      "published_parsed": "2026-06-27T21:25:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-19-.png",
+      "summary": "Once you get comfortable with Python, this is one of the first tasks you will want to automate. Instead of copy-pasting output into a text file",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
+      "title": "Python Working with Structured Data Files",
+      "link": "https://www.packetswitch.co.uk/python-working-with-structured-data-files/",
+      "published": "Fri, 26 Jun 2026 21:21:00 GMT",
+      "published_parsed": "2026-06-26T21:21:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-18-.png",
+      "summary": "When your data has structure, you need a format that can represent that structure in a way both humans and computers can understand. This is where",
+      "tags": [
+        "networking",
+        "python-intro"
+      ]
+    },
+    {
       "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
       "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
       "published": "Fri, 26 Jun 2026 21:12:07 +0000",
@@ -4870,6 +4950,19 @@
       "summary": "I can confirm that an old saying is true: the older you are, the faster years pass. Can’t believe it’s time for another summer break. I hope you’ll manage to get away from work, turn off the Internet, and enjoy a few days in your favorite spot with your loved ones! I also promise I won’t be...",
       "tags": [
         "networking"
+      ]
+    },
+    {
+      "title": "Python Working With NAPALM",
+      "link": "https://www.packetswitch.co.uk/python-working-with-napalm/",
+      "published": "Thu, 25 Jun 2026 21:12:00 GMT",
+      "published_parsed": "2026-06-25T21:12:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-17-.png",
+      "summary": "NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that solves exactly this problem.",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {
@@ -4962,6 +5055,19 @@
         "openai",
         "silicon",
         "tech"
+      ]
+    },
+    {
+      "title": "Python Working with Files",
+      "link": "https://www.packetswitch.co.uk/python-working-with-files/",
+      "published": "Wed, 24 Jun 2026 21:05:00 GMT",
+      "published_parsed": "2026-06-24T21:05:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-16-.png",
+      "summary": "In this part, we will start with reading text files, cover the proper way to open files using context managers, and then move on to writing and",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {

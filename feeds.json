@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T18:22:45.688894+00:00",
+  "last_updated": "2026-10-15T01:16:43.808828+00:00",
   "article_count": 95,
   "sources": [
     "Ars Technica - Gadgets",
@@ -58,7 +58,7 @@
     "cryptography",
     "culture",
     "cumulus linux",
-    "cyberattacks",
+    "cybersecurity",
     "data center",
     "data centers",
     "data loss",
@@ -123,13 +123,11 @@
     "mergers",
     "mergers and acquisitions",
     "meta",
-    "meteors",
     "micron",
     "microsoft rtx spark dev box",
     "microsoft surface laptop ultra",
     "microsoft windows",
     "military drones",
-    "mobile phone service",
     "model context protocol",
     "mole",
     "mpls",
@@ -157,7 +155,6 @@
     "networking",
     "networking fundamentals",
     "nfv",
-    "nornir",
     "nsx",
     "oceans",
     "openai",
@@ -191,7 +188,6 @@
     "samsung",
     "san",
     "scareware",
-    "science",
     "sd-wan",
     "sdn",
     "sea drones",
@@ -204,7 +200,6 @@
     "smart home",
     "snmp",
     "software gone wild",
-    "space",
     "spam",
     "sr-mpls",
     "srv6",
@@ -223,7 +218,6 @@
     "tcp",
     "teampcp",
     "tech",
-    "telecommunications",
     "tips",
     "tls",
     "tls transport layer security",
@@ -252,6 +246,47 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "published": "Wed, 14 Oct 2026 21:35:09 +0000",
+      "published_parsed": "2026-10-14T21:35:09+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "tags": [
+        "biz & it",
+        "cybersecurity",
+        "hacking",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "published": "Wed, 14 Oct 2026 21:03:11 +0000",
+      "published_parsed": "2026-10-14T21:03:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "tags": [
+        "drone strikes",
+        "drones",
+        "military drones",
+        "nato",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "sea drones",
+        "ships",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
@@ -795,27 +830,6 @@
       ]
     },
     {
-      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-      "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "published": "Mon, 05 Oct 2026 17:21:11 +0000",
-      "published_parsed": "2026-10-05T17:21:11+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
-      "tags": [
-        "data centers",
-        "mobile phone service",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "telecommunications",
-        "ukraine",
-        "ukraine war"
-      ]
-    },
-    {
       "title": "netlab 26.10: SRv6, More Netmiko",
       "link": "https://blog.ipspace.net/2026/10/netlab-26-10/?utm_source=atom_feed",
       "published": "2026-10-05T07:53:00+02:00",
@@ -962,6 +976,19 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Python Regular Expressions",
+      "link": "https://www.packetswitch.co.uk/python-regular-expressions/",
+      "published": "Sun, 27 Sep 2026 21:28:00 GMT",
+      "published_parsed": "2026-09-27T21:28:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-21-.png",
+      "summary": "Regular expressions (regex for short) are a way to describe patterns in text. Instead of asking \"does this string contain the exact word up?\"",
+      "tags": [
+        "networking",
+        "python-intro"
       ]
     },
     {
@@ -1160,24 +1187,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "published": "Wed, 16 Sep 2026 21:08:14 +0000",
-      "published_parsed": "2026-09-16T21:08:14+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "tags": [
-        "biz & it",
-        "cyberattacks",
-        "hacking",
-        "meteors",
-        "science",
-        "security",
-        "space"
       ]
     },
     {
@@ -1667,20 +1676,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Panorama Device Groups and Templates (with examples)",
-      "link": "https://www.packetswitch.co.uk/panorama-device-groups-and-templates/",
-      "published": "Thu, 16 Jul 2026 20:15:00 GMT",
-      "published_parsed": "2026-07-16T20:15:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-dg-tp.png",
-      "summary": "To create an Address Object on the firewall directly, you navigate to Objects > Addresses. If you were to create the object through Panorama",
-      "tags": [
-        "firewall",
-        "networking",
-        "palo alto"
       ]
     }
   ]
