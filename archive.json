@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-10-16T12:08:52.785806+00:00",
-  "article_count": 2259,
+  "last_updated": "2026-10-16T17:50:36.846321+00:00",
+  "article_count": 2260,
   "articles": [
+    {
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+      "published": "Fri, 16 Oct 2026 12:00:05 +0000",
+      "published_parsed": "2026-10-16T12:00:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+      "tags": [
+        "microsoft surface laptop ultra",
+        "nvidia blackwell",
+        "reviews",
+        "rtx spark",
+        "tech",
+        "unified memory"
+      ]
+    },
     {
       "title": "Googlebook review: Android on a laptop is still Android",
       "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
