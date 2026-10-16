@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T18:04:49.899813+00:00",
+  "last_updated": "2026-10-16T01:02:30.262897+00:00",
   "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,6 +13,7 @@
   "tags": [
     "aci",
     "acquisitions",
+    "ads",
     "agentic ai",
     "ai",
     "ai agents",
@@ -23,13 +24,9 @@
     "alex gibney",
     "allignment",
     "amazon",
-    "amazon alexa",
-    "amazon echo",
     "android",
-    "android 17",
     "ansible",
     "ansible-course",
-    "anthropic",
     "apple",
     "arp",
     "automated troubleshooting",
@@ -50,6 +47,7 @@
     "change management",
     "chatbots",
     "china",
+    "citizen lab",
     "cloud",
     "company news",
     "computer worms",
@@ -70,6 +68,7 @@
     "desktops",
     "dhcp",
     "digital services",
+    "discover-tech",
     "discovery plus",
     "dmvpn",
     "dns",
@@ -93,7 +92,6 @@
     "fitbit edge",
     "forky",
     "google",
-    "googlebooks",
     "gre",
     "hacking",
     "hbo max",
@@ -110,12 +108,14 @@
     "ipv6",
     "iran",
     "is-is",
+    "kde 30th birthday",
+    "kde documentary",
+    "kde plasma 6.8",
     "key forgery",
     "lan",
     "laptops",
     "let's encrypt",
     "lisp",
-    "llms",
     "load balancing",
     "mac mini",
     "macos",
@@ -167,6 +167,7 @@
     "paramount plus",
     "paramount skydance",
     "pipelines",
+    "plex",
     "podcast",
     "post-quantum encryption",
     "power grids",
@@ -186,7 +187,6 @@
     "russia war on ukraine",
     "russian invasion of ukraine",
     "russian war on ukraine",
-    "samsung",
     "san",
     "scareware",
     "sd-wan",
@@ -238,15 +238,86 @@
     "vxlan",
     "wan",
     "warner bros. discovery",
-    "watermarking",
     "wearables",
     "wikipedia",
     "worth reading",
+    "x11",
     "yandex",
     "zero days",
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+      "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+      "published": "Thu, 15 Oct 2026 22:21:06 +0000",
+      "published_parsed": "2026-10-15T22:21:06+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
+      "tags": [
+        "kde 30th birthday",
+        "kde documentary",
+        "kde plasma 6.8",
+        "tech",
+        "x11"
+      ]
+    },
+    {
+      "title": "Plex now helps sell movie theater tickets",
+      "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+      "published": "Thu, 15 Oct 2026 21:22:15 +0000",
+      "published_parsed": "2026-10-15T21:22:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Discovery data from Plex users will help studios, advertisers.",
+      "tags": [
+        "ads",
+        "plex",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "published": "Thu, 15 Oct 2026 20:32:41 +0000",
+      "published_parsed": "2026-10-15T20:32:41+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "tags": [
+        "biz & it",
+        "citizen lab",
+        "discover-tech",
+        "security"
+      ]
+    },
+    {
+      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+      "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+      "published": "Thu, 15 Oct 2026 18:48:11 +0000",
+      "published_parsed": "2026-10-15T18:48:11+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
+      "tags": [
+        "drone strikes",
+        "drones",
+        "military drones",
+        "nato",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "sea drones",
+        "ships",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Ansible Loops, Conditionals, and Handlers",
       "link": "https://www.packetswitch.co.uk/ansible-loops-conditionals-and-handlers/",
@@ -365,31 +436,6 @@
         "hacking",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-      "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
-      "published": "Wed, 14 Oct 2026 21:03:11 +0000",
-      "published_parsed": "2026-10-14T21:03:11+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
-      "tags": [
-        "drone strikes",
-        "drones",
-        "military drones",
-        "nato",
-        "russia",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "sea drones",
-        "ships",
-        "tech",
-        "ukraine",
-        "ukraine war"
       ]
     },
     {
@@ -866,39 +912,6 @@
       ]
     },
     {
-      "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
-      "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
-      "published": "Tue, 06 Oct 2026 17:03:16 +0000",
-      "published_parsed": "2026-10-06T17:03:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
-      "tags": [
-        "amazon",
-        "amazon alexa",
-        "amazon echo",
-        "smart home",
-        "tech"
-      ]
-    },
-    {
-      "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
-      "link": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
-      "published": "Tue, 06 Oct 2026 16:15:50 +0000",
-      "published_parsed": "2026-10-06T16:15:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
-      "tags": [
-        "android",
-        "android 17",
-        "google",
-        "googlebooks",
-        "samsung",
-        "tech"
-      ]
-    },
-    {
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "published": "Tue, 06 Oct 2026 12:21:53 +0000",
@@ -1328,23 +1341,6 @@
         "supply chain hacking",
         "syndication",
         "teampcp"
-      ]
-    },
-    {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
-      "published_parsed": "2026-09-17T18:33:13+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "tags": [
-        "ai",
-        "anthropic",
-        "biz & it",
-        "llms",
-        "security",
-        "watermarking"
       ]
     },
     {
