@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-10-16T01:02:30.245482+00:00",
-  "article_count": 2257,
+  "last_updated": "2026-10-16T12:08:52.785806+00:00",
+  "article_count": 2259,
   "articles": [
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "published": "Fri, 16 Oct 2026 10:00:32 +0000",
+      "published_parsed": "2026-10-16T10:00:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+      "tags": [
+        "features",
+        "google",
+        "googlebooks",
+        "laptop review",
+        "laptops",
+        "reviews",
+        "tech"
+      ]
+    },
+    {
+      "title": "Nerd Fun: The DNS Museum",
+      "link": "https://blog.ipspace.net/2026/10/worth-reading-dns-museum/?utm_source=atom_feed",
+      "published": "2026-10-16T08:13:00+02:00",
+      "published_parsed": "2026-10-16T08:13:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The DNS Museum documents tons of crazy uses of DNS, the world’s most distributed database (OK, a key-value store ), including a “DNS for configuration management” podcast episode with Corey Quinn. Have fun!",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
       "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",

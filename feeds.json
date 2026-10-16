@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T01:02:30.262897+00:00",
-  "article_count": 103,
+  "last_updated": "2026-10-16T12:08:52.815381+00:00",
+  "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -12,7 +12,6 @@
   ],
   "tags": [
     "aci",
-    "acquisitions",
     "ads",
     "agentic ai",
     "ai",
@@ -92,9 +91,9 @@
     "fitbit edge",
     "forky",
     "google",
+    "googlebooks",
     "gre",
     "hacking",
-    "hbo max",
     "healthcare",
     "high availability",
     "history",
@@ -113,6 +112,7 @@
     "kde plasma 6.8",
     "key forgery",
     "lan",
+    "laptop review",
     "laptops",
     "let's encrypt",
     "lisp",
@@ -121,8 +121,6 @@
     "macos",
     "malicious ads",
     "mcp",
-    "mergers",
-    "mergers and acquisitions",
     "meta",
     "micron",
     "microsoft rtx spark dev box",
@@ -163,9 +161,6 @@
     "ospf",
     "overlay networks",
     "palo alto",
-    "paramount",
-    "paramount plus",
-    "paramount skydance",
     "pipelines",
     "plex",
     "podcast",
@@ -247,6 +242,37 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "published": "Fri, 16 Oct 2026 10:00:32 +0000",
+      "published_parsed": "2026-10-16T10:00:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+      "tags": [
+        "features",
+        "google",
+        "googlebooks",
+        "laptop review",
+        "laptops",
+        "reviews",
+        "tech"
+      ]
+    },
+    {
+      "title": "Nerd Fun: The DNS Museum",
+      "link": "https://blog.ipspace.net/2026/10/worth-reading-dns-museum/?utm_source=atom_feed",
+      "published": "2026-10-16T08:13:00+02:00",
+      "published_parsed": "2026-10-16T08:13:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The DNS Museum documents tons of crazy uses of DNS, the world’s most distributed database (OK, a key-value store ), including a “DNS for configuration management” podcast episode with Corey Quinn. Have fun!",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
       "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
@@ -869,28 +895,6 @@
         "tech",
         "ukraine",
         "ukraine war"
-      ]
-    },
-    {
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-      "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-      "published": "Tue, 06 Oct 2026 20:32:12 +0000",
-      "published_parsed": "2026-10-06T20:32:12+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "A combined service could lead to higher prices.",
-      "tags": [
-        "acquisitions",
-        "discovery plus",
-        "hbo max",
-        "mergers",
-        "mergers and acquisitions",
-        "paramount",
-        "paramount plus",
-        "paramount skydance",
-        "streaming",
-        "tech",
-        "warner bros. discovery"
       ]
     },
     {
