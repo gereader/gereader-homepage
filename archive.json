@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-16T17:50:36.846321+00:00",
-  "article_count": 2260,
+  "last_updated": "2026-10-16T20:39:18.018596+00:00",
+  "article_count": 2261,
   "articles": [
+    {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "published": "Fri, 16 Oct 2026 19:11:50 +0000",
+      "published_parsed": "2026-10-16T19:11:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "tags": [
+        "meta",
+        "ray-ban",
+        "smart glasses",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
       "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",

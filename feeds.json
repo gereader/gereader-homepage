@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T17:50:36.873480+00:00",
+  "last_updated": "2026-10-16T20:39:18.037273+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -100,7 +100,6 @@
     "homelab",
     "hospitals",
     "https",
-    "hybrid intelligence",
     "idc",
     "internet",
     "ip routing",
@@ -123,9 +122,7 @@
     "mcp",
     "meta",
     "micron",
-    "microsoft rtx spark dev box",
     "microsoft surface laptop ultra",
-    "microsoft windows",
     "military drones",
     "model context protocol",
     "mole",
@@ -135,7 +132,6 @@
     "mtu",
     "muse",
     "musk documentary",
-    "mxc",
     "nat",
     "national security",
     "nato",
@@ -173,6 +169,7 @@
     "qos",
     "quantum computing",
     "ram",
+    "ray-ban",
     "remote code injection",
     "reviews",
     "robotics",
@@ -195,6 +192,7 @@
     "ships",
     "skydance",
     "small models",
+    "smart glasses",
     "smart home",
     "snmp",
     "software gone wild",
@@ -245,6 +243,22 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "published": "Fri, 16 Oct 2026 19:11:50 +0000",
+      "published_parsed": "2026-10-16T19:11:50+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "tags": [
+        "meta",
+        "ray-ban",
+        "smart glasses",
+        "smart home",
+        "tech"
+      ]
+    },
     {
       "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
       "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
@@ -860,24 +874,6 @@
       "summary": "The Network Automation Forum is running the annual State of Network Automation Survey ( here are the 2025 results). If you’re involved in network automation in any way (I hope you are), please take a few minutes and complete it. Thank you! Start here",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "published": "Thu, 08 Oct 2026 00:00:24 +0000",
-      "published_parsed": "2026-10-08T00:00:24+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "tags": [
-        "ai",
-        "hybrid intelligence",
-        "microsoft rtx spark dev box",
-        "microsoft surface laptop ultra",
-        "microsoft windows",
-        "mxc",
-        "tech"
       ]
     },
     {
