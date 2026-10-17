@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T20:39:18.037273+00:00",
+  "last_updated": "2026-10-17T01:09:34.224075+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -115,6 +115,7 @@
     "laptops",
     "let's encrypt",
     "lisp",
+    "llms",
     "load balancing",
     "mac mini",
     "macos",
@@ -125,7 +126,7 @@
     "microsoft surface laptop ultra",
     "military drones",
     "model context protocol",
-    "mole",
+    "models",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -206,13 +207,10 @@
     "subsea cables",
     "supercomputer",
     "supercomputers",
-    "supply chain attack",
-    "supply chain hacking",
     "switching",
     "syndication",
     "tablets",
     "tcp",
-    "teampcp",
     "tech",
     "tips",
     "tls",
@@ -223,6 +221,7 @@
     "transport layer security",
     "ukraine",
     "ukraine war",
+    "unalignment",
     "undersea cables",
     "unified memory",
     "usa-iran war",
@@ -243,6 +242,24 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "published": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "published_parsed": "2026-10-16T20:59:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "llms",
+        "models",
+        "openai",
+        "security",
+        "unalignment"
+      ]
+    },
     {
       "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
       "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
@@ -1318,25 +1335,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
-      "published_parsed": "2026-09-20T11:07:00+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-      "tags": [
-        "biz & it",
-        "google",
-        "mole",
-        "security",
-        "supply chain attack",
-        "supply chain hacking",
-        "syndication",
-        "teampcp"
       ]
     },
     {
