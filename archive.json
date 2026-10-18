@@ -1,7 +1,61 @@
 {
-  "last_updated": "2026-10-18T11:58:11.142201+00:00",
-  "article_count": 2262,
+  "last_updated": "2026-10-18T17:08:38.512614+00:00",
+  "article_count": 2267,
   "articles": [
+    {
+      "title": "Working with Filters in Ansible",
+      "link": "https://www.packetswitch.co.uk/working-with-filters-in-ansible/",
+      "published": "Sun, 18 Oct 2026 14:05:56 GMT",
+      "published_parsed": "2026-10-18T14:05:56+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-8-.png",
+      "summary": "A filter takes some data, changes it in some way, and gives you back the result. The data could be a string, a number, a list, or a dictionary",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Ansible - Adding Arista and Multi-Vendor Playbooks",
+      "link": "https://www.packetswitch.co.uk/ansible-adding-arista-and-multi-vendor-playbooks/",
+      "published": "Sun, 18 Oct 2026 12:40:26 GMT",
+      "published_parsed": "2026-10-18T12:40:26+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-7-.png",
+      "summary": "One of the biggest benefits of Ansible is that you can manage all of them from the same project, using the same inventory, the same playbooks",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Palo Alto How to Configure SSL Decryption?",
+      "link": "https://www.packetswitch.co.uk/palo-alto-how-to-configure-ssl-decryption/",
+      "published": "Sun, 18 Oct 2026 08:20:00 GMT",
+      "published_parsed": "2026-10-18T08:20:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/palo-url-ssl-decrypt-1-.png",
+      "summary": "In this blog post, we'll explore how to configure SSL decryption in Palo Alto firewalls and highlight some pitfalls to be aware of.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
+      "title": "Palo Alto App-ID - How Does It Work?",
+      "link": "https://www.packetswitch.co.uk/palo-alto-app-id-configuration/",
+      "published": "Sat, 17 Oct 2026 07:55:00 GMT",
+      "published_parsed": "2026-10-17T07:55:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/09/app-id-4-.png",
+      "summary": "Instead of relying solely on port numbers, NGFWs like those from Palo Alto Networks encourage defining security policies based on the actual applications termed 'App-ID'.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -18,6 +72,20 @@
         "openai",
         "security",
         "unalignment"
+      ]
+    },
+    {
+      "title": "Palo Alto NAT Example",
+      "link": "https://www.packetswitch.co.uk/palo-alto-nat-example/",
+      "published": "Fri, 16 Oct 2026 20:08:00 GMT",
+      "published_parsed": "2026-10-16T20:08:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/palo-nat-1-.png",
+      "summary": "In this blog post, let's look at how to configure NAT on Palo Alto Firewalls. NAT allows you to translate private IP addresses to public IP addresses.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {

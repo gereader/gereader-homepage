@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T11:58:11.159026+00:00",
+  "last_updated": "2026-10-18T17:08:38.539757+00:00",
   "article_count": 104,
   "sources": [
     "Ars Technica - Gadgets",
@@ -46,6 +46,7 @@
     "change management",
     "chatbots",
     "china",
+    "cisco",
     "citizen lab",
     "cloud",
     "company news",
@@ -97,7 +98,6 @@
     "healthcare",
     "high availability",
     "history",
-    "homelab",
     "hospitals",
     "https",
     "idc",
@@ -139,9 +139,7 @@
     "navigation blog",
     "netbox",
     "netconf",
-    "netdevops",
     "netlab",
-    "network",
     "network assessment",
     "network automation",
     "network management",
@@ -166,7 +164,6 @@
     "power grids",
     "privacy",
     "prompt injection",
-    "python-intro",
     "qos",
     "quantum computing",
     "ram",
@@ -243,6 +240,74 @@
   ],
   "articles": [
     {
+      "title": "Working with Filters in Ansible",
+      "link": "https://www.packetswitch.co.uk/working-with-filters-in-ansible/",
+      "published": "Sun, 18 Oct 2026 14:05:56 GMT",
+      "published_parsed": "2026-10-18T14:05:56+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-8-.png",
+      "summary": "A filter takes some data, changes it in some way, and gives you back the result. The data could be a string, a number, a list, or a dictionary",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Ansible - Adding Arista and Multi-Vendor Playbooks",
+      "link": "https://www.packetswitch.co.uk/ansible-adding-arista-and-multi-vendor-playbooks/",
+      "published": "Sun, 18 Oct 2026 12:40:26 GMT",
+      "published_parsed": "2026-10-18T12:40:26+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-7-.png",
+      "summary": "One of the biggest benefits of Ansible is that you can manage all of them from the same project, using the same inventory, the same playbooks",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "BGP Multi-Homed with Two ISPs and Two Routers",
+      "link": "https://www.packetswitch.co.uk/bgp-multi-homed-with-two-isps-and-two-routers/",
+      "published": "Sun, 18 Oct 2026 11:54:00 GMT",
+      "published_parsed": "2026-10-18T11:54:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/09/bgp-multi-home-3-.png",
+      "summary": "In this post, we will look at a scenario where you already have your own IP address space and an AS number, and you connect to two different ISPs",
+      "tags": [
+        "bgp",
+        "cisco",
+        "networking"
+      ]
+    },
+    {
+      "title": "Palo Alto How to Configure SSL Decryption?",
+      "link": "https://www.packetswitch.co.uk/palo-alto-how-to-configure-ssl-decryption/",
+      "published": "Sun, 18 Oct 2026 08:20:00 GMT",
+      "published_parsed": "2026-10-18T08:20:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/palo-url-ssl-decrypt-1-.png",
+      "summary": "In this blog post, we'll explore how to configure SSL decryption in Palo Alto firewalls and highlight some pitfalls to be aware of.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
+      "title": "Palo Alto App-ID - How Does It Work?",
+      "link": "https://www.packetswitch.co.uk/palo-alto-app-id-configuration/",
+      "published": "Sat, 17 Oct 2026 07:55:00 GMT",
+      "published_parsed": "2026-10-17T07:55:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/09/app-id-4-.png",
+      "summary": "Instead of relying solely on port numbers, NGFWs like those from Palo Alto Networks encourage defining security policies based on the actual applications termed 'App-ID'.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "published": "Fri, 16 Oct 2026 20:59:01 +0000",
@@ -258,6 +323,20 @@
         "openai",
         "security",
         "unalignment"
+      ]
+    },
+    {
+      "title": "Palo Alto NAT Example",
+      "link": "https://www.packetswitch.co.uk/palo-alto-nat-example/",
+      "published": "Fri, 16 Oct 2026 20:08:00 GMT",
+      "published_parsed": "2026-10-16T20:08:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/palo-nat-1-.png",
+      "summary": "In this blog post, let's look at how to configure NAT on Palo Alto Firewalls. NAT allows you to translate private IP addresses to public IP addresses.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
@@ -557,6 +636,19 @@
         "computer worms",
         "security",
         "small models"
+      ]
+    },
+    {
+      "title": "Build BGP Labs in Minutes, Not Hours with Netlab",
+      "link": "https://www.packetswitch.co.uk/build-bgp-labs-in-minutes-not-hours-with-netlab/",
+      "published": "Wed, 14 Oct 2026 12:29:00 GMT",
+      "published_parsed": "2026-10-14T12:29:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/11/bgp-labs.png",
+      "summary": "What if I told you that all it takes to build a simple BGP lab with two eBGP peers is a single YAML file? No need to add nodes, connect links",
+      "tags": [
+        "bgp",
+        "networking"
       ]
     },
     {
@@ -868,20 +960,6 @@
       ]
     },
     {
-      "title": "Network Labs on a Budget",
-      "link": "https://www.packetswitch.co.uk/network-labs-on-a-budget/",
-      "published": "Thu, 08 Oct 2026 12:11:00 GMT",
-      "published_parsed": "2026-10-08T12:11:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/10/labs-budget-1-.png",
-      "summary": "In this post, I’ll go over some budget-friendly options and a few tools you can use to build your own network lab without spending too much.",
-      "tags": [
-        "homelab",
-        "network",
-        "networking"
-      ]
-    },
-    {
       "title": "Please Respond: State of Network Automation Survey",
       "link": "https://blog.ipspace.net/2026/10/state-network-automation-survey/?utm_source=atom_feed",
       "published": "2026-10-08T07:56:00+02:00",
@@ -1111,19 +1189,6 @@
       ]
     },
     {
-      "title": "Python Generating Configs with Jinja2",
-      "link": "https://www.packetswitch.co.uk/python-generating-configs-with-jinja2/",
-      "published": "Wed, 30 Sep 2026 06:12:00 GMT",
-      "published_parsed": "2026-09-30T06:12:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-24-.png",
-      "summary": "In this post, I will walk you through how Jinja2 works, cover the syntax you actually need, and we will end up generating the same config for Cisco",
-      "tags": [
-        "networking",
-        "python-intro"
-      ]
-    },
-    {
       "title": "MUST Bookmark: Watch the Net",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-watch-the-net/?utm_source=atom_feed",
       "published": "2026-09-29T08:22:00+02:00",
@@ -1137,19 +1202,6 @@
       ]
     },
     {
-      "title": "Python Working with REST APIs",
-      "link": "https://www.packetswitch.co.uk/python-working-with-rest-apis/",
-      "published": "Tue, 29 Sep 2026 06:07:00 GMT",
-      "published_parsed": "2026-09-29T06:07:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-23-.png",
-      "summary": "By the end of this post, you will know how to make GET and POST requests, handle authentication, parse JSON responses, filter results with query",
-      "tags": [
-        "networking",
-        "python-intro"
-      ]
-    },
-    {
       "title": "Prefix Sets: Simplifying netlab ACLs and Prefix Filters",
       "link": "https://blog.ipspace.net/2026/09/netlab-prefix-sets/?utm_source=atom_feed",
       "published": "2026-09-28T08:16:00+02:00",
@@ -1160,32 +1212,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Managing Python Projects with uv",
-      "link": "https://www.packetswitch.co.uk/managing-python-projects-with-uv/",
-      "published": "Mon, 28 Sep 2026 06:00:00 GMT",
-      "published_parsed": "2026-09-28T06:00:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-22-.png",
-      "summary": "uv is a relatively new tool that bundles all of this into one command. It manages Python version installs, virtual environments, package installs",
-      "tags": [
-        "networking",
-        "python-intro"
-      ]
-    },
-    {
-      "title": "Python Regular Expressions",
-      "link": "https://www.packetswitch.co.uk/python-regular-expressions/",
-      "published": "Sun, 27 Sep 2026 21:28:00 GMT",
-      "published_parsed": "2026-09-27T21:28:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/python-course-21-.png",
-      "summary": "Regular expressions (regex for short) are a way to describe patterns in text. Instead of asking \"does this string contain the exact word up?\"",
-      "tags": [
-        "networking",
-        "python-intro"
       ]
     },
     {
@@ -1391,20 +1417,6 @@
       ]
     },
     {
-      "title": "Automating Let's Encrypt Certificate Renewal for Palo Alto GlobalProtect",
-      "link": "https://www.packetswitch.co.uk/automating-lets-encrypt-certificate-renewal-for-palo-alto-globalprotect/",
-      "published": "Sun, 13 Sep 2026 09:05:54 GMT",
-      "published_parsed": "2026-09-13T09:05:54+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-4-.png",
-      "summary": "Automate Let's Encrypt certificate renewal for Palo Alto GlobalProtect VPN using Ansible, Cloudflare DNS, and the PAN-OS collection.",
-      "tags": [
-        "ansible",
-        "networking",
-        "palo alto"
-      ]
-    },
-    {
       "title": "Worth Reading: NatJack",
       "link": "https://blog.ipspace.net/2026/09/worth-reading-natjack-nat-security/?utm_source=atom_feed",
       "published": "2026-09-11T09:02:00+02:00",
@@ -1416,19 +1428,6 @@
         "nat",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Testing Your Network with Netpicker",
-      "link": "https://www.packetswitch.co.uk/testing-your-network-with-netpicker/",
-      "published": "Tue, 08 Sep 2026 09:45:31 GMT",
-      "published_parsed": "2026-09-08T09:45:31+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/pytest-3-.png",
-      "summary": "See how Netpicker runs your pytest network tests through a GUI, with scheduling, device tagging, and an AI agent to help write new rules.",
-      "tags": [
-        "netdevops",
-        "networking"
       ]
     },
     {
