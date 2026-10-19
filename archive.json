@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-19T00:54:45.852282+00:00",
-  "article_count": 2267,
+  "last_updated": "2026-10-19T05:51:25.625219+00:00",
+  "article_count": 2268,
   "articles": [
+    {
+      "title": "Worth Reading: Labs as Code (Part 1)",
+      "link": "https://blog.ipspace.net/2026/10/worth-reading-labs-as-code/?utm_source=atom_feed",
+      "published": "2026-10-19T07:45:00+02:00",
+      "published_parsed": "2026-10-19T07:45:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After his excellent Git for Networking Engineers series , Tony Mattke decided to take netlab for a spin (thank you!), starting with Install netlab, Build a Lab in Five Minutes",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Working with Filters in Ansible",
       "link": "https://www.packetswitch.co.uk/working-with-filters-in-ansible/",
