@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T14:26:09.897191+00:00",
-  "article_count": 105,
+  "last_updated": "2026-10-19T22:06:29.079771+00:00",
+  "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -16,7 +16,6 @@
     "agentic ai",
     "ai",
     "ai agents",
-    "ai assistants",
     "ai attack",
     "ai data centers",
     "aiops",
@@ -63,11 +62,8 @@
     "cybersecurity",
     "data center",
     "data centers",
-    "data loss",
-    "debian linux",
     "department of defense",
     "design",
-    "desktop theme",
     "desktops",
     "dhcp",
     "digital services",
@@ -81,7 +77,6 @@
     "drones",
     "eigrp",
     "elon musk",
-    "england",
     "entertainment",
     "evpn",
     "exploits",
@@ -94,19 +89,16 @@
     "firewalls",
     "fitbit",
     "fitbit edge",
-    "forky",
     "google",
     "googlebooks",
     "gre",
     "hacking",
     "haps",
     "headset",
-    "healthcare",
     "high altitude platform system",
     "high availability",
     "history",
     "hmd",
-    "hospitals",
     "idc",
     "imu",
     "internet",
@@ -158,8 +150,10 @@
     "networking fundamentals",
     "nfv",
     "nsx",
+    "ntfs",
     "nvidia blackwell",
     "oceans",
+    "open source",
     "openai",
     "openflow",
     "ospf",
@@ -167,6 +161,7 @@
     "palo alto",
     "pipelines",
     "plex",
+    "plex media server",
     "podcast",
     "post-quantum encryption",
     "power grids",
@@ -176,6 +171,7 @@
     "quantum computing",
     "ram",
     "ray-ban",
+    "reactos",
     "remote code injection",
     "reviews",
     "robotics",
@@ -239,13 +235,46 @@
     "warner bros. discovery",
     "wearables",
     "wikipedia",
+    "windows alternatives",
     "worth reading",
     "x11",
     "yandex",
-    "zero days",
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "published": "Mon, 19 Oct 2026 19:39:19 +0000",
+      "published_parsed": "2026-10-19T19:39:19+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "plex media server",
+        "security",
+        "vulnerabilities"
+      ]
+    },
+    {
+      "title": "ReactOS reaches major milestone with NTFS install support",
+      "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "published": "Mon, 19 Oct 2026 18:30:56 +0000",
+      "published_parsed": "2026-10-19T18:30:56+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "ReactOS gains NTFS install support with new driver.",
+      "tags": [
+        "biz & it",
+        "ntfs",
+        "open source",
+        "reactos",
+        "tech",
+        "windows alternatives"
+      ]
+    },
     {
       "title": "DIY VR: How to build your own headset, and why you probably won't want to",
       "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
@@ -959,21 +988,6 @@
       ]
     },
     {
-      "title": "Your artwork could be featured in the next Debian release",
-      "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-      "published": "Fri, 09 Oct 2026 18:33:26 +0000",
-      "published_parsed": "2026-10-09T18:33:26+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
-      "tags": [
-        "debian linux",
-        "desktop theme",
-        "forky",
-        "tech"
-      ]
-    },
-    {
       "title": "Netmiko vs Ansible: Does It Matter?",
       "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-performance/?utm_source=atom_feed",
       "published": "2026-10-09T08:10:00+02:00",
@@ -1330,22 +1344,6 @@
       ]
     },
     {
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "published": "Tue, 22 Sep 2026 16:55:40 +0000",
-      "published_parsed": "2026-09-22T16:55:40+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The English hospitals recovered patient care data only.",
-      "tags": [
-        "biz & it",
-        "data loss",
-        "england",
-        "healthcare",
-        "hospitals"
-      ]
-    },
-    {
       "title": "EVPN with SR-MPLS Core",
       "link": "https://blog.ipspace.net/2026/09/sr-mpls-evpn/?utm_source=atom_feed",
       "published": "2026-09-22T07:25:00+02:00",
@@ -1357,24 +1355,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "published": "Mon, 21 Sep 2026 22:24:38 +0000",
-      "published_parsed": "2026-09-21T22:24:38+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "tags": [
-        "ai",
-        "ai assistants",
-        "biz & it",
-        "meta",
-        "privacy",
-        "security",
-        "zero days"
       ]
     },
     {
@@ -1784,18 +1764,6 @@
       "summary": "Remember the anonymous troll who chided me for writing a rant instead of opening a GitHub issue in the relevant Ansible repository? Well, I decided to be an open-source poster boy when I stumbled upon the next Ansible bug, and ended up feeling like a sweet summer child :( Read more …",
       "tags": [
         "ansible",
-        "networking"
-      ]
-    },
-    {
-      "title": "Rock Stars, Frameworks, and the Hallway Track: AutoCon 5 in München",
-      "link": "https://networkautomation.forum/blog/autocon-5-survey-results",
-      "published": "Tue, 21 Jul 2026 19:10:22 +0000",
-      "published_parsed": "2026-07-21T19:10:22+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "In June, more than 650 network automation practitioners packed into Munich for AutoCon 5, joined by another 250+ who came a couple days early for hands-on workshops. Then, like we do after every AutoCon, we asked you to tell us how it went; the good, the annoying, and everything in between…",
-      "tags": [
         "networking"
       ]
     }
