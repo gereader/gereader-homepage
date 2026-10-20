@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T12:35:05.241806+00:00",
+  "last_updated": "2026-10-20T18:22:59.996036+00:00",
   "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
@@ -16,7 +16,6 @@
     "agentic ai",
     "ai",
     "ai agents",
-    "ai attack",
     "ai data centers",
     "aiops",
     "airships",
@@ -45,7 +44,6 @@
     "certificate authority",
     "certifications",
     "change management",
-    "chatbots",
     "china",
     "cisco",
     "citizen lab",
@@ -198,7 +196,6 @@
     "smart home",
     "snmp",
     "software gone wild",
-    "spam",
     "sr-mpls",
     "srv6",
     "starlink",
@@ -242,6 +239,23 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "published": "Tue, 20 Oct 2026 12:33:13 +0000",
+      "published_parsed": "2026-10-20T12:33:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "meta",
+        "muse",
+        "privacy",
+        "security"
+      ]
+    },
     {
       "title": "Testing OpenEIGRP with netlab",
       "link": "https://blog.ipspace.net/2026/10/openeigrp-netlab/?utm_source=atom_feed",
@@ -1337,23 +1351,6 @@
       "tags": [
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
-      "published_parsed": "2026-09-22T19:45:47+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "tags": [
-        "ai",
-        "ai attack",
-        "biz & it",
-        "chatbots",
-        "security",
-        "spam"
       ]
     },
     {

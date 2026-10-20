@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-10-20T12:35:05.214561+00:00",
-  "article_count": 2273,
+  "last_updated": "2026-10-20T18:22:59.969579+00:00",
+  "article_count": 2274,
   "articles": [
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "published": "Tue, 20 Oct 2026 12:33:13 +0000",
+      "published_parsed": "2026-10-20T12:33:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "meta",
+        "muse",
+        "privacy",
+        "security"
+      ]
+    },
     {
       "title": "Testing OpenEIGRP with netlab",
       "link": "https://blog.ipspace.net/2026/10/openeigrp-netlab/?utm_source=atom_feed",
