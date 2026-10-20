@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T01:37:42.134227+00:00",
+  "last_updated": "2026-10-20T12:35:05.241806+00:00",
   "article_count": 103,
   "sources": [
     "Ars Technica - Gadgets",
@@ -242,6 +242,19 @@
     "zimbra collaboration server"
   ],
   "articles": [
+    {
+      "title": "Testing OpenEIGRP with netlab",
+      "link": "https://blog.ipspace.net/2026/10/openeigrp-netlab/?utm_source=atom_feed",
+      "published": "2026-10-20T07:21:00+02:00",
+      "published_parsed": "2026-10-20T07:21:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When Donnie Savage announced the open beta of OpenEIGRP , I quickly asked him whether it would be possible to get an easy-to-use container with OpenEIGRP integrated with other FRR daemons (and its CLI). Donnie delivered ;) – you can download a ready-to-use container and try its EIGRP features....",
+      "tags": [
+        "eigrp",
+        "networking"
+      ]
+    },
     {
       "title": "PSA: Patch your Plex media server before someone hacks it",
       "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
@@ -1752,19 +1765,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "On the Futility of Opening Ansible Issues",
-      "link": "https://blog.ipspace.net/2026/07/futility-opening-ansible-issues/?utm_source=atom_feed",
-      "published": "2026-07-22T08:03:00+02:00",
-      "published_parsed": "2026-07-22T08:03:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Remember the anonymous troll who chided me for writing a rant instead of opening a GitHub issue in the relevant Ansible repository? Well, I decided to be an open-source poster boy when I stumbled upon the next Ansible bug, and ended up feeling like a sweet summer child :( Read more …",
-      "tags": [
-        "ansible",
-        "networking"
       ]
     }
   ]
