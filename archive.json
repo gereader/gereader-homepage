@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-10-20T18:22:59.969579+00:00",
-  "article_count": 2274,
+  "last_updated": "2026-10-21T01:22:47.961612+00:00",
+  "article_count": 2278,
   "articles": [
+    {
+      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+      "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+      "published": "Tue, 20 Oct 2026 20:20:12 +0000",
+      "published_parsed": "2026-10-20T20:20:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A lifetime ad-free subscription is available.",
+      "tags": [
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "OpenBSD 8.0 arrives with security record still intact",
+      "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+      "published": "Tue, 20 Oct 2026 19:57:18 +0000",
+      "published_parsed": "2026-10-20T19:57:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
+      "tags": [
+        "amd64",
+        "clang 22",
+        "intel arc",
+        "openbsd 8.0",
+        "tech",
+        "theo de raadt"
+      ]
+    },
+    {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "published": "Tue, 20 Oct 2026 19:47:35 +0000",
+      "published_parsed": "2026-10-20T19:47:35+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "tags": [
+        "biz & it",
+        "certificate authorities",
+        "private keys",
+        "security",
+        "tls",
+        "transport layer security"
+      ]
+    },
+    {
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "published": "Tue, 20 Oct 2026 18:22:54 +0000",
+      "published_parsed": "2026-10-20T18:22:54+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+      "tags": [
+        "ai",
+        "ai drones",
+        "battlefield medicine",
+        "drones",
+        "military",
+        "military drones",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
       "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
