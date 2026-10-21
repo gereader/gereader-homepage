@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-21T01:22:47.961612+00:00",
-  "article_count": 2278,
+  "last_updated": "2026-10-21T12:46:29.256315+00:00",
+  "article_count": 2280,
   "articles": [
+    {
+      "title": "Crappy Configuration Errors: Cisco Nexus OS Edition",
+      "link": "https://blog.ipspace.net/2026/10/crappy-error-reporting-nexus-os/?utm_source=atom_feed",
+      "published": "2026-10-21T07:33:00+02:00",
+      "published_parsed": "2026-10-21T07:33:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: Programmers writing Cisco Nexus OS code should have known better. They didn’t (care?). One can understand that an operating system written in the late 1980s generates crappy suboptimal error messages , even though it was known even in those days how to do things right. Is it too much to hope...",
+      "tags": [
+        "automation",
+        "networking"
+      ]
+    },
+    {
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "published": "Wed, 21 Oct 2026 02:12:18 +0000",
+      "published_parsed": "2026-10-21T02:12:18+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "tags": [
+        "biz & it",
+        "exploits",
+        "patches",
+        "php",
+        "security",
+        "vulnerabilities"
+      ]
+    },
     {
       "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
       "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
