@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-10-21T18:28:35.103210+00:00",
-  "article_count": 2280,
+  "last_updated": "2026-10-22T01:20:22.051205+00:00",
+  "article_count": 2282,
   "articles": [
+    {
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "published": "Wed, 21 Oct 2026 21:48:52 +0000",
+      "published_parsed": "2026-10-21T21:48:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "tags": [
+        "biz & it",
+        "it",
+        "software"
+      ]
+    },
+    {
+      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+      "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+      "published": "Wed, 21 Oct 2026 18:00:37 +0000",
+      "published_parsed": "2026-10-21T18:00:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
+      "tags": [
+        "ads",
+        "privacy",
+        "samsung",
+        "smart home",
+        "tech",
+        "tvs",
+        "vizio",
+        "walmart"
+      ]
+    },
     {
       "title": "Crappy Configuration Errors: Cisco Nexus OS Edition",
       "link": "https://blog.ipspace.net/2026/10/crappy-error-reporting-nexus-os/?utm_source=atom_feed",
