@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-10-22T01:20:22.051205+00:00",
-  "article_count": 2282,
+  "last_updated": "2026-10-22T12:49:45.668220+00:00",
+  "article_count": 2284,
   "articles": [
+    {
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "published": "Thu, 22 Oct 2026 11:30:33 +0000",
+      "published_parsed": "2026-10-22T11:30:33+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "tags": [
+        "biz & it",
+        "exploit",
+        "hacking",
+        "security",
+        "the onion router",
+        "tor"
+      ]
+    },
+    {
+      "title": "Using External Tools in BGP Labs",
+      "link": "https://blog.ipspace.net/2026/10/bgp-labs-external-tools/?utm_source=atom_feed",
+      "published": "2026-10-22T09:51:00+02:00",
+      "published_parsed": "2026-10-22T09:51:00+02:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After Kazuya Takahashi released his wonderful network-xray tool and added it as an external tool to the open-source BGP configuration labs , I wrote a short document explaining how to start external tools in your BGP labs without changing the lab topology, and how it works in GitHub Codespaces...",
+      "tags": [
+        "bgp",
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
       "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
