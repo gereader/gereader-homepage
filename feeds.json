@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T18:23:42.360142+00:00",
+  "last_updated": "2026-10-23T01:19:15.774848+00:00",
   "article_count": 106,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,8 +21,8 @@
     "aiops",
     "airships",
     "allignment",
-    "amazon",
     "amd64",
+    "android",
     "ansible",
     "ansible-course",
     "apple",
@@ -41,6 +41,7 @@
     "broadcom",
     "browser",
     "cell towers",
+    "cerfificate authority",
     "certificate",
     "certificate authorities",
     "certificate authority",
@@ -73,6 +74,7 @@
     "drone strikes",
     "drones",
     "eigrp",
+    "encryption",
     "evpn",
     "exploit",
     "exploits",
@@ -84,6 +86,8 @@
     "firewalls",
     "fitbit",
     "fitbit edge",
+    "foldables",
+    "galaxy z fold",
     "google",
     "googlebooks",
     "gre",
@@ -99,6 +103,7 @@
     "intel arc",
     "internet",
     "ip routing",
+    "iphone duo",
     "ipv6",
     "iran",
     "is-is",
@@ -114,7 +119,6 @@
     "load balancing",
     "mcp",
     "meta",
-    "micron",
     "microsoft surface laptop ultra",
     "military",
     "military drones",
@@ -164,12 +168,9 @@
     "private keys",
     "prompt injection",
     "qos",
-    "ram",
     "ray-ban",
     "reactos",
     "reviews",
-    "robotics",
-    "robots",
     "rtx spark",
     "russia",
     "russia invasion of ukraine",
@@ -238,6 +239,41 @@
     "x11"
   ],
   "articles": [
+    {
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "published": "Thu, 22 Oct 2026 20:17:52 +0000",
+      "published_parsed": "2026-10-22T20:17:52+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+      "tags": [
+        "biz & it",
+        "cerfificate authority",
+        "encryption",
+        "security",
+        "tls",
+        "transport layer security"
+      ]
+    },
+    {
+      "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+      "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+      "published": "Thu, 22 Oct 2026 18:49:14 +0000",
+      "published_parsed": "2026-10-22T18:49:14+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
+      "tags": [
+        "android",
+        "apple",
+        "foldables",
+        "galaxy z fold",
+        "iphone duo",
+        "samsung",
+        "tech"
+      ]
+    },
     {
       "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
       "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
@@ -1071,23 +1107,6 @@
       ]
     },
     {
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "published": "Mon, 12 Oct 2026 12:43:10 +0000",
-      "published_parsed": "2026-10-12T12:43:10+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-      "tags": [
-        "ai",
-        "amazon",
-        "features",
-        "robotics",
-        "robots",
-        "tech"
-      ]
-    },
-    {
       "title": "Sample netlab SRv6 Lab Topologies",
       "link": "https://blog.ipspace.net/2026/10/srv6-examples/?utm_source=atom_feed",
       "published": "2026-10-12T07:37:00+02:00",
@@ -1296,21 +1315,6 @@
         "hacking",
         "national security",
         "security"
-      ]
-    },
-    {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "published": "Thu, 01 Oct 2026 17:49:56 +0000",
-      "published_parsed": "2026-10-01T17:49:56+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-      "tags": [
-        "biz & it",
-        "micron",
-        "ram",
-        "tech"
       ]
     },
     {
