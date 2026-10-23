@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T01:19:15.774848+00:00",
-  "article_count": 106,
+  "last_updated": "2026-10-23T12:28:11.881462+00:00",
+  "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -74,6 +74,7 @@
     "drone strikes",
     "drones",
     "eigrp",
+    "elon musk",
     "encryption",
     "evpn",
     "exploit",
@@ -84,8 +85,6 @@
     "fiber optic cable",
     "firewall",
     "firewalls",
-    "fitbit",
-    "fitbit edge",
     "foldables",
     "galaxy z fold",
     "google",
@@ -193,6 +192,7 @@
     "snmp",
     "software",
     "software gone wild",
+    "spacex starlink",
     "sr-mpls",
     "srv6",
     "starlink",
@@ -216,6 +216,7 @@
     "transport layer security",
     "tvs",
     "ukraine",
+    "ukraine starlink",
     "ukraine war",
     "unalignment",
     "undersea cables",
@@ -232,13 +233,49 @@
     "walmart",
     "wan",
     "warner bros. discovery",
-    "wearables",
     "wikipedia",
     "windows alternatives",
     "worth reading",
     "x11"
   ],
   "articles": [
+    {
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "published": "Fri, 23 Oct 2026 11:30:22 +0000",
+      "published_parsed": "2026-10-23T11:30:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+      "tags": [
+        "ai drones",
+        "drones",
+        "elon musk",
+        "military drones",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "spacex starlink",
+        "starlink",
+        "tech",
+        "ukraine",
+        "ukraine starlink",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Public Videos: Data Center Fabric Architectures",
+      "link": "https://blog.ipspace.net/2026/10/fabric-videos/?utm_source=atom_feed",
+      "published": "2026-10-23T08:15:00+02:00",
+      "published_parsed": "2026-10-23T08:15:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/10/chatgpt-fabric.png",
+      "summary": "All the videos in the Data Center Fabric Architectures webinar are now available without a valid ipSpace.net account. The webinar hasn’t been updated in years, so the vendor-specific information is mostly obsolete. However, I’m sure you’ll still find the requirements , architectures , designs , and...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
       "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
@@ -1088,22 +1125,6 @@
         "tech",
         "ukraine",
         "ukraine war"
-      ]
-    },
-    {
-      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "published": "Mon, 12 Oct 2026 13:00:52 +0000",
-      "published_parsed": "2026-10-12T13:00:52+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-      "tags": [
-        "fitbit",
-        "fitbit edge",
-        "google",
-        "tech",
-        "wearables"
       ]
     },
     {

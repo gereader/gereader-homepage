@@ -1,7 +1,44 @@
 {
-  "last_updated": "2026-10-23T01:19:15.746107+00:00",
-  "article_count": 2286,
+  "last_updated": "2026-10-23T12:28:11.852428+00:00",
+  "article_count": 2288,
   "articles": [
+    {
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "published": "Fri, 23 Oct 2026 11:30:22 +0000",
+      "published_parsed": "2026-10-23T11:30:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+      "tags": [
+        "ai drones",
+        "drones",
+        "elon musk",
+        "military drones",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "spacex starlink",
+        "starlink",
+        "tech",
+        "ukraine",
+        "ukraine starlink",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Public Videos: Data Center Fabric Architectures",
+      "link": "https://blog.ipspace.net/2026/10/fabric-videos/?utm_source=atom_feed",
+      "published": "2026-10-23T08:15:00+02:00",
+      "published_parsed": "2026-10-23T08:15:00+02:00",
+      "source": "ipSpace Blog",
+      "image": "https://blog.ipspace.net/2026/10/chatgpt-fabric.png",
+      "summary": "All the videos in the Data Center Fabric Architectures webinar are now available without a valid ipSpace.net account. The webinar hasn’t been updated in years, so the vendor-specific information is mostly obsolete. However, I’m sure you’ll still find the requirements , architectures , designs , and...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
       "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
