@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-26T01:02:00.295433+00:00",
-  "article_count": 2291,
+  "last_updated": "2026-10-26T13:59:18.052434+00:00",
+  "article_count": 2293,
   "articles": [
+    {
+      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+      "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+      "published": "Mon, 26 Oct 2026 11:00:15 +0000",
+      "published_parsed": "2026-10-26T11:00:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+      "tags": [
+        "features",
+        "fm-1",
+        "m-vave",
+        "synth",
+        "tech",
+        "yamaha dx-7"
+      ]
+    },
+    {
+      "title": "Useful Ansible Filters for Network Engineers",
+      "link": "https://www.packetswitch.co.uk/useful-ansible-filters-for-network-engineers/",
+      "published": "Mon, 26 Oct 2026 10:04:37 GMT",
+      "published_parsed": "2026-10-26T10:04:37+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-9-.png",
+      "summary": "Ansible has a huge number of filters, and it's impossible to cover all of them. So in this part, I want to focus on a handful that I find especially",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Updated Google privacy policy says your Gmail might be used for advertising",
       "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T01:02:00.313422+00:00",
+  "last_updated": "2026-10-26T13:59:18.082100+00:00",
   "article_count": 107,
   "sources": [
     "Ars Technica - Gadgets",
@@ -48,7 +48,6 @@
     "certificate authority",
     "certifications",
     "change management",
-    "china",
     "chip fabrication",
     "chip manufacturing",
     "cisco",
@@ -86,9 +85,9 @@
     "fcc",
     "features",
     "federal communications commission",
-    "fiber optic cable",
     "firewall",
     "firewalls",
+    "fm-1",
     "foldables",
     "galaxy z fold",
     "goldman sachs",
@@ -111,7 +110,6 @@
     "ip routing",
     "iphone duo",
     "ipv6",
-    "iran",
     "is-is",
     "it",
     "kde 30th birthday",
@@ -123,6 +121,7 @@
     "lisp",
     "llms",
     "load balancing",
+    "m-vave",
     "mcp",
     "meta",
     "microsoft surface laptop ultra",
@@ -156,7 +155,6 @@
     "nsx",
     "ntfs",
     "nvidia blackwell",
-    "oceans",
     "open source",
     "openai",
     "openbsd 8.0",
@@ -166,11 +164,9 @@
     "palo alto",
     "patches",
     "php",
-    "pipelines",
     "plex",
     "plex media server",
     "podcast",
-    "power grids",
     "privacy",
     "private keys",
     "prompt injection",
@@ -210,10 +206,9 @@
     "starlink",
     "steamvr",
     "streaming",
-    "submarines",
-    "subsea cables",
     "switching",
     "syndication",
+    "synth",
     "tcp",
     "tech",
     "the onion router",
@@ -230,9 +225,7 @@
     "ukraine starlink",
     "ukraine war",
     "unalignment",
-    "undersea cables",
     "unified memory",
-    "usa-iran war",
     "video",
     "virtualization",
     "vizio",
@@ -246,9 +239,40 @@
     "wikipedia",
     "windows alternatives",
     "worth reading",
-    "x11"
+    "x11",
+    "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+      "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+      "published": "Mon, 26 Oct 2026 11:00:15 +0000",
+      "published_parsed": "2026-10-26T11:00:15+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+      "tags": [
+        "features",
+        "fm-1",
+        "m-vave",
+        "synth",
+        "tech",
+        "yamaha dx-7"
+      ]
+    },
+    {
+      "title": "Useful Ansible Filters for Network Engineers",
+      "link": "https://www.packetswitch.co.uk/useful-ansible-filters-for-network-engineers/",
+      "published": "Mon, 26 Oct 2026 10:04:37 GMT",
+      "published_parsed": "2026-10-26T10:04:37+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-9-.png",
+      "summary": "Ansible has a huge number of filters, and it's impossible to cover all of them. So in this part, I want to focus on a handful that I find especially",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Updated Google privacy policy says your Gmail might be used for advertising",
       "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
@@ -1056,43 +1080,6 @@
         "computer worms",
         "security",
         "small models"
-      ]
-    },
-    {
-      "title": "Build BGP Labs in Minutes, Not Hours with Netlab",
-      "link": "https://www.packetswitch.co.uk/build-bgp-labs-in-minutes-not-hours-with-netlab/",
-      "published": "Wed, 14 Oct 2026 12:29:00 GMT",
-      "published_parsed": "2026-10-14T12:29:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/11/bgp-labs.png",
-      "summary": "What if I told you that all it takes to build a simple BGP lab with two eBGP peers is a single YAML file? No need to add nodes, connect links",
-      "tags": [
-        "bgp",
-        "networking"
-      ]
-    },
-    {
-      "title": "The Internet’s undersea backbone is slipping into the danger zone",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-      "published": "Wed, 14 Oct 2026 11:15:24 +0000",
-      "published_parsed": "2026-10-14T11:15:24+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
-      "tags": [
-        "china",
-        "fiber optic cable",
-        "iran",
-        "oceans",
-        "pipelines",
-        "power grids",
-        "russia",
-        "ships",
-        "submarines",
-        "subsea cables",
-        "tech",
-        "undersea cables",
-        "usa-iran war"
       ]
     },
     {
