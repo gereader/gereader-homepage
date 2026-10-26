@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-10-26T13:59:18.052434+00:00",
-  "article_count": 2293,
+  "last_updated": "2026-10-26T19:51:01.139688+00:00",
+  "article_count": 2295,
   "articles": [
+    {
+      "title": "Building an OSPF Network from Scratch with Ansible",
+      "link": "https://www.packetswitch.co.uk/cisco-ospf-configuration-with-ansible/",
+      "published": "Mon, 26 Oct 2026 17:20:00 GMT",
+      "published_parsed": "2026-10-26T17:20:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-10--1.png",
+      "summary": "For this part, we're going to start with a new topology and put everything we've learned into practice with a real-world example. The lab has six Cisco",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Some iPhone Duo screens are already failing",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "published": "Mon, 26 Oct 2026 16:51:49 +0000",
+      "published_parsed": "2026-10-26T16:51:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "tags": [
+        "apple",
+        "foldables",
+        "iphone duo",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
       "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
