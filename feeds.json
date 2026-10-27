@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T13:02:06.315427+00:00",
+  "last_updated": "2026-10-27T19:15:33.068869+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -58,6 +58,7 @@
     "company news",
     "computer worms",
     "connectivity",
+    "containerlab",
     "containers",
     "cumulus linux",
     "cybersecurity",
@@ -93,7 +94,6 @@
     "galaxy z fold",
     "goldman sachs",
     "google",
-    "googlebooks",
     "gre",
     "hacking",
     "haps",
@@ -109,17 +109,16 @@
     "intel",
     "intel arc",
     "internet",
+    "ios 27",
     "ip routing",
     "ipad mini",
+    "iphone",
     "iphone duo",
     "ipv6",
     "is-is",
+    "ise",
     "it",
-    "kde 30th birthday",
-    "kde documentary",
-    "kde plasma 6.8",
     "lan",
-    "laptop review",
     "laptops",
     "layoffs",
     "lisp",
@@ -207,6 +206,7 @@
     "starlink",
     "steamvr",
     "streaming",
+    "subscriptions",
     "switching",
     "synth",
     "tablets",
@@ -241,10 +241,56 @@
     "wikipedia",
     "windows alternatives",
     "worth reading",
-    "x11",
     "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+      "published": "Tue, 27 Oct 2026 15:50:19 +0000",
+      "published_parsed": "2026-10-27T15:50:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
+      "tags": [
+        "software",
+        "subscriptions",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "published": "Tue, 27 Oct 2026 14:20:26 +0000",
+      "published_parsed": "2026-10-27T14:20:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "tags": [
+        "apple",
+        "features",
+        "ios 27",
+        "iphone",
+        "iphone duo",
+        "tech"
+      ]
+    },
+    {
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "published": "Tue, 27 Oct 2026 14:00:49 +0000",
+      "published_parsed": "2026-10-27T14:00:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "tags": [
+        "apple",
+        "foldables",
+        "iphone duo",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "Nexus OS Fails to Send Syslog Records to a Silent Host",
       "link": "https://blog.ipspace.net/2026/10/nexus-os-logging-silent-host/?utm_source=atom_feed",
@@ -256,6 +302,20 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "How to Protect GlobalProtect Portal from Brute Force Attacks?",
+      "link": "https://www.packetswitch.co.uk/how-to-protect-globalprotect-portal-from-brute-force-attack/",
+      "published": "Tue, 27 Oct 2026 09:05:00 GMT",
+      "published_parsed": "2026-10-27T09:05:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/gp-bruteforce.png",
+      "summary": "While protecting your portal with MFA generally mitigates major concerns, it’s still wise to implement as many security measures as possible.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
@@ -304,22 +364,6 @@
       ]
     },
     {
-      "title": "Some iPhone Duo screens are already failing",
-      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "published": "Mon, 26 Oct 2026 16:51:49 +0000",
-      "published_parsed": "2026-10-26T16:51:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "tags": [
-        "apple",
-        "foldables",
-        "iphone duo",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
       "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
       "published": "Mon, 26 Oct 2026 11:00:15 +0000",
@@ -337,6 +381,20 @@
       ]
     },
     {
+      "title": "FortiGate Radius Administrator Login with Cisco ISE",
+      "link": "https://www.packetswitch.co.uk/fortigate-radius-administrator-login-with-cisco-ise/",
+      "published": "Mon, 26 Oct 2026 10:27:00 GMT",
+      "published_parsed": "2026-10-26T10:27:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/12/blog-banners-all-1-.png",
+      "summary": "You can assign different admin profiles based on who is logging in, without creating local users on every firewall. In this post, we will look at",
+      "tags": [
+        "firewall",
+        "ise",
+        "networking"
+      ]
+    },
+    {
       "title": "Useful Ansible Filters for Network Engineers",
       "link": "https://www.packetswitch.co.uk/useful-ansible-filters-for-network-engineers/",
       "published": "Mon, 26 Oct 2026 10:04:37 GMT",
@@ -346,6 +404,20 @@
       "summary": "Ansible has a huge number of filters, and it's impossible to cover all of them. So in this part, I want to focus on a handful that I find especially",
       "tags": [
         "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Running Containerlab in macOS (Cisco IOL/cEOS)",
+      "link": "https://www.packetswitch.co.uk/running-containerlab-in-macos-cisco-iol-ceos-2/",
+      "published": "Sun, 25 Oct 2026 18:51:00 GMT",
+      "published_parsed": "2026-10-25T18:51:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/containerlab-mac.png",
+      "summary": "I recently wanted to try running Containerlab directly on my MacBook (M3 Pro with 18GB of RAM) for a few reasons. For example, I might need to run labs while I’m away, work offline",
+      "tags": [
+        "cisco",
+        "containerlab",
         "networking"
       ]
     },
@@ -919,24 +991,6 @@
       ]
     },
     {
-      "title": "Googlebook review: Android on a laptop is still Android",
-      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-      "published": "Fri, 16 Oct 2026 10:00:32 +0000",
-      "published_parsed": "2026-10-16T10:00:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
-      "tags": [
-        "features",
-        "google",
-        "googlebooks",
-        "laptop review",
-        "laptops",
-        "reviews",
-        "tech"
-      ]
-    },
-    {
       "title": "Nerd Fun: The DNS Museum",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-dns-museum/?utm_source=atom_feed",
       "published": "2026-10-16T08:13:00+02:00",
@@ -947,22 +1001,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "published": "Thu, 15 Oct 2026 22:21:06 +0000",
-      "published_parsed": "2026-10-15T22:21:06+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
-      "tags": [
-        "kde 30th birthday",
-        "kde documentary",
-        "kde plasma 6.8",
-        "tech",
-        "x11"
       ]
     },
     {
@@ -1007,19 +1045,6 @@
       ]
     },
     {
-      "title": "Ansible Vault",
-      "link": "https://www.packetswitch.co.uk/ansible-vault/",
-      "published": "Thu, 15 Oct 2026 08:44:20 GMT",
-      "published_parsed": "2026-10-15T08:44:20+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-4-.png",
-      "summary": "Vault is a feature built into Ansible that lets you encrypt sensitive data, such as passwords, so it can't be read without a vault password.",
-      "tags": [
-        "ansible-course",
-        "networking"
-      ]
-    },
-    {
       "title": "Netmiko vs Ansible: Executing Scripts",
       "link": "https://blog.ipspace.net/2026/10/netmiko-ansible-script-performance/?utm_source=atom_feed",
       "published": "2026-10-15T07:52:00+02:00",
@@ -1029,32 +1054,6 @@
       "summary": "My initial “ configuring Arista cEOS with Netmiko or Ansible ” test was a bit biased. netlab generates the final configuration snippets in both cases (due to Ansible FUBARs we had to deal with), but then Netmiko just sends the configuration commands to the switch (after entering configuration...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Working with Ansible Inventory and Variables",
-      "link": "https://www.packetswitch.co.uk/working-with-ansible-inventory-and-variables/",
-      "published": "Thu, 15 Oct 2026 06:59:06 GMT",
-      "published_parsed": "2026-10-15T06:59:06+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-3-.png",
-      "summary": "In this chapter, we'll look at how to organise the inventory and variables properly using group_vars and host_vars. We'll move the VLANs out of",
-      "tags": [
-        "ansible-course",
-        "networking"
-      ]
-    },
-    {
-      "title": "Pushing Configuration with Ansible",
-      "link": "https://www.packetswitch.co.uk/pushing-configuration-with-ansible/",
-      "published": "Thu, 15 Oct 2026 06:53:58 GMT",
-      "published_parsed": "2026-10-15T06:53:58+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-2-.png",
-      "summary": "We'll start small by creating a single VLAN on a single switch. From there, we'll create multiple VLANs, then run the same playbook against more",
-      "tags": [
-        "ansible-course",
         "networking"
       ]
     },

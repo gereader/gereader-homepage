@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-10-27T13:02:06.285915+00:00",
-  "article_count": 2298,
+  "last_updated": "2026-10-27T19:15:33.039590+00:00",
+  "article_count": 2302,
   "articles": [
+    {
+      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+      "published": "Tue, 27 Oct 2026 15:50:19 +0000",
+      "published_parsed": "2026-10-27T15:50:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
+      "tags": [
+        "software",
+        "subscriptions",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "published": "Tue, 27 Oct 2026 14:20:26 +0000",
+      "published_parsed": "2026-10-27T14:20:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "tags": [
+        "apple",
+        "features",
+        "ios 27",
+        "iphone",
+        "iphone duo",
+        "tech"
+      ]
+    },
     {
       "title": "Nexus OS Fails to Send Syslog Records to a Silent Host",
       "link": "https://blog.ipspace.net/2026/10/nexus-os-logging-silent-host/?utm_source=atom_feed",
@@ -13,6 +44,20 @@
       "tags": [
         "netlab",
         "networking"
+      ]
+    },
+    {
+      "title": "How to Protect GlobalProtect Portal from Brute Force Attacks?",
+      "link": "https://www.packetswitch.co.uk/how-to-protect-globalprotect-portal-from-brute-force-attack/",
+      "published": "Tue, 27 Oct 2026 09:05:00 GMT",
+      "published_parsed": "2026-10-27T09:05:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/gp-bruteforce.png",
+      "summary": "While protecting your portal with MFA generally mitigates major concerns, it’s still wise to implement as many security measures as possible.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
@@ -103,6 +148,20 @@
       "summary": "Ansible has a huge number of filters, and it's impossible to cover all of them. So in this part, I want to focus on a handful that I find especially",
       "tags": [
         "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Running Containerlab in macOS (Cisco IOL/cEOS)",
+      "link": "https://www.packetswitch.co.uk/running-containerlab-in-macos-cisco-iol-ceos-2/",
+      "published": "Sun, 25 Oct 2026 18:51:00 GMT",
+      "published_parsed": "2026-10-25T18:51:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/containerlab-mac.png",
+      "summary": "I recently wanted to try running Containerlab directly on my MacBook (M3 Pro with 18GB of RAM) for a few reasons. For example, I might need to run labs while I’m away, work offline",
+      "tags": [
+        "cisco",
+        "containerlab",
         "networking"
       ]
     },
