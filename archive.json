@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-27T01:51:56.669616+00:00",
-  "article_count": 2297,
+  "last_updated": "2026-10-27T13:02:06.285915+00:00",
+  "article_count": 2298,
   "articles": [
+    {
+      "title": "Nexus OS Fails to Send Syslog Records to a Silent Host",
+      "link": "https://blog.ipspace.net/2026/10/nexus-os-logging-silent-host/?utm_source=atom_feed",
+      "published": "2026-10-27T11:02:00+01:00",
+      "published_parsed": "2026-10-27T11:02:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Here’s another you can’t make this up SNAFU observation I made when running integration tests for netlab Syslog functionality : Cisco Nexus OS cannot send Syslog messages to a directly connected silent host. The setup is as trivial as it can get: a Cisco Nexus OS VM (running version 10.6(2))...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Microsoft offers to buy out a quarter of its workforce",
       "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
