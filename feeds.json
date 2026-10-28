@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T19:15:33.068869+00:00",
+  "last_updated": "2026-10-28T02:02:42.347010+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -25,6 +25,7 @@
     "android",
     "ansible",
     "ansible-course",
+    "app stores",
     "apple",
     "arduino",
     "arp",
@@ -37,10 +38,11 @@
     "bgp",
     "biz & it",
     "blog",
-    "breaches",
+    "bootkits",
     "bridging",
     "broadcom",
     "browser",
+    "buffer overflow",
     "buyout",
     "cell towers",
     "cerfificate authority",
@@ -63,10 +65,10 @@
     "cumulus linux",
     "cybersecurity",
     "data center",
-    "department of defense",
     "design",
     "desktops",
     "dhcp",
+    "disclosure",
     "discover-tech",
     "diy",
     "dmvpn",
@@ -82,7 +84,6 @@
     "exploits",
     "fabric",
     "family plan",
-    "fbi",
     "fcc",
     "features",
     "federal communications commission",
@@ -128,7 +129,6 @@
     "mcp",
     "meta",
     "microsoft",
-    "microsoft surface laptop ultra",
     "military",
     "military drones",
     "mobile broadband",
@@ -140,7 +140,6 @@
     "mtu",
     "muse",
     "nat",
-    "national security",
     "navigation blog",
     "netbox",
     "netconf",
@@ -157,7 +156,6 @@
     "nfv",
     "nsx",
     "ntfs",
-    "nvidia blackwell",
     "open source",
     "openai",
     "openbsd 8.0",
@@ -175,11 +173,9 @@
     "qos",
     "ray-ban",
     "reactos",
-    "reviews",
     "robotic vehicles",
     "robotics",
     "robots",
-    "rtx spark",
     "russia invasion of ukraine",
     "russia war on ukraine",
     "russian invasion of ukraine",
@@ -222,11 +218,11 @@
     "training",
     "transport layer security",
     "tvs",
+    "uefi",
     "ukraine",
     "ukraine starlink",
     "ukraine war",
     "unalignment",
-    "unified memory",
     "video",
     "virtualization",
     "vizio",
@@ -244,6 +240,39 @@
     "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "published": "Tue, 27 Oct 2026 20:25:55 +0000",
+      "published_parsed": "2026-10-27T20:25:55+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+      "tags": [
+        "biz & it",
+        "bootkits",
+        "buffer overflow",
+        "disclosure",
+        "security",
+        "uefi"
+      ]
+    },
+    {
+      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+      "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+      "published": "Tue, 27 Oct 2026 19:32:07 +0000",
+      "published_parsed": "2026-10-27T19:32:07+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+      "tags": [
+        "android",
+        "app stores",
+        "google",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
       "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
@@ -974,23 +1003,6 @@
       ]
     },
     {
-      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-      "published": "Fri, 16 Oct 2026 12:00:05 +0000",
-      "published_parsed": "2026-10-16T12:00:05+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-      "tags": [
-        "microsoft surface laptop ultra",
-        "nvidia blackwell",
-        "reviews",
-        "rtx spark",
-        "tech",
-        "unified memory"
-      ]
-    },
-    {
       "title": "Nerd Fun: The DNS Museum",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-dns-museum/?utm_source=atom_feed",
       "published": "2026-10-16T08:13:00+02:00",
@@ -1322,24 +1334,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "published": "Thu, 01 Oct 2026 20:28:45 +0000",
-      "published_parsed": "2026-10-01T20:28:45+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "It has been a bad month for federal government cybersecurity.",
-      "tags": [
-        "biz & it",
-        "breaches",
-        "department of defense",
-        "fbi",
-        "hacking",
-        "national security",
-        "security"
       ]
     },
     {
