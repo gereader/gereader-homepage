@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T13:52:44.772082+00:00",
+  "last_updated": "2026-10-28T19:22:21.142353+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -19,8 +19,9 @@
     "ai agents",
     "ai drones",
     "aiops",
-    "airships",
     "allignment",
+    "amazon",
+    "amazon alexa",
     "amd64",
     "android",
     "ansible",
@@ -44,7 +45,6 @@
     "browser",
     "buffer overflow",
     "buyout",
-    "cell towers",
     "cerfificate authority",
     "certificate",
     "certificate authorities",
@@ -60,7 +60,6 @@
     "cloud",
     "company news",
     "computer worms",
-    "connectivity",
     "containerlab",
     "containers",
     "cumulus linux",
@@ -98,9 +97,7 @@
     "google",
     "gre",
     "hacking",
-    "haps",
     "headset",
-    "high altitude platform system",
     "high availability",
     "history",
     "hmd",
@@ -132,7 +129,6 @@
     "microsoft",
     "military",
     "military drones",
-    "mobile broadband",
     "model context protocol",
     "models",
     "mpls",
@@ -183,7 +179,6 @@
     "russian war on ukraine",
     "samsung",
     "san",
-    "sceye",
     "sd-wan",
     "sdn",
     "security",
@@ -191,6 +186,7 @@
     "service providers",
     "small models",
     "smart home",
+    "smart speakers",
     "smartphones",
     "snmp",
     "software",
@@ -244,6 +240,35 @@
     "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "published": "Wed, 28 Oct 2026 18:05:22 +0000",
+      "published_parsed": "2026-10-28T18:05:22+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+      "tags": [
+        "amazon",
+        "amazon alexa",
+        "smart home",
+        "smart speakers",
+        "tech"
+      ]
+    },
+    {
+      "title": "Validating Your Network with Ansible Assert",
+      "link": "https://www.packetswitch.co.uk/validating-your-network-with-ansible-assert/",
+      "published": "Wed, 28 Oct 2026 14:31:06 GMT",
+      "published_parsed": "2026-10-28T14:31:06+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-11-.png",
+      "summary": "In this part, we'll let Ansible do the checking for us. We'll write a few simple tests that check whether every router has the right number of OSPF",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
       "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
@@ -865,26 +890,6 @@
       ]
     },
     {
-      "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-      "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-      "published": "Mon, 19 Oct 2026 11:05:49 +0000",
-      "published_parsed": "2026-10-19T11:05:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
-      "tags": [
-        "airships",
-        "cell towers",
-        "connectivity",
-        "haps",
-        "high altitude platform system",
-        "internet",
-        "mobile broadband",
-        "sceye",
-        "tech"
-      ]
-    },
-    {
       "title": "Worth Reading: Labs as Code (Part 1)",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-labs-as-code/?utm_source=atom_feed",
       "published": "2026-10-19T07:45:00+02:00",
@@ -1046,19 +1051,6 @@
       "source": "Packet Switch",
       "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-6-.png",
       "summary": "Loops let you run the same task multiple times, once for each item in a list. Conditionals let you run a task only when a certain condition is true",
-      "tags": [
-        "ansible-course",
-        "networking"
-      ]
-    },
-    {
-      "title": "Ansible Ad-hoc Commands, Facts, and Registering Output",
-      "link": "https://www.packetswitch.co.uk/ansible-ad-hoc-commands-facts-and-registering-output/",
-      "published": "Thu, 15 Oct 2026 08:51:47 GMT",
-      "published_parsed": "2026-10-15T08:51:47+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-5-.png",
-      "summary": "In this post, we'll look at three ways to do that. First, we'll cover ad-hoc commands, which let you run a single task against your devices straight",
       "tags": [
         "ansible-course",
         "networking"
