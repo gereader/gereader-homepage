@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T02:02:42.347010+00:00",
+  "last_updated": "2026-10-28T13:52:44.772082+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -51,6 +51,7 @@
     "certificate authority",
     "certifications",
     "change management",
+    "china",
     "chip fabrication",
     "chip manufacturing",
     "cisco",
@@ -162,6 +163,7 @@
     "openflow",
     "ospf",
     "overlay networks",
+    "pacific ocean",
     "palo alto",
     "patches",
     "php",
@@ -171,7 +173,6 @@
     "private keys",
     "prompt injection",
     "qos",
-    "ray-ban",
     "reactos",
     "robotic vehicles",
     "robotics",
@@ -189,7 +190,6 @@
     "semiconductor manufacturing",
     "service providers",
     "small models",
-    "smart glasses",
     "smart home",
     "smartphones",
     "snmp",
@@ -223,6 +223,10 @@
     "ukraine starlink",
     "ukraine war",
     "unalignment",
+    "undersea cable",
+    "undersea cable cuts",
+    "undersea cables",
+    "verizon",
     "video",
     "virtualization",
     "vizio",
@@ -240,6 +244,26 @@
     "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "published": "Wed, 28 Oct 2026 11:00:49 +0000",
+      "published_parsed": "2026-10-28T11:00:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+      "tags": [
+        "china",
+        "google",
+        "meta",
+        "pacific ocean",
+        "tech",
+        "undersea cable",
+        "undersea cable cuts",
+        "undersea cables",
+        "verizon"
+      ]
+    },
     {
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
@@ -971,22 +995,6 @@
         "firewall",
         "networking",
         "palo alto"
-      ]
-    },
-    {
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "published": "Fri, 16 Oct 2026 19:11:50 +0000",
-      "published_parsed": "2026-10-16T19:11:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The bug is fixed, but privacy concerns remain.",
-      "tags": [
-        "meta",
-        "ray-ban",
-        "smart glasses",
-        "smart home",
-        "tech"
       ]
     },
     {
