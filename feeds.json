@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T13:59:00.932761+00:00",
-  "article_count": 107,
+  "last_updated": "2026-10-29T19:30:55.720930+00:00",
+  "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -18,6 +18,7 @@
     "ai",
     "ai agents",
     "ai drones",
+    "ai search",
     "aiops",
     "allignment",
     "amazon",
@@ -88,6 +89,7 @@
     "fcc",
     "features",
     "federal communications commission",
+    "finance",
     "firewall",
     "firewalls",
     "fm-1",
@@ -168,6 +170,7 @@
     "private keys",
     "prompt injection",
     "qos",
+    "quarterly earnings",
     "reactos",
     "robotic vehicles",
     "robotics",
@@ -240,6 +243,24 @@
     "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "published": "Thu, 29 Oct 2026 16:24:55 +0000",
+      "published_parsed": "2026-10-29T16:24:55+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "tags": [
+        "ai",
+        "ai search",
+        "artificial intelligence",
+        "finance",
+        "google",
+        "quarterly earnings",
+        "tech"
+      ]
+    },
     {
       "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
       "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
