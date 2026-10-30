@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-10-30T13:53:36.380167+00:00",
-  "article_count": 2317,
+  "last_updated": "2026-10-30T19:01:06.649686+00:00",
+  "article_count": 2318,
   "articles": [
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "published": "Fri, 30 Oct 2026 17:38:19 +0000",
+      "published_parsed": "2026-10-30T17:38:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "tags": [
+        "ai",
+        "fujifilm",
+        "kanagawa",
+        "lto",
+        "magnetic tape storage",
+        "tech"
+      ]
+    },
     {
       "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
       "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",

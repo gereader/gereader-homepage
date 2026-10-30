@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T13:53:36.403469+00:00",
+  "last_updated": "2026-10-30T19:01:06.667882+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -97,7 +97,7 @@
     "fm-1",
     "foldables",
     "force reduction",
-    "galaxy z fold",
+    "fujifilm",
     "goldman sachs",
     "google",
     "gre",
@@ -120,6 +120,7 @@
     "is-is",
     "ise",
     "it",
+    "kanagawa",
     "kb5127936",
     "lan",
     "laptops",
@@ -127,7 +128,9 @@
     "lisp",
     "llms",
     "load balancing",
+    "lto",
     "m-vave",
+    "magnetic tape storage",
     "mcp",
     "meta",
     "microsoft",
@@ -186,7 +189,6 @@
     "russian invasion of ukraine",
     "russian war on ukraine",
     "sabotage",
-    "samsung",
     "san",
     "sd-wan",
     "sdn",
@@ -251,13 +253,30 @@
   ],
   "articles": [
     {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "published": "Fri, 30 Oct 2026 17:38:19 +0000",
+      "published_parsed": "2026-10-30T17:38:19+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "tags": [
+        "ai",
+        "fujifilm",
+        "kanagawa",
+        "lto",
+        "magnetic tape storage",
+        "tech"
+      ]
+    },
+    {
       "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
       "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
       "published": "Fri, 30 Oct 2026 11:30:01 +0000",
       "published_parsed": "2026-10-30T11:30:01+00:00",
       "source": "Ars Technica - Gadgets",
       "image": null,
-      "summary": "Elizabeth Holmes has some people falling for her act all over again.",
+      "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
       "tags": [
         "a24 studio",
         "culture",
@@ -785,24 +804,6 @@
         "security",
         "tls",
         "transport layer security"
-      ]
-    },
-    {
-      "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
-      "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
-      "published": "Thu, 22 Oct 2026 18:49:14 +0000",
-      "published_parsed": "2026-10-22T18:49:14+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
-      "tags": [
-        "android",
-        "apple",
-        "foldables",
-        "galaxy z fold",
-        "iphone duo",
-        "samsung",
-        "tech"
       ]
     },
     {
