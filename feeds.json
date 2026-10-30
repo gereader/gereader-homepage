@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T02:26:51.456257+00:00",
-  "article_count": 108,
+  "last_updated": "2026-10-30T13:53:36.403469+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,8 +11,8 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "a24 studio",
     "aci",
-    "ads",
     "advertising",
     "agentic ai",
     "ai",
@@ -61,6 +61,7 @@
     "computer worms",
     "containerlab",
     "containers",
+    "culture",
     "cumulus linux",
     "cybersecurity",
     "data center",
@@ -72,9 +73,11 @@
     "dmvpn",
     "dns",
     "docker",
+    "documentaries",
     "drones",
     "duo",
     "eigrp",
+    "elizabeth holmes",
     "elon musk",
     "encryption",
     "european union",
@@ -86,6 +89,7 @@
     "fcc",
     "features",
     "federal communications commission",
+    "film",
     "finance",
     "financial report",
     "firewall",
@@ -136,6 +140,7 @@
     "mtu",
     "muse",
     "nat",
+    "nathan fielder",
     "navigation blog",
     "netbox",
     "netconf",
@@ -171,6 +176,7 @@
     "quarterly earnings",
     "reactos",
     "reddit",
+    "reviews",
     "right-click menu",
     "robotic vehicles",
     "robotics",
@@ -209,6 +215,7 @@
     "tcp",
     "tech",
     "the onion router",
+    "theranos",
     "tips",
     "tls",
     "topgolf",
@@ -217,7 +224,6 @@
     "training",
     "transport layer security",
     "trump tariffs",
-    "tvs",
     "uefi",
     "ukraine",
     "ukraine starlink",
@@ -230,21 +236,55 @@
     "verizon",
     "video",
     "virtualization",
-    "vizio",
     "vmware",
     "voluntary exit offer",
     "vpn",
     "vulnerabilities",
     "vxlan",
-    "walmart",
     "wan",
     "wikipedia",
     "windows 11",
     "windows alternatives",
     "worth reading",
-    "yamaha dx-7"
+    "yamaha dx-7",
+    "you can see everything"
   ],
   "articles": [
+    {
+      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+      "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+      "published": "Fri, 30 Oct 2026 11:30:01 +0000",
+      "published_parsed": "2026-10-30T11:30:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Elizabeth Holmes has some people falling for her act all over again.",
+      "tags": [
+        "a24 studio",
+        "culture",
+        "documentaries",
+        "elizabeth holmes",
+        "film",
+        "nathan fielder",
+        "reviews",
+        "tech",
+        "theranos",
+        "you can see everything"
+      ]
+    },
+    {
+      "title": "Worth Reading: Network Labs on a Budget",
+      "link": "https://blog.ipspace.net/2026/10/worth-reading-network-labs-budget/?utm_source=atom_feed",
+      "published": "2026-10-30T09:58:00+01:00",
+      "published_parsed": "2026-10-30T09:58:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "The Packet Pushers newsletter dropped into my Inbox this morning, and it included a lovely Network Labs on a Budget article by Suresh Vinasiththamby , explaining how you can build a virtual lab on a mini-PC (exactly what I’m using for my netlab server) using EVE-NG, CML, or the containerlab/netlab...",
+      "tags": [
+        "netlab",
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
       "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
@@ -808,25 +848,6 @@
         "biz & it",
         "it",
         "software"
-      ]
-    },
-    {
-      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
-      "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
-      "published": "Wed, 21 Oct 2026 18:00:37 +0000",
-      "published_parsed": "2026-10-21T18:00:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
-      "tags": [
-        "ads",
-        "privacy",
-        "samsung",
-        "smart home",
-        "tech",
-        "tvs",
-        "vizio",
-        "walmart"
       ]
     },
     {
