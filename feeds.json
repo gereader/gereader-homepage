@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T19:30:55.720930+00:00",
+  "last_updated": "2026-10-30T02:26:51.456257+00:00",
   "article_count": 108,
   "sources": [
     "Ars Technica - Gadgets",
@@ -23,7 +23,6 @@
     "allignment",
     "amazon",
     "amazon alexa",
-    "amd64",
     "android",
     "ansible",
     "ansible-course",
@@ -36,7 +35,6 @@
     "automation",
     "aws",
     "azure",
-    "battlefield medicine",
     "bgp",
     "biz & it",
     "blog",
@@ -58,7 +56,6 @@
     "chip manufacturing",
     "cisco",
     "citizen lab",
-    "clang 22",
     "cloud",
     "company news",
     "computer worms",
@@ -90,6 +87,7 @@
     "features",
     "federal communications commission",
     "finance",
+    "financial report",
     "firewall",
     "firewalls",
     "fm-1",
@@ -105,9 +103,9 @@
     "history",
     "homelab",
     "idc",
+    "imports",
     "industrial robots",
     "intel",
-    "intel arc",
     "internet",
     "ios 27",
     "ip routing",
@@ -118,6 +116,7 @@
     "is-is",
     "ise",
     "it",
+    "kb5127936",
     "lan",
     "laptops",
     "layoffs",
@@ -128,7 +127,6 @@
     "mcp",
     "meta",
     "microsoft",
-    "military",
     "military drones",
     "model context protocol",
     "models",
@@ -156,7 +154,6 @@
     "ntfs",
     "open source",
     "openai",
-    "openbsd 8.0",
     "openflow",
     "ospf",
     "overlay networks",
@@ -164,6 +161,7 @@
     "palo alto",
     "patches",
     "php",
+    "physical ai",
     "plex media server",
     "podcast",
     "privacy",
@@ -172,6 +170,8 @@
     "qos",
     "quarterly earnings",
     "reactos",
+    "reddit",
+    "right-click menu",
     "robotic vehicles",
     "robotics",
     "robots",
@@ -192,6 +192,7 @@
     "smart speakers",
     "smartphones",
     "snmp",
+    "social media",
     "software",
     "software gone wild",
     "spacex starlink",
@@ -199,7 +200,6 @@
     "sr-mpls",
     "srv6",
     "starlink",
-    "streaming",
     "subscriptions",
     "subsea cable",
     "subsea cables",
@@ -209,7 +209,6 @@
     "tcp",
     "tech",
     "the onion router",
-    "theo de raadt",
     "tips",
     "tls",
     "topgolf",
@@ -217,6 +216,7 @@
     "traffic engineering",
     "training",
     "transport layer security",
+    "trump tariffs",
     "tvs",
     "uefi",
     "ukraine",
@@ -226,6 +226,7 @@
     "undersea cable",
     "undersea cable cuts",
     "undersea cables",
+    "us manufacturing",
     "verizon",
     "video",
     "virtualization",
@@ -238,11 +239,63 @@
     "walmart",
     "wan",
     "wikipedia",
+    "windows 11",
     "windows alternatives",
     "worth reading",
     "yamaha dx-7"
   ],
   "articles": [
+    {
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+      "published": "Thu, 29 Oct 2026 21:47:57 +0000",
+      "published_parsed": "2026-10-29T21:47:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+      "tags": [
+        "reddit",
+        "social media",
+        "tech"
+      ]
+    },
+    {
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "published": "Thu, 29 Oct 2026 20:18:49 +0000",
+      "published_parsed": "2026-10-29T20:18:49+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Windows_11_Right_Click_Menu_blog_windows_com.png",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+      "tags": [
+        "financial report",
+        "kb5127936",
+        "microsoft",
+        "right-click menu",
+        "tech",
+        "windows 11"
+      ]
+    },
+    {
+      "title": "Trump declares robot imports a national security threat",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "Thu, 29 Oct 2026 19:07:53 +0000",
+      "published_parsed": "2026-10-29T19:07:53+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "tags": [
+        "ai",
+        "imports",
+        "industrial robots",
+        "physical ai",
+        "robotics",
+        "robots",
+        "tech",
+        "trump tariffs",
+        "us manufacturing"
+      ]
+    },
     {
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
       "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
@@ -440,6 +493,20 @@
       ]
     },
     {
+      "title": "Global Protect Internal Host Detection & Internal Gateways - Lessons Learnt",
+      "link": "https://www.packetswitch.co.uk/global-protect-internal-host-detection-internal-gateways-lessons-learnt/",
+      "published": "Tue, 27 Oct 2026 06:08:00 GMT",
+      "published_parsed": "2026-10-27T06:08:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/simple-edl-1-.png",
+      "summary": "However, I wanted to use the Internal Host Detection feature of GlobalProtect VPN, so that if I'm on my internal network and try to connect, it won't connect to the external gateway.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
       "title": "Microsoft offers to buy out a quarter of its workforce",
       "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
       "published": "Mon, 26 Oct 2026 22:36:06 +0000",
@@ -526,6 +593,20 @@
       "tags": [
         "ansible-course",
         "networking"
+      ]
+    },
+    {
+      "title": "Managing Palo Alto App-ID Changes Using Threat Signature Indicators (TSID)",
+      "link": "https://www.packetswitch.co.uk/managing-changes-in-palo-alto-app-ids-using-threat-signature-indicators-tsid/",
+      "published": "Sun, 25 Oct 2026 20:21:00 GMT",
+      "published_parsed": "2026-10-25T20:21:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/09/tsid.png",
+      "summary": "In this blog post, we will look at using Threat Signature Indicators (TSID) that will help you get an advanced indication of any impact on your traffic as a result of upcoming App-ID changes.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
@@ -749,6 +830,20 @@
       ]
     },
     {
+      "title": "Palo Alto Global Protect VPN Configuration Example",
+      "link": "https://www.packetswitch.co.uk/palo-alto-global-protect-vpn-configuration-example/",
+      "published": "Wed, 21 Oct 2026 16:01:00 GMT",
+      "published_parsed": "2026-10-21T16:01:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/GP-VPN.png",
+      "summary": "In this blog post, we will cover how to configure Palo Alto Global Protect VPN. We'll go through setting up the portal, gateway, authentication profile, IP pools, split-tunnel, security policy, NAT policy and other necessary components.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
+    {
       "title": "Crappy Configuration Errors: Cisco Nexus OS Edition",
       "link": "https://blog.ipspace.net/2026/10/crappy-error-reporting-nexus-os/?utm_source=atom_feed",
       "published": "2026-10-21T07:33:00+02:00",
@@ -779,36 +874,6 @@
       ]
     },
     {
-      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-      "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-      "published": "Tue, 20 Oct 2026 20:20:12 +0000",
-      "published_parsed": "2026-10-20T20:20:12+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "A lifetime ad-free subscription is available.",
-      "tags": [
-        "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "OpenBSD 8.0 arrives with security record still intact",
-      "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-      "published": "Tue, 20 Oct 2026 19:57:18 +0000",
-      "published_parsed": "2026-10-20T19:57:18+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
-      "tags": [
-        "amd64",
-        "clang 22",
-        "intel arc",
-        "openbsd 8.0",
-        "tech",
-        "theo de raadt"
-      ]
-    },
-    {
       "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
       "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
       "published": "Tue, 20 Oct 2026 19:47:35 +0000",
@@ -823,30 +888,6 @@
         "security",
         "tls",
         "transport layer security"
-      ]
-    },
-    {
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "published": "Tue, 20 Oct 2026 18:22:54 +0000",
-      "published_parsed": "2026-10-20T18:22:54+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "tags": [
-        "ai",
-        "ai drones",
-        "battlefield medicine",
-        "drones",
-        "military",
-        "military drones",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war"
       ]
     },
     {
@@ -1012,33 +1053,6 @@
       ]
     },
     {
-      "title": "Palo Alto NAT Example",
-      "link": "https://www.packetswitch.co.uk/palo-alto-nat-example/",
-      "published": "Fri, 16 Oct 2026 20:08:00 GMT",
-      "published_parsed": "2026-10-16T20:08:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/palo-nat-1-.png",
-      "summary": "In this blog post, let's look at how to configure NAT on Palo Alto Firewalls. NAT allows you to translate private IP addresses to public IP addresses.",
-      "tags": [
-        "firewall",
-        "networking",
-        "palo alto"
-      ]
-    },
-    {
-      "title": "Strata Cloud Manager - Worth the Hype?",
-      "link": "https://www.packetswitch.co.uk/strata-cloud-manager-worth-the-hype/",
-      "published": "Fri, 16 Oct 2026 17:46:00 GMT",
-      "published_parsed": "2026-10-16T17:46:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/09/blog-banners-all-6-.png",
-      "summary": "Palo Alto's Strata Cloud Manager reviewed - folders, variables, snippets, HA setup, PAN-OS upgrades, and automation options, from real world use.",
-      "tags": [
-        "networking",
-        "palo alto"
-      ]
-    },
-    {
       "title": "Nerd Fun: The DNS Museum",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-dns-museum/?utm_source=atom_feed",
       "published": "2026-10-16T08:13:00+02:00",
@@ -1064,19 +1078,6 @@
         "citizen lab",
         "discover-tech",
         "security"
-      ]
-    },
-    {
-      "title": "Ansible Loops, Conditionals, and Handlers",
-      "link": "https://www.packetswitch.co.uk/ansible-loops-conditionals-and-handlers/",
-      "published": "Thu, 15 Oct 2026 09:02:38 GMT",
-      "published_parsed": "2026-10-15T09:02:38+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-6-.png",
-      "summary": "Loops let you run the same task multiple times, once for each item in a list. Conditionals let you run a task only when a certain condition is true",
-      "tags": [
-        "ansible-course",
-        "networking"
       ]
     },
     {
