@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-31T02:05:38.553924+00:00",
-  "article_count": 2320,
+  "last_updated": "2026-10-31T13:25:37.508111+00:00",
+  "article_count": 2321,
   "articles": [
+    {
+      "title": "Pre and Post Checks with Ansible",
+      "link": "https://www.packetswitch.co.uk/pre-and-post-checks-with-ansible/",
+      "published": "Sat, 31 Oct 2026 12:20:40 GMT",
+      "published_parsed": "2026-10-31T12:20:40+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-12-.png",
+      "summary": "The idea is that before making a change, you check that the network is healthy. If it isn't, you stop, since there's no point making a change",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
       "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
