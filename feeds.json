@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T14:06:51.046091+00:00",
+  "last_updated": "2026-11-01T21:48:46.312906+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -178,6 +178,7 @@
     "privacy",
     "private keys",
     "prompt injection",
+    "python",
     "qos",
     "quarterly earnings",
     "reactos",
@@ -252,6 +253,33 @@
     "you can see everything"
   ],
   "articles": [
+    {
+      "title": "Python Getters, Setters and @property Decorator",
+      "link": "https://www.packetswitch.co.uk/python-getters-setters-and-property-decorator/",
+      "published": "Sun, 01 Nov 2026 18:35:00 GMT",
+      "published_parsed": "2026-11-01T18:35:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/02/functions--methods-and-self-2-.png",
+      "summary": "When I first started working with Python classes, some of the most confusing topics were getters, setters, and @property. There are plenty of tutorials on how to use them",
+      "tags": [
+        "networking",
+        "python"
+      ]
+    },
+    {
+      "title": "Panorama Device Groups and Templates (with examples)",
+      "link": "https://www.packetswitch.co.uk/panorama-device-groups-and-templates/",
+      "published": "Sun, 01 Nov 2026 18:30:00 GMT",
+      "published_parsed": "2026-11-01T18:30:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/06/panorama-dg-tp.png",
+      "summary": "To create an Address Object on the firewall directly, you navigate to Objects > Addresses. If you were to create the object through Panorama",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
+      ]
+    },
     {
       "title": "Getting Structured Output from Network Devices with Ansible",
       "link": "https://www.packetswitch.co.uk/getting-structured-output-from-network-devices-with-ansible/",
@@ -1039,33 +1067,6 @@
       "summary": "A filter takes some data, changes it in some way, and gives you back the result. The data could be a string, a number, a list, or a dictionary",
       "tags": [
         "ansible-course",
-        "networking"
-      ]
-    },
-    {
-      "title": "Ansible - Adding Arista and Multi-Vendor Playbooks",
-      "link": "https://www.packetswitch.co.uk/ansible-adding-arista-and-multi-vendor-playbooks/",
-      "published": "Sun, 18 Oct 2026 12:40:26 GMT",
-      "published_parsed": "2026-10-18T12:40:26+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-7-.png",
-      "summary": "One of the biggest benefits of Ansible is that you can manage all of them from the same project, using the same inventory, the same playbooks",
-      "tags": [
-        "ansible-course",
-        "networking"
-      ]
-    },
-    {
-      "title": "BGP Multi-Homed with Two ISPs and Two Routers",
-      "link": "https://www.packetswitch.co.uk/bgp-multi-homed-with-two-isps-and-two-routers/",
-      "published": "Sun, 18 Oct 2026 11:54:00 GMT",
-      "published_parsed": "2026-10-18T11:54:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/09/bgp-multi-home-3-.png",
-      "summary": "In this post, we will look at a scenario where you already have your own IP address space and an AS number, and you connect to two different ISPs",
-      "tags": [
-        "bgp",
-        "cisco",
         "networking"
       ]
     },
