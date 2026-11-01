@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T01:57:38.071847+00:00",
+  "last_updated": "2026-11-01T14:06:51.046091+00:00",
   "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
@@ -252,6 +252,19 @@
     "you can see everything"
   ],
   "articles": [
+    {
+      "title": "Getting Structured Output from Network Devices with Ansible",
+      "link": "https://www.packetswitch.co.uk/getting-structured-output-from-network-devices-with-ansible/",
+      "published": "Sun, 01 Nov 2026 11:08:25 GMT",
+      "published_parsed": "2026-11-01T11:08:25+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-13-.png",
+      "summary": "In this part, we'll look at how to parse command output into structured data using the cli_parse module and a library of ready-made templates called",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Pre and Post Checks with Ansible",
       "link": "https://www.packetswitch.co.uk/pre-and-post-checks-with-ansible/",
@@ -1054,20 +1067,6 @@
         "bgp",
         "cisco",
         "networking"
-      ]
-    },
-    {
-      "title": "Palo Alto How to Configure SSL Decryption?",
-      "link": "https://www.packetswitch.co.uk/palo-alto-how-to-configure-ssl-decryption/",
-      "published": "Sun, 18 Oct 2026 08:20:00 GMT",
-      "published_parsed": "2026-10-18T08:20:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/palo-url-ssl-decrypt-1-.png",
-      "summary": "In this blog post, we'll explore how to configure SSL decryption in Palo Alto firewalls and highlight some pitfalls to be aware of.",
-      "tags": [
-        "firewall",
-        "networking",
-        "palo alto"
       ]
     },
     {

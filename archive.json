@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-01T01:57:38.042193+00:00",
-  "article_count": 2321,
+  "last_updated": "2026-11-01T14:06:51.015564+00:00",
+  "article_count": 2322,
   "articles": [
+    {
+      "title": "Getting Structured Output from Network Devices with Ansible",
+      "link": "https://www.packetswitch.co.uk/getting-structured-output-from-network-devices-with-ansible/",
+      "published": "Sun, 01 Nov 2026 11:08:25 GMT",
+      "published_parsed": "2026-11-01T11:08:25+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-13-.png",
+      "summary": "In this part, we'll look at how to parse command output into structured data using the cli_parse module and a library of ready-made templates called",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Pre and Post Checks with Ansible",
       "link": "https://www.packetswitch.co.uk/pre-and-post-checks-with-ansible/",
