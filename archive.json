@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-11-03T07:41:18.995841+00:00",
-  "article_count": 2325,
+  "last_updated": "2026-11-03T20:26:13.481976+00:00",
+  "article_count": 2326,
   "articles": [
+    {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "published": "Tue, 03 Nov 2026 16:03:13 +0000",
+      "published_parsed": "2026-11-03T16:03:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "secure boot",
+        "security",
+        "uefi",
+        "windows"
+      ]
+    },
     {
       "title": "Help Me Make the BGP Labs Even Better",
       "link": "https://blog.ipspace.net/2026/11/bgp-labs-further-reading/?utm_source=atom_feed",

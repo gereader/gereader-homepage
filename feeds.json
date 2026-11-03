@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T07:41:19.026242+00:00",
+  "last_updated": "2026-11-03T20:26:13.512948+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -14,7 +14,6 @@
     "a24 studio",
     "aci",
     "advertising",
-    "agentic ai",
     "ai",
     "ai agents",
     "ai data centers",
@@ -133,10 +132,8 @@
     "lto",
     "m-vave",
     "magnetic tape storage",
-    "mcp",
     "meta",
     "microsoft",
-    "model context protocol",
     "models",
     "mpls",
     "mpls vpn",
@@ -176,7 +173,6 @@
     "podcast",
     "privacy",
     "private keys",
-    "prompt injection",
     "python",
     "qos",
     "quarterly earnings",
@@ -190,6 +186,7 @@
     "san",
     "sd-wan",
     "sdn",
+    "secure boot",
     "security",
     "seeed studio",
     "sensecraft",
@@ -247,6 +244,7 @@
     "vxlan",
     "wan",
     "wikipedia",
+    "windows",
     "windows 11",
     "windows alternatives",
     "worth reading",
@@ -255,13 +253,30 @@
   ],
   "articles": [
     {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "published": "Tue, 03 Nov 2026 16:03:13 +0000",
+      "published_parsed": "2026-11-03T16:03:13+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "tags": [
+        "biz & it",
+        "microsoft",
+        "secure boot",
+        "security",
+        "uefi",
+        "windows"
+      ]
+    },
+    {
       "title": "Help Me Make the BGP Labs Even Better",
       "link": "https://blog.ipspace.net/2026/11/bgp-labs-further-reading/?utm_source=atom_feed",
       "published": "2026-11-03T08:24:00+01:00",
       "published_parsed": "2026-11-03T08:24:00+01:00",
       "source": "ipSpace Blog",
       "image": null,
-      "summary": "I decided to add “Further Reading” sections to BGP lab exercises, containing links to vendor documentation and useful related blog posts. I naively expected to offload the job to Claude, commit the results, and move on. Boy, was I wrong :( TL&DR: I would love to get your suggestions for further...",
+      "summary": "I decided to add “Further Reading” sections to BGP lab exercises, containing links to vendor documentation and useful related blog posts. I naively expected to offload the job to Claude, commit the results, and move on. The “related blog posts” were a piece of cake; precise links to relevant vendor...",
       "tags": [
         "bgp",
         "networking"
@@ -1357,24 +1372,6 @@
       "tags": [
         "automation",
         "networking"
-      ]
-    },
-    {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "published": "Mon, 05 Oct 2026 22:26:35 +0000",
-      "published_parsed": "2026-10-05T22:26:35+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "tags": [
-        "agentic ai",
-        "ai",
-        "biz & it",
-        "mcp",
-        "model context protocol",
-        "prompt injection",
-        "security"
       ]
     },
     {
