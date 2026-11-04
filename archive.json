@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-04T02:56:13.729086+00:00",
-  "article_count": 2326,
+  "last_updated": "2026-11-04T15:12:55.846128+00:00",
+  "article_count": 2327,
   "articles": [
+    {
+      "title": "Candidate and Active Configuration on IOS XR",
+      "link": "https://blog.ipspace.net/2026/11/candidate-active-configuration-iosxr/?utm_source=atom_feed",
+      "published": "2026-11-04T08:37:00+01:00",
+      "published_parsed": "2026-11-04T08:37:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Traditional network devices used a single (active or running) configuration, with a snapshot of it stored in permanent memory (startup configuration). The active configuration was modified with every configuration command, making it a perfect recipe for disaster in the days of in-band configuration...",
+      "tags": [
+        "automation",
+        "networking"
+      ]
+    },
     {
       "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
       "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
