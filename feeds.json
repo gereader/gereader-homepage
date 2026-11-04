@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T20:26:13.512948+00:00",
-  "article_count": 111,
+  "last_updated": "2026-11-04T02:56:13.759242+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1860,18 +1860,6 @@
       "summary": "netlab release 26.08 brings a few humongous additions: ArcOS support by @roc-ops VPP (FD.io) with FRR or BIRD control plane by @jbemmel SONiC containers (also by @roc-ops ) IPv4/IPv6 access control lists in the routing module by @DanPartelly But wait, there’s more: Read more …",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Why I loved AutoCon 5",
-      "link": "https://networkautomation.forum/blog/why-i-loved-autocon-5",
-      "published": "Wed, 05 Aug 2026 22:09:00 +0000",
-      "published_parsed": "2026-08-05T22:09:00+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "While every AutoCon has been important and unique, AC5 was significantly different for me in the best possible way. Let me give you my personal take…",
-      "tags": [
         "networking"
       ]
     }
