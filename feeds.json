@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T14:50:27.388131+00:00",
+  "last_updated": "2026-11-06T22:50:23.997123+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -13,6 +13,7 @@
   "tags": [
     "a24 studio",
     "aci",
+    "acquisitions",
     "adversary in the middle",
     "agility robotics",
     "ai",
@@ -29,7 +30,6 @@
     "ansible",
     "ansible-course",
     "anthropic",
-    "app stores",
     "apple",
     "arctic",
     "arp",
@@ -41,18 +41,22 @@
     "azure",
     "bgp",
     "biz & it",
+    "blockchain",
     "blog",
     "boom supersonic",
     "bootkits",
+    "breaches",
     "bridging",
     "broadcom",
     "buffer overflow",
     "byod",
     "byos",
     "canada",
+    "cargo theft",
     "cerfificate authority",
     "certificate authorities",
     "certifications",
+    "chainalysis",
     "change management",
     "china",
     "cisco",
@@ -95,13 +99,16 @@
     "financial report",
     "firewall",
     "firewalls",
+    "fox",
     "fujifilm",
     "google",
+    "gps spoofing",
     "grapheneos",
     "gre",
     "greenland",
     "hacking",
     "high availability",
+    "hijacking",
     "history",
     "homelab",
     "humanoid robots",
@@ -126,6 +133,7 @@
     "load balancing",
     "lto",
     "magnetic tape storage",
+    "mergers",
     "meta",
     "mi350p",
     "microsoft",
@@ -155,6 +163,7 @@
     "nfv",
     "nsx",
     "ntfs",
+    "nvidia",
     "open source",
     "openai",
     "openflow",
@@ -178,6 +187,7 @@
     "right-click menu",
     "robotics",
     "robots",
+    "roku",
     "ryzen",
     "sabotage",
     "san",
@@ -200,7 +210,7 @@
     "sr-mpls",
     "srv6",
     "ssh",
-    "subscriptions",
+    "streaming",
     "subsea cable",
     "subsea cables",
     "supersonic",
@@ -217,7 +227,6 @@
     "theranos",
     "tips",
     "tls",
-    "topgolf",
     "tor",
     "tradertraitor",
     "traffic engineering",
@@ -252,6 +261,56 @@
     "you can see everything"
   ],
   "articles": [
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "published": "Fri, 06 Nov 2026 20:56:41 +0000",
+      "published_parsed": "2026-11-06T20:56:41+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "tags": [
+        "biz & it",
+        "blockchain",
+        "breaches",
+        "chainalysis",
+        "hacking",
+        "security"
+      ]
+    },
+    {
+      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+      "published": "Fri, 06 Nov 2026 20:05:30 +0000",
+      "published_parsed": "2026-11-06T20:05:30+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+      "tags": [
+        "cargo theft",
+        "gps spoofing",
+        "hijacking",
+        "nvidia",
+        "tech"
+      ]
+    },
+    {
+      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+      "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "published": "Fri, 06 Nov 2026 19:50:18 +0000",
+      "published_parsed": "2026-11-06T19:50:18+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Developer: “I can’t be part of the Fox world.”",
+      "tags": [
+        "acquisitions",
+        "fox",
+        "mergers",
+        "roku",
+        "streaming",
+        "tech"
+      ]
+    },
     {
       "title": "Worth Having: Octomon",
       "link": "https://blog.ipspace.net/2026/11/octomon/?utm_source=atom_feed",
@@ -837,36 +896,6 @@
       ]
     },
     {
-      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-      "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-      "published": "Tue, 27 Oct 2026 19:32:07 +0000",
-      "published_parsed": "2026-10-27T19:32:07+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-      "tags": [
-        "android",
-        "app stores",
-        "google",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-      "published": "Tue, 27 Oct 2026 15:50:19 +0000",
-      "published_parsed": "2026-10-27T15:50:19+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
-      "tags": [
-        "software",
-        "subscriptions",
-        "tech"
-      ]
-    },
-    {
       "title": "Nexus OS Fails to Send Syslog Records to a Silent Host",
       "link": "https://blog.ipspace.net/2026/10/nexus-os-logging-silent-host/?utm_source=atom_feed",
       "published": "2026-10-27T11:02:00+01:00",
@@ -1314,21 +1343,6 @@
       "tags": [
         "networking",
         "srv6"
-      ]
-    },
-    {
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "published": "Tue, 13 Oct 2026 21:33:43 +0000",
-      "published_parsed": "2026-10-13T21:33:43+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-      "tags": [
-        "biz & it",
-        "broadcom",
-        "topgolf",
-        "vmware"
       ]
     },
     {
