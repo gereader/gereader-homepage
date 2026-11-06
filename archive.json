@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-06T03:15:55.573365+00:00",
-  "article_count": 2339,
+  "last_updated": "2026-11-06T14:50:27.359630+00:00",
+  "article_count": 2340,
   "articles": [
+    {
+      "title": "Worth Having: Octomon",
+      "link": "https://blog.ipspace.net/2026/11/octomon/?utm_source=atom_feed",
+      "published": "2026-11-06T08:05:00+01:00",
+      "published_parsed": "2026-11-06T08:05:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "A Packet Pushers newsletter brought me a link to a fantastic CLI tool: octomon by Simon Thorpe . Not only does it look awesome for a CLI tool, but it’s also one of those things always worth having in your toolbox, because you never know when you’ll need it. Thanks a million, Ethan and Drew , for...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
       "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
