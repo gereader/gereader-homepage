@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T02:35:25.925234+00:00",
+  "last_updated": "2026-11-07T13:46:52.914076+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -23,8 +23,6 @@
     "aiops",
     "aircraft",
     "alpine",
-    "amazon",
-    "amazon alexa",
     "amd",
     "android",
     "ansible",
@@ -71,6 +69,7 @@
     "cumulus linux",
     "cursor",
     "cybersecurity",
+    "daniel barton-kennedy",
     "data center",
     "data centers",
     "design",
@@ -110,7 +109,6 @@
     "high availability",
     "hijacking",
     "history",
-    "homelab",
     "humanoid robots",
     "imports",
     "industrial robots",
@@ -199,14 +197,14 @@
     "seeed studio",
     "sensecraft",
     "service providers",
+    "sim card",
     "small models",
-    "smart home",
-    "smart speakers",
     "smartphones",
     "snmp",
     "social media",
     "software",
     "software gone wild",
+    "soldier",
     "sony",
     "sr-mpls",
     "srv6",
@@ -262,6 +260,48 @@
     "you can see everything"
   ],
   "articles": [
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "published": "Sat, 07 Nov 2026 11:00:34 +0000",
+      "published_parsed": "2026-11-07T11:00:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "tags": [
+        "daniel barton-kennedy",
+        "security",
+        "sim card",
+        "soldier",
+        "tech"
+      ]
+    },
+    {
+      "title": "Going Further with Ansible and Juniper",
+      "link": "https://www.packetswitch.co.uk/going-further-with-ansible-and-juniper/",
+      "published": "Sat, 07 Nov 2026 09:40:45 GMT",
+      "published_parsed": "2026-11-07T09:40:45+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-15-.png",
+      "summary": "In this section, I'll show you a more direct way to do it, using a module called juniper.device.config, which can retrieve the config and save it",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Getting Started with Ansible and Juniper Junos",
+      "link": "https://www.packetswitch.co.uk/getting-started-with-juniper-and-ansible/",
+      "published": "Sat, 07 Nov 2026 09:11:00 GMT",
+      "published_parsed": "2026-11-07T09:11:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-14--2.png",
+      "summary": "Juniper works quite differently from Cisco and Arista in a few areas, and that's really what this part is about. Instead of connecting over SSH",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
       "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
@@ -852,22 +892,6 @@
       ]
     },
     {
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-      "published": "Wed, 28 Oct 2026 18:05:22 +0000",
-      "published_parsed": "2026-10-28T18:05:22+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
-      "tags": [
-        "amazon",
-        "amazon alexa",
-        "smart home",
-        "smart speakers",
-        "tech"
-      ]
-    },
-    {
       "title": "Validating Your Network with Ansible Assert",
       "link": "https://www.packetswitch.co.uk/validating-your-network-with-ansible-assert/",
       "published": "Wed, 28 Oct 2026 14:31:06 GMT",
@@ -1007,16 +1031,17 @@
       ]
     },
     {
-      "title": "Proxmox Backup Server Setup",
-      "link": "https://www.packetswitch.co.uk/setting-up-proxmox-backup-server/",
-      "published": "Sat, 24 Oct 2026 09:01:00 GMT",
-      "published_parsed": "2026-10-24T09:01:00+00:00",
+      "title": "Palo Alto SSL Decryption and App-ID",
+      "link": "https://www.packetswitch.co.uk/palo-alto-ssl-decryption-and-app-id/",
+      "published": "Sun, 25 Oct 2026 07:58:00 GMT",
+      "published_parsed": "2026-10-25T07:58:00+00:00",
       "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/pbs-1-.png",
-      "summary": "In this post, we’ll go through the process of setting up Proxmox Backup Server and backing up all the VMs from my Proxmox server to this backup server. So, let’s get to it.",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/ssl-decrypt-appid.png",
+      "summary": "Does that mean if I create a security policy to block 'facebook-video', the firewall will block only 'facebook-video' and allow everything else? Not really, without using SSL Decryption.",
       "tags": [
-        "homelab",
-        "networking"
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
@@ -1091,20 +1116,6 @@
         "biz & it",
         "it",
         "software"
-      ]
-    },
-    {
-      "title": "Palo Alto Global Protect VPN Configuration Example",
-      "link": "https://www.packetswitch.co.uk/palo-alto-global-protect-vpn-configuration-example/",
-      "published": "Wed, 21 Oct 2026 16:01:00 GMT",
-      "published_parsed": "2026-10-21T16:01:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2024/10/GP-VPN.png",
-      "summary": "In this blog post, we will cover how to configure Palo Alto Global Protect VPN. We'll go through setting up the portal, gateway, authentication profile, IP pools, split-tunnel, security policy, NAT policy and other necessary components.",
-      "tags": [
-        "firewall",
-        "networking",
-        "palo alto"
       ]
     },
     {
@@ -1228,19 +1239,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Working with Filters in Ansible",
-      "link": "https://www.packetswitch.co.uk/working-with-filters-in-ansible/",
-      "published": "Sun, 18 Oct 2026 14:05:56 GMT",
-      "published_parsed": "2026-10-18T14:05:56+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/10/ansible-course-8-.png",
-      "summary": "A filter takes some data, changes it in some way, and gives you back the result. The data could be a string, a number, a list, or a dictionary",
-      "tags": [
-        "ansible-course",
-        "networking"
       ]
     },
     {

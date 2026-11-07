@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-11-07T02:35:25.897006+00:00",
-  "article_count": 2344,
+  "last_updated": "2026-11-07T13:46:52.886288+00:00",
+  "article_count": 2348,
   "articles": [
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "published": "Sat, 07 Nov 2026 11:00:34 +0000",
+      "published_parsed": "2026-11-07T11:00:34+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "tags": [
+        "daniel barton-kennedy",
+        "security",
+        "sim card",
+        "soldier",
+        "tech"
+      ]
+    },
+    {
+      "title": "Going Further with Ansible and Juniper",
+      "link": "https://www.packetswitch.co.uk/going-further-with-ansible-and-juniper/",
+      "published": "Sat, 07 Nov 2026 09:40:45 GMT",
+      "published_parsed": "2026-11-07T09:40:45+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-15-.png",
+      "summary": "In this section, I'll show you a more direct way to do it, using a module called juniper.device.config, which can retrieve the config and save it",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
+    {
+      "title": "Getting Started with Ansible and Juniper Junos",
+      "link": "https://www.packetswitch.co.uk/getting-started-with-juniper-and-ansible/",
+      "published": "Sat, 07 Nov 2026 09:11:00 GMT",
+      "published_parsed": "2026-11-07T09:11:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-14--2.png",
+      "summary": "Juniper works quite differently from Cisco and Arista in a few areas, and that's really what this part is about. Instead of connecting over SSH",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
       "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
@@ -835,6 +877,20 @@
         "cisco",
         "containerlab",
         "networking"
+      ]
+    },
+    {
+      "title": "Palo Alto SSL Decryption and App-ID",
+      "link": "https://www.packetswitch.co.uk/palo-alto-ssl-decryption-and-app-id/",
+      "published": "Sun, 25 Oct 2026 07:58:00 GMT",
+      "published_parsed": "2026-10-25T07:58:00+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/ssl-decrypt-appid.png",
+      "summary": "Does that mean if I create a security policy to block 'facebook-video', the firewall will block only 'facebook-video' and allow everything else? Not really, without using SSL Decryption.",
+      "tags": [
+        "firewall",
+        "networking",
+        "palo alto"
       ]
     },
     {
