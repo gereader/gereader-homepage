@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T02:06:03.954199+00:00",
-  "article_count": 113,
+  "last_updated": "2026-11-08T14:07:36.943391+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1895,19 +1895,6 @@
       "source": "ipSpace Blog",
       "image": null,
       "summary": "Last Friday, I had a lovely chat with Steinn Bjarnarson and Urs Baumann , resulting in the NetworkAutoMagic episode 11 . We couldn’t avoid mentioning netlab , the seven layers of ACL hell (which is still balmy compared to the QoS hell), and the gotchas of AI-generated device configurations....",
-      "tags": [
-        "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "netlab 26.08: ArcOS, VPP (FD.io), ACLs, and DNS",
-      "link": "https://blog.ipspace.net/2026/08/netlab-26-08/?utm_source=atom_feed",
-      "published": "2026-08-10T11:58:00+02:00",
-      "published_parsed": "2026-08-10T11:58:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab release 26.08 brings a few humongous additions: ArcOS support by @roc-ops VPP (FD.io) with FRR or BIRD control plane by @jbemmel SONiC containers (also by @roc-ops ) IPv4/IPv6 access control lists in the routing module by @DanPartelly But wait, there’s more: Read more …",
       "tags": [
         "netlab",
         "networking"
