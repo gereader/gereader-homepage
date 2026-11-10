@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T15:27:01.343217+00:00",
+  "last_updated": "2026-11-10T22:57:38.698265+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -12,7 +12,6 @@
   ],
   "tags": [
     "14-inch macbook pro",
-    "a24 studio",
     "aci",
     "acquisitions",
     "adversary in the middle",
@@ -63,10 +62,8 @@
     "containerlab",
     "containers",
     "cryptocurrency",
-    "culture",
     "cumulus linux",
     "cursor",
-    "cybersecurity",
     "daniel barton-kennedy",
     "data center",
     "data centers",
@@ -78,12 +75,10 @@
     "dmvpn",
     "dns",
     "docker",
-    "documentaries",
     "donald trump iran war",
     "drones",
     "e-ink",
     "eigrp",
-    "elizabeth holmes",
     "encryption",
     "evpn",
     "experimental aircraft",
@@ -93,15 +88,16 @@
     "features",
     "fiber optic cable",
     "fiber optics",
-    "film",
-    "financial report",
     "firewall",
     "firewalls",
     "fox",
     "fujifilm",
+    "google",
+    "google pixel",
     "gps spoofing",
     "grapheneos",
     "gre",
+    "grok build",
     "hacking",
     "high availability",
     "hijacking",
@@ -119,8 +115,8 @@
     "ise",
     "it",
     "jared isaacman",
+    "jensen",
     "kanagawa",
-    "kb5127936",
     "kremlin",
     "lan",
     "linux",
@@ -146,7 +142,6 @@
     "muse",
     "nasa",
     "nat",
-    "nathan fielder",
     "natural gas",
     "navigation blog",
     "netbox",
@@ -183,9 +178,7 @@
     "quarterly earnings",
     "ram-altman script",
     "reactos",
-    "reddit",
     "reviews",
-    "right-click menu",
     "robotics",
     "robots",
     "roku",
@@ -206,11 +199,11 @@
     "sim card",
     "smartphones",
     "snmp",
-    "social media",
     "software",
     "software gone wild",
     "soldier",
     "sony",
+    "spying",
     "sr-mpls",
     "srv6",
     "ssh",
@@ -223,12 +216,12 @@
     "supersonic travel",
     "supply chain attacks",
     "switching",
+    "syndication",
     "tablets",
     "tcp",
     "tech",
     "terminus",
     "the onion router",
-    "theranos",
     "tips",
     "tls",
     "tor",
@@ -246,6 +239,7 @@
     "undersea cables",
     "united airlines",
     "usa-iran war",
+    "vibe coding",
     "video",
     "virtualization",
     "vmware",
@@ -256,15 +250,74 @@
     "wan",
     "watering hole attack",
     "windows",
-    "windows 11",
     "windows alternatives",
     "worth reading",
     "x-59",
     "x-70",
-    "x-plane",
-    "you can see everything"
+    "x-plane"
   ],
   "articles": [
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "Tue, 10 Nov 2026 21:12:59 +0000",
+      "published_parsed": "2026-11-10T21:12:59+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "grok build",
+        "privacy",
+        "security",
+        "vibe coding"
+      ]
+    },
+    {
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "published": "Tue, 10 Nov 2026 19:00:26 +0000",
+      "published_parsed": "2026-11-10T19:00:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "tags": [
+        "google",
+        "google pixel",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "published": "Tue, 10 Nov 2026 18:39:16 +0000",
+      "published_parsed": "2026-11-10T18:39:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "tags": [
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "published": "Tue, 10 Nov 2026 14:53:05 +0000",
+      "published_parsed": "2026-11-10T14:53:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "tags": [
+        "jensen",
+        "nvidia",
+        "spying",
+        "syndication",
+        "tech"
+      ]
+    },
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
       "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
@@ -859,27 +912,6 @@
       ]
     },
     {
-      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "published": "Fri, 30 Oct 2026 11:30:01 +0000",
-      "published_parsed": "2026-10-30T11:30:01+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
-      "tags": [
-        "a24 studio",
-        "culture",
-        "documentaries",
-        "elizabeth holmes",
-        "film",
-        "nathan fielder",
-        "reviews",
-        "tech",
-        "theranos",
-        "you can see everything"
-      ]
-    },
-    {
       "title": "Worth Reading: Network Labs on a Budget",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-network-labs-budget/?utm_source=atom_feed",
       "published": "2026-10-30T09:58:00+01:00",
@@ -891,37 +923,6 @@
         "netlab",
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-      "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-      "published": "Thu, 29 Oct 2026 21:47:57 +0000",
-      "published_parsed": "2026-10-29T21:47:57+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-      "tags": [
-        "reddit",
-        "social media",
-        "tech"
-      ]
-    },
-    {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "published": "Thu, 29 Oct 2026 20:18:49 +0000",
-      "published_parsed": "2026-10-29T20:18:49+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Windows_11_Right_Click_Menu_blog_windows_com.png",
-      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-      "tags": [
-        "financial report",
-        "kb5127936",
-        "microsoft",
-        "right-click menu",
-        "tech",
-        "windows 11"
       ]
     },
     {
@@ -1331,22 +1332,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-      "published": "Wed, 14 Oct 2026 21:35:09 +0000",
-      "published_parsed": "2026-10-14T21:35:09+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-      "tags": [
-        "biz & it",
-        "cybersecurity",
-        "hacking",
-        "security",
-        "vulnerabilities"
       ]
     },
     {

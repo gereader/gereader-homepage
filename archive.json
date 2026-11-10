@@ -1,7 +1,68 @@
 {
-  "last_updated": "2026-11-10T15:27:01.285739+00:00",
-  "article_count": 2353,
+  "last_updated": "2026-11-10T22:57:38.667223+00:00",
+  "article_count": 2357,
   "articles": [
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "Tue, 10 Nov 2026 21:12:59 +0000",
+      "published_parsed": "2026-11-10T21:12:59+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "grok build",
+        "privacy",
+        "security",
+        "vibe coding"
+      ]
+    },
+    {
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "published": "Tue, 10 Nov 2026 19:00:26 +0000",
+      "published_parsed": "2026-11-10T19:00:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "tags": [
+        "google",
+        "google pixel",
+        "smartphones",
+        "tech"
+      ]
+    },
+    {
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "published": "Tue, 10 Nov 2026 18:39:16 +0000",
+      "published_parsed": "2026-11-10T18:39:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "tags": [
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "published": "Tue, 10 Nov 2026 14:53:05 +0000",
+      "published_parsed": "2026-11-10T14:53:05+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "tags": [
+        "jensen",
+        "nvidia",
+        "spying",
+        "syndication",
+        "tech"
+      ]
+    },
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
       "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
