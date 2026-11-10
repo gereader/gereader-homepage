@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T01:17:23.127268+00:00",
-  "article_count": 111,
+  "last_updated": "2026-11-10T15:27:01.343217+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,6 +11,7 @@
     "ipSpace Blog"
   ],
   "tags": [
+    "14-inch macbook pro",
     "a24 studio",
     "aci",
     "acquisitions",
@@ -19,7 +20,6 @@
     "ai",
     "ai data centers",
     "ai halo",
-    "ai search",
     "aiops",
     "aircraft",
     "alpine",
@@ -29,8 +29,9 @@
     "ansible-course",
     "anthropic",
     "apple",
+    "apple m6",
+    "apple silicon",
     "arp",
-    "artificial intelligence",
     "audio",
     "automated troubleshooting",
     "automation",
@@ -79,6 +80,7 @@
     "docker",
     "documentaries",
     "donald trump iran war",
+    "drones",
     "e-ink",
     "eigrp",
     "elizabeth holmes",
@@ -89,14 +91,14 @@
     "exploits",
     "fabric",
     "features",
+    "fiber optic cable",
+    "fiber optics",
     "film",
-    "finance",
     "financial report",
     "firewall",
     "firewalls",
     "fox",
     "fujifilm",
-    "google",
     "gps spoofing",
     "grapheneos",
     "gre",
@@ -105,7 +107,6 @@
     "hijacking",
     "history",
     "humanoid robots",
-    "imports",
     "industrial robots",
     "internet",
     "ip routing",
@@ -127,6 +128,7 @@
     "llms",
     "load balancing",
     "lto",
+    "macbook pro",
     "magnetic tape storage",
     "memavailable",
     "memtotal",
@@ -134,6 +136,7 @@
     "meta",
     "mi350p",
     "microsoft",
+    "military drones",
     "models",
     "motorola",
     "mpls",
@@ -165,12 +168,12 @@
     "openai",
     "openflow",
     "openssh",
+    "optical fiber",
     "ospf",
     "overlay networks",
     "palo alto",
     "patches",
     "php",
-    "physical ai",
     "plex media server",
     "podcast",
     "privacy",
@@ -186,6 +189,10 @@
     "robotics",
     "robots",
     "roku",
+    "russia invasion of ukraine",
+    "russia war on ukraine",
+    "russian invasion of ukraine",
+    "russian war on ukraine",
     "ryzen",
     "sam altman",
     "san",
@@ -230,14 +237,14 @@
     "training",
     "transport layer security",
     "trmnl",
-    "trump tariffs",
     "uefi",
+    "ukraine",
+    "ukraine war",
     "unalignment",
     "undersea cable",
     "undersea cable cuts",
     "undersea cables",
     "united airlines",
-    "us manufacturing",
     "usa-iran war",
     "video",
     "virtualization",
@@ -258,6 +265,48 @@
     "you can see everything"
   ],
   "articles": [
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "published": "Tue, 10 Nov 2026 12:15:32 +0000",
+      "published_parsed": "2026-11-10T12:15:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "tags": [
+        "ai",
+        "drones",
+        "fiber optic cable",
+        "fiber optics",
+        "military drones",
+        "optical fiber",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "published": "Tue, 10 Nov 2026 12:00:21 +0000",
+      "published_parsed": "2026-11-10T12:00:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "tags": [
+        "14-inch macbook pro",
+        "apple",
+        "apple m6",
+        "apple silicon",
+        "features",
+        "macbook pro",
+        "tech"
+      ]
+    },
     {
       "title": "A Sam Altman parody offers an amusing lesson in memory management",
       "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
@@ -873,44 +922,6 @@
         "right-click menu",
         "tech",
         "windows 11"
-      ]
-    },
-    {
-      "title": "Trump declares robot imports a national security threat",
-      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "published": "Thu, 29 Oct 2026 19:07:53 +0000",
-      "published_parsed": "2026-10-29T19:07:53+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "tags": [
-        "ai",
-        "imports",
-        "industrial robots",
-        "physical ai",
-        "robotics",
-        "robots",
-        "tech",
-        "trump tariffs",
-        "us manufacturing"
-      ]
-    },
-    {
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "published": "Thu, 29 Oct 2026 16:24:55 +0000",
-      "published_parsed": "2026-10-29T16:24:55+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "tags": [
-        "ai",
-        "ai search",
-        "artificial intelligence",
-        "finance",
-        "google",
-        "quarterly earnings",
-        "tech"
       ]
     },
     {
@@ -1866,19 +1877,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Compress netlab Lab Topologies with Dot Notation",
-      "link": "https://blog.ipspace.net/2026/08/netlab-compress-lab-topology/?utm_source=atom_feed",
-      "published": "2026-08-12T07:55:00+02:00",
-      "published_parsed": "2026-08-12T07:55:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "netlab is using the Python Box library to make the code easier to read 1 . When I started the project, I hated the way you fetch values from Python dictionaries with stuff like node['ospf']['area'] ; Python Box lets you write node.ospf.area . Even better 2 , you can tell Python Box to create...",
-      "tags": [
-        "netlab",
-        "networking"
       ]
     }
   ]

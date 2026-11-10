@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-11-10T01:17:23.106459+00:00",
-  "article_count": 2351,
+  "last_updated": "2026-11-10T15:27:01.285739+00:00",
+  "article_count": 2353,
   "articles": [
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "published": "Tue, 10 Nov 2026 12:15:32 +0000",
+      "published_parsed": "2026-11-10T12:15:32+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "tags": [
+        "ai",
+        "drones",
+        "fiber optic cable",
+        "fiber optics",
+        "military drones",
+        "optical fiber",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "published": "Tue, 10 Nov 2026 12:00:21 +0000",
+      "published_parsed": "2026-11-10T12:00:21+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "tags": [
+        "14-inch macbook pro",
+        "apple",
+        "apple m6",
+        "apple silicon",
+        "features",
+        "macbook pro",
+        "tech"
+      ]
+    },
     {
       "title": "A Sam Altman parody offers an amusing lesson in memory management",
       "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
