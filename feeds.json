@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T17:15:12.275650+00:00",
-  "article_count": 112,
+  "last_updated": "2026-11-10T01:17:23.127268+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -29,7 +29,6 @@
     "ansible-course",
     "anthropic",
     "apple",
-    "arctic",
     "arp",
     "artificial intelligence",
     "audio",
@@ -49,7 +48,6 @@
     "buffer overflow",
     "byod",
     "byos",
-    "canada",
     "cargo theft",
     "cerfificate authority",
     "certificate authorities",
@@ -61,7 +59,6 @@
     "claude",
     "cloud",
     "company news",
-    "computer worms",
     "containerlab",
     "containers",
     "cryptocurrency",
@@ -86,7 +83,6 @@
     "eigrp",
     "elizabeth holmes",
     "encryption",
-    "european union",
     "evpn",
     "experimental aircraft",
     "exploit",
@@ -104,7 +100,6 @@
     "gps spoofing",
     "grapheneos",
     "gre",
-    "greenland",
     "hacking",
     "high availability",
     "hijacking",
@@ -133,6 +128,8 @@
     "load balancing",
     "lto",
     "magnetic tape storage",
+    "memavailable",
+    "memtotal",
     "mergers",
     "meta",
     "mi350p",
@@ -167,6 +164,7 @@
     "open source",
     "openai",
     "openflow",
+    "openssh",
     "ospf",
     "overlay networks",
     "palo alto",
@@ -180,6 +178,7 @@
     "python",
     "qos",
     "quarterly earnings",
+    "ram-altman script",
     "reactos",
     "reddit",
     "reviews",
@@ -188,7 +187,7 @@
     "robots",
     "roku",
     "ryzen",
-    "sabotage",
+    "sam altman",
     "san",
     "sd-wan",
     "sdn",
@@ -198,7 +197,6 @@
     "sensecraft",
     "service providers",
     "sim card",
-    "small models",
     "smartphones",
     "snmp",
     "social media",
@@ -260,6 +258,39 @@
     "you can see everything"
   ],
   "articles": [
+    {
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "published": "Mon, 09 Nov 2026 20:49:09 +0000",
+      "published_parsed": "2026-11-09T20:49:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "tags": [
+        "memavailable",
+        "memtotal",
+        "openai",
+        "ram-altman script",
+        "sam altman",
+        "tech"
+      ]
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "published": "Mon, 09 Nov 2026 19:41:34 +0000",
+      "published_parsed": "2026-11-09T19:41:34+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "tags": [
+        "biz & it",
+        "linux",
+        "openssh",
+        "security",
+        "ssh"
+      ]
+    },
     {
       "title": "Worth Reading: BGP Multi-Homed with Two ISPs and Two Routers",
       "link": "https://blog.ipspace.net/2026/11/worth-reading-bgp-multihomed-two-isps/?utm_source=atom_feed",
@@ -883,28 +914,6 @@
       ]
     },
     {
-      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-      "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-      "published": "Wed, 28 Oct 2026 22:35:50 +0000",
-      "published_parsed": "2026-10-28T22:35:50+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-      "tags": [
-        "arctic",
-        "canada",
-        "european union",
-        "greenland",
-        "sabotage",
-        "subsea cable",
-        "subsea cables",
-        "tech",
-        "undersea cable",
-        "undersea cable cuts",
-        "undersea cables"
-      ]
-    },
-    {
       "title": "Validating Your Network with Ansible Assert",
       "link": "https://www.packetswitch.co.uk/validating-your-network-with-ansible-assert/",
       "published": "Wed, 28 Oct 2026 14:31:06 GMT",
@@ -1327,22 +1336,6 @@
         "hacking",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "published": "Wed, 14 Oct 2026 12:55:06 +0000",
-      "published_parsed": "2026-10-14T12:55:06+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "computer worms",
-        "security",
-        "small models"
       ]
     },
     {
@@ -1885,18 +1878,6 @@
       "summary": "netlab is using the Python Box library to make the code easier to read 1 . When I started the project, I hated the way you fetch values from Python dictionaries with stuff like node['ospf']['area'] ; Python Box lets you write node.ospf.area . Even better 2 , you can tell Python Box to create...",
       "tags": [
         "netlab",
-        "networking"
-      ]
-    },
-    {
-      "title": "Meet Your 2026 NAF Advisory Board",
-      "link": "https://networkautomation.forum/blog/meet-your-2026-naf-advisory-board",
-      "published": "Tue, 11 Aug 2026 20:15:21 +0000",
-      "published_parsed": "2026-08-11T20:15:21+00:00",
-      "source": "Network Automation Forum",
-      "image": null,
-      "summary": "The NAF Advisory Board (AB) is the amazing group of volunteers who keep AutoCon practitioner-first, vendor-neutral, and community-responsive.",
-      "tags": [
         "networking"
       ]
     }

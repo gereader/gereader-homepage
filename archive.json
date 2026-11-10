@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-11-09T17:15:12.246864+00:00",
-  "article_count": 2349,
+  "last_updated": "2026-11-10T01:17:23.106459+00:00",
+  "article_count": 2351,
   "articles": [
+    {
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "published": "Mon, 09 Nov 2026 20:49:09 +0000",
+      "published_parsed": "2026-11-09T20:49:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "tags": [
+        "memavailable",
+        "memtotal",
+        "openai",
+        "ram-altman script",
+        "sam altman",
+        "tech"
+      ]
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "published": "Mon, 09 Nov 2026 19:41:34 +0000",
+      "published_parsed": "2026-11-09T19:41:34+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "tags": [
+        "biz & it",
+        "linux",
+        "openssh",
+        "security",
+        "ssh"
+      ]
+    },
     {
       "title": "Worth Reading: BGP Multi-Homed with Two ISPs and Two Routers",
       "link": "https://blog.ipspace.net/2026/11/worth-reading-bgp-multihomed-two-isps/?utm_source=atom_feed",
