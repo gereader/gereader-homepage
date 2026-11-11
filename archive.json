@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-10T22:57:38.667223+00:00",
-  "article_count": 2357,
+  "last_updated": "2026-11-11T02:40:34.744047+00:00",
+  "article_count": 2359,
   "articles": [
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "published": "Tue, 10 Nov 2026 23:30:56 +0000",
+      "published_parsed": "2026-11-10T23:30:56+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Seagate_FireCuda_Forge_Specs.pdf.png",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "tags": [
+        "alkemi intelligent storage",
+        "hybrid drives",
+        "macos fusion drive",
+        "seagate firecude forge",
+        "tech"
+      ]
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "Tue, 10 Nov 2026 22:35:01 +0000",
+      "published_parsed": "2026-11-10T22:35:01+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "tags": [
+        "ai",
+        "ai drones",
+        "amazon",
+        "amazon drones",
+        "drones",
+        "physical ai",
+        "ring",
+        "ring doorbell camera",
+        "robotics",
+        "robots",
+        "tech"
+      ]
+    },
     {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
