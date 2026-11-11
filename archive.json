@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-11T02:40:34.744047+00:00",
-  "article_count": 2359,
+  "last_updated": "2026-11-11T14:57:48.381443+00:00",
+  "article_count": 2360,
   "articles": [
+    {
+      "title": "Candidate Configuration on Cisco Nexus OS",
+      "link": "https://blog.ipspace.net/2026/11/candidate-active-configuration-nexus-os/?utm_source=atom_feed",
+      "published": "2026-11-11T08:16:00+01:00",
+      "published_parsed": "2026-11-11T08:16:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: Third time is (supposedly) a charm. Not in this case. It’s a bit hard to understand why one would launch an enterprise data-center-grade network operating system without candidate/active configuration in the 21st century, but that’s what Cisco and Arista did with Nexus OS and EOS. Arista...",
+      "tags": [
+        "automation",
+        "networking"
+      ]
+    },
     {
       "title": "Seagate's new hybrid drive raises some old questions",
       "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",

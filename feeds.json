@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T02:40:34.762372+00:00",
+  "last_updated": "2026-11-11T14:57:48.400656+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -254,6 +254,19 @@
     "x-plane"
   ],
   "articles": [
+    {
+      "title": "Candidate Configuration on Cisco Nexus OS",
+      "link": "https://blog.ipspace.net/2026/11/candidate-active-configuration-nexus-os/?utm_source=atom_feed",
+      "published": "2026-11-11T08:16:00+01:00",
+      "published_parsed": "2026-11-11T08:16:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "TL&DR: Third time is (supposedly) a charm. Not in this case. It’s a bit hard to understand why one would launch an enterprise data-center-grade network operating system without candidate/active configuration in the 21st century, but that’s what Cisco and Arista did with Nexus OS and EOS. Arista...",
+      "tags": [
+        "automation",
+        "networking"
+      ]
+    },
     {
       "title": "Seagate's new hybrid drive raises some old questions",
       "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
@@ -1845,19 +1858,6 @@
       "tags": [
         "networking",
         "tips"
-      ]
-    },
-    {
-      "title": "Worth Reading: LLM Prompts for Network Engineers",
-      "link": "https://blog.ipspace.net/2026/08/worth-reading-llm-prompts-for-network-engineers/?utm_source=atom_feed",
-      "published": "2026-08-13T08:07:00+02:00",
-      "published_parsed": "2026-08-13T08:07:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Tony Mattke put together a long list of recommendations that might help you get more out of your LLM tokens. Definitely worth reading instead of yelling at the stupid AI .",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
