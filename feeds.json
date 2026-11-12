@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T14:57:48.400656+00:00",
+  "last_updated": "2026-11-12T00:12:49.206949+00:00",
   "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
@@ -18,14 +18,12 @@
     "agility robotics",
     "ai",
     "ai drones",
-    "ai halo",
     "aiops",
     "aircraft",
     "alkemi intelligent storage",
     "alpine",
     "amazon",
     "amazon drones",
-    "amd",
     "android",
     "ansible",
     "ansible-course",
@@ -48,8 +46,6 @@
     "bridging",
     "broadcom",
     "buffer overflow",
-    "byod",
-    "byos",
     "cargo theft",
     "cerfificate authority",
     "certificate authorities",
@@ -61,6 +57,7 @@
     "claude",
     "cloud",
     "company news",
+    "computer science",
     "containerlab",
     "containers",
     "cryptocurrency",
@@ -72,13 +69,11 @@
     "dhcp",
     "disclosure",
     "discover-tech",
-    "diy",
     "dmvpn",
     "dns",
     "docker",
     "donald trump iran war",
     "drones",
-    "e-ink",
     "eigrp",
     "encryption",
     "evpn",
@@ -104,6 +99,7 @@
     "history",
     "humanoid robots",
     "hybrid drives",
+    "ibm",
     "industrial robots",
     "internet",
     "ip routing",
@@ -117,6 +113,7 @@
     "it",
     "jared isaacman",
     "jensen",
+    "jensen huang",
     "kremlin",
     "lan",
     "linux",
@@ -129,7 +126,6 @@
     "memtotal",
     "mergers",
     "meta",
-    "mi350p",
     "microsoft",
     "military drones",
     "models",
@@ -168,13 +164,15 @@
     "patches",
     "php",
     "physical ai",
+    "physics",
     "plex media server",
     "podcast",
     "privacy",
     "private keys",
     "python",
     "qos",
-    "quarterly earnings",
+    "quantum computing",
+    "quantum mechanics",
     "ram-altman script",
     "reactos",
     "reviews",
@@ -187,16 +185,14 @@
     "russia war on ukraine",
     "russian invasion of ukraine",
     "russian war on ukraine",
-    "ryzen",
     "sam altman",
     "san",
+    "science",
     "sd-wan",
     "sdn",
     "seagate firecude forge",
     "secure boot",
     "security",
-    "seeed studio",
-    "sensecraft",
     "service providers",
     "sim card",
     "smartphones",
@@ -218,7 +214,6 @@
     "tablets",
     "tcp",
     "tech",
-    "terminus",
     "the onion router",
     "tips",
     "tls",
@@ -227,7 +222,6 @@
     "traffic engineering",
     "training",
     "transport layer security",
-    "trmnl",
     "uefi",
     "ukraine",
     "ukraine war",
@@ -254,6 +248,51 @@
     "x-plane"
   ],
   "articles": [
+    {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "published": "Wed, 11 Nov 2026 23:10:17 +0000",
+      "published_parsed": "2026-11-11T23:10:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "tags": [
+        "jensen huang",
+        "nvidia",
+        "tech"
+      ]
+    },
+    {
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "published": "Wed, 11 Nov 2026 17:04:26 +0000",
+      "published_parsed": "2026-11-11T17:04:26+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Apple has already made the forum read-only.",
+      "tags": [
+        "apple",
+        "tech"
+      ]
+    },
+    {
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "published": "Wed, 11 Nov 2026 16:33:08 +0000",
+      "published_parsed": "2026-11-11T16:33:08+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+      "tags": [
+        "computer science",
+        "ibm",
+        "physics",
+        "quantum computing",
+        "quantum mechanics",
+        "science",
+        "tech"
+      ]
+    },
     {
       "title": "Candidate Configuration on Cisco Nexus OS",
       "link": "https://blog.ipspace.net/2026/11/candidate-active-configuration-nexus-os/?utm_source=atom_feed",
@@ -726,37 +765,6 @@
       ]
     },
     {
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-      "published": "Wed, 04 Nov 2026 21:29:46 +0000",
-      "published_parsed": "2026-11-04T21:29:46+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-      "tags": [
-        "ai halo",
-        "amd",
-        "mi350p",
-        "quarterly earnings",
-        "ryzen",
-        "tech"
-      ]
-    },
-    {
-      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
-      "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-      "published": "Wed, 04 Nov 2026 18:00:40 +0000",
-      "published_parsed": "2026-11-04T18:00:40+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "It won't win the specs race, but it will actually fit in your hand.",
-      "tags": [
-        "android",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
       "title": "Binance says hackers who stole billions in crypto spent months planning heist",
       "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
       "published": "Wed, 04 Nov 2026 16:06:03 +0000",
@@ -813,27 +821,6 @@
       "tags": [
         "bgp",
         "networking"
-      ]
-    },
-    {
-      "title": "This $48 e-paper display can be whatever you want it to be",
-      "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-      "published": "Mon, 02 Nov 2026 12:00:07 +0000",
-      "published_parsed": "2026-11-02T12:00:07+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
-      "tags": [
-        "byod",
-        "byos",
-        "diy",
-        "e-ink",
-        "features",
-        "seeed studio",
-        "sensecraft",
-        "tech",
-        "terminus",
-        "trmnl"
       ]
     },
     {
