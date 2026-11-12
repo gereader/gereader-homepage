@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-12T00:12:49.176442+00:00",
-  "article_count": 2363,
+  "last_updated": "2026-11-12T08:01:02.767603+00:00",
+  "article_count": 2364,
   "articles": [
+    {
+      "title": "Getting Started with Ansible and Arista",
+      "link": "https://www.packetswitch.co.uk/getting-started-with-ansible-and-arista/",
+      "published": "Thu, 12 Nov 2026 07:22:27 GMT",
+      "published_parsed": "2026-11-12T07:22:27+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-16-.png",
+      "summary": "The Arista collection, arista.eos, comes with the ansible package, so there's nothing else to install. Once the lab is up, each router only has",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
       "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T00:12:49.206949+00:00",
-  "article_count": 110,
+  "last_updated": "2026-11-12T08:01:02.798170+00:00",
+  "article_count": 109,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -248,6 +248,19 @@
     "x-plane"
   ],
   "articles": [
+    {
+      "title": "Getting Started with Ansible and Arista",
+      "link": "https://www.packetswitch.co.uk/getting-started-with-ansible-and-arista/",
+      "published": "Thu, 12 Nov 2026 07:22:27 GMT",
+      "published_parsed": "2026-11-12T07:22:27+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/ansible-course-16-.png",
+      "summary": "The Arista collection, arista.eos, comes with the ansible package, so there's nothing else to install. Once the lab is up, each router only has",
+      "tags": [
+        "ansible-course",
+        "networking"
+      ]
+    },
     {
       "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
       "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
@@ -1061,20 +1074,6 @@
       ]
     },
     {
-      "title": "Palo Alto SSL Decryption and App-ID",
-      "link": "https://www.packetswitch.co.uk/palo-alto-ssl-decryption-and-app-id/",
-      "published": "Sun, 25 Oct 2026 07:58:00 GMT",
-      "published_parsed": "2026-10-25T07:58:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/ssl-decrypt-appid.png",
-      "summary": "Does that mean if I create a security policy to block 'facebook-video', the firewall will block only 'facebook-video' and allow everything else? Not really, without using SSL Decryption.",
-      "tags": [
-        "firewall",
-        "networking",
-        "palo alto"
-      ]
-    },
-    {
       "title": "Public Videos: Data Center Fabric Architectures",
       "link": "https://blog.ipspace.net/2026/10/fabric-videos/?utm_source=atom_feed",
       "published": "2026-10-23T08:15:00+02:00",
@@ -1832,19 +1831,6 @@
       "tags": [
         "ipv6",
         "networking"
-      ]
-    },
-    {
-      "title": "Automatically Archive Old NetBox Branches",
-      "link": "https://www.packetcoders.io/automatically-archive-old-netbox-branches/",
-      "published": "Fri, 14 Aug 2026 08:00:15 GMT",
-      "published_parsed": "2026-08-14T08:00:15+00:00",
-      "source": "Packet Coders",
-      "image": "https://storage.ghost.io/c/49/77/497795e8-85fb-4775-848e-ee5126597212/content/images/2026/07/4dc57372-6c26-45dc-a888-466cadfbc7c9-Untitled-design---2025-09-12T090749.973-43.png",
-      "summary": "A common question we get from students using NetBox Branching is: How can I automatically remove stale branches from NetBox? Therefore, I thought I’d share the latest addition to NetBox Branching, introduced in v1.1.2 . This release adds the auto_archive_days setting, allowing you to automatically",
-      "tags": [
-        "networking",
-        "tips"
       ]
     }
   ]
