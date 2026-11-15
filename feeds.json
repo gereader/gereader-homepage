@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T02:26:42.947158+00:00",
-  "article_count": 111,
+  "last_updated": "2026-11-15T14:34:33.015541+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1848,19 +1848,6 @@
       "summary": "Sakar left an interesting comment on my The Curious Case of the BGP Connect State blog post, claiming that Cisco IOS/XE goes through a CONNECT state when opening an incoming BGP session. I wanted to double-check this behavior, so I needed a scenario where one router would keep sending TCP SYN...",
       "tags": [
         "bgp",
-        "networking"
-      ]
-    },
-    {
-      "title": "The Never-Ending IPv6 Loopback Prefix Saga",
-      "link": "https://blog.ipspace.net/2026/08/ipv6-loopback-saga/?utm_source=atom_feed",
-      "published": "2026-08-17T08:02:00+02:00",
-      "published_parsed": "2026-08-17T08:02:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Remember the sage advice to simplify your life and use the IPv6 /64 prefixes everywhere? Not only does it make your life simpler (and wastes immesuarably less address space than the crazy “let’s assign /64 to every device ” stupidity), it also reduces the hardware requirements in your high-speed...",
-      "tags": [
-        "ipv6",
         "networking"
       ]
     }
