@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T01:43:16.975523+00:00",
+  "last_updated": "2026-11-17T16:44:50.956367+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -53,6 +53,7 @@
     "certifications",
     "chainalysis",
     "change management",
+    "check-ins",
     "cisco",
     "claude",
     "cloud",
@@ -93,6 +94,7 @@
     "google",
     "google pixel",
     "gre",
+    "grok bot",
     "grok build",
     "hacking",
     "high availability",
@@ -145,9 +147,7 @@
     "networking fundamentals",
     "nfv",
     "nsx",
-    "ntfs",
     "nvidia",
-    "open source",
     "openai",
     "openflow",
     "openssh",
@@ -164,13 +164,13 @@
     "policy",
     "privacy",
     "private keys",
+    "prompts",
     "ptsd",
     "python",
     "qos",
     "quantum computing",
     "quantum mechanics",
     "ram-altman script",
-    "reactos",
     "ring",
     "ring doorbell camera",
     "road bikes",
@@ -235,11 +235,68 @@
     "wan",
     "watering hole attack",
     "windows",
-    "windows alternatives",
     "worth reading",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "published": "Tue, 17 Nov 2026 15:28:59 +0000",
+      "published_parsed": "2026-11-17T15:28:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "tags": [
+        "ai",
+        "ai data centers",
+        "ars live",
+        "ars live chat",
+        "ars live conversations",
+        "data centers",
+        "donald trump iran war",
+        "drone strikes",
+        "iran",
+        "russia",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "tech",
+        "ukraine",
+        "ukraine war",
+        "usa-iran war"
+      ]
+    },
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "published": "Tue, 17 Nov 2026 14:00:29 +0000",
+      "published_parsed": "2026-11-17T14:00:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "check-ins",
+        "grok bot",
+        "prompts",
+        "security"
+      ]
+    },
+    {
+      "title": "Worth Investigating (macOS): Kilobat",
+      "link": "https://blog.ipspace.net/2026/11/kilobat/?utm_source=atom_feed",
+      "published": "2026-11-17T11:40:00+01:00",
+      "published_parsed": "2026-11-17T11:40:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After I published a pointer to Octomon, Philip Seifi sent me a kind message pointing out his Kilobat tool ( documentation ). I haven’t tested it, but it seems like an interesting tool if you’re using your Mac in less-than-optimal environments (Philip seems to be a digital nomad, who would thus know...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Friday’s ground stop could happen on your network. Do you know what your next change will do?",
       "link": "https://www.netbrain.com/blog/fridays-ground-stop-could-happen-on-your-network/",
@@ -392,35 +449,6 @@
       "summary": "A reader asked how he could access the Routing in EVPN Fabrics videos, and the simplest thing for me to do was to make all the videos in the EVPN webinar public. Almost twelve hours of EVPN goodness is waiting for you. Explore the videos You probably noticed that I always ask AI to generate some...",
       "tags": [
         "networking"
-      ]
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "published": "Thu, 12 Nov 2026 19:59:59 +0000",
-      "published_parsed": "2026-11-12T19:59:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "tags": [
-        "ai",
-        "ai data centers",
-        "ars live",
-        "ars live chat",
-        "ars live conversations",
-        "data centers",
-        "donald trump iran war",
-        "drone strikes",
-        "iran",
-        "russia",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war",
-        "usa-iran war"
       ]
     },
     {
@@ -1327,23 +1355,6 @@
       ]
     },
     {
-      "title": "ReactOS reaches major milestone with NTFS install support",
-      "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-      "published": "Mon, 19 Oct 2026 18:30:56 +0000",
-      "published_parsed": "2026-10-19T18:30:56+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "ReactOS gains NTFS install support with new driver.",
-      "tags": [
-        "biz & it",
-        "ntfs",
-        "open source",
-        "reactos",
-        "tech",
-        "windows alternatives"
-      ]
-    },
-    {
       "title": "Worth Reading: Labs as Code (Part 1)",
       "link": "https://blog.ipspace.net/2026/10/worth-reading-labs-as-code/?utm_source=atom_feed",
       "published": "2026-10-19T07:45:00+02:00",
@@ -1842,20 +1853,6 @@
       "image": null,
       "summary": "Tony Mattke continues publishing excellent “Git for Networking Engineers” content. In his latest article, he described how to find who made what changes (and why) in a Git repository . Absolutely worth reading if you’re new to Git, but even oldtimers might find a few useful tidbits (Git is one of...",
       "tags": [
-        "networking",
-        "worth reading"
-      ]
-    },
-    {
-      "title": "Worth Reading: On AI Coding and Its Discontents",
-      "link": "https://blog.ipspace.net/2026/08/worth-reading-drawbacks-ai-coding/?utm_source=atom_feed",
-      "published": "2026-08-19T08:24:00+02:00",
-      "published_parsed": "2026-08-19T08:24:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "A lot of AI-coding enthusiasts are making claims along the lines of “ AI coding tools are like compilers; you supply intent, they translate it into code, and who ever looked at the machine-code output? ” Unfortunately, there is a bit of a gap between hope and reality; traditional compilers were...",
-      "tags": [
-        "ai",
         "networking",
         "worth reading"
       ]

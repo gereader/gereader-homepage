@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-11-17T01:43:16.942216+00:00",
-  "article_count": 2378,
+  "last_updated": "2026-11-17T16:44:50.925900+00:00",
+  "article_count": 2380,
   "articles": [
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "published": "Tue, 17 Nov 2026 14:00:29 +0000",
+      "published_parsed": "2026-11-17T14:00:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "check-ins",
+        "grok bot",
+        "prompts",
+        "security"
+      ]
+    },
+    {
+      "title": "Worth Investigating (macOS): Kilobat",
+      "link": "https://blog.ipspace.net/2026/11/kilobat/?utm_source=atom_feed",
+      "published": "2026-11-17T11:40:00+01:00",
+      "published_parsed": "2026-11-17T11:40:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "After I published a pointer to Octomon, Philip Seifi sent me a kind message pointing out his Kilobat tool ( documentation ). I haven’t tested it, but it seems like an interesting tool if you’re using your Mac in less-than-optimal environments (Philip seems to be a digital nomad, who would thus know...",
+      "tags": [
+        "networking"
+      ]
+    },
     {
       "title": "Friday’s ground stop could happen on your network. Do you know what your next change will do?",
       "link": "https://www.netbrain.com/blog/fridays-ground-stop-could-happen-on-your-network/",
