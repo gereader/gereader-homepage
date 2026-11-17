@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-11-16T16:49:59.736618+00:00",
-  "article_count": 2375,
+  "last_updated": "2026-11-17T01:43:16.942216+00:00",
+  "article_count": 2378,
   "articles": [
+    {
+      "title": "Friday’s ground stop could happen on your network. Do you know what your next change will do?",
+      "link": "https://www.netbrain.com/blog/fridays-ground-stop-could-happen-on-your-network/",
+      "published": "2026-11-16T22:22:25Z",
+      "published_parsed": "2026-11-16T22:22:25+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "",
+      "tags": [
+        "company news",
+        "networking"
+      ]
+    },
+    {
+      "title": "Three small failures combined to take down Microsoft 365",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "published": "Mon, 16 Nov 2026 21:56:39 +0000",
+      "published_parsed": "2026-11-16T21:56:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "tags": [
+        "cloud gateway",
+        "exchange online",
+        "microsoft",
+        "microsoft 365",
+        "tech",
+        "windows"
+      ]
+    },
+    {
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "published": "Mon, 16 Nov 2026 20:37:47 +0000",
+      "published_parsed": "2026-11-16T20:37:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "tags": [
+        "biz & it",
+        "intel",
+        "lawsuit",
+        "policy"
+      ]
+    },
     {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",

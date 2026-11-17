@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T16:49:59.763327+00:00",
-  "article_count": 110,
+  "last_updated": "2026-11-17T01:43:16.975523+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -18,7 +18,6 @@
     "ai",
     "ai data centers",
     "ai drones",
-    "aiops",
     "alkemi intelligent storage",
     "alpine",
     "amazon",
@@ -49,7 +48,6 @@
     "bridging",
     "broadcom",
     "buffer overflow",
-    "cargo theft",
     "cerfificate authority",
     "certificate authorities",
     "certifications",
@@ -58,6 +56,7 @@
     "cisco",
     "claude",
     "cloud",
+    "cloud gateway",
     "company news",
     "computer science",
     "containerlab",
@@ -82,6 +81,7 @@
     "eigrp",
     "encryption",
     "evpn",
+    "exchange online",
     "exploit",
     "exploits",
     "fabric",
@@ -92,16 +92,15 @@
     "firewalls",
     "google",
     "google pixel",
-    "gps spoofing",
     "gre",
     "grok build",
     "hacking",
     "high availability",
-    "hijacking",
     "history",
     "hybrid drives",
     "ibm",
     "imac",
+    "intel",
     "internet",
     "ip routing",
     "ipv6",
@@ -114,9 +113,9 @@
     "jensen huang",
     "kremlin",
     "lan",
+    "lawsuit",
     "linux",
     "lisp",
-    "llms",
     "load balancing",
     "macbook pro",
     "macos fusion drive",
@@ -124,8 +123,8 @@
     "memtotal",
     "meta",
     "microsoft",
+    "microsoft 365",
     "military drones",
-    "models",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -162,6 +161,7 @@
     "physics",
     "plex media server",
     "podcast",
+    "policy",
     "privacy",
     "private keys",
     "ptsd",
@@ -221,7 +221,6 @@
     "uefi",
     "ukraine",
     "ukraine war",
-    "unalignment",
     "undersea cable",
     "undersea cable cuts",
     "undersea cables",
@@ -241,6 +240,51 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Friday’s ground stop could happen on your network. Do you know what your next change will do?",
+      "link": "https://www.netbrain.com/blog/fridays-ground-stop-could-happen-on-your-network/",
+      "published": "2026-11-16T22:22:25Z",
+      "published_parsed": "2026-11-16T22:22:25+00:00",
+      "source": "NetBrain Blog",
+      "image": null,
+      "summary": "",
+      "tags": [
+        "company news",
+        "networking"
+      ]
+    },
+    {
+      "title": "Three small failures combined to take down Microsoft 365",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "published": "Mon, 16 Nov 2026 21:56:39 +0000",
+      "published_parsed": "2026-11-16T21:56:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "tags": [
+        "cloud gateway",
+        "exchange online",
+        "microsoft",
+        "microsoft 365",
+        "tech",
+        "windows"
+      ]
+    },
+    {
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "published": "Mon, 16 Nov 2026 20:37:47 +0000",
+      "published_parsed": "2026-11-16T20:37:47+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "tags": [
+        "biz & it",
+        "intel",
+        "lawsuit",
+        "policy"
+      ]
+    },
     {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
@@ -745,22 +789,6 @@
         "chainalysis",
         "hacking",
         "security"
-      ]
-    },
-    {
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "published": "Fri, 06 Nov 2026 20:05:30 +0000",
-      "published_parsed": "2026-11-06T20:05:30+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-      "tags": [
-        "cargo theft",
-        "gps spoofing",
-        "hijacking",
-        "nvidia",
-        "tech"
       ]
     },
     {
@@ -1326,24 +1354,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "published": "Fri, 16 Oct 2026 20:59:01 +0000",
-      "published_parsed": "2026-10-16T20:59:01+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "llms",
-        "models",
-        "openai",
-        "security",
-        "unalignment"
       ]
     },
     {
