@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T16:44:50.956367+00:00",
+  "last_updated": "2026-11-18T00:42:17.894220+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,6 +15,7 @@
     "aci",
     "adversary in the middle",
     "aero bikes",
+    "agent365",
     "ai",
     "ai data centers",
     "ai drones",
@@ -62,6 +63,8 @@
     "computer science",
     "containerlab",
     "containers",
+    "content delivery networks",
+    "copilot",
     "cryptocurrency",
     "cumulus linux",
     "cursor",
@@ -107,10 +110,10 @@
     "ip routing",
     "ipv6",
     "iran",
-    "iran revolutionary guard corps",
     "is-is",
     "ise",
     "it",
+    "javascript",
     "jensen",
     "jensen huang",
     "kremlin",
@@ -121,11 +124,13 @@
     "load balancing",
     "macbook pro",
     "macos fusion drive",
+    "malware",
     "memavailable",
     "memtotal",
     "meta",
     "microsoft",
     "microsoft 365",
+    "microsoft ignite",
     "military drones",
     "mpls",
     "mpls vpn",
@@ -159,7 +164,6 @@
     "php",
     "physical ai",
     "physics",
-    "plex media server",
     "podcast",
     "policy",
     "privacy",
@@ -203,8 +207,6 @@
     "srv6",
     "ssh",
     "streaming",
-    "subsea cable",
-    "subsea cables",
     "supply chain attacks",
     "switching",
     "syndication",
@@ -221,9 +223,6 @@
     "uefi",
     "ukraine",
     "ukraine war",
-    "undersea cable",
-    "undersea cable cuts",
-    "undersea cables",
     "usa-iran war",
     "vibe coding",
     "video",
@@ -239,6 +238,39 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "published": "Wed, 18 Nov 2026 00:27:29 +0000",
+      "published_parsed": "2026-11-18T00:27:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_New_Ecosystem_Stack_AI.png",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "tags": [
+        "agent365",
+        "ai",
+        "copilot",
+        "microsoft ignite",
+        "tech"
+      ]
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "published": "Tue, 17 Nov 2026 22:32:16 +0000",
+      "published_parsed": "2026-11-17T22:32:16+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "content delivery networks",
+        "javascript",
+        "malware",
+        "security"
+      ]
+    },
     {
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
       "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
@@ -782,27 +814,6 @@
       ]
     },
     {
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "published": "Fri, 06 Nov 2026 22:41:37 +0000",
-      "published_parsed": "2026-11-06T22:41:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-      "tags": [
-        "donald trump iran war",
-        "iran",
-        "iran revolutionary guard corps",
-        "subsea cable",
-        "subsea cables",
-        "tech",
-        "undersea cable",
-        "undersea cable cuts",
-        "undersea cables",
-        "usa-iran war"
-      ]
-    },
-    {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
       "published": "Fri, 06 Nov 2026 20:56:41 +0000",
@@ -1336,22 +1347,6 @@
       "tags": [
         "eigrp",
         "networking"
-      ]
-    },
-    {
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "published": "Mon, 19 Oct 2026 19:39:19 +0000",
-      "published_parsed": "2026-10-19T19:39:19+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "tags": [
-        "biz & it",
-        "exploits",
-        "plex media server",
-        "security",
-        "vulnerabilities"
       ]
     },
     {

@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-11-17T16:44:50.925900+00:00",
-  "article_count": 2380,
+  "last_updated": "2026-11-18T00:42:17.863294+00:00",
+  "article_count": 2382,
   "articles": [
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "published": "Wed, 18 Nov 2026 00:27:29 +0000",
+      "published_parsed": "2026-11-18T00:27:29+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_New_Ecosystem_Stack_AI.png",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "tags": [
+        "agent365",
+        "ai",
+        "copilot",
+        "microsoft ignite",
+        "tech"
+      ]
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "published": "Tue, 17 Nov 2026 22:32:16 +0000",
+      "published_parsed": "2026-11-17T22:32:16+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "tags": [
+        "apple",
+        "biz & it",
+        "content delivery networks",
+        "javascript",
+        "malware",
+        "security"
+      ]
+    },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
