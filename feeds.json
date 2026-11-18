@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T00:42:17.894220+00:00",
-  "article_count": 111,
+  "last_updated": "2026-11-18T08:17:36.333678+00:00",
+  "article_count": 110,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1837,19 +1837,6 @@
         "netlab",
         "networking",
         "security"
-      ]
-    },
-    {
-      "title": "Worth Reading: Reading the Git Crime Scene",
-      "link": "https://blog.ipspace.net/2026/08/worth-reading-git-crime-scene/?utm_source=atom_feed",
-      "published": "2026-08-20T07:56:00+02:00",
-      "published_parsed": "2026-08-20T07:56:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "Tony Mattke continues publishing excellent “Git for Networking Engineers” content. In his latest article, he described how to find who made what changes (and why) in a Git repository . Absolutely worth reading if you’re new to Git, but even oldtimers might find a few useful tidbits (Git is one of...",
-      "tags": [
-        "networking",
-        "worth reading"
       ]
     }
   ]
