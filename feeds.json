@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T08:17:36.333678+00:00",
-  "article_count": 110,
+  "last_updated": "2026-11-18T21:43:34.907637+00:00",
+  "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -11,7 +11,6 @@
     "ipSpace Blog"
   ],
   "tags": [
-    "14-inch macbook pro",
     "aci",
     "adversary in the middle",
     "aero bikes",
@@ -39,11 +38,13 @@
     "autonomous drones",
     "aws",
     "azure",
+    "best buy",
     "bgp",
     "bike review",
     "biz & it",
     "blockchain",
     "blog",
+    "blu-ray",
     "bootkits",
     "breaches",
     "bridging",
@@ -68,12 +69,12 @@
     "cryptocurrency",
     "cumulus linux",
     "cursor",
-    "daniel barton-kennedy",
     "data center",
     "data centers",
     "delivery drones",
     "design",
     "dhcp",
+    "disa stig",
     "disclosure",
     "dmvpn",
     "dns",
@@ -82,7 +83,10 @@
     "drone anxiety",
     "drone strikes",
     "drones",
+    "dvd",
+    "e-bikes",
     "eigrp",
+    "electric bikes",
     "encryption",
     "evpn",
     "exchange online",
@@ -90,8 +94,6 @@
     "exploits",
     "fabric",
     "features",
-    "fiber optic cable",
-    "fiber optics",
     "firewall",
     "firewalls",
     "google",
@@ -122,16 +124,13 @@
     "linux",
     "lisp",
     "load balancing",
-    "macbook pro",
     "macos fusion drive",
     "malware",
-    "memavailable",
-    "memtotal",
     "meta",
     "microsoft",
     "microsoft 365",
     "microsoft ignite",
-    "military drones",
+    "microsoft windows server 2028 public preview",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -141,6 +140,7 @@
     "navigation blog",
     "netbox",
     "netconf",
+    "netflix",
     "netlab",
     "network assessment",
     "network automation",
@@ -153,14 +153,13 @@
     "nfv",
     "nsx",
     "nvidia",
-    "openai",
     "openflow",
     "openssh",
-    "optical fiber",
     "ospf",
     "overlay networks",
     "palo alto",
     "patches",
+    "pedal assist bikes",
     "php",
     "physical ai",
     "physics",
@@ -174,7 +173,7 @@
     "qos",
     "quantum computing",
     "quantum mechanics",
-    "ram-altman script",
+    "reviews",
     "ring",
     "ring doorbell camera",
     "road bikes",
@@ -185,7 +184,6 @@
     "russia war on ukraine",
     "russian invasion of ukraine",
     "russian war on ukraine",
-    "sam altman",
     "san",
     "science",
     "sd-wan",
@@ -194,12 +192,10 @@
     "secure boot",
     "security",
     "service providers",
-    "sim card",
     "smartphones",
     "snmp",
     "software",
     "software gone wild",
-    "soldier",
     "specialized",
     "specialized tarmac sl9 s-level",
     "spying",
@@ -234,10 +230,86 @@
     "wan",
     "watering hole attack",
     "windows",
+    "windows server 2028",
     "worth reading",
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "published": "Wed, 18 Nov 2026 21:29:24 +0000",
+      "published_parsed": "2026-11-18T21:29:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "tags": [
+        "netflix",
+        "science",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "published": "Wed, 18 Nov 2026 20:41:12 +0000",
+      "published_parsed": "2026-11-18T20:41:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "tags": [
+        "disa stig",
+        "microsoft windows server 2028 public preview",
+        "tech",
+        "windows server 2028"
+      ]
+    },
+    {
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "published": "Wed, 18 Nov 2026 19:31:17 +0000",
+      "published_parsed": "2026-11-18T19:31:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+      "tags": [
+        "best buy",
+        "blu-ray",
+        "dvd",
+        "tech"
+      ]
+    },
+    {
+      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+      "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+      "published": "Wed, 18 Nov 2026 17:53:59 +0000",
+      "published_parsed": "2026-11-18T17:53:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
+      "tags": [
+        "e-bikes",
+        "electric bikes",
+        "pedal assist bikes",
+        "reviews",
+        "specialized",
+        "tech"
+      ]
+    },
+    {
+      "title": "Worth Reading: LLM-Based Program Verification",
+      "link": "https://blog.ipspace.net/2026/11/worth-reading-llm-program-verification/?utm_source=atom_feed",
+      "published": "2026-11-18T11:55:00+01:00",
+      "published_parsed": "2026-11-18T11:55:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I’m busy finalizing the 26.11 netlab release and don’t have the time or willpower for full-blown blog posts at the moment, so you’ll get more pointers than anything else. I stumbled upon an interesting What’s going on with program verification? article, in which a researcher working on formal...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
@@ -684,65 +756,6 @@
       ]
     },
     {
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "published": "Tue, 10 Nov 2026 12:15:32 +0000",
-      "published_parsed": "2026-11-10T12:15:32+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "tags": [
-        "ai",
-        "drones",
-        "fiber optic cable",
-        "fiber optics",
-        "military drones",
-        "optical fiber",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war"
-      ]
-    },
-    {
-      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-      "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-      "published": "Tue, 10 Nov 2026 12:00:21 +0000",
-      "published_parsed": "2026-11-10T12:00:21+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
-      "tags": [
-        "14-inch macbook pro",
-        "apple",
-        "apple m6",
-        "apple silicon",
-        "features",
-        "macbook pro",
-        "tech"
-      ]
-    },
-    {
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "published": "Mon, 09 Nov 2026 20:49:09 +0000",
-      "published_parsed": "2026-11-09T20:49:09+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "tags": [
-        "memavailable",
-        "memtotal",
-        "openai",
-        "ram-altman script",
-        "sam altman",
-        "tech"
-      ]
-    },
-    {
       "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
       "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
       "published": "Mon, 09 Nov 2026 19:41:34 +0000",
@@ -769,22 +782,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "published": "Sat, 07 Nov 2026 11:00:34 +0000",
-      "published_parsed": "2026-11-07T11:00:34+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "tags": [
-        "daniel barton-kennedy",
-        "security",
-        "sim card",
-        "soldier",
-        "tech"
       ]
     },
     {

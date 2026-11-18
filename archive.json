@@ -1,7 +1,82 @@
 {
-  "last_updated": "2026-11-18T08:17:36.309377+00:00",
-  "article_count": 2382,
+  "last_updated": "2026-11-18T21:43:34.889624+00:00",
+  "article_count": 2387,
   "articles": [
+    {
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "published": "Wed, 18 Nov 2026 21:29:24 +0000",
+      "published_parsed": "2026-11-18T21:29:24+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "tags": [
+        "netflix",
+        "science",
+        "streaming",
+        "tech"
+      ]
+    },
+    {
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "published": "Wed, 18 Nov 2026 20:41:12 +0000",
+      "published_parsed": "2026-11-18T20:41:12+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "tags": [
+        "disa stig",
+        "microsoft windows server 2028 public preview",
+        "tech",
+        "windows server 2028"
+      ]
+    },
+    {
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "published": "Wed, 18 Nov 2026 19:31:17 +0000",
+      "published_parsed": "2026-11-18T19:31:17+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+      "tags": [
+        "best buy",
+        "blu-ray",
+        "dvd",
+        "tech"
+      ]
+    },
+    {
+      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+      "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+      "published": "Wed, 18 Nov 2026 17:53:59 +0000",
+      "published_parsed": "2026-11-18T17:53:59+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
+      "tags": [
+        "e-bikes",
+        "electric bikes",
+        "pedal assist bikes",
+        "reviews",
+        "specialized",
+        "tech"
+      ]
+    },
+    {
+      "title": "Worth Reading: LLM-Based Program Verification",
+      "link": "https://blog.ipspace.net/2026/11/worth-reading-llm-program-verification/?utm_source=atom_feed",
+      "published": "2026-11-18T11:55:00+01:00",
+      "published_parsed": "2026-11-18T11:55:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I’m busy finalizing the 26.11 netlab release and don’t have the time or willpower for full-blown blog posts at the moment, so you’ll get more pointers than anything else. I stumbled upon an interesting What’s going on with program verification? article, in which a researcher working on formal...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
