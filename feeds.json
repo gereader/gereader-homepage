@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T21:43:34.907637+00:00",
+  "last_updated": "2026-11-19T03:59:54.501710+00:00",
   "article_count": 111,
   "sources": [
     "Ars Technica - Gadgets",
@@ -66,6 +66,7 @@
     "containers",
     "content delivery networks",
     "copilot",
+    "cruise missiles",
     "cryptocurrency",
     "cumulus linux",
     "cursor",
@@ -116,7 +117,6 @@
     "ise",
     "it",
     "javascript",
-    "jensen",
     "jensen huang",
     "kremlin",
     "lan",
@@ -131,6 +131,8 @@
     "microsoft 365",
     "microsoft ignite",
     "microsoft windows server 2028 public preview",
+    "military drones",
+    "missiles",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -196,12 +198,15 @@
     "snmp",
     "software",
     "software gone wild",
+    "spacex starlink",
+    "spacex starshield",
     "specialized",
     "specialized tarmac sl9 s-level",
-    "spying",
     "sr-mpls",
     "srv6",
     "ssh",
+    "starlink",
+    "starshield",
     "streaming",
     "supply chain attacks",
     "switching",
@@ -218,6 +223,7 @@
     "transport layer security",
     "uefi",
     "ukraine",
+    "ukraine starlink",
     "ukraine war",
     "usa-iran war",
     "vibe coding",
@@ -235,6 +241,34 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "published": "Wed, 18 Nov 2026 23:10:39 +0000",
+      "published_parsed": "2026-11-18T23:10:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "tags": [
+        "cruise missiles",
+        "drone strikes",
+        "drones",
+        "military drones",
+        "missiles",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "spacex starlink",
+        "spacex starshield",
+        "starlink",
+        "starshield",
+        "tech",
+        "ukraine",
+        "ukraine starlink",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
       "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
@@ -736,22 +770,6 @@
       "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
       "tags": [
         "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "published": "Tue, 10 Nov 2026 14:53:05 +0000",
-      "published_parsed": "2026-11-10T14:53:05+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-      "tags": [
-        "jensen",
-        "nvidia",
-        "spying",
-        "syndication",
         "tech"
       ]
     },

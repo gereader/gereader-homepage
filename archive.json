@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-11-18T21:43:34.889624+00:00",
-  "article_count": 2387,
+  "last_updated": "2026-11-19T03:59:54.475076+00:00",
+  "article_count": 2388,
   "articles": [
+    {
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "published": "Wed, 18 Nov 2026 23:10:39 +0000",
+      "published_parsed": "2026-11-18T23:10:39+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "tags": [
+        "cruise missiles",
+        "drone strikes",
+        "drones",
+        "military drones",
+        "missiles",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "spacex starlink",
+        "spacex starshield",
+        "starlink",
+        "starshield",
+        "tech",
+        "ukraine",
+        "ukraine starlink",
+        "ukraine war"
+      ]
+    },
     {
       "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
       "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
