@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-11-19T03:59:54.475076+00:00",
-  "article_count": 2388,
+  "last_updated": "2026-11-19T16:24:13.084505+00:00",
+  "article_count": 2390,
   "articles": [
+    {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "published": "Thu, 19 Nov 2026 11:13:01 +0000",
+      "published_parsed": "2026-11-19T11:13:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "tags": [
+        "biz & it",
+        "hacking",
+        "outages",
+        "security"
+      ]
+    },
+    {
+      "title": "Cisco IOS XE 'configure replace' Breaks on 'crypto pki' Commands",
+      "link": "https://blog.ipspace.net/2026/11/cisco-ios-crypto-replace/?utm_source=atom_feed",
+      "published": "2026-11-19T08:08:00+01:00",
+      "published_parsed": "2026-11-19T08:08:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In February 2007, I published a (long gone) article describing the drawbacks of the Cisco IOS configure replace command. It was pretty bad at the time, but has improved significantly since. Alas, after 20 years, it still can’t cope with simple stuff that routers generate on their own. I was...",
+      "tags": [
+        "netsim",
+        "networking"
+      ]
+    },
     {
       "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
       "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",

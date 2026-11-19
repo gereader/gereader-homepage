@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T03:59:54.501710+00:00",
-  "article_count": 111,
+  "last_updated": "2026-11-19T16:24:13.146560+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -126,7 +126,6 @@
     "load balancing",
     "macos fusion drive",
     "malware",
-    "meta",
     "microsoft",
     "microsoft 365",
     "microsoft ignite",
@@ -137,13 +136,13 @@
     "mpls vpn",
     "mpls-te",
     "mtu",
-    "muse",
     "nat",
     "navigation blog",
     "netbox",
     "netconf",
     "netflix",
     "netlab",
+    "netsim",
     "network assessment",
     "network automation",
     "network management",
@@ -158,6 +157,7 @@
     "openflow",
     "openssh",
     "ospf",
+    "outages",
     "overlay networks",
     "palo alto",
     "patches",
@@ -241,6 +241,34 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "published": "Thu, 19 Nov 2026 11:13:01 +0000",
+      "published_parsed": "2026-11-19T11:13:01+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "tags": [
+        "biz & it",
+        "hacking",
+        "outages",
+        "security"
+      ]
+    },
+    {
+      "title": "Cisco IOS XE 'configure replace' Breaks on 'crypto pki' Commands",
+      "link": "https://blog.ipspace.net/2026/11/cisco-ios-crypto-replace/?utm_source=atom_feed",
+      "published": "2026-11-19T08:08:00+01:00",
+      "published_parsed": "2026-11-19T08:08:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "In February 2007, I published a (long gone) article describing the drawbacks of the Cisco IOS configure replace command. It was pretty bad at the time, but has improved significantly since. Alas, after 20 years, it still can’t cope with simple stuff that routers generate on their own. I was...",
+      "tags": [
+        "netsim",
+        "networking"
+      ]
+    },
     {
       "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
       "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
@@ -1332,23 +1360,6 @@
         "security",
         "tls",
         "transport layer security"
-      ]
-    },
-    {
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "published": "Tue, 20 Oct 2026 12:33:13 +0000",
-      "published_parsed": "2026-10-20T12:33:13+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "tags": [
-        "ai",
-        "biz & it",
-        "meta",
-        "muse",
-        "privacy",
-        "security"
       ]
     },
     {
