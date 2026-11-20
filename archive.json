@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-11-20T08:11:37.150877+00:00",
-  "article_count": 2394,
+  "last_updated": "2026-11-20T21:42:21.747695+00:00",
+  "article_count": 2397,
   "articles": [
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published": "Fri, 20 Nov 2026 20:59:08 +0000",
+      "published_parsed": "2026-11-20T20:59:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "inference",
+        "llms",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "title": "mcast-tools - Friendly Multicast Testing for Network Labs",
+      "link": "https://www.packetswitch.co.uk/mcast-tools-friendly-multicast-testing-for-network-labs/",
+      "published": "Fri, 20 Nov 2026 17:16:58 GMT",
+      "published_parsed": "2026-11-20T17:16:58+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/blog-banners-all-7-.png",
+      "summary": "mcast-tools is a small Python package that gives you a multicast sender and receiver you can run on any host. It comes with three main commands",
+      "tags": [
+        "network",
+        "networking"
+      ]
+    },
+    {
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "published": "Fri, 20 Nov 2026 14:52:51 +0000",
+      "published_parsed": "2026-11-20T14:52:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "tags": [
+        "air traffic control",
+        "air traffic controllers",
+        "air travel",
+        "aircraft",
+        "airlines",
+        "faa",
+        "federal aviation administration",
+        "routers",
+        "tech",
+        "telecommunications"
+      ]
+    },
     {
       "title": "Hint: Grab the vJunos Images If You Need Them",
       "link": "https://blog.ipspace.net/2026/11/grab-junos-images/?utm_source=atom_feed",

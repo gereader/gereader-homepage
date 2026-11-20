@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T08:11:37.174043+00:00",
+  "last_updated": "2026-11-20T21:42:21.778025+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -17,7 +17,11 @@
     "agent365",
     "ai",
     "ai data centers",
-    "ai drones",
+    "air traffic control",
+    "air traffic controllers",
+    "air travel",
+    "aircraft",
+    "airlines",
     "alkemi intelligent storage",
     "alpine",
     "amazon",
@@ -59,13 +63,11 @@
     "chainalysis",
     "change management",
     "check-ins",
-    "cisco",
     "claude",
     "cloud",
     "cloud gateway",
     "company news",
     "computer science",
-    "containerlab",
     "containers",
     "content delivery networks",
     "copilot",
@@ -97,8 +99,10 @@
     "exchange online",
     "exploit",
     "exploits",
+    "faa",
     "fabric",
     "features",
+    "federal aviation administration",
     "firewall",
     "firewalls",
     "google",
@@ -111,6 +115,7 @@
     "hybrid drives",
     "ibm",
     "imac",
+    "inference",
     "intel",
     "internet",
     "ip routing",
@@ -126,6 +131,7 @@
     "lawsuit",
     "linux",
     "lisp",
+    "llms",
     "load balancing",
     "macos fusion drive",
     "malware",
@@ -146,6 +152,7 @@
     "netflix",
     "netlab",
     "netsim",
+    "network",
     "network assessment",
     "network automation",
     "network management",
@@ -163,10 +170,7 @@
     "outages",
     "overlay networks",
     "palo alto",
-    "patches",
     "pedal assist bikes",
-    "php",
-    "physical ai",
     "physics",
     "podcast",
     "policy",
@@ -178,11 +182,8 @@
     "quantum computing",
     "quantum mechanics",
     "reviews",
-    "ring",
-    "ring doorbell camera",
     "road bikes",
-    "robotics",
-    "robots",
+    "routers",
     "russia",
     "russia invasion of ukraine",
     "russia war on ukraine",
@@ -216,6 +217,7 @@
     "syndication",
     "tcp",
     "tech",
+    "telecommunications",
     "the onion router",
     "tips",
     "tls",
@@ -244,6 +246,57 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published": "Fri, 20 Nov 2026 20:59:08 +0000",
+      "published_parsed": "2026-11-20T20:59:08+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "tags": [
+        "ai",
+        "biz & it",
+        "inference",
+        "llms",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "title": "mcast-tools - Friendly Multicast Testing for Network Labs",
+      "link": "https://www.packetswitch.co.uk/mcast-tools-friendly-multicast-testing-for-network-labs/",
+      "published": "Fri, 20 Nov 2026 17:16:58 GMT",
+      "published_parsed": "2026-11-20T17:16:58+00:00",
+      "source": "Packet Switch",
+      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2026/11/blog-banners-all-7-.png",
+      "summary": "mcast-tools is a small Python package that gives you a multicast sender and receiver you can run on any host. It comes with three main commands",
+      "tags": [
+        "network",
+        "networking"
+      ]
+    },
+    {
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "published": "Fri, 20 Nov 2026 14:52:51 +0000",
+      "published_parsed": "2026-11-20T14:52:51+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "tags": [
+        "air traffic control",
+        "air traffic controllers",
+        "air travel",
+        "aircraft",
+        "airlines",
+        "faa",
+        "federal aviation administration",
+        "routers",
+        "tech",
+        "telecommunications"
+      ]
+    },
     {
       "title": "Hint: Grab the vJunos Images If You Need Them",
       "link": "https://blog.ipspace.net/2026/11/grab-junos-images/?utm_source=atom_feed",
@@ -799,28 +852,6 @@
       ]
     },
     {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "published": "Tue, 10 Nov 2026 22:35:01 +0000",
-      "published_parsed": "2026-11-10T22:35:01+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "tags": [
-        "ai",
-        "ai drones",
-        "amazon",
-        "amazon drones",
-        "drones",
-        "physical ai",
-        "ring",
-        "ring doorbell camera",
-        "robotics",
-        "robots",
-        "tech"
-      ]
-    },
-    {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
       "published": "Tue, 10 Nov 2026 21:12:59 +0000",
@@ -1264,20 +1295,6 @@
       ]
     },
     {
-      "title": "Running Containerlab in macOS (Cisco IOL/cEOS)",
-      "link": "https://www.packetswitch.co.uk/running-containerlab-in-macos-cisco-iol-ceos-2/",
-      "published": "Sun, 25 Oct 2026 18:51:00 GMT",
-      "published_parsed": "2026-10-25T18:51:00+00:00",
-      "source": "Packet Switch",
-      "image": "https://storage.ghost.io/c/27/3a/273a3b8f-882f-4589-9659-f17410001182/content/images/2025/01/containerlab-mac.png",
-      "summary": "I recently wanted to try running Containerlab directly on my MacBook (M3 Pro with 18GB of RAM) for a few reasons. For example, I might need to run labs while I’m away, work offline",
-      "tags": [
-        "cisco",
-        "containerlab",
-        "networking"
-      ]
-    },
-    {
       "title": "Public Videos: Data Center Fabric Architectures",
       "link": "https://blog.ipspace.net/2026/10/fabric-videos/?utm_source=atom_feed",
       "published": "2026-10-23T08:15:00+02:00",
@@ -1362,23 +1379,6 @@
       "tags": [
         "automation",
         "networking"
-      ]
-    },
-    {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "published": "Wed, 21 Oct 2026 02:12:18 +0000",
-      "published_parsed": "2026-10-21T02:12:18+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "tags": [
-        "biz & it",
-        "exploits",
-        "patches",
-        "php",
-        "security",
-        "vulnerabilities"
       ]
     },
     {
