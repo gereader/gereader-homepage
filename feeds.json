@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T16:24:13.146560+00:00",
+  "last_updated": "2026-11-20T00:22:48.548157+00:00",
   "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
@@ -21,7 +21,10 @@
     "alkemi intelligent storage",
     "alpine",
     "amazon",
+    "amazon delivery",
+    "amazon delivery drivers",
     "amazon drones",
+    "android",
     "ansible",
     "ansible-course",
     "anthropic",
@@ -29,6 +32,7 @@
     "apple",
     "apple m6",
     "apple silicon",
+    "apps",
     "arp",
     "ars live",
     "ars live chat",
@@ -51,7 +55,6 @@
     "broadcom",
     "buffer overflow",
     "cerfificate authority",
-    "certificate authorities",
     "certifications",
     "chainalysis",
     "change management",
@@ -89,6 +92,7 @@
     "eigrp",
     "electric bikes",
     "encryption",
+    "espionage",
     "evpn",
     "exchange online",
     "exploit",
@@ -98,7 +102,6 @@
     "firewall",
     "firewalls",
     "google",
-    "google pixel",
     "gre",
     "grok bot",
     "grok build",
@@ -168,7 +171,6 @@
     "podcast",
     "policy",
     "privacy",
-    "private keys",
     "prompts",
     "ptsd",
     "python",
@@ -194,6 +196,7 @@
     "secure boot",
     "security",
     "service providers",
+    "silicon valley",
     "smartphones",
     "snmp",
     "software",
@@ -241,6 +244,55 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "published": "Thu, 19 Nov 2026 22:16:37 +0000",
+      "published_parsed": "2026-11-19T22:16:37+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/amazon-640x285.jpg",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "tags": [
+        "amazon",
+        "amazon delivery",
+        "amazon delivery drivers",
+        "policy",
+        "tech"
+      ]
+    },
+    {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "published": "Thu, 19 Nov 2026 20:29:46 +0000",
+      "published_parsed": "2026-11-19T20:29:46+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "tags": [
+        "biz & it",
+        "espionage",
+        "russia",
+        "security",
+        "silicon valley"
+      ]
+    },
+    {
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "published": "Thu, 19 Nov 2026 18:00:33 +0000",
+      "published_parsed": "2026-11-19T18:00:33+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Google says almost all developers have already gotten on board with verification.",
+      "tags": [
+        "android",
+        "apps",
+        "google",
+        "security",
+        "smartphones",
+        "tech"
+      ]
+    },
     {
       "title": "How to tell a cyberattack from a plain old outage",
       "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
@@ -771,34 +823,6 @@
         "privacy",
         "security",
         "vibe coding"
-      ]
-    },
-    {
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "published": "Tue, 10 Nov 2026 19:00:26 +0000",
-      "published_parsed": "2026-11-10T19:00:26+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-      "tags": [
-        "google",
-        "google pixel",
-        "smartphones",
-        "tech"
-      ]
-    },
-    {
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
-      "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "published": "Tue, 10 Nov 2026 18:39:16 +0000",
-      "published_parsed": "2026-11-10T18:39:16+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
-      "tags": [
-        "streaming",
-        "tech"
       ]
     },
     {
@@ -1343,23 +1367,6 @@
         "php",
         "security",
         "vulnerabilities"
-      ]
-    },
-    {
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "published": "Tue, 20 Oct 2026 19:47:35 +0000",
-      "published_parsed": "2026-10-20T19:47:35+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "tags": [
-        "biz & it",
-        "certificate authorities",
-        "private keys",
-        "security",
-        "tls",
-        "transport layer security"
       ]
     },
     {
