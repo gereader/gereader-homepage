@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T02:52:41.222096+00:00",
-  "article_count": 113,
+  "last_updated": "2026-11-22T15:06:32.474475+00:00",
+  "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
     "Ars Technica - Tech",
@@ -1868,20 +1868,6 @@
         "netlab",
         "networking",
         "sr-mpls"
-      ]
-    },
-    {
-      "title": "Arista cEOS Does Not Apply ACLs to Control-Plane Traffic",
-      "link": "https://blog.ipspace.net/2026/08/arista-ceos-acl-control-plane-traffic/?utm_source=atom_feed",
-      "published": "2026-08-24T07:20:00+02:00",
-      "published_parsed": "2026-08-24T07:20:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "When someone starts singing the Use Digital Twins to Test Your Network hymn (or, more recently, tells you how AI agents can do that to validate their ideas), ask them about these minor details . If they persist, point them (not that it would help) to this long list of gotchas . That list just got...",
-      "tags": [
-        "netlab",
-        "networking",
-        "security"
       ]
     }
   ]
