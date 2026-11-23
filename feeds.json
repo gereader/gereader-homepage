@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T23:22:58.508841+00:00",
+  "last_updated": "2026-11-23T08:41:36.038445+00:00",
   "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
@@ -246,6 +246,19 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "netlab 26.11: More Platforms, Less Ansible",
+      "link": "https://blog.ipspace.net/2026/11/netlab-26-11/?utm_source=atom_feed",
+      "published": "2026-11-23T08:22:00+01:00",
+      "published_parsed": "2026-11-23T08:22:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "netlab release 26.11 adds two new platforms: IP Infusion OcNOS by @victorkhgith , partially based on previous work by @roc-ops Extreme VOSS by @sdargoeuves Other major features include: The new netlab node command to start, stop, pause, or restart containers (by @Muddyblack ) Ansible-free...",
+      "tags": [
+        "netlab",
+        "networking"
+      ]
+    },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
@@ -1854,20 +1867,6 @@
         "netlab",
         "networking",
         "ospf"
-      ]
-    },
-    {
-      "title": "Multivendor SR-MPLS",
-      "link": "https://blog.ipspace.net/2026/08/sr-mpls-multivendor/?utm_source=atom_feed",
-      "published": "2026-08-25T07:44:00+02:00",
-      "published_parsed": "2026-08-25T07:44:00+02:00",
-      "source": "ipSpace Blog",
-      "image": "https://blog.ipspace.net/2026/05/sr-mpls-intro.png",
-      "summary": "Summer is almost over, and it’s time to resume regular programming with the next example from the Segment Routing workshop I had at ITNOG10: multi-vendor SR-MPLS . I used the same lab topology as in the previous examples but deployed Arista EOS on PE1, FRRouting on P, and SR Linux on PE2 1 Read...",
-      "tags": [
-        "netlab",
-        "networking",
-        "sr-mpls"
       ]
     }
   ]
