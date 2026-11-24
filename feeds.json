@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T01:30:55.561602+00:00",
+  "last_updated": "2026-11-24T18:42:32.036179+00:00",
   "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
@@ -15,6 +15,7 @@
     "adversary in the middle",
     "aero bikes",
     "agent365",
+    "agents",
     "ai",
     "ai data centers",
     "air traffic control",
@@ -33,8 +34,6 @@
     "anthropic",
     "anxiety",
     "apple",
-    "apple m6",
-    "apple silicon",
     "apps",
     "arp",
     "ars live",
@@ -86,6 +85,7 @@
     "docker",
     "donald trump iran war",
     "drone anxiety",
+    "drone boats",
     "drone strikes",
     "drones",
     "dvd",
@@ -111,7 +111,6 @@
     "hacking",
     "high availability",
     "history",
-    "imac",
     "inference",
     "intel",
     "internet",
@@ -120,7 +119,6 @@
     "iran",
     "is-is",
     "ise",
-    "it",
     "javascript",
     "jensen huang",
     "kremlin",
@@ -168,6 +166,7 @@
     "overlay networks",
     "palo alto",
     "pedal assist bikes",
+    "phonebox",
     "podcast",
     "policy",
     "privacy",
@@ -187,13 +186,13 @@
     "science",
     "sd-wan",
     "sdn",
+    "sea drones",
     "secure boot",
     "security",
     "service providers",
     "silicon valley",
     "smartphones",
     "snmp",
-    "software",
     "software gone wild",
     "spacex starlink",
     "spacex starshield",
@@ -224,6 +223,7 @@
     "ukraine",
     "ukraine starlink",
     "ukraine war",
+    "uncrewed surface vessels",
     "usa-iran war",
     "vibe coding",
     "video",
@@ -240,6 +240,71 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "published": "Tue, 24 Nov 2026 12:30:05 +0000",
+      "published_parsed": "2026-11-24T12:30:05+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "tags": [
+        "agents",
+        "ai",
+        "biz & it",
+        "hacking",
+        "security",
+        "zerodays"
+      ]
+    },
+    {
+      "title": "One terminal command gave my forgotten Android device a desk job",
+      "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+      "published": "Tue, 24 Nov 2026 12:15:38 +0000",
+      "published_parsed": "2026-11-24T12:15:38+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_WDHIY.jpg",
+      "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+      "tags": [
+        "android",
+        "phonebox",
+        "tech"
+      ]
+    },
+    {
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+      "published": "Tue, 24 Nov 2026 12:00:57 +0000",
+      "published_parsed": "2026-11-24T12:00:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "tags": [
+        "drone boats",
+        "russia invasion of ukraine",
+        "russia war on ukraine",
+        "russian invasion of ukraine",
+        "russian war on ukraine",
+        "sea drones",
+        "tech",
+        "ukraine",
+        "ukraine war",
+        "uncrewed surface vessels"
+      ]
+    },
+    {
+      "title": "MUST Bookmark: Conference Digests",
+      "link": "https://blog.ipspace.net/2026/11/worth-reading-netdevops-conference-digests/?utm_source=atom_feed",
+      "published": "2026-11-24T07:42:00+01:00",
+      "published_parsed": "2026-11-24T07:42:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "Roman Dodin launched a phenomenal website summarizing networking-, cloud-, and AI- related conferences ( list of tracked conferences ). Every Monday, his minions AI agents scan the conference webpages and create event digests ( behind-the-scenes details ), resulting in per-event pages like the...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Surveillance pricing uses our personal data to make us pay more",
       "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
@@ -802,36 +867,6 @@
       ]
     },
     {
-      "title": "Hundreds of streaming services and nothing to watch",
-      "link": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
-      "published": "Thu, 12 Nov 2026 14:00:19 +0000",
-      "published_parsed": "2026-11-12T14:00:19+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Most viewers wish there was a TV Guide for streaming.",
-      "tags": [
-        "streaming",
-        "tech"
-      ]
-    },
-    {
-      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-      "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
-      "published": "Thu, 12 Nov 2026 12:00:37 +0000",
-      "published_parsed": "2026-11-12T12:00:37+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
-      "tags": [
-        "apple",
-        "apple m6",
-        "apple silicon",
-        "features",
-        "imac",
-        "tech"
-      ]
-    },
-    {
       "title": "Getting Started with Ansible and Arista",
       "link": "https://www.packetswitch.co.uk/getting-started-with-ansible-and-arista/",
       "published": "Thu, 12 Nov 2026 07:22:27 GMT",
@@ -1361,20 +1396,6 @@
       ]
     },
     {
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-      "published": "Wed, 21 Oct 2026 21:48:52 +0000",
-      "published_parsed": "2026-10-21T21:48:52+00:00",
-      "source": "Ars Technica - Tech",
-      "image": null,
-      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-      "tags": [
-        "biz & it",
-        "it",
-        "software"
-      ]
-    },
-    {
       "title": "Crappy Configuration Errors: Cisco Nexus OS Edition",
       "link": "https://blog.ipspace.net/2026/10/crappy-error-reporting-nexus-os/?utm_source=atom_feed",
       "published": "2026-10-21T07:33:00+02:00",
@@ -1846,20 +1867,6 @@
       "tags": [
         "netlab",
         "networking"
-      ]
-    },
-    {
-      "title": "Dear Junos, Tunnels Are Not Virtual Links",
-      "link": "https://blog.ipspace.net/2026/08/junos-ospfv3-tunnels/?utm_source=atom_feed",
-      "published": "2026-08-26T07:55:00+02:00",
-      "published_parsed": "2026-08-26T07:55:00+02:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "In late June, we added GRE tunnels to netlab , including a Junos implementation . It looked great (as in “everything worked”) until I changed the integration tests to have GRE tunnels between a tested device and a pair of FRR containers. All other implementations worked as before, but Junos failed...",
-      "tags": [
-        "netlab",
-        "networking",
-        "ospf"
       ]
     }
   ]
