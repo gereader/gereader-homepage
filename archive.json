@@ -1,7 +1,53 @@
 {
-  "last_updated": "2026-11-23T08:41:36.012413+00:00",
-  "article_count": 2398,
+  "last_updated": "2026-11-24T01:30:55.538462+00:00",
+  "article_count": 2401,
   "articles": [
+    {
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "published": "Mon, 23 Nov 2026 20:11:43 +0000",
+      "published_parsed": "2026-11-23T20:11:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "tags": [
+        "consumer advocacy",
+        "policy",
+        "privacy",
+        "surveillance pricing",
+        "tech"
+      ]
+    },
+    {
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "published": "Mon, 23 Nov 2026 19:38:13 +0000",
+      "published_parsed": "2026-11-23T19:38:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon now uses its packages for political purposes.",
+      "tags": [
+        "amazon",
+        "amazon delivery",
+        "amazon delivery drivers",
+        "policy",
+        "tech"
+      ]
+    },
+    {
+      "title": "Tri-screen portable monitors aren’t for the faint of heart",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "published": "Mon, 23 Nov 2026 12:15:16 +0000",
+      "published_parsed": "2026-11-23T12:15:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "tags": [
+        "monitors",
+        "reviews",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.11: More Platforms, Less Ansible",
       "link": "https://blog.ipspace.net/2026/11/netlab-26-11/?utm_source=atom_feed",

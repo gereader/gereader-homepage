@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T08:41:36.038445+00:00",
+  "last_updated": "2026-11-24T01:30:55.561602+00:00",
   "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
@@ -22,7 +22,6 @@
     "air travel",
     "aircraft",
     "airlines",
-    "alkemi intelligent storage",
     "alpine",
     "amazon",
     "amazon delivery",
@@ -67,7 +66,7 @@
     "cloud",
     "cloud gateway",
     "company news",
-    "computer science",
+    "consumer advocacy",
     "containers",
     "content delivery networks",
     "copilot",
@@ -112,8 +111,6 @@
     "hacking",
     "high availability",
     "history",
-    "hybrid drives",
-    "ibm",
     "imac",
     "inference",
     "intel",
@@ -133,7 +130,6 @@
     "lisp",
     "llms",
     "load balancing",
-    "macos fusion drive",
     "malware",
     "microsoft",
     "microsoft 365",
@@ -141,6 +137,7 @@
     "microsoft windows server 2028 public preview",
     "military drones",
     "missiles",
+    "monitors",
     "mpls",
     "mpls vpn",
     "mpls-te",
@@ -171,7 +168,6 @@
     "overlay networks",
     "palo alto",
     "pedal assist bikes",
-    "physics",
     "podcast",
     "policy",
     "privacy",
@@ -179,8 +175,6 @@
     "ptsd",
     "python",
     "qos",
-    "quantum computing",
-    "quantum mechanics",
     "reviews",
     "road bikes",
     "routers",
@@ -193,7 +187,6 @@
     "science",
     "sd-wan",
     "sdn",
-    "seagate firecude forge",
     "secure boot",
     "security",
     "service providers",
@@ -213,6 +206,7 @@
     "starshield",
     "streaming",
     "supply chain attacks",
+    "surveillance pricing",
     "switching",
     "syndication",
     "tcp",
@@ -246,6 +240,52 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "published": "Mon, 23 Nov 2026 20:11:43 +0000",
+      "published_parsed": "2026-11-23T20:11:43+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "tags": [
+        "consumer advocacy",
+        "policy",
+        "privacy",
+        "surveillance pricing",
+        "tech"
+      ]
+    },
+    {
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "published": "Mon, 23 Nov 2026 19:38:13 +0000",
+      "published_parsed": "2026-11-23T19:38:13+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon now uses its packages for political purposes.",
+      "tags": [
+        "amazon",
+        "amazon delivery",
+        "amazon delivery drivers",
+        "policy",
+        "tech"
+      ]
+    },
+    {
+      "title": "Tri-screen portable monitors aren’t for the faint of heart",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "published": "Mon, 23 Nov 2026 12:15:16 +0000",
+      "published_parsed": "2026-11-23T12:15:16+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "tags": [
+        "monitors",
+        "reviews",
+        "tech"
+      ]
+    },
     {
       "title": "netlab 26.11: More Platforms, Less Ansible",
       "link": "https://blog.ipspace.net/2026/11/netlab-26-11/?utm_source=atom_feed",
@@ -805,37 +845,6 @@
       ]
     },
     {
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "published": "Wed, 11 Nov 2026 17:04:26 +0000",
-      "published_parsed": "2026-11-11T17:04:26+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Apple has already made the forum read-only.",
-      "tags": [
-        "apple",
-        "tech"
-      ]
-    },
-    {
-      "title": "IBM to offer access to a dual-processor quantum system in 2027",
-      "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-      "published": "Wed, 11 Nov 2026 16:33:08 +0000",
-      "published_parsed": "2026-11-11T16:33:08+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-      "tags": [
-        "computer science",
-        "ibm",
-        "physics",
-        "quantum computing",
-        "quantum mechanics",
-        "science",
-        "tech"
-      ]
-    },
-    {
       "title": "Candidate Configuration on Cisco Nexus OS",
       "link": "https://blog.ipspace.net/2026/11/candidate-active-configuration-nexus-os/?utm_source=atom_feed",
       "published": "2026-11-11T08:16:00+01:00",
@@ -846,22 +855,6 @@
       "tags": [
         "automation",
         "networking"
-      ]
-    },
-    {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "published": "Tue, 10 Nov 2026 23:30:56 +0000",
-      "published_parsed": "2026-11-10T23:30:56+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Seagate_FireCuda_Forge_Specs.pdf.png",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "tags": [
-        "alkemi intelligent storage",
-        "hybrid drives",
-        "macos fusion drive",
-        "seagate firecude forge",
-        "tech"
       ]
     },
     {
