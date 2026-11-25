@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-24T18:42:32.008470+00:00",
-  "article_count": 2405,
+  "last_updated": "2026-11-25T05:16:28.081230+00:00",
+  "article_count": 2407,
   "articles": [
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "published": "Tue, 24 Nov 2026 22:36:28 +0000",
+      "published_parsed": "2026-11-24T22:36:28+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "tags": [
+        "amanda silver",
+        "jason henderson",
+        "microsoft outage",
+        "ms365",
+        "tech"
+      ]
+    },
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "published": "Tue, 24 Nov 2026 18:47:57 +0000",
+      "published_parsed": "2026-11-24T18:47:57+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "tags": [
+        "ai",
+        "ai drones",
+        "amazon",
+        "amazon drones",
+        "delivery drones",
+        "drones",
+        "faa",
+        "federal aviation administration",
+        "tech"
+      ]
+    },
     {
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
