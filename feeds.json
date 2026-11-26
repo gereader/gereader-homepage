@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T01:40:31.546991+00:00",
+  "last_updated": "2026-11-26T17:35:14.094439+00:00",
   "article_count": 112,
   "sources": [
     "Ars Technica - Gadgets",
@@ -154,7 +154,6 @@
     "netconf",
     "netflix",
     "netlab",
-    "netsim",
     "network",
     "network assessment",
     "network automation",
@@ -244,6 +243,18 @@
   ],
   "articles": [
     {
+      "title": "Please Help Me Find More Introduction-to-netlab Content",
+      "link": "https://blog.ipspace.net/2026/11/netlab-intro-content/?utm_source=atom_feed",
+      "published": "2026-11-26T08:06:00+01:00",
+      "published_parsed": "2026-11-26T08:06:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "I was chatting with a seasoned traditional networking engineer with little Linux experience, and he mentioned he had challenges setting up netlab: I’m also struggling to use the netlab tools or the netlab-ui, are there any videos for it or is it all written in the webinars and blogs. I know I’m not...",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
       "title": "Google search alternative Kagi launches Gmail rival",
       "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
       "published": "Wed, 25 Nov 2026 20:57:09 +0000",
@@ -329,7 +340,7 @@
       "published_parsed": "2026-11-25T07:14:00+02:00",
       "source": "ipSpace Blog",
       "image": null,
-      "summary": "A friend of mine sent me an email with a weird observation: In the last year, I’ve seen a number of networks configure BFD on their iBGP sessions with very aggressive timers, including a network with 300 msec BFD timers (900 msec holddown). There might be (marginally sane) reasons to run BFD on...",
+      "summary": "A friend of mine sent me an email with a weird observation: In the last year, I’ve seen a number of networks configure BFD on their iBGP sessions with very aggressive timers, including a network with 300 msec BFD timers (900 msec holddown). There might be reasons to run BFD on iBGP sessions instead...",
       "tags": [
         "bgp",
         "networking"
@@ -631,7 +642,7 @@
       "image": null,
       "summary": "In February 2007, I published a (long gone) article describing the drawbacks of the Cisco IOS configure replace command. It was pretty bad at the time, but has improved significantly since. Alas, after 20 years, it still can’t cope with simple stuff that routers generate on their own. A reader...",
       "tags": [
-        "netsim",
+        "netlab",
         "networking"
       ]
     },
@@ -1870,21 +1881,6 @@
       "tags": [
         "networking",
         "worth reading"
-      ]
-    },
-    {
-      "title": "Using netlab in Software Testing with Dinesh Dutt",
-      "link": "https://blog.ipspace.net/2026/08/using-netlab-in-software-testing/?utm_source=atom_feed",
-      "published": "2026-08-28T07:26:00+01:00",
-      "published_parsed": "2026-08-28T07:26:00+01:00",
-      "source": "ipSpace Blog",
-      "image": null,
-      "summary": "I know a few software development companies use netlab to test their network management software (and contribute back to netlab – thanks a million!), and I always wanted to chat about that. As I have known Dinesh Dutt for ages, it wasn’t hard to decide who to invite to have that chat with ;) As it...",
-      "tags": [
-        "netlab",
-        "networking",
-        "podcast",
-        "software gone wild"
       ]
     }
   ]
