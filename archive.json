@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-11-25T17:51:03.001445+00:00",
-  "article_count": 2410,
+  "last_updated": "2026-11-26T01:40:31.523780+00:00",
+  "article_count": 2412,
   "articles": [
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "published": "Wed, 25 Nov 2026 20:57:09 +0000",
+      "published_parsed": "2026-11-25T20:57:09+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "tags": [
+        "email",
+        "gmail",
+        "kagi",
+        "kagi mail",
+        "proton",
+        "search engines",
+        "tech"
+      ]
+    },
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "published": "Wed, 25 Nov 2026 18:38:29 +0000",
+      "published_parsed": "2026-11-25T18:38:29+00:00",
+      "source": "Ars Technica - Tech",
+      "image": null,
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "tags": [
+        "backblaze",
+        "backup",
+        "biz & it",
+        "cloud",
+        "cloud storage"
+      ]
+    },
     {
       "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
       "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
