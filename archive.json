@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-27T01:33:19.014496+00:00",
-  "article_count": 2413,
+  "last_updated": "2026-11-27T17:17:17.896705+00:00",
+  "article_count": 2414,
   "articles": [
+    {
+      "title": "Unofficial AutoCon 6 Workshop Guide",
+      "link": "https://blog.ipspace.net/2026/11/worth-reading-autocon-6-workshop/?utm_source=atom_feed",
+      "published": "2026-11-27T08:41:00+01:00",
+      "published_parsed": "2026-11-27T08:41:00+01:00",
+      "source": "ipSpace Blog",
+      "image": null,
+      "summary": "When it rains, it pours. A few days ago, I published a link to Roman Dodin’s Conference Digests website. In the meantime, Steinn Örvar published an Unofficial AutoCon 6 Workshop Guide with links to workshop instructions, related GitHub repos, slide decks, and lab instructions… all mapped into the...",
+      "tags": [
+        "networking",
+        "worth reading"
+      ]
+    },
     {
       "title": "Please Help Me Find More Introduction-to-netlab Content",
       "link": "https://blog.ipspace.net/2026/11/netlab-intro-content/?utm_source=atom_feed",
