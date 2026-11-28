@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T01:14:25.988658+00:00",
+  "last_updated": "2026-11-28T16:00:39.553457+00:00",
   "article_count": 113,
   "sources": [
     "Ars Technica - Gadgets",
@@ -38,7 +38,6 @@
     "apps",
     "arp",
     "ars live",
-    "ars live chat",
     "ars live conversations",
     "automated troubleshooting",
     "automation",
@@ -88,7 +87,6 @@
     "dmvpn",
     "dns",
     "docker",
-    "donald trump iran war",
     "drone boats",
     "drone strikes",
     "drones",
@@ -103,6 +101,7 @@
     "exploits",
     "faa",
     "fabric",
+    "features",
     "federal aviation administration",
     "firewall",
     "firewalls",
@@ -120,13 +119,15 @@
     "internet",
     "ip routing",
     "ipv6",
-    "iran",
     "is-is",
     "ise",
     "jason henderson",
     "javascript",
     "kagi",
     "kagi mail",
+    "kindle",
+    "kindle oasis",
+    "kindle paperwhite",
     "kremlin",
     "ladybird",
     "lan",
@@ -242,6 +243,23 @@
     "zerodays"
   ],
   "articles": [
+    {
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "link": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "published": "Sat, 28 Nov 2026 12:00:20 +0000",
+      "published_parsed": "2026-11-28T12:00:20+00:00",
+      "source": "Ars Technica - Gadgets",
+      "image": null,
+      "summary": "Kindles are getting costlier faster than they're getting better.",
+      "tags": [
+        "amazon",
+        "features",
+        "kindle",
+        "kindle oasis",
+        "kindle paperwhite",
+        "tech"
+      ]
+    },
     {
       "title": "Unofficial AutoCon 6 Workshop Guide",
       "link": "https://blog.ipspace.net/2026/11/worth-reading-autocon-6-workshop/?utm_source=atom_feed",
@@ -793,35 +811,6 @@
         "javascript",
         "malware",
         "security"
-      ]
-    },
-    {
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "published": "Tue, 17 Nov 2026 15:28:59 +0000",
-      "published_parsed": "2026-11-17T15:28:59+00:00",
-      "source": "Ars Technica - Gadgets",
-      "image": null,
-      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "tags": [
-        "ai",
-        "ai data centers",
-        "ars live",
-        "ars live chat",
-        "ars live conversations",
-        "data centers",
-        "donald trump iran war",
-        "drone strikes",
-        "iran",
-        "russia",
-        "russia invasion of ukraine",
-        "russia war on ukraine",
-        "russian invasion of ukraine",
-        "russian war on ukraine",
-        "tech",
-        "ukraine",
-        "ukraine war",
-        "usa-iran war"
       ]
     },
     {
